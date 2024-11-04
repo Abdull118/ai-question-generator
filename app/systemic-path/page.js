@@ -117,6 +117,9 @@ const Page = () => {
       <div className={styles.card}>
         {!reviewMode && questions.length > 0 && (
           <>
+          <span className={styles.questionTracker}>
+              Question {currentQuestionIndex + 1} of {totalQuestions}
+            </span>
             <h3>{questions[currentQuestionIndex].question}</h3>
             <div className={styles.options}>
               {questions[currentQuestionIndex].options.map((option, index) => (
@@ -141,9 +144,7 @@ const Page = () => {
                 </button>
               ))}
             </div>
-            <span className={styles.questionTracker}>
-              Question {currentQuestionIndex + 1} of {totalQuestions}
-            </span>
+            
             {selectedOption && !submitted && (
               <button className={styles.submitButton} onClick={handleSubmit}>
                 Submit
