@@ -1,0 +1,302 @@
+[
+    {
+      "question": "A 45-year-old man presents with hematuria, edema, and hypertension. A biopsy reveals linear IgG staining along the glomerular basement membrane. Which of the following conditions is the most likely diagnosis?",
+      "options": ["A. Membranous Nephropathy", "B. Goodpasture Syndrome", "C. Minimal Change Disease", "D. IgA Nephropathy", "E. Lupus Nephritis"],
+      "answer": "B"
+    },
+    {
+      "question": "A 10-year-old child develops nephrotic syndrome following a recent respiratory infection. There is no evidence of immune complex deposition or complement activation on renal biopsy. Which of the following is the most likely diagnosis?",
+      "options": ["A. Anti-GBM Nephritis", "B. IgA Nephropathy", "C. Minimal Change Disease", "D. Membranous Nephropathy", "E. Crescentic Glomerulonephritis"],
+      "answer": "C"
+    },
+    {
+      "question": "Which of the following mechanisms is responsible for the kidney injury in Goodpasture's Syndrome?",
+      "options": ["A. Type I Hypersensitivity Reaction", "B. Type II Hypersensitivity Reaction", "C. Type III Hypersensitivity Reaction", "D. Type IV Hypersensitivity Reaction", "E. Type V Hypersensitivity Reaction"],
+      "answer": "B"
+    },
+    {
+      "question": "A patient with systemic lupus erythematosus presents with proteinuria and hematuria. Renal biopsy reveals subendothelial immune complex deposits. What type of glomerular disease does this most likely represent?",
+      "options": ["A. Minimal Change Disease", "B. Anti-GBM Disease", "C. Lupus Nephritis", "D. IgA Nephropathy", "E. Membranous Nephropathy"],
+      "answer": "C"
+    },
+    {
+      "question": "Which of the following is the primary pathological feature observed in idiopathic membranous nephropathy?",
+      "options": ["A. Subepithelial immune complex deposits", "B. Mesangial immune complex deposits", "C. Subendothelial immune complex deposits", "D. Linear IgG deposits", "E. Podocyte effacement without immune deposits"],
+      "answer": "A"
+    },
+    {
+      "question": "A 25-year-old woman presents with hematuria, proteinuria, and a palpable purpuric rash on her lower extremities. A renal biopsy shows mesangial IgA deposition. Which of the following is the most likely diagnosis?",
+      "options": ["A. Goodpasture Syndrome", "B. Membranous Nephropathy", "C. Minimal Change Disease", "D. IgA Nephropathy", "E. Lupus Nephritis"],
+      "answer": "D"
+    },
+    {
+      "question": "Which of the following statements is true about minimal change disease?",
+      "options": ["A. It primarily affects adults over 50 years of age.", "B. It is associated with dense subepithelial immune deposits.", "C. It often follows a viral respiratory infection in children.", "D. It presents with gross hematuria and hypertension.", "E. It does not respond to corticosteroid therapy."],
+      "answer": "C"
+    },
+    {
+      "question": "A 50-year-old male with chronic hepatitis B infection presents with generalized edema and proteinuria. A biopsy reveals subepithelial immune complex deposits. What is the most likely diagnosis?",
+      "options": ["A. Minimal Change Disease", "B. Membranous Nephropathy", "C. IgA Nephropathy", "D. Anti-GBM Nephritis", "E. Post-Streptococcal Glomerulonephritis"],
+      "answer": "B"
+    },
+    {
+      "question": "Which of the following conditions is characterized by crescent formation in the glomeruli?",
+      "options": ["A. Membranous Nephropathy", "B. Goodpasture Syndrome", "C. Minimal Change Disease", "D. IgA Nephropathy", "E. Diabetic Nephropathy"],
+      "answer": "B"
+    },
+    {
+      "question": "In membranous nephropathy, which of the following mechanisms contributes to the increased protein leakage through the glomerular wall?",
+      "options": ["A. T-cell mediated podocyte injury", "B. Macrophage infiltration into the glomerulus", "C. Immune complex deposition along the subendothelial space", "D. Membrane attack complex (C5b-C9) activation", "E. Granulocyte infiltration of the glomerular tuft"],
+      "answer": "C"
+    },
+    {
+      "question": "A 32-year-old woman presents with hemoptysis and rapidly progressive renal failure. A renal biopsy shows linear IgG deposition along the glomerular basement membrane. What is the underlying cause of this condition?",
+      "options": ["A. Immune complex deposition", "B. Anti-GBM antibodies", "C. Immune complex formation in situ", "D. Circulating antigen-antibody complexes", "E. Pauci-immune glomerulonephritis"],
+      "answer": "B"
+    },
+    {
+      "question": "A 5-year-old child presents with generalized edema and heavy proteinuria. Which of the following findings would be most consistent with minimal change disease?",
+      "options": ["A. Subendothelial immune complex deposits", "B. Crescents on light microscopy", "C. Effacement of foot processes on electron microscopy", "D. Linear IgG deposition along the GBM", "E. Granular IgA deposition in the mesangium"],
+      "answer": "C"
+    },
+    {
+      "question": "A patient with systemic lupus erythematosus (SLE) presents with proteinuria, hematuria, and subendothelial immune complex deposits. Which of the following complement pathways is primarily activated in this disease?",
+      "options": ["A. Alternative pathway", "B. Lectin pathway", "C. Classical pathway", "D. Properdin pathway", "E. Membrane attack complex pathway"],
+      "answer": "C"
+    },
+    {
+      "question": "Which of the following features distinguishes nephrotic syndrome from nephritic syndrome?",
+      "options": ["A. Hematuria", "B. Oliguria", "C. Proteinuria >3.5g/day", "D. Hypertension", "E. RBC casts in urine"],
+      "answer": "C"
+    },
+    {
+      "question": "Which of the following immune mechanisms is characteristic of pauci-immune glomerulonephritis?",
+      "options": ["A. Immune complex deposition", "B. Anti-GBM antibodies", "C. Antineutrophil cytoplasmic antibodies (ANCA)", "D. Planted antigen immune complex formation", "E. Subepithelial immune complex deposits"],
+      "answer": "C"
+    },
+    {
+        "question": "A 10-year-old boy presents with hematuria, mild proteinuria, and hypertension two weeks after recovering from a sore throat. Laboratory tests reveal low serum C3 and elevated antistreptococcal antibody titers. Which of the following is the most likely diagnosis?",
+        "options": ["A. Membranous nephropathy", "B. IgA nephropathy", "C. Lupus nephritis", "D. Acute post-streptococcal glomerulonephritis", "E. Goodpasture syndrome"],
+        "answer": "D"
+      },
+      {
+        "question": "A 35-year-old woman with systemic lupus erythematosus develops worsening proteinuria, hematuria, and hypertension. Renal biopsy shows subendothelial immune complex deposits and mesangial proliferation. Which of the following types of lupus nephritis is most consistent with these findings?",
+        "options": ["A. Class I (minimal mesangial)", "B. Class II (mesangial proliferative)", "C. Class III (focal proliferative)", "D. Class IV (diffuse proliferative)", "E. Class V (membranous)"],
+        "answer": "D"
+      },
+      {
+        "question": "A patient with hepatitis C infection presents with nephrotic syndrome. Renal biopsy reveals subendothelial and mesangial immune complex deposits with hypercellular glomeruli. Which of the following is the most likely diagnosis?",
+        "options": ["A. Type I membranoproliferative glomerulonephritis", "B. Type II membranoproliferative glomerulonephritis", "C. IgA nephropathy", "D. Goodpasture syndrome", "E. Focal segmental glomerulosclerosis"],
+        "answer": "B"
+      },
+      {
+        "question": "A 7-year-old boy develops a purpuric rash, joint pain, abdominal pain, and hematuria following an upper respiratory tract infection. Which of the following is the most likely cause of his symptoms?",
+        "options": ["A. Post-streptococcal glomerulonephritis", "B. Goodpasture syndrome", "C. Henoch-Schönlein purpura", "D. Lupus nephritis", "E. Alport syndrome"],
+        "answer": "C"
+      },
+      {
+        "question": "A 22-year-old man presents with episodic gross hematuria following upper respiratory tract infections. His renal biopsy shows mesangial IgA deposits. Which of the following is the underlying mechanism of his disease?",
+        "options": ["A. Anti-glomerular basement membrane antibodies", "B. Deposition of immune complexes of IgA", "C. Circulating anti-dsDNA immune complexes", "D. C3 nephritic factor stabilizing C3 convertase", "E. Granulomatous inflammation"],
+        "answer": "B"
+      },
+      {
+        "question": "A 40-year-old woman presents with hematuria, proteinuria, and edema. Renal biopsy shows linear IgG deposition along the glomerular basement membrane. What is the most likely diagnosis?",
+        "options": ["A. IgA nephropathy", "B. Goodpasture syndrome", "C. Type I membranoproliferative glomerulonephritis", "D. Lupus nephritis", "E. Henoch-Schönlein purpura"],
+        "answer": "B"
+      },
+      {
+        "question": "A 25-year-old man develops severe oliguria, hematuria, and hypertension following a flu-like illness. Renal biopsy shows crescent formation in the glomeruli, with extensive deposition of IgG and C3. Which of the following is the most likely diagnosis?",
+        "options": ["A. IgA nephropathy", "B. Rapidly progressive glomerulonephritis (RPGN)", "C. Type II membranoproliferative glomerulonephritis", "D. Membranous nephropathy", "E. Focal segmental glomerulosclerosis"],
+        "answer": "B"
+      },
+      {
+        "question": "A 12-year-old boy presents with nephrotic syndrome, characterized by heavy proteinuria, hypoalbuminemia, and generalized edema. Renal biopsy reveals subepithelial immune complex deposits that appear as 'humps' on electron microscopy. What is the most likely cause of his nephrotic syndrome?",
+        "options": ["A. Lupus nephritis", "B. Type I membranoproliferative glomerulonephritis", "C. Acute post-streptococcal glomerulonephritis", "D. Type II membranoproliferative glomerulonephritis", "E. IgA nephropathy"],
+        "answer": "C"
+      },
+      {
+        "question": "A 30-year-old woman presents with hematuria, mild proteinuria, and a history of recurrent sinus infections. Renal biopsy reveals segmental necrosis with crescent formation but no immune complex deposition on immunofluorescence. Which of the following is the most likely diagnosis?",
+        "options": ["A. Goodpasture syndrome", "B. Type I membranoproliferative glomerulonephritis", "C. Lupus nephritis", "D. Pauci-immune rapidly progressive glomerulonephritis", "E. IgA nephropathy"],
+        "answer": "D"
+      },
+      {
+        "question": "A 5-year-old boy presents with a history of recurrent gross hematuria that follows upper respiratory infections. Immunofluorescence shows mesangial deposition of IgA. Which of the following is the expected pattern of complement activation in this disease?",
+        "options": ["A. Classical pathway activation with low C1 and C4 levels", "B. Alternative pathway activation with low C3 and normal C1/C4 levels", "C. Lectin pathway activation with low C2 and MBL levels", "D. No complement activation", "E. Both classical and alternative pathway activation with low C1, C4, and C3 levels"],
+        "answer": "D"
+      },
+      {
+        "question": "A 34-year-old man presents with recurrent episodes of gross hematuria following upper respiratory infections. Renal biopsy shows mesangial hypercellularity with IgA deposits on immunofluorescence. Which of the following is the most likely diagnosis?",
+        "options": ["A. Lupus nephritis", "B. Goodpasture syndrome", "C. IgA nephropathy", "D. Henoch-Schönlein purpura", "E. Type I membranoproliferative glomerulonephritis"],
+        "answer": "C"
+      },
+      {
+        "question": "A 45-year-old woman with systemic lupus erythematosus develops worsening renal function and proteinuria. Renal biopsy reveals extensive subendothelial immune complex deposits. What is the expected finding on serum complement levels?",
+        "options": ["A. Decreased C3 and normal C4", "B. Decreased C1q and normal C3", "C. Decreased C3 and C4", "D. Decreased C1q and C4", "E. Normal C3 and C4"],
+        "answer": "C"
+      },
+      {
+        "question": "A 50-year-old man presents with nephrotic syndrome and a history of chronic hepatitis C infection. Renal biopsy shows hypercellular glomeruli with subendothelial and mesangial immune complex deposits. Which of the following is the best description of the immunofluorescence findings in this case?",
+        "options": ["A. Linear IgG deposition", "B. Granular C3 and IgG deposition", "C. Predominantly IgA deposition", "D. No immune complex deposition", "E. IgM mesangial deposition"],
+        "answer": "B"
+      },
+      {
+        "question": "A 12-year-old girl presents with facial edema and dark-colored urine two weeks after a skin infection. Renal biopsy reveals subepithelial “hump-like” deposits. What is the most likely diagnosis?",
+        "options": ["A. IgA nephropathy", "B. Henoch-Schönlein purpura", "C. Acute post-streptococcal glomerulonephritis", "D. Type II membranoproliferative glomerulonephritis", "E. Lupus nephritis"],
+        "answer": "C"
+      },
+      {
+        "question": "A 55-year-old woman presents with hemoptysis, hematuria, and crescent formation on renal biopsy. Immunofluorescence reveals no immune complex deposition. What is the most likely diagnosis?",
+        "options": ["A. IgA nephropathy", "B. Lupus nephritis", "C. Pauci-immune rapidly progressive glomerulonephritis (RPGN)", "D. Goodpasture syndrome", "E. Type I membranoproliferative glomerulonephritis"],
+        "answer": "C"
+      },
+      {
+        "question": "A 63-year-old man presents with hemoptysis, sinusitis, and hematuria. Laboratory results show elevated serum creatinine, and urine analysis reveals RBC casts. c-ANCA is positive. Which of the following is the most likely diagnosis?",
+        "options": ["A. Goodpasture syndrome", "B. Lupus nephritis", "C. Granulomatosis with polyangiitis", "D. Henoch-Schönlein purpura", "E. IgA nephropathy"],
+        "answer": "C"
+      },
+      {
+        "question": "A 55-year-old woman presents with acute renal failure and eosinophilia. She reports taking NSAIDs for chronic back pain. Renal biopsy shows interstitial inflammation with eosinophils and T cells. What is the most likely diagnosis?",
+        "options": ["A. Acute pyelonephritis", "B. Acute drug-induced tubulointerstitial nephritis", "C. Post-streptococcal glomerulonephritis", "D. IgA nephropathy", "E. Minimal change disease"],
+        "answer": "B"
+      },
+      {
+        "question": "A 40-year-old woman with a history of asthma presents with hematuria, hemoptysis, and peripheral eosinophilia. Laboratory findings reveal p-ANCA positivity. Which of the following conditions should be suspected?",
+        "options": ["A. Granulomatosis with polyangiitis", "B. Microscopic polyangiitis", "C. Churg-Strauss syndrome", "D. Goodpasture syndrome", "E. Henoch-Schönlein purpura"],
+        "answer": "C"
+      },
+      {
+        "question": "A renal biopsy from a 25-year-old man reveals focal segmental necrosis and crescent formation, with no immune complex deposits on electron microscopy. The patient has a positive MPO-ANCA test. What is the most likely diagnosis?",
+        "options": ["A. Lupus nephritis", "B. Anti-GBM disease", "C. Microscopic polyangiitis", "D. Membranoproliferative glomerulonephritis", "E. Henoch-Schönlein purpura"],
+        "answer": "C"
+      },
+      {
+        "question": "A 47-year-old male presents with nephrotic syndrome and biopsy findings of diffuse capillary wall thickening. Immunofluorescence shows granular deposits of IgG and C3 along the capillary wall. What is the most likely underlying pathology?",
+        "options": ["A. Minimal change disease", "B. Membranous glomerulopathy", "C. IgA nephropathy", "D. Post-infectious glomerulonephritis", "E. Focal segmental glomerulosclerosis"],
+        "answer": "B"
+      },
+      {
+        "question": "A 60-year-old man presents with hematuria and rapidly declining kidney function. Laboratory tests reveal positive anti-glomerular basement membrane (anti-GBM) antibodies. Which of the following is the most likely diagnosis?",
+        "options": ["A. ANCA-associated vasculitis", "B. Lupus nephritis", "C. Goodpasture syndrome", "D. Minimal change disease", "E. Membranous glomerulopathy"],
+        "answer": "C"
+      },
+      {
+        "question": "A 23-year-old woman presents with a purpuric rash on her legs, abdominal pain, and hematuria. Renal biopsy shows IgA deposition in the mesangium. What is the most likely diagnosis?",
+        "options": ["A. Goodpasture syndrome", "B. Henoch-Schönlein purpura (IgA vasculitis)", "C. Membranoproliferative glomerulonephritis", "D. Focal segmental glomerulosclerosis", "E. Microscopic polyangiitis"],
+        "answer": "B"
+      },
+      {
+        "question": "A 35-year-old male presents with recurrent episodes of hematuria, often following upper respiratory infections. Renal biopsy shows mesangial proliferation and IgA deposits on immunofluorescence. Which of the following is the most likely diagnosis?",
+        "options": ["A. Post-infectious glomerulonephritis", "B. Lupus nephritis", "C. IgA nephropathy", "D. Minimal change disease", "E. Granulomatosis with polyangiitis"],
+        "answer": "C"
+      },
+      {
+        "question": "A 70-year-old male presents with nephrotic syndrome and renal biopsy reveals a thickened glomerular basement membrane with subepithelial deposits seen on electron microscopy. Immunofluorescence shows granular IgG deposits along the capillary wall. What is the most likely diagnosis?",
+        "options": ["A. Minimal change disease", "B. Membranous glomerulopathy", "C. Focal segmental glomerulosclerosis", "D. IgA nephropathy", "E. Diabetic nephropathy"],
+        "answer": "B"
+      },
+      {
+        "question": "A 50-year-old woman presents with pulmonary hemorrhage and rapidly progressive glomerulonephritis. She is positive for both p-ANCA and anti-GBM antibodies. Which of the following is the most likely diagnosis?",
+        "options": ["A. Goodpasture syndrome", "B. Microscopic polyangiitis", "C. Granulomatosis with polyangiitis", "D. Double-positive disease (anti-GBM and ANCA)", "E. Lupus nephritis"],
+        "answer": "D"
+      },
+      {
+        "question": "A 48-year-old man presents with fever, hematuria, and joint pain. Laboratory results show low C3 levels, and renal biopsy reveals subendothelial immune complex deposits with C3 staining. What is the most likely diagnosis?",
+        "options": ["A. Membranous glomerulopathy", "B. Minimal change disease", "C. Membranoproliferative glomerulonephritis (MPGN)", "D. IgA nephropathy", "E. Goodpasture syndrome"],
+        "answer": "C"
+      },
+      {
+        "question": "A 34-year-old female presents with proteinuria, generalized edema, and hypoalbuminemia. Renal biopsy shows normal glomeruli on light microscopy, but electron microscopy reveals diffuse effacement of podocyte foot processes. What is the most likely diagnosis?",
+        "options": ["A. Focal segmental glomerulosclerosis", "B. Minimal change disease", "C. Membranous glomerulopathy", "D. IgA nephropathy", "E. Goodpasture syndrome"],
+        "answer": "B"
+      },
+      {
+        "question": "A 26-year-old male presents with hematuria and hypertension. Renal biopsy shows crescent formation with linear IgG staining along the glomerular basement membrane on immunofluorescence. What is the most likely diagnosis?",
+        "options": ["A. IgA nephropathy", "B. Post-infectious glomerulonephritis", "C. Minimal change disease", "D. Anti-GBM disease", "E. Membranous glomerulopathy"],
+        "answer": "D"
+      },
+      {
+        "question": "A 45-year-old woman with a history of asthma presents with new-onset hemoptysis, eosinophilia, and renal dysfunction. She is positive for p-ANCA. What is the most likely diagnosis?",
+        "options": ["A. Goodpasture syndrome", "B. Microscopic polyangiitis", "C. Churg-Strauss syndrome (eosinophilic granulomatosis with polyangiitis)", "D. Granulomatosis with polyangiitis", "E. IgA nephropathy"],
+        "answer": "C"
+      },
+      {
+        "question": "A 60-year-old man presents with nephrotic syndrome. Renal biopsy reveals thickened capillary walls with 'spike and dome' appearance on silver staining, and granular deposits of IgG on immunofluorescence. What is the most likely diagnosis?",
+        "options": ["A. Membranous glomerulopathy", "B. Minimal change disease", "C. Focal segmental glomerulosclerosis", "D. Post-infectious glomerulonephritis", "E. IgA nephropathy"],
+        "answer": "A"
+      },
+      {
+        "question": "Which of the following is required for the successful presentation of extracellular antigens to CD4+ T lymphocytes?",
+        "options": ["A. MHC Class I molecules", "B. TAP transporter", "C. Invariant chain", "D. β2-microglobulin", "E. Cytotoxic T lymphocyte"],
+        "answer": "C"
+      },
+      {
+        "question": "A patient with ankylosing spondylitis is most likely to have which of the following HLA associations?",
+        "options": ["A. HLA-DQ2", "B. HLA-B27", "C. HLA-A2", "D. HLA-DR3", "E. HLA-Cw6"],
+        "answer": "B"
+      },
+      {
+        "question": "Which molecule plays a critical role in transporting peptides into the endoplasmic reticulum for MHC Class I presentation?",
+        "options": ["A. Invariant chain", "B. TAP", "C. HLA-DM", "D. β2-microglobulin", "E. CD4 co-receptor"],
+        "answer": "B"
+      },
+      {
+        "question": "A researcher is studying an MHC Class II pathway and observes impaired antigen presentation when NH4Cl is added to antigen-presenting cells. Which process is most likely affected?",
+        "options": ["A. Peptide loading in the endoplasmic reticulum", "B. Acidification of endosomes", "C. Binding of β2-microglobulin", "D. Co-stimulation by CD80/CD86", "E. Ubiquitination of intracellular proteins"],
+        "answer": "B"
+      },
+      {
+        "question": "Which characteristic of MHC genes increases the diversity of antigens that can be presented to T cells within an individual?",
+        "options": ["A. Single allele expression", "B. Codominant expression", "C. Lack of polymorphism", "D. Expression on red blood cells", "E. Association with non-protein antigens"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient's T cells fail to respond to a viral infection. Upon further testing, the absence of MHC Class I molecules on nucleated cells is noted. Which of the following proteins is most likely defective?",
+        "options": ["A. β2-microglobulin", "B. Invariant chain", "C. HLA-DM", "D. TAP transporter", "E. CD4 co-receptor"],
+        "answer": "A"
+      },
+      {
+        "question": "Which component of the MHC Class II antigen presentation pathway is responsible for removing the CLIP fragment to allow antigen loading in the endosome?",
+        "options": ["A. TAP", "B. β2-microglobulin", "C. HLA-DM", "D. CD8 co-receptor", "E. Invariant chain"],
+        "answer": "C"
+      },
+      {
+        "question": "The co-dominant expression of MHC genes allows for which of the following outcomes in antigen presentation?",
+        "options": ["A. Reduced antigen diversity", "B. Expression of only maternal alleles", "C. Enhanced immune response diversity", "D. Selective expression in dendritic cells only", "E. Presentation of glycolipids only"],
+        "answer": "C"
+      },
+      {
+        "question": "Which MHC molecule type primarily presents endogenous antigens to CD8+ cytotoxic T lymphocytes?",
+        "options": ["A. MHC Class I", "B. MHC Class II", "C. CD1", "D. TAP", "E. CLIP"],
+        "answer": "A"
+      },
+      {
+        "question": "Which of the following MHC-related phenomena is most likely to lead to autoimmune disease development?",
+        "options": ["A. Lack of MHC Class I expression on macrophages", "B. MHC alleles that inefficiently present self-antigens in the thymus", "C. Increased expression of CD4 co-receptors", "D. Polymorphism in β2-microglobulin", "E. Reduced CLIP expression in B cells"],
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following MHC molecules is involved in presenting exogenous antigens to CD4+ T helper cells?",
+        "options": ["A. MHC Class I", "B. MHC Class II", "C. β2-microglobulin", "D. CD8 co-receptor", "E. TAP transporter"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient presents with severe immunodeficiency characterized by a lack of functional CD8+ T cells. Which of the following is the most likely cause?",
+        "options": ["A. Deficiency in HLA-DP", "B. Mutation in TAP transporter", "C. Overexpression of invariant chain", "D. HLA-DM malfunction", "E. Elevated β2-microglobulin expression"],
+        "answer": "B"
+      },
+      {
+        "question": "Which part of the MHC Class II molecule is responsible for binding antigenic peptides?",
+        "options": ["A. Beta-2 microglobulin", "B. Alpha chain only", "C. Beta chain only", "D. Alpha 1 and Beta 1 regions", "E. Invariant chain"],
+        "answer": "D"
+      },
+      {
+        "question": "Which of the following correctly describes the genetic organization of MHC Class I and II loci?",
+        "options": ["A. Both are located on the short arm of chromosome 15", "B. MHC Class I is located on chromosome 6, while Class II is on chromosome 15", "C. Both MHC Class I and II loci are on the short arm of chromosome 6", "D. MHC Class I loci are scattered across multiple chromosomes", "E. MHC Class II genes lack polymorphism"],
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following MHC characteristics provides protection against newly encountered pathogens at the population level?",
+        "options": ["A. Co-dominant expression", "B. Association with CD1 molecules", "C. Polymorphism of MHC genes", "D. Exclusive expression in antigen-presenting cells", "E. Binding to glycolipid antigens"],
+        "answer": "C"
+      }
+    ]

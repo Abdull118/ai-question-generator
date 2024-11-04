@@ -1,0 +1,452 @@
+[
+    {
+      "question": "A 2-month-old infant presents with a palpable mass in the left abdomen. The mass is surgically removed, revealing cysts of varying sizes. Histological examination shows undifferentiated tubules surrounded by mesenchyme, smooth muscle, and islands of cartilage. Which of the following is the most likely diagnosis?",
+      "options": ["A. Infantile polycystic disease", "B. Medullary sponge kidney", "C. Neuroblastoma", "D. Wilm’s tumor", "E. Renal dysplasia"],
+      "answer": "D"
+    },
+    {
+      "question": "A 40-year-old male presents with a palpable abdominal mass, flank pain, and hematuria. Imaging reveals bilateral enlarged kidneys with multiple cysts throughout the cortex and medulla. Which gene is most commonly associated with this condition?",
+      "options": ["A. PKD1", "B. PKD2", "C. PKHD1", "D. Fibrocystin", "E. Polycystin"],
+      "answer": "A"
+    },
+    {
+      "question": "A 10-year-old child with a history of progressive renal failure has bilaterally enlarged kidneys on imaging. Histology shows radially arranged cysts and a smooth external surface. Which condition is most likely present?",
+      "options": ["A. Autosomal dominant polycystic kidney disease (ADPKD)", "B. Autosomal recessive polycystic kidney disease (ARPKD)", "C. Multicystic dysplastic kidney", "D. Medullary sponge kidney", "E. Acquired cystic kidney disease"],
+      "answer": "B"
+    },
+    {
+      "question": "A 45-year-old male undergoing long-term hemodialysis develops cysts in both the cortex and medulla of the kidneys. What is the main concern associated with this acquired condition?",
+      "options": ["A. Kidney stones", "B. Renal cell carcinoma", "C. Glomerulonephritis", "D. Hydronephrosis", "E. Pyelonephritis"],
+      "answer": "B"
+    },
+    {
+      "question": "A neonate with oligohydramnios presents with severe respiratory insufficiency, low-set ears, and limb deformities. This presentation is most consistent with which of the following conditions?",
+      "options": ["A. Ectopic kidney", "B. Renal agenesis", "C. Potter sequence", "D. Horseshoe kidney", "E. Renal dysplasia"],
+      "answer": "C"
+    },
+    {
+      "question": "A 55-year-old man presents with flank pain and blood in his urine. Physical examination reveals a palpable abdominal mass. Imaging shows multiple bilateral renal cysts, with the largest measuring 4 cm. Which of the following is the most likely diagnosis?",
+      "options": ["A. Autosomal recessive polycystic kidney disease (ARPKD)", "B. Medullary sponge kidney", "C. Simple renal cyst", "D. Autosomal dominant polycystic kidney disease (ADPKD)", "E. Nephronophthisis"],
+      "answer": "D"
+    },
+    {
+      "question": "A 2-week-old infant is diagnosed with bilateral enlarged kidneys, and histological examination shows radially arranged cysts. The infant also has signs of pulmonary hypoplasia and oligohydramnios. What is the most likely underlying genetic mutation?",
+      "options": ["A. PKD1", "B. PKD2", "C. PKHD1", "D. Fibrocystin", "E. Polycystin"],
+      "answer": "C"
+    },
+    {
+      "question": "A 35-year-old woman with a history of multiple urinary tract infections presents with flank pain and hematuria. Imaging shows small cystic collections in the renal papillae. Which of the following conditions is most consistent with this presentation?",
+      "options": ["A. Multicystic dysplastic kidney", "B. Medullary sponge kidney", "C. Autosomal dominant polycystic kidney disease (ADPKD)", "D. Vesico-ureteral reflux", "E. Simple renal cyst"],
+      "answer": "B"
+    },
+    {
+      "question": "A 45-year-old man with a history of poorly controlled hypertension and diabetes has been undergoing dialysis for the past 7 years. He now presents with hematuria and a solid mass in the kidney detected on imaging. Which of the following is the most likely cause of the mass?",
+      "options": ["A. Simple cyst", "B. Renal cell carcinoma", "C. Multicystic dysplastic kidney", "D. Autosomal dominant polycystic kidney disease (ADPKD)", "E. Medullary sponge kidney"],
+      "answer": "B"
+    },
+    {
+      "question": "A newborn is found to have a midline abdominal mass. Imaging reveals a single, large, U-shaped kidney located below the inferior mesenteric artery. Which of the following congenital anomalies is most likely present?",
+      "options": ["A. Renal agenesis", "B. Horseshoe kidney", "C. Renal dysplasia", "D. Ectopic kidney", "E. Polycystic kidney disease"],
+      "answer": "B"
+    },
+    {
+        "question": "A 45-year-old male presents to the emergency room with acute renal failure following prolonged hypotension after a severe burn injury. Which of the following is the most likely cause of his acute kidney injury?",
+        "options": ["A. Acute pyelonephritis", "B. Ischemic acute tubular injury", "C. Drug-induced interstitial nephritis", "D. Benign nephrosclerosis", "E. Chronic pyelonephritis"],
+        "answer": "B"
+      },
+      {
+        "question": "A 30-year-old woman is hospitalized for acute renal failure. Her history includes recent use of gentamycin. Which of the following best describes the pathology seen in her kidneys?",
+        "options": ["A. Interstitial edema and fibrosis", "B. Necrosis of the proximal convoluted tubules", "C. Widespread glomerulosclerosis", "D. Thickening of the glomerular basement membrane", "E. Tubulorrhexis with intact basement membranes"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient with type 2 diabetes presents with acute renal failure. Urine microscopy reveals eosinophilic hyaline casts. What is the most likely diagnosis?",
+        "options": ["A. Acute pyelonephritis", "B. Nephrotoxic acute tubular injury", "C. Benign nephrosclerosis", "D. Hemolytic-Uremic syndrome", "E. Tubulointerstitial nephritis"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient with a history of carbon tetrachloride exposure develops acute renal failure. What histological change is most likely to be observed in the proximal tubules?",
+        "options": ["A. Large acidophilic inclusions", "B. Lipid accumulation within injured cells", "C. Eosinophilic infiltration", "D. Tubular basement membrane thickening", "E. Mononuclear leukocyte infiltration"],
+        "answer": "B"
+      },
+      {
+        "question": "A 50-year-old male with acute kidney injury is found to have interstitial edema and leukocytic infiltration in the renal biopsy. What is the most likely diagnosis?",
+        "options": ["A. Acute tubular injury", "B. Chronic interstitial nephritis", "C. Acute tubulointerstitial nephritis", "D. Drug-induced nephropathy", "E. Glomerulonephritis"],
+        "answer": "C"
+      },
+      {
+        "question": "A 60-year-old woman presents with acute renal failure following several days of hypotension and severe dehydration. Renal biopsy shows patchy areas of tubular epithelial necrosis and the presence of casts in the distal tubules. What is the most likely diagnosis?",
+        "options": ["A. Acute pyelonephritis", "B. Ischemic acute tubular injury", "C. Chronic pyelonephritis", "D. Drug-induced interstitial nephritis", "E. Urate nephropathy"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient presents with signs of acute kidney injury after using radiographic contrast agents for imaging. Which part of the nephron is most likely to show extensive necrosis?",
+        "options": ["A. Glomerulus", "B. Proximal convoluted tubule", "C. Distal convoluted tubule", "D. Ascending limb of the loop of Henle", "E. Collecting ducts"],
+        "answer": "B"
+      },
+      {
+        "question": "A 35-year-old male develops acute renal failure after an episode of hypovolemic shock. His renal biopsy shows interstitial edema and numerous leukocytes within the tubules. Which of the following phases of acute tubular injury is he most likely in?",
+        "options": ["A. Initiation phase", "B. Recovery phase", "C. Maintenance phase", "D. Pre-renal phase", "E. Post-renal phase"],
+        "answer": "A"
+      },
+      {
+        "question": "A 40-year-old man with a history of chronic NSAID use presents with acute renal failure. Renal biopsy shows mononuclear leukocyte infiltration and widespread tubular atrophy. Which condition is most consistent with these findings?",
+        "options": ["A. Acute pyelonephritis", "B. Acute tubulointerstitial nephritis", "C. Chronic interstitial nephritis", "D. Benign nephrosclerosis", "E. Drug-induced nephropathy"],
+        "answer": "C"
+      },
+      {
+        "question": "A patient presents with acute tubular necrosis due to ethylene glycol poisoning. Which of the following findings is expected on renal biopsy?",
+        "options": ["A. Eosinophilic infiltrates in the tubules", "B. Calcium oxalate crystals in the tubules", "C. Granulomatous inflammation", "D. Tubulorrhexis with cast formation", "E. Widespread glomerular collapse"],
+        "answer": "B"
+      },
+      {
+        "question": "A 50-year-old male is admitted with acute kidney injury after suffering from septic shock. His urine output decreases to 200 mL/day, and his serum potassium is elevated. Which phase of acute tubular injury is he most likely experiencing?",
+        "options": ["A. Recovery phase", "B. Initiation phase", "C. Maintenance phase", "D. Pre-renal phase", "E. Post-renal phase"],
+        "answer": "C"
+      },
+      {
+        "question": "A 45-year-old woman presents with acute renal failure. A kidney biopsy reveals eosinophilic hyaline casts and pigmented granular casts in the distal tubules. What is the primary component of these casts?",
+        "options": ["A. Red blood cells", "B. Lipid-laden macrophages", "C. Tamm-Horsfall protein", "D. Platelets", "E. Uric acid crystals"],
+        "answer": "C"
+      },
+      {
+        "question": "A 55-year-old male with poorly controlled diabetes develops acute kidney injury. Renal biopsy shows interstitial inflammation with neutrophils and eosinophils, along with acute tubular injury. Which condition is most likely responsible for these findings?",
+        "options": ["A. Acute pyelonephritis", "B. Acute tubulointerstitial nephritis", "C. Chronic interstitial nephritis", "D. Benign nephrosclerosis", "E. Nephrotoxic acute tubular injury"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient presents with oliguria and rising BUN levels after ingesting a large amount of ethylene glycol. Which morphological finding is most consistent with this condition?",
+        "options": ["A. Widespread glomerular necrosis", "B. Calcium oxalate crystals in tubular lumens", "C. Extensive interstitial fibrosis", "D. Focal tubular epithelial necrosis", "E. Mononuclear leukocyte infiltration"],
+        "answer": "B"
+      },
+      {
+        "question": "A 40-year-old man develops acute renal failure following exposure to mercuric chloride. What histological change is most likely to be observed in the proximal tubules?",
+        "options": ["A. Granulomatous inflammation", "B. Eosinophilic infiltration", "C. Acidophilic inclusions within tubular epithelial cells", "D. Glomerular hypertrophy", "E. Tubular basement membrane thickening"],
+        "answer": "C"
+      },
+      {
+        "question": "A 35-year-old female presents to the clinic with fever, flank pain, and dysuria. Urinalysis reveals pyuria with leukocyte casts. What is the most common cause of the described kidney condition?",
+        "options": ["A. Hematogenous spread of bacteria", "B. Ascending infection from the lower urinary tract", "C. Viral infection in immunocompromised host", "D. Mycobacterial infection", "E. Fungal infection via the bloodstream"],
+        "answer": "B"
+      },
+      {
+        "question": "A 60-year-old male with diabetes presents with bilateral flank pain and fever. Imaging shows dilated renal pelvis and calyces filled with pus. What is the most likely diagnosis?",
+        "options": ["A. Acute tubular necrosis", "B. Renal cell carcinoma", "C. Acute pyonephrosis", "D. Chronic glomerulonephritis", "E. Papillary necrosis"],
+        "answer": "C"
+      },
+      {
+        "question": "A 50-year-old male with a history of neurogenic bladder due to spinal cord injury presents with recurrent urinary tract infections and renal insufficiency. What is the most likely underlying mechanism for his recurrent pyelonephritis?",
+        "options": ["A. Vesicoureteral reflux", "B. Hematogenous spread", "C. Fungal infection", "D. Glomerulonephritis", "E. Immunosuppression"],
+        "answer": "A"
+      },
+      {
+        "question": "A 3-year-old child presents with urinary tract infection and vesicoureteral reflux confirmed by imaging. What is the most likely long-term consequence if this condition persists untreated?",
+        "options": ["A. Renal hypertrophy", "B. Bilateral nephrolithiasis", "C. Chronic pyelonephritis with scarring", "D. Renal vein thrombosis", "E. Polycystic kidney disease"],
+        "answer": "C"
+      },
+      {
+        "question": "A kidney biopsy of a 45-year-old female with chronic pyelonephritis reveals dilated tubules filled with pink casts resembling thyroid colloid. This finding is characteristic of which of the following?",
+        "options": ["A. Xanthogranulomatous pyelonephritis", "B. Chronic interstitial nephritis", "C. Thyroidization of tubules", "D. Acute glomerulonephritis", "E. Diabetic nephropathy"],
+        "answer": "C"
+      },
+      {
+        "question": "A 42-year-old male with poorly controlled diabetes presents with fever, malaise, and costovertebral angle pain. Urinalysis reveals pyuria and leukocyte casts. What is the hallmark gross finding of acute pyelonephritis?",
+        "options": ["A. Small, shrunken kidneys", "B. Enlarged kidneys with glomerular crescents", "C. Patchy, suppurative inflammation with abscesses", "D. Uniform cortical atrophy", "E. Large, orange-yellow nodules"],
+        "answer": "C"
+      },
+      {
+        "question": "A 28-year-old female develops fever, chills, and dysuria two days after undergoing urethral catheterization. She is diagnosed with acute pyelonephritis. What is the most likely causative organism?",
+        "options": ["A. Streptococcus faecalis", "B. Staphylococcus aureus", "C. Escherichia coli", "D. Mycobacterium tuberculosis", "E. Candida albicans"],
+        "answer": "C"
+      },
+      {
+        "question": "A 55-year-old male with chronic renal insufficiency and a history of kidney stones presents with flank pain and fever. Imaging shows asymmetric contraction of the kidneys with coarse scarring. Which of the following is the most likely diagnosis?",
+        "options": ["A. Acute tubular necrosis", "B. Chronic glomerulonephritis", "C. Chronic pyelonephritis", "D. Membranous nephropathy", "E. Focal segmental glomerulosclerosis"],
+        "answer": "C"
+      },
+      {
+        "question": "A 63-year-old male with diabetes is admitted with acute pyelonephritis. Over the course of treatment, he develops necrosis of the renal papillae. Which condition is most strongly associated with this complication?",
+        "options": ["A. Polycystic kidney disease", "B. Renal artery stenosis", "C. Sickle cell disease", "D. Acute glomerulonephritis", "E. Lupus nephritis"],
+        "answer": "C"
+      },
+      {
+        "question": "A 6-year-old boy is diagnosed with vesicoureteral reflux and recurrent urinary tract infections. What is the classic radiographic finding associated with this condition?",
+        "options": ["A. Enlarged kidneys with cortical thinning", "B. Bilateral renal cysts", "C. Blunting of calyces with scarring", "D. Diffuse thickening of the basement membrane", "E. Small, contracted kidneys with linear scarring"],
+        "answer": "C"
+      },
+      {
+        "question": "A 45-year-old female with a history of recurrent urinary tract infections presents with flank pain and fever. Imaging reveals dilation of the ureters and renal pelvis with blunted calyces. What is the most likely mechanism leading to these findings?",
+        "options": ["A. Hematogenous bacterial spread", "B. Vesicoureteral reflux", "C. Renal artery stenosis", "D. Acute tubular necrosis", "E. Nephrotic syndrome"],
+        "answer": "B"
+      },
+      {
+        "question": "A 32-year-old male presents with sudden-onset flank pain, fever, and dysuria. Urinalysis shows significant pyuria and urine culture reveals Proteus mirabilis. Which of the following is a potential complication of this infection?",
+        "options": ["A. Papillary necrosis", "B. Chronic interstitial nephritis", "C. Renal vein thrombosis", "D. Xanthogranulomatous pyelonephritis", "E. Membranous nephropathy"],
+        "answer": "A"
+      },
+      {
+        "question": "A 72-year-old male with a long-standing history of benign prostatic hyperplasia (BPH) presents with fever, malaise, and costovertebral angle tenderness. Which of the following is the most likely diagnosis?",
+        "options": ["A. Chronic glomerulonephritis", "B. Renal cell carcinoma", "C. Chronic pyelonephritis", "D. Acute pyelonephritis", "E. Diabetic nephropathy"],
+        "answer": "D"
+      },
+      {
+        "question": "A 67-year-old diabetic female presents with a history of recurrent pyelonephritis. A renal biopsy reveals chronic tubulointerstitial inflammation, tubular atrophy, and fibrosis. What is a characteristic finding of chronic pyelonephritis?",
+        "options": ["A. Crescent formation in glomeruli", "B. Thyroidization of tubules", "C. Hyaline casts in the glomeruli", "D. Diffuse basement membrane thickening", "E. Hypercellular glomeruli"],
+        "answer": "B"
+      },
+      {
+        "question": "A 29-year-old pregnant woman presents with fever, dysuria, and flank pain. She is diagnosed with acute pyelonephritis. What is the primary factor predisposing pregnant women to this condition?",
+        "options": ["A. Immune suppression", "B. Increased renal plasma flow", "C. Hormonal changes causing ureteral dilation", "D. Decreased bladder capacity", "E. Low progesterone levels"],
+        "answer": "C"
+      },
+      {
+        "question": "A 45-year-old female is started on methicillin for a bacterial infection. Two weeks later, she presents with fever, rash, and decreased urine output. A urine test shows mild proteinuria and eosinophiluria. Which of the following is the most likely cause of her symptoms?",
+        "options": ["A. Acute pyelonephritis", "B. Acute drug-induced interstitial nephritis", "C. Renal artery stenosis", "D. Chronic glomerulonephritis", "E. Diabetic nephropathy"],
+        "answer": "B"
+      },
+      {
+        "question": "A 30-year-old male undergoing chemotherapy for lymphoma presents with acute flank pain and oliguria. Lab tests show hyperuricemia and urinalysis reveals uric acid crystals. What is the most likely underlying cause of his renal condition?",
+        "options": ["A. Acute uric acid nephropathy", "B. Nephrolithiasis", "C. Chronic gouty nephropathy", "D. Calcium oxalate nephropathy", "E. Renal artery thrombosis"],
+        "answer": "A"
+      },
+      {
+        "question": "A 65-year-old male with a history of hypertension presents with progressive renal insufficiency. Biopsy shows narrowing of the arterioles with hyaline arteriolosclerosis. Which of the following conditions is most likely responsible for these findings?",
+        "options": ["A. Diabetic nephropathy", "B. Benign nephrosclerosis", "C. Acute tubular necrosis", "D. Amyloidosis", "E. Alport syndrome"],
+        "answer": "B"
+      },
+      {
+        "question": "A 50-year-old male with poorly controlled diabetes mellitus presents with albuminuria and nephrotic syndrome. Kidney biopsy reveals segmental glomerulosclerosis. What is the most likely cause of his nephropathy?",
+        "options": ["A. Minimal change disease", "B. Focal segmental glomerulosclerosis", "C. Membranous nephropathy", "D. IgA nephropathy", "E. Acute interstitial nephritis"],
+        "answer": "B"
+      },
+      {
+        "question": "A 70-year-old female with a history of chronic NSAID use presents with generalized edema and nephrotic syndrome. A kidney biopsy shows minimal-change disease. Which mechanism is most likely responsible for her kidney disease?",
+        "options": ["A. Glomerular basement membrane thickening", "B. IgA deposition", "C. Podocyte injury from NSAIDs", "D. Eosinophilic infiltration of tubules", "E. Uric acid crystal deposition"],
+        "answer": "C"
+      },
+      {
+        "question": "A 55-year-old male with a history of chronic analgesic use presents with hematuria and flank pain. Imaging reveals papillary necrosis. What is the most likely mechanism of his renal pathology?",
+        "options": ["A. Uric acid crystal deposition", "B. Acute interstitial nephritis", "C. Tubular obstruction by casts", "D. Papillary ischemia due to vasoconstriction", "E. Glomerular basement membrane thickening"],
+        "answer": "D"
+      },
+      {
+        "question": "A 45-year-old female is diagnosed with benign nephrosclerosis after a routine health check. Which of the following findings is most likely to be seen on her renal biopsy?",
+        "options": ["A. Hyaline arteriolosclerosis and glomerular collapse", "B. Crescent formation in glomeruli", "C. Diffuse thickening of the basement membrane", "D. Tubulitis and interstitial lymphocyte infiltration", "E. Segmental glomerulosclerosis"],
+        "answer": "A"
+      },
+      {
+        "question": "A 60-year-old male with multiple myeloma presents with oliguria and rising creatinine levels. A kidney biopsy shows pink to blue amorphous masses obstructing the tubular lumens. Which of the following best describes the underlying pathology?",
+        "options": ["A. Glomerular basement membrane deposition", "B. Bence-Jones protein casts in the tubules", "C. Uric acid crystal deposition", "D. Fibrin thrombi in glomerular capillaries", "E. Nodular glomerulosclerosis"],
+        "answer": "B"
+      },
+      {
+        "question": "A 35-year-old male presents with severe oliguria and hematuria following a diarrheal illness caused by E. coli O157. Which of the following renal findings is most likely present?",
+        "options": ["A. Bence-Jones protein casts", "B. Fibrin-platelet thrombi within glomerular capillaries", "C. Crescent formation in the glomeruli", "D. Tubular epithelial necrosis", "E. Granulomatous interstitial inflammation"],
+        "answer": "B"
+      },
+      {
+        "question": "A 50-year-old male with poorly controlled diabetes presents with acute kidney injury after taking a high dose of NSAIDs for back pain. What is the most likely cause of his renal failure?",
+        "options": ["A. Acute glomerulonephritis", "B. Acute interstitial nephritis", "C. Benign nephrosclerosis", "D. Membranous nephropathy", "E. Focal segmental glomerulosclerosis"],
+        "answer": "B"
+      },
+      {
+        "question": "A 54-year-old man presents with a history of hypertension and diabetes. He reports recent episodes of fever, flank pain, and frequent urination. A renal biopsy reveals neutrophilic infiltration of the tubules and interstitium. Which condition is most likely causing his symptoms?",
+        "options": ["A. Membranous nephropathy", "B. Acute pyelonephritis", "C. Focal segmental glomerulosclerosis", "D. Diabetic nephropathy", "E. Chronic glomerulonephritis"],
+        "answer": "B"
+      },
+      {
+        "question": "A 26-year-old female presents with flank pain and fever. Urinalysis shows white blood cell casts and bacteriuria. Which of the following would be the most useful in confirming the diagnosis of acute pyelonephritis?",
+        "options": ["A. Blood urea nitrogen (BUN) measurement", "B. Serum creatinine levels", "C. Quantitative urine culture", "D. Renal biopsy", "E. Serum protein electrophoresis"],
+        "answer": "C"
+      },
+      {
+        "question": "A 58-year-old female presents with a history of recurrent urinary tract infections and hypertension. Imaging shows coarse scarring of the kidneys with blunted calyces, most prominent at the upper and lower poles. What is the most likely diagnosis?",
+        "options": ["A. Acute tubular necrosis", "B. Membranous glomerulopathy", "C. Chronic pyelonephritis", "D. Renal artery stenosis", "E. Diabetic nephropathy"],
+        "answer": "C"
+      },
+      {
+        "question": "A 60-year-old male with poorly controlled diabetes is found to have papillary necrosis on imaging. Which of the following findings is most likely on gross examination of his kidneys?",
+        "options": ["A. Enlarged, edematous kidneys", "B. Gray-to-yellow necrosis of the papillary tips", "C. Multiple cystic lesions in the cortex", "D. Diffuse glomerular sclerosis", "E. Cortical infarcts"],
+        "answer": "B"
+      },
+      {
+        "question": "A 10-year-old child with a history of congenital vesicoureteral reflux presents with fever and flank pain. He is diagnosed with acute pyelonephritis. What is the most likely route of infection in this case?",
+        "options": ["A. Hematogenous spread", "B. Ascending infection from the bladder", "C. Direct extension from the peritoneum", "D. Lymphatic spread", "E. Autoimmune reaction"],
+        "answer": "B"
+      },
+      {
+        "question": "A 34-year-old man presents to the emergency department with severe left flank pain and hematuria. Urinalysis reveals a pH of 8.5. Which of the following is the most likely type of kidney stone this patient has?",
+        "options": ["A. Calcium oxalate", "B. Uric acid", "C. Struvite", "D. Cystine", "E. Ammonium urate"],
+        "answer": "C"
+      },
+      {
+        "question": "A 45-year-old woman presents with dull, aching flank pain and gross hematuria. Imaging reveals marked dilation of the renal pelvis and calyces with thinning of the renal parenchyma. What is the most likely cause of this patient’s condition?",
+        "options": ["A. Bladder cancer", "B. Staghorn calculi", "C. Ureteral stricture", "D. Renal artery stenosis", "E. Neurogenic bladder"],
+        "answer": "B"
+      },
+      {
+        "question": "A 50-year-old male with a history of chronic alcoholism presents with severe abdominal pain. Laboratory results show oxalate crystals in the urine. What is the most likely cause of this finding?",
+        "options": ["A. Hyperuricosuria", "B. Hypercalcemia", "C. Antifreeze (ethylene glycol) poisoning", "D. Hyperparathyroidism", "E. Tumor lysis syndrome"],
+        "answer": "C"
+      },
+      {
+        "question": "A pregnant woman in her third trimester presents with flank pain and urinary retention. Which of the following is the most likely cause of her symptoms?",
+        "options": ["A. Urethral atresia", "B. Renal artery stenosis", "C. Ureteral kinking", "D. Bladder diverticulum", "E. Prostate hypertrophy"],
+        "answer": "C"
+      },
+      {
+        "question": "A 65-year-old man presents with oliguria and worsening renal function. Laboratory findings include elevated BUN and creatinine, hyperkalemia, and hyperuricemia. Urine microscopy reveals numerous rhomboid crystals. What is the most likely diagnosis?",
+        "options": ["A. Acute tubular necrosis", "B. Chronic pyelonephritis", "C. Tumor lysis syndrome", "D. Struvite stones", "E. Uric acid nephrolithiasis"],
+        "answer": "C"
+      },
+      {
+        "question": "A 55-year-old male presents with severe right flank pain radiating to the groin. Urinalysis shows microscopic hematuria and pH of 5.0. Which of the following is the most likely type of kidney stone?",
+        "options": ["A. Calcium oxalate", "B. Struvite", "C. Uric acid", "D. Cystine", "E. Ammonium urate"],
+        "answer": "A"
+      },
+      {
+        "question": "A 68-year-old woman with a history of recurrent urinary tract infections presents with fever, chills, and dysuria. Urinalysis shows alkaline urine with a pH of 8.4. A culture grows urease-positive, gram-negative rods. Which of the following organisms is most likely responsible for the infection?",
+        "options": ["A. Escherichia coli", "B. Enterococcus faecalis", "C. Klebsiella pneumoniae", "D. Proteus mirabilis", "E. Pseudomonas aeruginosa"],
+        "answer": "D"
+      },
+      {
+        "question": "A 23-year-old male is diagnosed with cystinuria after presenting with recurrent kidney stones. Which of the following findings would be expected on urine microscopy?",
+        "options": ["A. Rhomboid-shaped crystals", "B. Envelope-shaped crystals", "C. Hexagonal-shaped crystals", "D. Dumbbell-shaped crystals", "E. Coffin lid-shaped crystals"],
+        "answer": "C"
+      },
+      {
+        "question": "A 47-year-old man with hyperparathyroidism presents with renal colic. Imaging reveals a 5mm radio-opaque stone in the renal pelvis. Which of the following is the most likely composition of the stone?",
+        "options": ["A. Calcium oxalate", "B. Uric acid", "C. Struvite", "D. Cystine", "E. Ammonium urate"],
+        "answer": "A"
+      },
+      {
+        "question": "A 40-year-old man with poorly controlled diabetes mellitus presents with fatigue and decreased urine output. Labs show elevated BUN and creatinine. Imaging reveals bilateral hydronephrosis. Which of the following is the most likely cause?",
+        "options": ["A. Uric acid nephropathy", "B. Bilateral ureteral obstruction", "C. Vesicoureteral reflux", "D. Bladder cancer", "E. Prostate hypertrophy"],
+        "answer": "B"
+      },
+      {
+        "question": "A 62-year-old man with a history of gout presents with severe left flank pain and gross hematuria. Urine pH is 5.2, and imaging shows a radiolucent stone in the ureter. What is the most likely composition of this stone?",
+        "options": ["A. Calcium oxalate", "B. Struvite", "C. Uric acid", "D. Cystine", "E. Ammonium urate"],
+        "answer": "C"
+      },
+      {
+        "question": "A 45-year-old woman presents with a 3-month history of dysuria, fever, and lower abdominal pain. Imaging reveals a large, irregular stone in the renal pelvis. Urine culture shows urease-positive bacteria. Which of the following is the most likely type of stone?",
+        "options": ["A. Calcium oxalate", "B. Struvite", "C. Uric acid", "D. Cystine", "E. Calcium phosphate"],
+        "answer": "B"
+      },
+      {
+        "question": "A 34-year-old male with cystinuria presents to the emergency room with severe colicky pain and hematuria. Which of the following interventions is most likely to prevent future stone formation in this patient?",
+        "options": ["A. Increase dietary calcium", "B. Maintain urine alkalinization", "C. Decrease dietary oxalate", "D. Restrict protein intake", "E. Increase vitamin C supplementation"],
+        "answer": "B"
+      },
+      {
+        "question": "A 58-year-old man with type 2 diabetes presents with flank pain and an abdominal CT shows bilateral hydronephrosis. Which of the following conditions is the most likely cause?",
+        "options": ["A. Bladder outlet obstruction", "B. Vesicoureteral reflux", "C. Ureteral stricture", "D. Bilateral staghorn calculi", "E. Renal artery stenosis"],
+        "answer": "A"
+      },
+      {
+        "question": "A 30-year-old male with hypercalciuria presents with recurrent episodes of nephrolithiasis. Which of the following is the most appropriate dietary modification to reduce his risk of stone formation?",
+        "options": ["A. Increase oxalate intake", "B. Restrict calcium intake", "C. Increase fluid intake", "D. Increase sodium intake", "E. Increase protein intake"],
+        "answer": "C"
+      },
+      {
+        "question": "A 65-year-old male with a history of recurrent renal stones presents with severe right flank pain. Imaging shows a 6mm stone in the renal pelvis that is radio-opaque. Which of the following is the most likely type of stone?",
+        "options": ["A. Uric acid", "B. Struvite", "C. Calcium oxalate", "D. Cystine", "E. Ammonium urate"],
+        "answer": "C"
+      },
+      {
+        "question": "A 48-year-old female with type 2 diabetes presents with fever, chills, and flank pain. Imaging reveals hydronephrosis, and urine culture shows a urease-positive organism. What is the most likely complication if the condition is not promptly treated?",
+        "options": ["A. Bladder cancer", "B. Urosepsis", "C. Chronic kidney disease", "D. Calcium oxalate nephrolithiasis", "E. Diabetic ketoacidosis"],
+        "answer": "B"
+      },
+      {
+        "question": "A 40-year-old man presents with recurrent nephrolithiasis. Analysis of his urine shows envelope-shaped crystals. Which of the following dietary recommendations is most appropriate to prevent further stone formation?",
+        "options": ["A. Increase dietary purines", "B. Increase oxalate intake", "C. Reduce dietary sodium", "D. Increase dietary calcium", "E. Increase vitamin D intake"],
+        "answer": "C"
+      },
+      {
+        "question": "A 70-year-old man with prostate hypertrophy presents with urinary retention and lower abdominal pain. Imaging shows bilateral hydronephrosis. Which of the following is the best initial management?",
+        "options": ["A. Immediate nephrectomy", "B. Urgent hemodialysis", "C. Ureteral stent placement", "D. Bladder catheterization", "E. High-dose antibiotics"],
+        "answer": "D"
+      },
+      {
+        "question": "A 32-year-old man presents with severe, sudden onset of flank pain. Urinalysis shows microscopic hematuria, and imaging reveals a radiolucent stone. Which of the following is the most likely cause of his symptoms?",
+        "options": ["A. Struvite stones", "B. Calcium phosphate stones", "C. Cystine stones", "D. Uric acid stones", "E. Calcium oxalate stones"],
+        "answer": "D"
+      },
+      {
+        "question": "A 25-year-old male presents with difficulty retracting the foreskin over the glans penis. He is uncircumcised and reports pain during erection. Physical examination reveals a tight prepuce that cannot be retracted. What is the most likely diagnosis?",
+        "options": ["A. Phimosis", "B. Hypospadias", "C. Epispadias", "D. Urethral stricture", "E. Penile carcinoma"],
+        "answer": "A"
+      },
+      {
+        "question": "A 2-year-old boy is brought in for a routine check-up. On physical examination, the right testis is not palpable in the scrotum. Ultrasound confirms the presence of the testis in the inguinal canal. Which of the following is the most appropriate management for this condition?",
+        "options": ["A. Wait and observe until adolescence", "B. Immediate orchiopexy", "C. Testicular biopsy", "D. Hormone therapy", "E. No intervention needed"],
+        "answer": "B"
+      },
+      {
+        "question": "A 20-year-old male presents to the clinic with a swollen scrotum. Transillumination reveals a clear fluid collection around the testis. What is the most likely diagnosis?",
+        "options": ["A. Varicocele", "B. Hydrocele", "C. Spermatocele", "D. Hematocele", "E. Testicular torsion"],
+        "answer": "B"
+      },
+      {
+        "question": "A 16-year-old boy presents to the emergency department with sudden onset of severe scrotal pain. Physical examination reveals an elevated testis with absent cremasteric reflex. What is the most likely diagnosis?",
+        "options": ["A. Epididymitis", "B. Orchitis", "C. Hydrocele", "D. Testicular torsion", "E. Varicocele"],
+        "answer": "D"
+      },
+      {
+        "question": "A 30-year-old male undergoes evaluation for infertility. Physical examination reveals a soft, irregular mass above the left testis, described as a 'bag of worms.' What is the most likely cause of his infertility?",
+        "options": ["A. Epididymitis", "B. Hydrocele", "C. Varicocele", "D. Testicular torsion", "E. Spermatocele"],
+        "answer": "C"
+      },
+      {
+        "question": "A 3-year-old boy presents with a left scrotal swelling that has gradually increased in size over the past few months. The swelling transilluminates and does not change size with position. What is the most likely diagnosis?",
+        "options": ["A. Varicocele", "B. Hydrocele", "C. Testicular torsion", "D. Spermatocele", "E. Epididymitis"],
+        "answer": "B"
+      },
+      {
+        "question": "A 14-year-old boy presents to the emergency department with acute right scrotal pain that started 4 hours ago. He denies any fever or dysuria. On examination, there is tenderness over the right testis and an absent cremasteric reflex. What is the best next step in management?",
+        "options": ["A. Urinalysis", "B. Doppler ultrasound", "C. Scrotal transillumination", "D. Immediate surgical exploration", "E. NSAIDs and observation"],
+        "answer": "D"
+      },
+      {
+        "question": "A 45-year-old man presents with a painless mass in the scrotum. Physical examination reveals a well-circumscribed, firm nodule that does not transilluminate. What is the most appropriate next step in management?",
+        "options": ["A. Watchful waiting", "B. Scrotal transillumination", "C. Scrotal ultrasound", "D. Fine needle aspiration", "E. Antibiotic therapy"],
+        "answer": "C"
+      },
+      {
+        "question": "A 6-month-old male infant is brought in by his parents due to a mass in the left groin. On examination, the left testis is not palpable in the scrotum, and there is a mass in the inguinal canal. What is the most likely diagnosis?",
+        "options": ["A. Hydrocele", "B. Inguinal hernia", "C. Cryptorchidism", "D. Testicular torsion", "E. Spermatocele"],
+        "answer": "C"
+      },
+      {
+        "question": "A 28-year-old male presents with a painless, swollen scrotum. He reports a dull ache in the scrotum but denies fever or recent trauma. Physical examination reveals dilated veins in the scrotum that are more prominent on standing and reduce on lying down. What is the most likely diagnosis?",
+        "options": ["A. Hydrocele", "B. Testicular torsion", "C. Spermatocele", "D. Varicocele", "E. Epididymitis"],
+        "answer": "D"
+      },
+      {
+        "question": "A 20-year-old man presents with pain in the left scrotum that worsens after prolonged standing. On physical examination, there is a 'bag of worms' appearance above the left testis that becomes more prominent when standing. What is the most likely diagnosis?",
+        "options": ["A. Hydrocele", "B. Testicular torsion", "C. Varicocele", "D. Epididymitis", "E. Spermatocele"],
+        "answer": "C"
+      },
+      {
+        "question": "A 5-year-old boy is brought to the clinic for scrotal swelling that has been present since birth. The swelling is soft, non-tender, and transilluminates. It has not changed in size with activity or position. What is the most likely diagnosis?",
+        "options": ["A. Testicular torsion", "B. Epididymitis", "C. Varicocele", "D. Hydrocele", "E. Spermatocele"],
+        "answer": "D"
+      },
+      {
+        "question": "A 17-year-old boy presents with sudden onset of severe right scrotal pain that radiates to the groin. Physical examination reveals an elevated right testis, and the cremasteric reflex is absent. What is the most likely diagnosis?",
+        "options": ["A. Epididymitis", "B. Orchitis", "C. Testicular torsion", "D. Hydrocele", "E. Varicocele"],
+        "answer": "C"
+      },
+      {
+        "question": "A 24-year-old male reports infertility despite trying to conceive for over a year. Physical examination reveals a palpable mass in the scrotum, described as a 'bag of worms.' What is the most appropriate next step in management?",
+        "options": ["A. NSAIDs for pain relief", "B. Scrotal ultrasound", "C. Scrotal transillumination", "D. Immediate surgical intervention", "E. Antibiotics"],
+        "answer": "B"
+      },
+      {
+        "question": "A 30-year-old man presents with right-sided scrotal pain and swelling that started 2 days ago. He also reports fever and dysuria. On physical examination, the right scrotum is tender and swollen, and the cremasteric reflex is intact. What is the most likely diagnosis?",
+        "options": ["A. Testicular torsion", "B. Hydrocele", "C. Epididymitis", "D. Varicocele", "E. Spermatocele"],
+        "answer": "C"
+      }
+    ]
