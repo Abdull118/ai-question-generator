@@ -14,24 +14,37 @@ const Page = () => {
   const [reviewMode, setReviewMode] = useState(false);
   const [incorrectQuestions, setIncorrectQuestions] = useState([]);
   const [correctQuestions, setCorrectQuestions] = useState([]);
+  const [selectedLecture, setSelectedLecture] = useState(null);
   const router = useRouter();
 
   useEffect(() => {
-    // Load incorrect and correct questions from localStorage if available
-    const storedIncorrect = JSON.parse(localStorage.getItem('incorrectQuestions')) || [];
-    const storedCorrect = JSON.parse(localStorage.getItem('correctQuestions')) || [];
-    setIncorrectQuestions(storedIncorrect);
-    setCorrectQuestions(storedCorrect);
+    if (selectedLecture !== null) {
+      // Load incorrect and correct questions from localStorage if available
+      const storedIncorrect = JSON.parse(localStorage.getItem('incorrectQuestions')) || [];
+      const storedCorrect = JSON.parse(localStorage.getItem('correctQuestions')) || [];
+      setIncorrectQuestions(storedIncorrect);
+      setCorrectQuestions(storedCorrect);
 
-    // Filter out questions marked as correct and incorrect
-    const filteredQuestions = questionsData.filter(
-      (question) =>
-        !storedCorrect.some((correct) => correct.question === question.question) &&
-        !storedIncorrect.some((incorrect) => incorrect.question === question.question)
-    );
+      // Filter questions based on selected lecture
+      const filteredLectureQuestions =
+        selectedLecture === "all"
+          ? questionsData // Select all questions if "all" is selected
+          : questionsData.filter((question) => question.lecture === selectedLecture);
 
-    setQuestions(filteredQuestions);
-  }, []);
+      // Filter out questions marked as correct and incorrect
+      const filteredQuestions = filteredLectureQuestions.filter(
+        (question) =>
+          !storedCorrect.some((correct) => correct.question === question.question) &&
+          !storedIncorrect.some((incorrect) => incorrect.question === question.question)
+      );
+
+      setQuestions(filteredQuestions);
+    }
+  }, [selectedLecture]);
+
+  const handleLectureSelect = (lecture) => {
+    setSelectedLecture(lecture);
+  };
 
   const handleOptionSelect = (option) => {
     setSelectedOption(option);
@@ -114,103 +127,127 @@ const Page = () => {
 
   return (
     <>
-      <div className={styles.card}>
-        {!reviewMode && questions.length > 0 && (
-          <>
-          <span className={styles.questionTracker}>
-              Question {currentQuestionIndex + 1} of {totalQuestions}
-            </span>
-            <h3>{questions[currentQuestionIndex].question}</h3>
-            <div className={styles.options}>
-              {questions[currentQuestionIndex].options.map((option, index) => (
-                <div key={index} className={styles.optionText}>
-                  {option}
+      {!selectedLecture && (
+        <div className={styles.lectureSelection}>
+          <h2>Please select a lecture (1-6) or all:</h2>
+          {['1', '2', '3', '4', '5', '6'].map((lecture) => (
+            <button
+              key={lecture}
+              className={styles.lectureButton}
+              onClick={() => handleLectureSelect(lecture)}
+            >
+              Lecture {lecture}
+            </button>
+          ))}
+          <button
+            className={styles.lectureButton}
+            onClick={() => handleLectureSelect("all")}
+          >
+            All Lectures
+          </button>
+        </div>
+      )}
+      {selectedLecture && (
+        <>
+          <div className={styles.card}>
+            {!reviewMode && questions.length > 0 && (
+              <>
+                <span className={styles.questionTracker}>
+                  Question {currentQuestionIndex + 1} of {totalQuestions}
+                </span>
+                <h3>{questions[currentQuestionIndex].question}</h3>
+                <div className={styles.options}>
+                  {questions[currentQuestionIndex].options.map((option, index) => (
+                    <div key={index} className={styles.optionText}>
+                      {option}
+                    </div>
+                  ))}
                 </div>
-              ))}
-            </div>
-            <div className={styles.optionButtons}>
-              {['A', 'B', 'C', 'D', 'E'].map((option, index) => (
-                <button
-                  key={index}
-                  className={`
-                    ${styles.optionButton}
-                    ${submitted && option === correctAnswer ? styles.correct : ''}
-                    ${submitted && selectedOption === option && option !== correctAnswer ? styles.incorrect : ''}
-                  `}
-                  onClick={() => handleOptionSelect(option)}
-                  disabled={submitted}
-                >
-                  {option}
-                </button>
-              ))}
-            </div>
-            
-            {selectedOption && !submitted && (
-              <button className={styles.submitButton} onClick={handleSubmit}>
-                Submit
-              </button>
-            )}
-            {submitted && currentQuestionIndex < questions.length - 1 && (
-              <button className={styles.nextButton} onClick={handleNext}>
-                Next
-              </button>
-            )}
-            {submitted && currentQuestionIndex === questions.length - 1 && <p>End of questions</p>}
-          </>
-        )}
-        {reviewMode && incorrectQuestions.length > 0 && incorrectQuestions[currentQuestionIndex] && (
-          <>
-            <h2>Review Mode</h2>
-            <h3>{incorrectQuestions[currentQuestionIndex].question}</h3>
-            <div className={styles.options}>
-              {incorrectQuestions[currentQuestionIndex].options.map((option, index) => (
-                <div key={index} className={styles.optionText}>
-                  {option}
+                <div className={styles.optionButtons}>
+                  {['A', 'B', 'C', 'D', 'E'].map((option, index) => (
+                    <button
+                      key={index}
+                      className={`
+                        ${styles.optionButton}
+                        ${submitted && option === correctAnswer ? styles.correct : ''}
+                        ${submitted && selectedOption === option && option !== correctAnswer ? styles.incorrect : ''}
+                      `}
+                      onClick={() => handleOptionSelect(option)}
+                      disabled={submitted}
+                    >
+                      {option}
+                    </button>
+                  ))}
                 </div>
-              ))}
-            </div>
-            <div className={styles.optionButtons}>
-              {['A', 'B', 'C', 'D', 'E'].map((option, index) => (
-                <button
-                  key={index}
-                  className={`
-                    ${styles.optionButton}
-                    ${submitted && option === correctAnswer ? styles.correct : ''}
-                    ${submitted && selectedOption === option && option !== correctAnswer ? styles.incorrect : ''}
-                  `}
-                  onClick={() => handleOptionSelect(option)}
-                  disabled={submitted}
-                >
-                  {option}
-                </button>
-              ))}
-            </div>
-            <span className={styles.questionTracker}>
-              Question {currentQuestionIndex + 1} of {totalQuestions}
-            </span>
-            {selectedOption && !submitted && (
-              <button className={styles.submitButton} onClick={handleSubmit}>
-                Submit
-              </button>
+
+                {selectedOption && !submitted && (
+                  <button className={styles.submitButton} onClick={handleSubmit}>
+                    Submit
+                  </button>
+                )}
+                {submitted && currentQuestionIndex < questions.length - 1 && (
+                  <button className={styles.nextButton} onClick={handleNext}>
+                    Next
+                  </button>
+                )}
+                {submitted && currentQuestionIndex === questions.length - 1 && <p>End of questions</p>}
+              </>
             )}
-            {submitted && currentQuestionIndex < incorrectQuestions.length - 1 && (
-              <button className={styles.nextButton} onClick={handleNext}>
-                Next
-              </button>
+            {reviewMode && incorrectQuestions.length > 0 && incorrectQuestions[currentQuestionIndex] && (
+              <>
+                <h2>Review Mode</h2>
+                <h3>{incorrectQuestions[currentQuestionIndex].question}</h3>
+                <div className={styles.options}>
+                  {incorrectQuestions[currentQuestionIndex].options.map((option, index) => (
+                    <div key={index} className={styles.optionText}>
+                      {option}
+                    </div>
+                  ))}
+                </div>
+                <div className={styles.optionButtons}>
+                  {['A', 'B', 'C', 'D', 'E'].map((option, index) => (
+                    <button
+                      key={index}
+                      className={`
+                        ${styles.optionButton}
+                        ${submitted && option === correctAnswer ? styles.correct : ''}
+                        ${submitted && selectedOption === option && option !== correctAnswer ? styles.incorrect : ''}
+                      `}
+                      onClick={() => handleOptionSelect(option)}
+                      disabled={submitted}
+                    >
+                      {option}
+                    </button>
+                  ))}
+                </div>
+                <span className={styles.questionTracker}>
+                  Question {currentQuestionIndex + 1} of {totalQuestions}
+                </span>
+                {selectedOption && !submitted && (
+                  <button className={styles.submitButton} onClick={handleSubmit}>
+                    Submit
+                  </button>
+                )}
+                {submitted && currentQuestionIndex < incorrectQuestions.length - 1 && (
+                  <button className={styles.nextButton} onClick={handleNext}>
+                    Next
+                  </button>
+                )}
+                {submitted && currentQuestionIndex === incorrectQuestions.length - 1 && <p>End of review</p>}
+              </>
             )}
-            {submitted && currentQuestionIndex === incorrectQuestions.length - 1 && <p>End of review</p>}
-          </>
-        )}
-        {reviewMode && incorrectQuestions.length === 0 && <p>No incorrect questions to review.</p>}
-      </div>
-      <div className={styles.buttons}>
-        <button className={styles.reviewButton} onClick={handleReviewToggle}>
-          {reviewMode ? 'Return to All Questions' : 'Review Incorrect Questions'}
-        </button>
-        <button className={styles.reviewButton} onClick={handleReturnHome}>
-          Return to Home
-        </button>
-      </div>
+            {reviewMode && incorrectQuestions.length === 0 && <p>No incorrect questions to review.</p>}
+          </div>
+          <div className={styles.buttons}>
+            <button className={styles.reviewButton} onClick={handleReviewToggle}>
+              {reviewMode ? 'Return to All Questions' : 'Review Incorrect Questions'}
+            </button>
+            <button className={styles.reviewButton} onClick={handleReturnHome}>
+              Return to Home
+            </button>
+          </div>
+        </>
+      )}
     </>
   );
 };

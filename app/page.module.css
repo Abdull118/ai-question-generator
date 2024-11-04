@@ -44,7 +44,15 @@
   border-color: #0070f3;
 }
 
-.submitButton, .nextButton {
+.lectureSelection{
+  display: flex;
+  flex-direction: column;
+  
+  justify-content: center;
+  align-items: center;
+}
+
+.submitButton, .nextButton, .lectureButton {
   margin-top: 20px;
   padding: 10px 20px;
   background-color: #0070f3;

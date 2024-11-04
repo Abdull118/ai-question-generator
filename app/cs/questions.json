@@ -1,320 +1,385 @@
 [
+  {
+    "question": "A 45-year-old male presents with painless gross hematuria. He denies any fever, dysuria, or flank pain. He has a 20-year history of smoking one pack of cigarettes per day. Physical examination is unremarkable. Urine dipstick is positive for blood, and urine sediment confirms the presence of >5 RBCs per high power field. Which of the following is the most appropriate next step in management?",
+    "options": ["A. Urine cytology", "B. Abdominal ultrasound", "C. CT urography", "D. Repeat urine dipstick in 2 weeks", "E. Renal biopsy"],
+    "answer": "C",
+    "lecture": "1"
+},
+{
+    "question": "A 28-year-old female presents with dysuria and urgency for the past 3 days. She denies fever, chills, or flank pain. She reports that her urine appears red at times. She denies any recent trauma, vigorous exercise, or changes in medication. Urine dipstick is positive for heme, and urine microscopy reveals 2 RBCs per high power field. What is the next best step in management?",
+    "options": ["A. Renal ultrasound", "B. Urine culture", "C. Intravenous pyelogram (IVP)", "D. Urine cytology", "E. CT scan of the abdomen and pelvis"],
+    "answer": "B",
+    "lecture": "1"
+},
+{
+    "question": "A 50-year-old male with a history of hypertension presents with new-onset microscopic hematuria. He denies dysuria, frequency, or urgency. He has no history of kidney stones or urinary tract infections. His urine dipstick is positive for heme, and a urine sediment analysis confirms 4 RBCs per high power field. Which of the following risk factors would most increase his suspicion for genitourinary malignancy?",
+    "options": ["A. Age < 35 years", "B. Smoking history", "C. Alcohol use", "D. Sedentary lifestyle", "E. Diabetes mellitus"],
+    "answer": "B",
+    "lecture": "1"
+},
+{
+    "question": "A 31-year-old male presents with sudden onset of left flank pain radiating to the groin. He reports nausea but denies vomiting or fever. Urinalysis shows microscopic hematuria, with 10 RBCs per high power field, but no casts or proteinuria. His pain improves after receiving NSAIDs in the emergency room. What is the most likely diagnosis?",
+    "options": ["A. Urinary tract infection", "B. Glomerulonephritis", "C. Nephrolithiasis", "D. Renal cell carcinoma", "E. Bladder cancer"],
+    "answer": "C",
+    "lecture": "1"
+},
+{
+    "question": "A 35-year-old male presents with painless gross hematuria and denies dysuria, fever, or flank pain. He has a family history of kidney stones and reports recently completing a vigorous exercise program. Urine dipstick is positive for blood, but urine sediment shows only 1-2 RBCs per high power field. What is the most appropriate next step?",
+    "options": ["A. Repeat urine dipstick after a period of rest", "B. Urine culture", "C. Start empiric antibiotics", "D. Renal biopsy", "E. CT urography"],
+    "answer": "A",
+    "lecture": "1"
+},
+{
+    "question": "A 52-year-old female with a 20-year history of smoking presents with asymptomatic microscopic hematuria discovered during a routine urinalysis. She denies any gross hematuria, dysuria, or recent infections. Urine dipstick is positive for blood, and sediment analysis shows 4 RBCs per high power field. Which of the following risk factors most increases her likelihood of genitourinary malignancy?",
+    "options": ["A. History of urinary tract infections", "B. Use of spermicides", "C. Occupational exposure to dyes", "D. Obesity", "E. Family history of diabetes"],
+    "answer": "C",
+    "lecture": "1"
+},
+{
+    "question": "A 60-year-old male presents with a history of frequent episodes of microscopic hematuria over the past year. He denies any gross hematuria or flank pain. His history includes exposure to aromatic amines due to his work in the chemical industry. Urine dipstick is consistently positive for heme, and urine sediment shows 5-10 RBCs per high power field. What is the most appropriate initial diagnostic step?",
+    "options": ["A. Renal ultrasound", "B. Cystoscopy", "C. Abdominal X-ray", "D. Non-contrast CT scan", "E. Renal biopsy"],
+    "answer": "B",
+    "lecture": "1"
+},
+{
+    "question": "A 25-year-old female presents with dysuria and urgency for 2 days. She denies any fever, chills, or flank pain but reports her urine appears reddish. She is sexually active, and urine dipstick is positive for blood. Urine sediment analysis shows 3-4 RBCs per high power field, and her urine pH is 9.0. What is the most likely explanation for her positive urine dipstick?",
+    "options": ["A. Myoglobinuria", "B. Alkaline urine causing false positive", "C. Recent vigorous exercise", "D. Semen contamination", "E. Vitamin C intake"],
+    "answer": "B",
+    "lecture": "1"
+},
+{
+    "question": "A 47-year-old male presents to the clinic after noticing red-colored urine for the past day. He denies pain, fever, or recent physical activity. He is not on any new medications and reports no recent travel. His urine dipstick is positive for blood, but no RBCs are observed on sediment examination. Which of the following should be considered in the differential diagnosis?",
+    "options": ["A. Nutcracker syndrome", "B. Schistosomiasis", "C. Glomerulonephritis", "D. Myoglobinuria", "E. Renal cell carcinoma"],
+    "answer": "D",
+    "lecture": "1"
+},
     {
-      "question": "A 45-year-old male presents with painless gross hematuria. He denies any fever, dysuria, or flank pain. He has a 20-year history of smoking one pack of cigarettes per day. Physical examination is unremarkable. Urine dipstick is positive for blood, and urine sediment confirms the presence of >5 RBCs per high power field. Which of the following is the most appropriate next step in management?",
-      "options": ["A. Urine cytology", "B. Abdominal ultrasound", "C. CT urography", "D. Repeat urine dipstick in 2 weeks", "E. Renal biopsy"],
-      "answer": "C"
+      "question": "A 45-year-old male presents with a 3-day history of burning during urination, urinary frequency, and suprapubic discomfort. He denies any fever, chills, or back pain. He has no significant past medical history and is not taking any medications. Physical exam shows mild suprapubic tenderness. Urine dipstick is positive for leukocyte esterase and nitrites. Which of the following empiric therapies would be most appropriate for this patient?",
+      "options": ["A. Nitrofurantoin", "B. Trimethoprim-sulfamethoxazole", "C. Azithromycin", "D. Metronidazole", "E. Ceftriaxone"],
+      "answer": "B",
+      "lecture": "2"
     },
     {
-      "question": "A 28-year-old female presents with dysuria and urgency for the past 3 days. She denies fever, chills, or flank pain. She reports that her urine appears red at times. She denies any recent trauma, vigorous exercise, or changes in medication. Urine dipstick is positive for heme, and urine microscopy reveals 2 RBCs per high power field. What is the next best step in management?",
-      "options": ["A. Renal ultrasound", "B. Urine culture", "C. Intravenous pyelogram (IVP)", "D. Urine cytology", "E. CT scan of the abdomen and pelvis"],
-      "answer": "B"
+      "question": "A 32-year-old female presents with complaints of fever, chills, flank pain, and nausea for 2 days. She reports a history of recurrent UTIs but is otherwise healthy. On examination, she has costovertebral angle tenderness and a temperature of 101°F (38.3°C). Her urine dipstick is positive for leukocyte esterase and nitrites. What is the best next step in management?",
+      "options": ["A. Initiate oral nitrofurantoin", "B. Obtain a urine culture and start oral fluoroquinolones", "C. Start metronidazole and order a pelvic ultrasound", "D. Prescribe fosfomycin and order a repeat urinalysis in 1 week", "E. Initiate ceftriaxone and discharge the patient"],
+      "answer": "B",
+      "lecture": "2"
     },
     {
-      "question": "A 50-year-old male with a history of hypertension presents with new-onset microscopic hematuria. He denies dysuria, frequency, or urgency. He has no history of kidney stones or urinary tract infections. His urine dipstick is positive for heme, and a urine sediment analysis confirms 4 RBCs per high power field. Which of the following risk factors would most increase his suspicion for genitourinary malignancy?",
-      "options": ["A. Age < 35 years", "B. Smoking history", "C. Alcohol use", "D. Sedentary lifestyle", "E. Diabetes mellitus"],
-      "answer": "B"
+      "question": "A 27-year-old pregnant female presents with dysuria, urinary frequency, and lower abdominal discomfort for 1 day. She denies fever, chills, or flank pain. Physical examination reveals suprapubic tenderness. Urine dipstick is positive for leukocyte esterase, and urine culture grows Escherichia coli. What is the most appropriate empiric treatment?",
+      "options": ["A. Ciprofloxacin", "B. Nitrofurantoin", "C. Doxycycline", "D. Trimethoprim-sulfamethoxazole", "E. Levofloxacin"],
+      "answer": "B",
+      "lecture": "2"
     },
     {
-      "question": "A 31-year-old male presents with sudden onset of left flank pain radiating to the groin. He reports nausea but denies vomiting or fever. Urinalysis shows microscopic hematuria, with 10 RBCs per high power field, but no casts or proteinuria. His pain improves after receiving NSAIDs in the emergency room. What is the most likely diagnosis?",
-      "options": ["A. Urinary tract infection", "B. Glomerulonephritis", "C. Nephrolithiasis", "D. Renal cell carcinoma", "E. Bladder cancer"],
-      "answer": "C"
+      "question": "A 60-year-old man with benign prostatic hyperplasia presents with fever, chills, and dysuria for 4 days. He also reports perineal pain. Physical exam reveals suprapubic tenderness and a tender prostate on digital rectal examination. Urine dipstick is positive for leukocyte esterase. What is the most likely diagnosis?",
+      "options": ["A. Acute cystitis", "B. Prostatitis", "C. Pyelonephritis", "D. Urethritis", "E. Epididymitis"],
+      "answer": "B",
+      "lecture": "2"
     },
     {
-      "question": "A 35-year-old male presents with painless gross hematuria and denies dysuria, fever, or flank pain. He has a family history of kidney stones and reports recently completing a vigorous exercise program. Urine dipstick is positive for blood, but urine sediment shows only 1-2 RBCs per high power field. What is the most appropriate next step?",
-      "options": ["A. Repeat urine dipstick after a period of rest", "B. Urine culture", "C. Start empiric antibiotics", "D. Renal biopsy", "E. CT urography"],
-      "answer": "A"
+      "question": "A 19-year-old male presents to the clinic with a 2-day history of burning during urination and discharge from the urethra. He denies fever, chills, or flank pain. He is sexually active and reports having multiple sexual partners. On examination, there is urethral discharge. What is the most appropriate next step?",
+      "options": ["A. Urine culture and start nitrofurantoin", "B. Urethral swab for STI testing and initiate ceftriaxone plus azithromycin", "C. Urine culture and start metronidazole", "D. Start fluoroquinolones empirically", "E. Initiate fosfomycin therapy"],
+      "answer": "B",
+      "lecture": "2"
     },
     {
-      "question": "A 52-year-old female with a 20-year history of smoking presents with asymptomatic microscopic hematuria discovered during a routine urinalysis. She denies any gross hematuria, dysuria, or recent infections. Urine dipstick is positive for blood, and sediment analysis shows 4 RBCs per high power field. Which of the following risk factors most increases her likelihood of genitourinary malignancy?",
-      "options": ["A. History of urinary tract infections", "B. Use of spermicides", "C. Occupational exposure to dyes", "D. Obesity", "E. Family history of diabetes"],
-      "answer": "C"
+      "question": "A 28-year-old woman presents with dysuria, frequency, and urgency for the past 24 hours. She has no fever, flank pain, or vaginal discharge. She denies any previous urinary tract infections and is not pregnant. Physical examination shows mild suprapubic tenderness. Urine dipstick is positive for leukocyte esterase and nitrites. Which of the following is the most appropriate empiric therapy?",
+      "options": ["A. Ciprofloxacin", "B. Nitrofurantoin", "C. Metronidazole", "D. Azithromycin", "E. Amoxicillin-clavulanate"],
+      "answer": "B",
+      "lecture": "2"
     },
     {
-      "question": "A 60-year-old male presents with a history of frequent episodes of microscopic hematuria over the past year. He denies any gross hematuria or flank pain. His history includes exposure to aromatic amines due to his work in the chemical industry. Urine dipstick is consistently positive for heme, and urine sediment shows 5-10 RBCs per high power field. What is the most appropriate initial diagnostic step?",
-      "options": ["A. Renal ultrasound", "B. Cystoscopy", "C. Abdominal X-ray", "D. Non-contrast CT scan", "E. Renal biopsy"],
-      "answer": "B"
+      "question": "A 40-year-old male presents with fever, dysuria, and severe pelvic pain that began 3 days ago. He reports difficulty urinating and a sensation of incomplete bladder emptying. Physical exam reveals a tender, swollen prostate on digital rectal exam. Urinalysis shows pyuria and bacteriuria. What is the most appropriate initial management?",
+      "options": ["A. Nitrofurantoin", "B. Trimethoprim-sulfamethoxazole", "C. Azithromycin", "D. Metronidazole", "E. Fosfomycin"],
+      "answer": "B",
+      "lecture": "2"
     },
     {
-      "question": "A 25-year-old female presents with dysuria and urgency for 2 days. She denies any fever, chills, or flank pain but reports her urine appears reddish. She is sexually active, and urine dipstick is positive for blood. Urine sediment analysis shows 3-4 RBCs per high power field, and her urine pH is 9.0. What is the most likely explanation for her positive urine dipstick?",
-      "options": ["A. Myoglobinuria", "B. Alkaline urine causing false positive", "C. Recent vigorous exercise", "D. Semen contamination", "E. Vitamin C intake"],
-      "answer": "B"
+      "question": "A 50-year-old male with a history of diabetes presents with fever, chills, flank pain, and dysuria for the past 2 days. Physical exam reveals costovertebral angle tenderness, and the urine dipstick is positive for leukocyte esterase and nitrites. What is the most appropriate next step in management?",
+      "options": ["A. Oral fluoroquinolones", "B. Urine culture and start nitrofurantoin", "C. Start fosfomycin and discharge", "D. Admission for IV antibiotics", "E. Oral amoxicillin"],
+      "answer": "D",
+      "lecture": "2"
     },
     {
-      "question": "A 47-year-old male presents to the clinic after noticing red-colored urine for the past day. He denies pain, fever, or recent physical activity. He is not on any new medications and reports no recent travel. His urine dipstick is positive for blood, but no RBCs are observed on sediment examination. Which of the following should be considered in the differential diagnosis?",
-      "options": ["A. Nutcracker syndrome", "B. Schistosomiasis", "C. Glomerulonephritis", "D. Myoglobinuria", "E. Renal cell carcinoma"],
-      "answer": "D"
+      "question": "A 25-year-old pregnant woman at 20 weeks’ gestation presents with dysuria, urgency, and suprapubic discomfort for 2 days. She denies fever or back pain. Urine dipstick is positive for leukocyte esterase and nitrites, and urine culture grows Escherichia coli. What is the most appropriate empiric therapy?",
+      "options": ["A. Ciprofloxacin", "B. Nitrofurantoin", "C. Doxycycline", "D. Trimethoprim-sulfamethoxazole", "E. Levofloxacin"],
+      "answer": "B",
+      "lecture": "2"
     },
     {
-        "question": "A 45-year-old male presents with a 3-day history of burning during urination, urinary frequency, and suprapubic discomfort. He denies any fever, chills, or back pain. He has no significant past medical history and is not taking any medications. Physical exam shows mild suprapubic tenderness. Urine dipstick is positive for leukocyte esterase and nitrites. Which of the following empiric therapies would be most appropriate for this patient?",
-        "options": ["A. Nitrofurantoin", "B. Trimethoprim-sulfamethoxazole", "C. Azithromycin", "D. Metronidazole", "E. Ceftriaxone"],
-        "answer": "B"
-      },
-      {
-        "question": "A 32-year-old female presents with complaints of fever, chills, flank pain, and nausea for 2 days. She reports a history of recurrent UTIs but is otherwise healthy. On examination, she has costovertebral angle tenderness and a temperature of 101°F (38.3°C). Her urine dipstick is positive for leukocyte esterase and nitrites. What is the best next step in management?",
-        "options": ["A. Initiate oral nitrofurantoin", "B. Obtain a urine culture and start oral fluoroquinolones", "C. Start metronidazole and order a pelvic ultrasound", "D. Prescribe fosfomycin and order a repeat urinalysis in 1 week", "E. Initiate ceftriaxone and discharge the patient"],
-        "answer": "B"
-      },
-      {
-        "question": "A 27-year-old pregnant female presents with dysuria, urinary frequency, and lower abdominal discomfort for 1 day. She denies fever, chills, or flank pain. Physical examination reveals suprapubic tenderness. Urine dipstick is positive for leukocyte esterase, and urine culture grows Escherichia coli. What is the most appropriate empiric treatment?",
-        "options": ["A. Ciprofloxacin", "B. Nitrofurantoin", "C. Doxycycline", "D. Trimethoprim-sulfamethoxazole", "E. Levofloxacin"],
-        "answer": "B"
-      },
-      {
-        "question": "A 60-year-old man with benign prostatic hyperplasia presents with fever, chills, and dysuria for 4 days. He also reports perineal pain. Physical exam reveals suprapubic tenderness and a tender prostate on digital rectal examination. Urine dipstick is positive for leukocyte esterase. What is the most likely diagnosis?",
-        "options": ["A. Acute cystitis", "B. Prostatitis", "C. Pyelonephritis", "D. Urethritis", "E. Epididymitis"],
-        "answer": "B"
-      },
-      {
-        "question": "A 19-year-old male presents to the clinic with a 2-day history of burning during urination and discharge from the urethra. He denies fever, chills, or flank pain. He is sexually active and reports having multiple sexual partners. On examination, there is urethral discharge. What is the most appropriate next step?",
-        "options": ["A. Urine culture and start nitrofurantoin", "B. Urethral swab for STI testing and initiate ceftriaxone plus azithromycin", "C. Urine culture and start metronidazole", "D. Start fluoroquinolones empirically", "E. Initiate fosfomycin therapy"],
-        "answer": "B"
-      },
-      {
-        "question": "A 28-year-old woman presents with dysuria, frequency, and urgency for the past 24 hours. She has no fever, flank pain, or vaginal discharge. She denies any previous urinary tract infections and is not pregnant. Physical examination shows mild suprapubic tenderness. Urine dipstick is positive for leukocyte esterase and nitrites. Which of the following is the most appropriate empiric therapy?",
-        "options": ["A. Ciprofloxacin", "B. Nitrofurantoin", "C. Metronidazole", "D. Azithromycin", "E. Amoxicillin-clavulanate"],
-        "answer": "B"
-      },
-      {
-        "question": "A 40-year-old male presents with fever, dysuria, and severe pelvic pain that began 3 days ago. He reports difficulty urinating and a sensation of incomplete bladder emptying. Physical exam reveals a tender, swollen prostate on digital rectal exam. Urinalysis shows pyuria and bacteriuria. What is the most appropriate initial management?",
-        "options": ["A. Nitrofurantoin", "B. Trimethoprim-sulfamethoxazole", "C. Azithromycin", "D. Metronidazole", "E. Fosfomycin"],
-        "answer": "B"
-      },
-      {
-        "question": "A 50-year-old male with a history of diabetes presents with fever, chills, flank pain, and dysuria for the past 2 days. Physical exam reveals costovertebral angle tenderness, and the urine dipstick is positive for leukocyte esterase and nitrites. What is the most appropriate next step in management?",
-        "options": ["A. Oral fluoroquinolones", "B. Urine culture and start nitrofurantoin", "C. Start fosfomycin and discharge", "D. Admission for IV antibiotics", "E. Oral amoxicillin"],
-        "answer": "D"
-      },
-      {
-        "question": "A 25-year-old pregnant woman at 20 weeks’ gestation presents with dysuria, urgency, and suprapubic discomfort for 2 days. She denies fever or back pain. Urine dipstick is positive for leukocyte esterase and nitrites, and urine culture grows Escherichia coli. What is the most appropriate empiric therapy?",
-        "options": ["A. Ciprofloxacin", "B. Nitrofurantoin", "C. Doxycycline", "D. Trimethoprim-sulfamethoxazole", "E. Levofloxacin"],
-        "answer": "B"
-      },
-      {
-        "question": "A 70-year-old male with benign prostatic hyperplasia presents with fever, dysuria, frequency, and flank pain for 5 days. He has a history of recurrent urinary tract infections and is currently taking tamsulosin. On exam, he has suprapubic tenderness and costovertebral angle tenderness. Urinalysis reveals pyuria and bacteriuria. What is the best initial management?",
-        "options": ["A. Oral nitrofurantoin", "B. Oral fosfomycin", "C. Oral fluoroquinolones", "D. Admission for IV antibiotics", "E. Metronidazole"],
-        "answer": "D"
-      },
-      {
-        "question": "A 25-year-old non-pregnant female presents with burning during urination, urgency, and suprapubic pain for the past 3 days. She denies fever, chills, and flank pain. She reports a history of 3 similar episodes in the past year, treated successfully with antibiotics. Which of the following is the most appropriate next step in management?",
-        "options": ["A. Empiric antibiotics with urine culture", "B. Obtain pelvic ultrasound before starting treatment", "C. Prescribe cranberry tablets and observe", "D. Refer to urology for cystoscopy", "E. Urine dipstick test only, without antibiotics"],
-        "answer": "A"
-      },
-      {
-        "question": "A 45-year-old male presents with dysuria and frequent urination for 1 week. He has no fever, chills, or back pain but reports a history of nephrolithiasis. Urine dipstick is positive for blood and leukocyte esterase. Which of the following organisms is most likely to be responsible for his symptoms?",
-        "options": ["A. Escherichia coli", "B. Proteus mirabilis", "C. Klebsiella pneumoniae", "D. Staphylococcus saprophyticus", "E. Group B Streptococcus"],
-        "answer": "B"
-      },
-      {
-        "question": "A 70-year-old female with a history of diabetes presents with fever, chills, and lower abdominal pain. She has foul-smelling urine, and her urine dipstick is positive for leukocyte esterase and nitrites. Physical examination reveals suprapubic tenderness. What is the most important next step in management?",
-        "options": ["A. Oral fosfomycin", "B. Urine culture and start empiric IV antibiotics", "C. Observation and follow-up in 2 days", "D. Start oral nitrofurantoin", "E. Send for pelvic CT scan"],
-        "answer": "B"
-      },
-      {
-        "question": "A 32-year-old male presents with dysuria, frequency, and urgency. He is afebrile and denies any other symptoms. Urinalysis reveals pyuria and positive nitrites. What additional test should be considered before starting empiric treatment?",
-        "options": ["A. Pelvic ultrasound", "B. Urethral swab for STI testing", "C. Renal CT scan", "D. Urine culture", "E. Prostate exam"],
-        "answer": "B"
-      },
-      {
-        "question": "A 29-year-old woman presents with fever, flank pain, and nausea for 2 days. She is found to have costovertebral angle tenderness and positive urine culture for Escherichia coli. She is started on oral antibiotics. Two days later, she reports worsening symptoms and new-onset vomiting. What is the most appropriate next step?",
-        "options": ["A. Continue current antibiotics and reassess in 3 days", "B. Change oral antibiotics to fosfomycin", "C. Admission for IV antibiotics", "D. Pelvic ultrasound to rule out abscess", "E. Prescribe urinary analgesics only"],
-        "answer": "C"
-      },{
-        "question": "A 68-year-old woman presents with complaints of involuntary urine leakage for the past six months. She reports that the leakage occurs when she coughs, sneezes, or laughs. She denies nocturnal leakage, urgency, and any significant medical history. Physical exam is unremarkable except for a slightly weakened pelvic floor. What is the most likely type of incontinence in this patient?",
-        "options": ["A. Urge incontinence", "B. Stress incontinence", "C. Overflow incontinence", "D. Functional incontinence", "E. Transient incontinence"],
-        "answer": "B"
-      },
-      {
-        "question": "A 75-year-old man with a history of diabetes and hypertension presents with complaints of difficulty initiating urination, a weak stream, and post-void dribbling over the past year. He denies any episodes of acute urinary retention or fever. His physical exam shows a distended bladder. What type of incontinence is most likely present in this patient?",
-        "options": ["A. Urge incontinence", "B. Stress incontinence", "C. Overflow incontinence", "D. Functional incontinence", "E. Transient incontinence"],
-        "answer": "C"
-      },
-      {
-        "question": "A 60-year-old woman is brought in by her daughter due to increasing episodes of urinary incontinence. The daughter reports that her mother often does not recognize the need to void and leaks urine. The patient has a history of Alzheimer's disease and no other significant medical history. On physical exam, she appears comfortable, with no signs of acute distress. What is the most likely type of incontinence in this patient?",
-        "options": ["A. Urge incontinence", "B. Stress incontinence", "C. Overflow incontinence", "D. Functional incontinence", "E. Transient incontinence"],
-        "answer": "D"
-      },
-      {
-        "question": "A 45-year-old man presents with frequent episodes of sudden, intense urges to urinate, followed by involuntary loss of urine if he is unable to reach a restroom quickly. He denies any leakage with coughing or sneezing. He has no significant medical history except for recently starting a new antihypertensive medication. What is the most likely type of incontinence in this patient?",
-        "options": ["A. Urge incontinence", "B. Stress incontinence", "C. Overflow incontinence", "D. Functional incontinence", "E. Transient incontinence"],
-        "answer": "A"
-      },
-      {
-        "question": "An 80-year-old woman living in a nursing home is evaluated for frequent urinary leakage. The staff reports that she often wets her clothes before reaching the bathroom, especially at night. She has no history of urinary tract infections or recent changes in medications. A physical exam reveals no abnormal findings. What would be the initial step in managing this patient’s incontinence?",
-        "options": ["A. Pelvic muscle exercises", "B. Anticholinergic therapy", "C. Scheduled voiding", "D. Urodynamic testing", "E. Surgical consultation"],
-        "answer": "C"
-      },
-      {
-        "question": "A 55-year-old woman presents with complaints of sudden, uncontrollable urges to urinate followed by involuntary urine leakage. She reports urinating more than 10 times a day, including several times during the night. She denies any leakage with coughing or sneezing and has no history of pelvic surgeries. What is the most likely type of incontinence in this patient?",
-        "options": ["A. Stress incontinence", "B. Overflow incontinence", "C. Urge incontinence", "D. Functional incontinence", "E. Transient incontinence"],
-        "answer": "C"
-      },
-      {
-        "question": "A 45-year-old man presents to the clinic complaining of frequent nocturia and difficulty emptying his bladder. He reports that it often takes a long time to start urinating, and the stream is weak. He denies any sudden urges to urinate or leaking urine with exertion. On physical exam, a distended bladder is noted. What is the most likely diagnosis?",
-        "options": ["A. Urge incontinence", "B. Stress incontinence", "C. Overflow incontinence", "D. Functional incontinence", "E. Transient incontinence"],
-        "answer": "C"
-      },
-      {
-        "question": "A 72-year-old woman with a history of diabetes presents with complaints of involuntary urine leakage. She notes that the leakage occurs suddenly, often before she can reach the bathroom, especially during the day. She denies leakage with coughing or sneezing. Physical examination and urinalysis are unremarkable. What is the most likely type of incontinence?",
-        "options": ["A. Stress incontinence", "B. Overflow incontinence", "C. Urge incontinence", "D. Functional incontinence", "E. Transient incontinence"],
-        "answer": "C"
-      },
-      {
-        "question": "An 80-year-old man with a history of Parkinson’s disease presents with frequent episodes of urinary incontinence. He reports that he is unable to control his bladder, especially when he is unable to reach the toilet in time due to his slow movements. He denies symptoms of urgency or straining to urinate. What is the most likely type of incontinence?",
-        "options": ["A. Urge incontinence", "B. Stress incontinence", "C. Overflow incontinence", "D. Functional incontinence", "E. Transient incontinence"],
-        "answer": "D"
-      },
-      {
-        "question": "A 60-year-old woman presents with complaints of urine leakage that occurs when she lifts heavy objects or exercises. She denies urgency, nocturia, or difficulty emptying her bladder. Physical examination reveals a slightly weakened pelvic floor. What is the most likely type of incontinence in this patient?",
-        "options": ["A. Urge incontinence", "B. Stress incontinence", "C. Overflow incontinence", "D. Functional incontinence", "E. Transient incontinence"],
-        "answer": "B"
-      },
-      {
-        "question": "A 28-year-old male presents to the emergency department with severe right-sided flank pain that started abruptly a few hours ago. The pain radiates to his groin and is associated with nausea, but no vomiting. He has a history of kidney stones and his urine dipstick is positive for blood but negative for nitrites or leukocyte esterase. He is afebrile, and physical examination reveals costovertebral angle (CVA) tenderness on the right. What is the most appropriate initial diagnostic test for this patient?",
-        "options": ["A. Abdominal ultrasound", "B. Non-contrast CT scan of the abdomen and pelvis", "C. Intravenous pyelogram (IVP)", "D. Abdominal X-ray (KUB)", "E. Magnetic Resonance Imaging (MRI)"],
-        "answer": "B"
-      },
-      {
-        "question": "A 45-year-old female presents with sudden, severe left-sided flank pain that radiates to the lower abdomen. She has a history of recurrent urinary tract infections and her urinalysis shows 3+ leukocytes, positive nitrites, and microscopic hematuria. Physical exam reveals CVA tenderness on the left side. What type of kidney stone is this patient most likely at risk of developing?",
-        "options": ["A. Calcium oxalate", "B. Calcium phosphate", "C. Uric acid", "D. Struvite", "E. Cystine"],
-        "answer": "D"
-      },
-      {
-        "question": "A 40-year-old male presents with colicky right-sided flank pain that began 6 hours ago. He reports similar episodes in the past. He has a high-protein diet and limited fluid intake. Urinalysis reveals a pH of 5.0 and rhomboid-shaped crystals. What is the most likely composition of his kidney stones?",
-        "options": ["A. Calcium oxalate", "B. Struvite", "C. Uric acid", "D. Cystine", "E. Calcium phosphate"],
-        "answer": "C"
-      },
-      {
-        "question": "A 60-year-old male presents with recurrent kidney stones. He has a history of hypertension and is currently on hydrochlorothiazide. His 24-hour urine analysis shows hypercalciuria and low citrate levels. What is the most appropriate dietary modification to prevent further stone formation?",
-        "options": ["A. Increase dietary sodium intake", "B. Decrease fluid intake", "C. Increase dietary calcium intake from supplements", "D. Decrease animal protein intake", "E. Increase intake of oxalate-rich foods"],
-        "answer": "D"
-      },
-      {
-        "question": "A 50-year-old woman with a history of recurrent urinary tract infections presents with severe right-sided flank pain. She also reports intermittent fever, chills, and foul-smelling urine over the past week. Urine culture grows Proteus mirabilis, and urinalysis shows a pH of 8.2. Which stone type is she most likely to develop?",
-        "options": ["A. Calcium oxalate", "B. Uric acid", "C. Cystine", "D. Calcium phosphate", "E. Struvite"],
-        "answer": "E"
-      },
-      {
-        "question": "A 35-year-old woman presents with sudden, severe right-sided flank pain radiating to the groin. She reports having similar episodes in the past. Her urinalysis reveals microscopic hematuria, and the urine pH is 5.0. She follows a high-protein diet. Which of the following stones is she most likely to have?",
-        "options": ["A. Struvite", "B. Uric acid", "C. Calcium phosphate", "D. Cystine", "E. Calcium oxalate"],
-        "answer": "B"
-      },
-      {
-        "question": "A 48-year-old man presents with intermittent left flank pain, gross hematuria, and a history of gout. He has been on allopurinol therapy for hyperuricemia. Urinalysis shows a urine pH of 5.5, and no crystals are observed. What is the most likely stone type in this patient?",
-        "options": ["A. Calcium oxalate", "B. Struvite", "C. Uric acid", "D. Cystine", "E. Calcium phosphate"],
-        "answer": "C"
-      },
-      {
-        "question": "A 29-year-old male presents to the emergency department with colicky left-sided abdominal pain that began abruptly 3 hours ago. He has a history of nephrolithiasis and admits to consuming large quantities of iced tea daily. Urinalysis shows dumbbell-shaped crystals. Which stone type is most likely?",
-        "options": ["A. Struvite", "B. Uric acid", "C. Calcium oxalate", "D. Cystine", "E. Calcium phosphate"],
-        "answer": "C"
-      },
-      {
-        "question": "A 42-year-old female presents to the emergency department with severe right-sided flank pain. She has no fever, chills, or dysuria but notes having this pain twice in the past year. Her urinalysis shows 2+ blood, a pH of 8.5, and coffin lid-shaped crystals. Which of the following is the most likely composition of her kidney stones?",
-        "options": ["A. Uric acid", "B. Struvite", "C. Calcium oxalate", "D. Calcium phosphate", "E. Cystine"],
-        "answer": "B"
-      },
-      {
-        "question": "A 55-year-old male presents with persistent lower back pain, nausea, and dark-colored urine. He denies any recent illness but has a history of hyperparathyroidism. His serum calcium is elevated, and urinalysis shows envelope-shaped crystals. What type of stone is he most likely forming?",
-        "options": ["A. Struvite", "B. Uric acid", "C. Calcium oxalate", "D. Cystine", "E. Calcium phosphate"],
-        "answer": "C"
-      },{
-        "question": "A 42-year-old male presents to the clinic with complaints of intermittent right flank pain. He has a family history of kidney disease but denies fever, chills, or urinary symptoms. Physical examination reveals a palpable mass in the right flank. A CT scan of the abdomen reveals multiple bilateral renal cysts. He is normotensive, and his serum creatinine is normal. Which of the following is the most likely diagnosis?",
-        "options": ["A. Autosomal recessive polycystic kidney disease", "B. Simple renal cysts", "C. Acquired cystic kidney disease", "D. Autosomal dominant polycystic kidney disease", "E. Medullary sponge kidney"],
-        "answer": "D"
-      },
-      {
-        "question": "A 28-year-old female is found to have multiple small renal cysts on an abdominal ultrasound performed during her routine annual checkup. She is asymptomatic with no family history of kidney disease. Which of the following is the most appropriate next step in management?",
-        "options": ["A. Immediate surgical intervention", "B. Cyst aspiration and sclerosis", "C. Routine follow-up with imaging", "D. Genetic testing for PKD1 mutation", "E. Referral for nephrectomy"],
-        "answer": "C"
-      },
-      {
-        "question": "A 60-year-old male with a history of end-stage renal disease (ESRD) on hemodialysis for the past 10 years presents with flank pain and gross hematuria. CT scan reveals bilateral small kidneys with numerous cysts. Which of the following is the most significant complication that could arise from his condition?",
-        "options": ["A. Cyst infection", "B. Renal cell carcinoma", "C. Recurrent kidney stones", "D. Hypertension", "E. Proteinuria"],
-        "answer": "B"
-      },
-      {
-        "question": "A neonate presents with abdominal distension and oliguria. An ultrasound reveals massively enlarged kidneys with diffuse small cysts radiating from the medulla to the cortex. The neonate also has signs of pulmonary hypoplasia. Which of the following is the most likely diagnosis?",
-        "options": ["A. Autosomal dominant polycystic kidney disease", "B. Autosomal recessive polycystic kidney disease", "C. Medullary sponge kidney", "D. Acquired cystic kidney disease", "E. Nephronophthisis"],
-        "answer": "B"
-      },
-      {
-        "question": "A 35-year-old male presents with a history of recurrent kidney stones. He is otherwise healthy and denies any significant past medical history. An intravenous pyelogram reveals cystic dilatation of the medullary and papillary collecting ducts. His condition is most likely associated with which of the following?",
-        "options": ["A. Hypercalciuria", "B. Hypertension", "C. Proteinuria", "D. Renal cell carcinoma", "E. Autosomal dominant inheritance"],
-        "answer": "A"
-      },
-      {
-        "question": "A 48-year-old male presents to the emergency department with right flank pain and gross hematuria. He has a history of end-stage renal disease and has been on hemodialysis for the past 12 years. On examination, he is afebrile and has no palpable abdominal mass. A renal ultrasound reveals multiple bilateral renal cysts. Which of the following is the most likely diagnosis?",
-        "options": ["A. Simple renal cysts", "B. Autosomal dominant polycystic kidney disease", "C. Autosomal recessive polycystic kidney disease", "D. Acquired cystic kidney disease", "E. Medullary sponge kidney"],
-        "answer": "D"
-      },
-      {
-        "question": "A 34-year-old female presents with dull, bilateral flank pain and recurrent urinary tract infections. She has a history of passing small stones and was diagnosed with hypercalciuria. An intravenous pyelogram shows characteristic pooling of contrast within cystic dilations in the medullary collecting ducts. What is the most likely diagnosis?",
-        "options": ["A. Autosomal dominant polycystic kidney disease", "B. Autosomal recessive polycystic kidney disease", "C. Medullary sponge kidney", "D. Acquired cystic kidney disease", "E. Simple renal cysts"],
-        "answer": "C"
-      },
-      {
-        "question": "A 60-year-old male with a known history of autosomal dominant polycystic kidney disease presents with worsening headaches and sudden-onset confusion. A CT angiography of the brain is performed and reveals a ruptured saccular aneurysm. Which of the following is the most likely associated condition?",
-        "options": ["A. Hepatic cysts", "B. Pancreatic cysts", "C. Renal cell carcinoma", "D. Cerebral aneurysm", "E. Diverticulosis"],
-        "answer": "D"
-      },
-      {
-        "question": "A 55-year-old female presents with worsening hypertension and bilateral flank discomfort. She has a family history of kidney disease. Physical examination reveals palpable bilateral abdominal masses. An abdominal ultrasound reveals enlarged kidneys with multiple bilateral cysts. Which genetic mutation is most commonly associated with her condition?",
-        "options": ["A. PKHD1", "B. PKD1", "C. PKD2", "D. VHL", "E. TSC1"],
-        "answer": "B"
-      },
-      {
-        "question": "A 3-year-old boy presents with abdominal distension and polyuria. An ultrasound reveals bilateral enlarged kidneys with microcysts radiating from the medulla to the cortex. He also has signs of portal hypertension and splenomegaly. Which of the following is the most likely diagnosis?",
-        "options": ["A. Autosomal dominant polycystic kidney disease", "B. Medullary sponge kidney", "C. Autosomal recessive polycystic kidney disease", "D. Simple renal cysts", "E. Acquired cystic kidney disease"],
-        "answer": "C"
-      },
-      {
-        "question": "A 65-year-old male presents with increased urinary frequency, nocturia, and a sensation of incomplete bladder emptying for the past 6 months. He denies hematuria or dysuria. On physical examination, a digital rectal exam (DRE) reveals a smooth, enlarged prostate with no nodules. His serum PSA is slightly elevated. What is the most appropriate initial management step for this patient?",
-        "options": ["A. Immediate prostate biopsy", "B. Start finasteride therapy", "C. Initiate tamsulosin", "D. Schedule transrectal ultrasound", "E. Begin antibiotics for suspected prostatitis"],
-        "answer": "C"
-      },
-      {
-        "question": "A 55-year-old male presents with sudden onset of fever, chills, dysuria, and perineal pain. He has a history of diabetes and hypertension. On examination, his prostate is warm, swollen, and tender. Laboratory results show leukocytosis and pyuria. Which of the following pathogens is most likely responsible for his condition?",
-        "options": ["A. Escherichia coli", "B. Staphylococcus aureus", "C. Klebsiella pneumoniae", "D. Pseudomonas aeruginosa", "E. Neisseria gonorrhoeae"],
-        "answer": "A"
-      },
-      {
-        "question": "A 73-year-old male presents with back pain, weight loss, and fatigue for the past few months. He reports increased nocturia and weak urinary stream. On examination, his prostate feels nodular. Laboratory results reveal elevated PSA and alkaline phosphatase levels. What is the next best step in evaluating this patient?",
-        "options": ["A. Bone scan", "B. Urine culture", "C. Abdominal ultrasound", "D. Pelvic CT scan", "E. Intravenous pyelogram"],
-        "answer": "A"
-      },
-      {
-        "question": "A 60-year-old male with a history of benign prostatic hyperplasia (BPH) presents with worsening lower urinary tract symptoms (LUTS) despite maximal medical therapy. He reports difficulty initiating urination, weak stream, and frequent nighttime urination. Which of the following is the most appropriate next step?",
-        "options": ["A. Alpha-blocker dose increase", "B. Transurethral resection of the prostate (TURP)", "C. Start antibiotics for suspected infection", "D. Addition of a beta-3 adrenergic agonist", "E. MRI of the prostate"],
-        "answer": "B"
-      },
-      {
-        "question": "A 45-year-old male with a family history of prostate cancer presents for routine screening. He is asymptomatic. His digital rectal exam is normal, but his PSA level is 6.0 ng/mL. What is the most appropriate next step?",
-        "options": ["A. Recheck PSA in 6 months", "B. Start finasteride therapy", "C. Refer for prostate biopsy", "D. Repeat PSA immediately", "E. Perform cystoscopy"],
-        "answer": "C"
-      },
-      {
-        "question": "A 72-year-old male presents with progressive lower urinary tract symptoms, including increased frequency, hesitancy, and nocturia for the past year. He has no fever, hematuria, or dysuria. His digital rectal exam reveals a moderately enlarged, smooth prostate. His serum PSA level is 2.5 ng/mL. What is the most appropriate next step in management?",
-        "options": ["A. Observation and follow-up", "B. Start antibiotics", "C. Refer for prostate biopsy", "D. Begin finasteride therapy", "E. Perform cystoscopy"],
-        "answer": "A"
-      },
-      {
-        "question": "A 45-year-old male presents with low back pain, difficulty urinating, and perineal discomfort. He has had these symptoms for about a week. His temperature is 38.5°C (101.3°F). On physical examination, his prostate is tender and warm to the touch. Laboratory results show elevated white blood cell count, pyuria, and bacteriuria. What is the most likely diagnosis?",
-        "options": ["A. Benign prostatic hyperplasia", "B. Prostate cancer", "C. Acute bacterial prostatitis", "D. Urethral stricture", "E. Chronic prostatitis"],
-        "answer": "C"
-      },
-      {
-        "question": "A 68-year-old male presents for routine evaluation. He reports occasional weak urinary stream but denies hematuria or significant urinary frequency. His digital rectal exam reveals a firm nodule in the right lobe of the prostate. His PSA level is 4.1 ng/mL. What is the next best step in evaluating this patient?",
-        "options": ["A. Repeat PSA in 6 months", "B. Refer for prostate biopsy", "C. Start finasteride", "D. Perform abdominal ultrasound", "E. Initiate alpha-blocker therapy"],
-        "answer": "B"
-      },
-      {
-        "question": "A 61-year-old male with a history of BPH presents with worsening urinary symptoms, including a weak urinary stream, straining to void, and nocturia. He has been on tamsulosin with minimal improvement. Which additional medication would be most appropriate to add to his treatment regimen?",
-        "options": ["A. Oxybutynin", "B. Finasteride", "C. Ciprofloxacin", "D. Sildenafil", "E. Dutasteride"],
-        "answer": "B"
-      },
-      {
-        "question": "A 59-year-old male presents with gross hematuria and increased urinary frequency. His past medical history is significant for diabetes and hypertension. On examination, his prostate is smooth and moderately enlarged. His PSA level is 1.8 ng/mL, and urinalysis confirms hematuria. Which of the following is the most likely cause of his symptoms?",
-        "options": ["A. Bladder cancer", "B. Prostate cancer", "C. Benign prostatic hyperplasia", "D. Urethral stricture", "E. Acute bacterial prostatitis"],
-        "answer": "A"
-      }
+      "question": "A 70-year-old male with benign prostatic hyperplasia presents with fever, dysuria, frequency, and flank pain for 5 days. He has a history of recurrent urinary tract infections and is currently taking tamsulosin. On exam, he has suprapubic tenderness and costovertebral angle tenderness. Urinalysis reveals pyuria and bacteriuria. What is the best initial management?",
+      "options": ["A. Oral nitrofurantoin", "B. Oral fosfomycin", "C. Oral fluoroquinolones", "D. Admission for IV antibiotics", "E. Metronidazole"],
+      "answer": "D",
+      "lecture": "2"
+    },
+    {
+      "question": "A 25-year-old non-pregnant female presents with burning during urination, urgency, and suprapubic pain for the past 3 days. She denies fever, chills, and flank pain. She reports a history of 3 similar episodes in the past year, treated successfully with antibiotics. Which of the following is the most appropriate next step in management?",
+      "options": ["A. Empiric antibiotics with urine culture", "B. Obtain pelvic ultrasound before starting treatment", "C. Prescribe cranberry tablets and observe", "D. Refer to urology for cystoscopy", "E. Urine dipstick test only, without antibiotics"],
+      "answer": "A",
+      "lecture": "2"
+    },
+    {
+      "question": "A 45-year-old male presents with dysuria and frequent urination for 1 week. He has no fever, chills, or back pain but reports a history of nephrolithiasis. Urine dipstick is positive for blood and leukocyte esterase. Which of the following organisms is most likely to be responsible for his symptoms?",
+      "options": ["A. Escherichia coli", "B. Proteus mirabilis", "C. Klebsiella pneumoniae", "D. Staphylococcus saprophyticus", "E. Group B Streptococcus"],
+      "answer": "B",
+      "lecture": "2"
+    },
+    {
+      "question": "A 70-year-old female with a history of diabetes presents with fever, chills, and lower abdominal pain. She has foul-smelling urine, and her urine dipstick is positive for leukocyte esterase and nitrites. Physical examination reveals suprapubic tenderness. What is the most important next step in management?",
+      "options": ["A. Oral fosfomycin", "B. Urine culture and start empiric IV antibiotics", "C. Observation and follow-up in 2 days", "D. Start oral nitrofurantoin", "E. Send for pelvic CT scan"],
+      "answer": "B",
+      "lecture": "2"
+    },
+    {
+      "question": "A 32-year-old male presents with dysuria, frequency, and urgency. He is afebrile and denies any other symptoms. Urinalysis reveals pyuria and positive nitrites. What additional test should be considered before starting empiric treatment?",
+      "options": ["A. Pelvic ultrasound", "B. Urethral swab for STI testing", "C. Renal CT scan", "D. Urine culture", "E. Prostate exam"],
+      "answer": "B",
+      "lecture": "2"
+    },
+    {
+      "question": "A 29-year-old woman presents with fever, flank pain, and nausea for 2 days. She is found to have costovertebral angle tenderness and positive urine culture for Escherichia coli. She is started on oral antibiotics. Two days later, she reports worsening symptoms and new-onset vomiting. What is the most appropriate next step?",
+      "options": ["A. Continue current antibiotics and reassess in 3 days", "B. Change oral antibiotics to fosfomycin", "C. Admission for IV antibiotics", "D. Pelvic ultrasound to rule out abscess", "E. Prescribe urinary analgesics only"],
+      "answer": "C",
+      "lecture": "2"
+    },
+    {
+      "question": "A 68-year-old woman presents with complaints of involuntary urine leakage for the past six months. She reports that the leakage occurs when she coughs, sneezes, or laughs. She denies nocturnal leakage, urgency, and any significant medical history. Physical exam is unremarkable except for a slightly weakened pelvic floor. What is the most likely type of incontinence in this patient?",
+      "options": ["A. Urge incontinence", "B. Stress incontinence", "C. Overflow incontinence", "D. Functional incontinence", "E. Transient incontinence"],
+      "answer": "B",
+      "lecture": "3"
+    },
+    {
+      "question": "A 75-year-old man with a history of diabetes and hypertension presents with complaints of difficulty initiating urination, a weak stream, and post-void dribbling over the past year. He denies any episodes of acute urinary retention or fever. His physical exam shows a distended bladder. What type of incontinence is most likely present in this patient?",
+      "options": ["A. Urge incontinence", "B. Stress incontinence", "C. Overflow incontinence", "D. Functional incontinence", "E. Transient incontinence"],
+      "answer": "C",
+      "lecture": "3"
+    },
+    {
+      "question": "A 60-year-old woman is brought in by her daughter due to increasing episodes of urinary incontinence. The daughter reports that her mother often does not recognize the need to void and leaks urine. The patient has a history of Alzheimer's disease and no other significant medical history. On physical exam, she appears comfortable, with no signs of acute distress. What is the most likely type of incontinence in this patient?",
+      "options": ["A. Urge incontinence", "B. Stress incontinence", "C. Overflow incontinence", "D. Functional incontinence", "E. Transient incontinence"],
+      "answer": "D",
+      "lecture": "3"
+    },
+    {
+      "question": "A 45-year-old man presents with frequent episodes of sudden, intense urges to urinate, followed by involuntary loss of urine if he is unable to reach a restroom quickly. He denies any leakage with coughing or sneezing. He has no significant medical history except for recently starting a new antihypertensive medication. What is the most likely type of incontinence in this patient?",
+      "options": ["A. Urge incontinence", "B. Stress incontinence", "C. Overflow incontinence", "D. Functional incontinence", "E. Transient incontinence"],
+      "answer": "A",
+      "lecture": "3"
+    },
+    {
+      "question": "An 80-year-old woman living in a nursing home is evaluated for frequent urinary leakage. The staff reports that she often wets her clothes before reaching the bathroom, especially at night. She has no history of urinary tract infections or recent changes in medications. A physical exam reveals no abnormal findings. What would be the initial step in managing this patient’s incontinence?",
+      "options": ["A. Pelvic muscle exercises", "B. Anticholinergic therapy", "C. Scheduled voiding", "D. Urodynamic testing", "E. Surgical consultation"],
+      "answer": "C",
+      "lecture": "3"
+    },
+    {
+      "question": "A 55-year-old woman presents with complaints of sudden, uncontrollable urges to urinate followed by involuntary urine leakage. She reports urinating more than 10 times a day, including several times during the night. She denies any leakage with coughing or sneezing and has no history of pelvic surgeries. What is the most likely type of incontinence in this patient?",
+      "options": ["A. Stress incontinence", "B. Overflow incontinence", "C. Urge incontinence", "D. Functional incontinence", "E. Transient incontinence"],
+      "answer": "C",
+      "lecture": "3"
+    },
+    {
+      "question": "A 45-year-old man presents to the clinic complaining of frequent nocturia and difficulty emptying his bladder. He reports that it often takes a long time to start urinating, and the stream is weak. He denies any sudden urges to urinate or leaking urine with exertion. On physical exam, a distended bladder is noted. What is the most likely diagnosis?",
+      "options": ["A. Urge incontinence", "B. Stress incontinence", "C. Overflow incontinence", "D. Functional incontinence", "E. Transient incontinence"],
+      "answer": "C",
+      "lecture": "3"
+    },
+    {
+      "question": "A 72-year-old woman with a history of diabetes presents with complaints of involuntary urine leakage. She notes that the leakage occurs suddenly, often before she can reach the bathroom, especially during the day. She denies leakage with coughing or sneezing. Physical examination and urinalysis are unremarkable. What is the most likely type of incontinence?",
+      "options": ["A. Stress incontinence", "B. Overflow incontinence", "C. Urge incontinence", "D. Functional incontinence", "E. Transient incontinence"],
+      "answer": "C",
+      "lecture": "3"
+    },
+    {
+      "question": "An 80-year-old man with a history of Parkinson’s disease presents with frequent episodes of urinary incontinence. He reports that he is unable to control his bladder, especially when he is unable to reach the toilet in time due to his slow movements. He denies symptoms of urgency or straining to urinate. What is the most likely type of incontinence?",
+      "options": ["A. Urge incontinence", "B. Stress incontinence", "C. Overflow incontinence", "D. Functional incontinence", "E. Transient incontinence"],
+      "answer": "D",
+      "lecture": "3"
+    },
+    {
+      "question": "A 60-year-old woman presents with complaints of urine leakage that occurs when she lifts heavy objects or exercises. She denies urgency, nocturia, or difficulty emptying her bladder. Physical examination reveals a slightly weakened pelvic floor. What is the most likely type of incontinence in this patient?",
+      "options": ["A. Urge incontinence", "B. Stress incontinence", "C. Overflow incontinence", "D. Functional incontinence", "E. Transient incontinence"],
+      "answer": "B",
+      "lecture": "3"
+    },
+    {
+      "question": "A 28-year-old male presents to the emergency department with severe right-sided flank pain that started abruptly a few hours ago. The pain radiates to his groin and is associated with nausea, but no vomiting. He has a history of kidney stones and his urine dipstick is positive for blood but negative for nitrites or leukocyte esterase. He is afebrile, and physical examination reveals costovertebral angle (CVA) tenderness on the right. What is the most appropriate initial diagnostic test for this patient?",
+      "options": ["A. Abdominal ultrasound", "B. Non-contrast CT scan of the abdomen and pelvis", "C. Intravenous pyelogram (IVP)", "D. Abdominal X-ray (KUB)", "E. Magnetic Resonance Imaging (MRI)"],
+      "answer": "B",
+      "lecture": "4"
+    },
+    {
+      "question": "A 45-year-old female presents with sudden, severe left-sided flank pain that radiates to the lower abdomen. She has a history of recurrent urinary tract infections and her urinalysis shows 3+ leukocytes, positive nitrites, and microscopic hematuria. Physical exam reveals CVA tenderness on the left side. What type of kidney stone is this patient most likely at risk of developing?",
+      "options": ["A. Calcium oxalate", "B. Calcium phosphate", "C. Uric acid", "D. Struvite", "E. Cystine"],
+      "answer": "D",
+      "lecture": "4"
+    },
+    {
+      "question": "A 40-year-old male presents with colicky right-sided flank pain that began 6 hours ago. He reports similar episodes in the past. He has a high-protein diet and limited fluid intake. Urinalysis reveals a pH of 5.0 and rhomboid-shaped crystals. What is the most likely composition of his kidney stones?",
+      "options": ["A. Calcium oxalate", "B. Struvite", "C. Uric acid", "D. Cystine", "E. Calcium phosphate"],
+      "answer": "C",
+      "lecture": "4"
+    },
+    {
+      "question": "A 60-year-old male presents with recurrent kidney stones. He has a history of hypertension and is currently on hydrochlorothiazide. His 24-hour urine analysis shows hypercalciuria and low citrate levels. What is the most appropriate dietary modification to prevent further stone formation?",
+      "options": ["A. Increase dietary sodium intake", "B. Decrease fluid intake", "C. Increase dietary calcium intake from supplements", "D. Decrease animal protein intake", "E. Increase intake of oxalate-rich foods"],
+      "answer": "D",
+      "lecture": "4"
+    },
+    {
+      "question": "A 50-year-old woman with a history of recurrent urinary tract infections presents with severe right-sided flank pain. She also reports intermittent fever, chills, and foul-smelling urine over the past week. Urine culture grows Proteus mirabilis, and urinalysis shows a pH of 8.2. Which stone type is she most likely to develop?",
+      "options": ["A. Calcium oxalate", "B. Uric acid", "C. Cystine", "D. Calcium phosphate", "E. Struvite"],
+      "answer": "E",
+      "lecture": "4"
+    },
+    {
+      "question": "A 35-year-old woman presents with sudden, severe right-sided flank pain radiating to the groin. She reports having similar episodes in the past. Her urinalysis reveals microscopic hematuria, and the urine pH is 5.0. She follows a high-protein diet. Which of the following stones is she most likely to have?",
+      "options": ["A. Struvite", "B. Uric acid", "C. Calcium phosphate", "D. Cystine", "E. Calcium oxalate"],
+      "answer": "B",
+      "lecture": "4"
+    },
+    {
+      "question": "A 48-year-old man presents with intermittent left flank pain, gross hematuria, and a history of gout. He has been on allopurinol therapy for hyperuricemia. Urinalysis shows a urine pH of 5.5, and no crystals are observed. What is the most likely stone type in this patient?",
+      "options": ["A. Calcium oxalate", "B. Struvite", "C. Uric acid", "D. Cystine", "E. Calcium phosphate"],
+      "answer": "C",
+      "lecture": "4"
+    },
+    {
+      "question": "A 29-year-old male presents to the emergency department with colicky left-sided abdominal pain that began abruptly 3 hours ago. He has a history of nephrolithiasis and admits to consuming large quantities of iced tea daily. Urinalysis shows dumbbell-shaped crystals. Which stone type is most likely?",
+      "options": ["A. Struvite", "B. Uric acid", "C. Calcium oxalate", "D. Cystine", "E. Calcium phosphate"],
+      "answer": "C",
+      "lecture": "4"
+    },
+    {
+      "question": "A 42-year-old female presents to the emergency department with severe right-sided flank pain. She has no fever, chills, or dysuria but notes having this pain twice in the past year. Her urinalysis shows 2+ blood, a pH of 8.5, and coffin lid-shaped crystals. Which of the following is the most likely composition of her kidney stones?",
+      "options": ["A. Uric acid", "B. Struvite", "C. Calcium oxalate", "D. Calcium phosphate", "E. Cystine"],
+      "answer": "B",
+      "lecture": "4"
+    },
+    {
+      "question": "A 55-year-old male presents with persistent lower back pain, nausea, and dark-colored urine. He denies any recent illness but has a history of hyperparathyroidism. His serum calcium is elevated, and urinalysis shows envelope-shaped crystals. What type of stone is he most likely forming?",
+      "options": ["A. Struvite", "B. Uric acid", "C. Calcium oxalate", "D. Cystine", "E. Calcium phosphate"],
+      "answer": "C",
+      "lecture": "4"
+    },{
+      "question": "A 42-year-old male presents to the clinic with complaints of intermittent right flank pain. He has a family history of kidney disease but denies fever, chills, or urinary symptoms. Physical examination reveals a palpable mass in the right flank. A CT scan of the abdomen reveals multiple bilateral renal cysts. He is normotensive, and his serum creatinine is normal. Which of the following is the most likely diagnosis?",
+      "options": ["A. Autosomal recessive polycystic kidney disease", "B. Simple renal cysts", "C. Acquired cystic kidney disease", "D. Autosomal dominant polycystic kidney disease", "E. Medullary sponge kidney"],
+      "answer": "D",
+      "lecture": "5"
+    },
+    {
+      "question": "A 28-year-old female is found to have multiple small renal cysts on an abdominal ultrasound performed during her routine annual checkup. She is asymptomatic with no family history of kidney disease. Which of the following is the most appropriate next step in management?",
+      "options": ["A. Immediate surgical intervention", "B. Cyst aspiration and sclerosis", "C. Routine follow-up with imaging", "D. Genetic testing for PKD1 mutation", "E. Referral for nephrectomy"],
+      "answer": "C",
+      "lecture": "5"
+    },
+    {
+      "question": "A 60-year-old male with a history of end-stage renal disease (ESRD) on hemodialysis for the past 10 years presents with flank pain and gross hematuria. CT scan reveals bilateral small kidneys with numerous cysts. Which of the following is the most significant complication that could arise from his condition?",
+      "options": ["A. Cyst infection", "B. Renal cell carcinoma", "C. Recurrent kidney stones", "D. Hypertension", "E. Proteinuria"],
+      "answer": "B",
+      "lecture": "5"
+    },
+    {
+      "question": "A neonate presents with abdominal distension and oliguria. An ultrasound reveals massively enlarged kidneys with diffuse small cysts radiating from the medulla to the cortex. The neonate also has signs of pulmonary hypoplasia. Which of the following is the most likely diagnosis?",
+      "options": ["A. Autosomal dominant polycystic kidney disease", "B. Autosomal recessive polycystic kidney disease", "C. Medullary sponge kidney", "D. Acquired cystic kidney disease", "E. Nephronophthisis"],
+      "answer": "B",
+      "lecture": "5"
+    },
+    {
+      "question": "A 35-year-old male presents with a history of recurrent kidney stones. He is otherwise healthy and denies any significant past medical history. An intravenous pyelogram reveals cystic dilatation of the medullary and papillary collecting ducts. His condition is most likely associated with which of the following?",
+      "options": ["A. Hypercalciuria", "B. Hypertension", "C. Proteinuria", "D. Renal cell carcinoma", "E. Autosomal dominant inheritance"],
+      "answer": "A",
+      "lecture": "5"
+    },
+    {
+      "question": "A 48-year-old male presents to the emergency department with right flank pain and gross hematuria. He has a history of end-stage renal disease and has been on hemodialysis for the past 12 years. On examination, he is afebrile and has no palpable abdominal mass. A renal ultrasound reveals multiple bilateral renal cysts. Which of the following is the most likely diagnosis?",
+      "options": ["A. Simple renal cysts", "B. Autosomal dominant polycystic kidney disease", "C. Autosomal recessive polycystic kidney disease", "D. Acquired cystic kidney disease", "E. Medullary sponge kidney"],
+      "answer": "D",
+      "lecture": "5"
+    },
+    {
+      "question": "A 34-year-old female presents with dull, bilateral flank pain and recurrent urinary tract infections. She has a history of passing small stones and was diagnosed with hypercalciuria. An intravenous pyelogram shows characteristic pooling of contrast within cystic dilations in the medullary collecting ducts. What is the most likely diagnosis?",
+      "options": ["A. Autosomal dominant polycystic kidney disease", "B. Autosomal recessive polycystic kidney disease", "C. Medullary sponge kidney", "D. Acquired cystic kidney disease", "E. Simple renal cysts"],
+      "answer": "C",
+      "lecture": "5"
+    },
+    {
+      "question": "A 60-year-old male with a known history of autosomal dominant polycystic kidney disease presents with worsening headaches and sudden-onset confusion. A CT angiography of the brain is performed and reveals a ruptured saccular aneurysm. Which of the following is the most likely associated condition?",
+      "options": ["A. Hepatic cysts", "B. Pancreatic cysts", "C. Renal cell carcinoma", "D. Cerebral aneurysm", "E. Diverticulosis"],
+      "answer": "D",
+      "lecture": "5"
+    },
+    {
+      "question": "A 55-year-old female presents with worsening hypertension and bilateral flank discomfort. She has a family history of kidney disease. Physical examination reveals palpable bilateral abdominal masses. An abdominal ultrasound reveals enlarged kidneys with multiple bilateral cysts. Which genetic mutation is most commonly associated with her condition?",
+      "options": ["A. PKHD1", "B. PKD1", "C. PKD2", "D. VHL", "E. TSC1"],
+      "answer": "B",
+      "lecture": "5"
+    },
+    {
+      "question": "A 3-year-old boy presents with abdominal distension and polyuria. An ultrasound reveals bilateral enlarged kidneys with microcysts radiating from the medulla to the cortex. He also has signs of portal hypertension and splenomegaly. Which of the following is the most likely diagnosis?",
+      "options": ["A. Autosomal dominant polycystic kidney disease", "B. Medullary sponge kidney", "C. Autosomal recessive polycystic kidney disease", "D. Simple renal cysts", "E. Acquired cystic kidney disease"],
+      "answer": "C",
+      "lecture": "5"
+    },
+    {
+      "question": "A 65-year-old male presents with increased urinary frequency, nocturia, and a sensation of incomplete bladder emptying for the past 6 months. He denies hematuria or dysuria. On physical examination, a digital rectal exam (DRE) reveals a smooth, enlarged prostate with no nodules. His serum PSA is slightly elevated. What is the most appropriate initial management step for this patient?",
+      "options": ["A. Immediate prostate biopsy", "B. Start finasteride therapy", "C. Initiate tamsulosin", "D. Schedule transrectal ultrasound", "E. Begin antibiotics for suspected prostatitis"],
+      "answer": "C",
+      "lecture": "6"
+    },
+    {
+      "question": "A 55-year-old male presents with sudden onset of fever, chills, dysuria, and perineal pain. He has a history of diabetes and hypertension. On examination, his prostate is warm, swollen, and tender. Laboratory results show leukocytosis and pyuria. Which of the following pathogens is most likely responsible for his condition?",
+      "options": ["A. Escherichia coli", "B. Staphylococcus aureus", "C. Klebsiella pneumoniae", "D. Pseudomonas aeruginosa", "E. Neisseria gonorrhoeae"],
+      "answer": "A",
+      "lecture": "6"
+    },
+    {
+      "question": "A 73-year-old male presents with back pain, weight loss, and fatigue for the past few months. He reports increased nocturia and weak urinary stream. On examination, his prostate feels nodular. Laboratory results reveal elevated PSA and alkaline phosphatase levels. What is the next best step in evaluating this patient?",
+      "options": ["A. Bone scan", "B. Urine culture", "C. Abdominal ultrasound", "D. Pelvic CT scan", "E. Intravenous pyelogram"],
+      "answer": "A",
+      "lecture": "6"
+    },
+    {
+      "question": "A 60-year-old male with a history of benign prostatic hyperplasia (BPH) presents with worsening lower urinary tract symptoms (LUTS) despite maximal medical therapy. He reports difficulty initiating urination, weak stream, and frequent nighttime urination. Which of the following is the most appropriate next step?",
+      "options": ["A. Alpha-blocker dose increase", "B. Transurethral resection of the prostate (TURP)", "C. Start antibiotics for suspected infection", "D. Addition of a beta-3 adrenergic agonist", "E. MRI of the prostate"],
+      "answer": "B",
+      "lecture": "6"
+    },
+    {
+      "question": "A 45-year-old male with a family history of prostate cancer presents for routine screening. He is asymptomatic. His digital rectal exam is normal, but his PSA level is 6.0 ng/mL. What is the most appropriate next step?",
+      "options": ["A. Recheck PSA in 6 months", "B. Start finasteride therapy", "C. Refer for prostate biopsy", "D. Repeat PSA immediately", "E. Perform cystoscopy"],
+      "answer": "C",
+      "lecture": "6"
+    },
+    {
+      "question": "A 72-year-old male presents with progressive lower urinary tract symptoms, including increased frequency, hesitancy, and nocturia for the past year. He has no fever, hematuria, or dysuria. His digital rectal exam reveals a moderately enlarged, smooth prostate. His serum PSA level is 2.5 ng/mL. What is the most appropriate next step in management?",
+      "options": ["A. Observation and follow-up", "B. Start antibiotics", "C. Refer for prostate biopsy", "D. Begin finasteride therapy", "E. Perform cystoscopy"],
+      "answer": "A",
+      "lecture": "6"
+    },
+    {
+      "question": "A 45-year-old male presents with low back pain, difficulty urinating, and perineal discomfort. He has had these symptoms for about a week. His temperature is 38.5°C (101.3°F). On physical examination, his prostate is tender and warm to the touch. Laboratory results show elevated white blood cell count, pyuria, and bacteriuria. What is the most likely diagnosis?",
+      "options": ["A. Benign prostatic hyperplasia", "B. Prostate cancer", "C. Acute bacterial prostatitis", "D. Urethral stricture", "E. Chronic prostatitis"],
+      "answer": "C",
+      "lecture": "6"
+    },
+    {
+      "question": "A 68-year-old male presents for routine evaluation. He reports occasional weak urinary stream but denies hematuria or significant urinary frequency. His digital rectal exam reveals a firm nodule in the right lobe of the prostate. His PSA level is 4.1 ng/mL. What is the next best step in evaluating this patient?",
+      "options": ["A. Repeat PSA in 6 months", "B. Refer for prostate biopsy", "C. Start finasteride", "D. Perform abdominal ultrasound", "E. Initiate alpha-blocker therapy"],
+      "answer": "B",
+      "lecture": "6"
+    },
+    {
+      "question": "A 61-year-old male with a history of BPH presents with worsening urinary symptoms, including a weak urinary stream, straining to void, and nocturia. He has been on tamsulosin with minimal improvement. Which additional medication would be most appropriate to add to his treatment regimen?",
+      "options": ["A. Oxybutynin", "B. Finasteride", "C. Ciprofloxacin", "D. Sildenafil", "E. Dutasteride"],
+      "answer": "B",
+      "lecture": "6"
+    },
+    {
+      "question": "A 59-year-old male presents with gross hematuria and increased urinary frequency. His past medical history is significant for diabetes and hypertension. On examination, his prostate is smooth and moderately enlarged. His PSA level is 1.8 ng/mL, and urinalysis confirms hematuria. Which of the following is the most likely cause of his symptoms?",
+      "options": ["A. Bladder cancer", "B. Prostate cancer", "C. Benign prostatic hyperplasia", "D. Urethral stricture", "E. Acute bacterial prostatitis"],
+      "answer": "A",
+      "lecture": "6"
+    }
 ]
