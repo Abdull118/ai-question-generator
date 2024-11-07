@@ -1720,5 +1720,185 @@
     ],
     "answer": "C",
     "lecture": "10"
+  },
+  {
+    "question": "A 55-year-old male presents with a history of recurrent urinary tract infections (UTIs) and progressive difficulty with urination. He reports no flank pain but notes occasional hematuria. A physical examination reveals an enlarged, non-tender prostate. Imaging confirms bilateral hydronephrosis and a dilated bladder. What is the most likely underlying cause of his condition?",
+    "options": [
+      "A. Ureteral stone",
+      "B. Bladder tumor",
+      "C. Urethral stricture",
+      "D. Benign prostatic hyperplasia",
+      "E. Renal cell carcinoma"
+    ],
+    "answer": "D",
+    "lecture": "11"
+  },
+  {
+    "question": "A 45-year-old woman is admitted with complaints of severe flank pain and nausea that began suddenly. A physical exam reveals mild costovertebral angle tenderness on the right side. A non-contrast CT scan shows a dilated right renal pelvis and proximal ureter. There is no evidence of stones. What is the most appropriate next step in management?",
+    "options": [
+      "A. Start antibiotics and observe",
+      "B. Place a nephrostomy tube",
+      "C. Perform a cystoscopy",
+      "D. Conduct a voiding cystourethrogram",
+      "E. Prescribe diuretics"
+    ],
+    "answer": "B",
+    "lecture": "11"
+  },
+  {
+    "question": "A 63-year-old male with a history of long-standing diabetes presents with acute urinary retention. On examination, he has suprapubic fullness and mild tenderness. An ultrasound confirms a distended bladder and bilateral hydronephrosis. Which of the following is the best initial management?",
+    "options": [
+      "A. Immediate cystoscopy",
+      "B. Catheter placement",
+      "C. MRI of the abdomen",
+      "D. Administration of diuretics",
+      "E. Surgical intervention"
+    ],
+    "answer": "B",
+    "lecture": "11"
+  },
+  {
+    "question": "A 28-year-old woman presents with intermittent left-sided flank pain for the past two weeks. She denies any fever, chills, or hematuria. An ultrasound shows moderate left hydronephrosis but no stones. Which of the following conditions should be considered in the differential diagnosis?",
+    "options": [
+      "A. Renal artery stenosis",
+      "B. Ureteropelvic junction obstruction",
+      "C. Bladder diverticulum",
+      "D. Cystitis",
+      "E. Renal cell carcinoma"
+    ],
+    "answer": "B",
+    "lecture": "11"
+  },
+  {
+    "question": "A 60-year-old male reports chronic pelvic pain and difficulty urinating. He also notes decreased urine output and mild bilateral flank discomfort. An abdominal CT scan reveals retroperitoneal thickening compressing both ureters. Which of the following is the most likely cause of his symptoms?",
+    "options": [
+      "A. Renal cell carcinoma",
+      "B. Idiopathic retroperitoneal fibrosis",
+      "C. Urethral stricture",
+      "D. Neurogenic bladder",
+      "E. Benign prostatic hyperplasia"
+    ],
+    "answer": "B",
+    "lecture": "11"
+  },
+  {
+    "question": "A 67-year-old male with a history of benign prostatic hyperplasia (BPH) presents with progressive difficulty urinating and nocturia. A recent ultrasound reveals a moderately distended bladder with bilateral hydronephrosis. Which of the following findings would most likely be present on examination?",
+    "options": [
+      "A. Costovertebral angle tenderness",
+      "B. Absent bladder dullness on percussion",
+      "C. Suprapubic fullness",
+      "D. Scrotal swelling",
+      "E. Palpable kidney masses"
+    ],
+    "answer": "C",
+    "lecture": "11"
+  },
+  {
+    "question": "A 48-year-old female presents with severe, sudden-onset right flank pain radiating to her lower abdomen. She reports nausea but denies fever or chills. Urinalysis shows microscopic hematuria. An ultrasound reveals right-sided hydronephrosis. What is the most likely diagnosis?",
+    "options": [
+      "A. Acute pyelonephritis",
+      "B. Ureteral stone",
+      "C. Bladder tumor",
+      "D. Retroperitoneal fibrosis",
+      "E. Renal artery stenosis"
+    ],
+    "answer": "B",
+    "lecture": "11"
+  },
+  {
+    "question": "A 72-year-old man is evaluated for chronic lower abdominal discomfort and difficulty voiding. His past medical history includes long-standing hypertension. Physical examination shows a distended bladder. A post-void residual volume test confirms significant urine retention. Which of the following is the most appropriate initial step in management?",
+    "options": [
+      "A. MRI of the pelvis",
+      "B. Administration of diuretics",
+      "C. Catheterization",
+      "D. Immediate cystoscopy",
+      "E. Prostate biopsy"
+    ],
+    "answer": "C",
+    "lecture": "11"
+  },
+  {
+    "question": "A 25-year-old woman presents with left-sided flank pain and hematuria. She has no history of urinary tract infections or trauma. An abdominal ultrasound reveals mild hydronephrosis without stones or masses. Which of the following additional tests would be most useful to confirm the diagnosis?",
+    "options": [
+      "A. Intravenous pyelogram (IVP)",
+      "B. Voiding cystourethrogram",
+      "C. MRI of the abdomen and pelvis",
+      "D. Renal function tests",
+      "E. Cystoscopy"
+    ],
+    "answer": "A",
+    "lecture": "11"
+  },
+  {
+    "question": "A 68-year-old male presents to the emergency department with confusion and decreased urine output for two days. He has a history of benign prostatic hyperplasia and chronic kidney disease. Physical examination reveals suprapubic tenderness and bilateral flank pain. What is the most likely underlying cause of his symptoms?",
+    "options": [
+      "A. Acute prostatitis",
+      "B. Ureteral stone",
+      "C. Bladder outlet obstruction",
+      "D. Renal artery stenosis",
+      "E. Retroperitoneal fibrosis"
+    ],
+    "answer": "C",
+    "lecture": "11"
+  },
+  {
+    "question": "A 70-year-old male with a history of advanced dementia presents with a BUN of 50 and a creatinine of 3. He has an indwelling Foley catheter placed a year ago after a fall. Physical examination reveals suprapubic tenderness. An ultrasound shows bilateral hydronephrosis and a markedly distended bladder. What is the most likely cause of his obstructive uropathy?",
+    "options": [
+      "A. Ureteral stone",
+      "B. Prostatic enlargement",
+      "C. Bladder tumor",
+      "D. Urethral stricture",
+      "E. Retroperitoneal fibrosis"
+    ],
+    "answer": "D",
+    "lecture": "11"
+  },
+  {
+    "question": "A 60-year-old female presents with progressive abdominal discomfort and decreased urine output. Imaging reveals retroperitoneal fibrosis with bilateral hydronephrosis. What is the most appropriate treatment approach to prevent further renal damage?",
+    "options": [
+      "A. Observation and periodic follow-up",
+      "B. Administration of diuretics",
+      "C. Placement of ureteral stents or surgical ureteral relocation",
+      "D. Antibiotic therapy",
+      "E. High-dose corticosteroids alone"
+    ],
+    "answer": "C",
+    "lecture": "11"
+  },
+  {
+    "question": "A patient is diagnosed with acute kidney injury (AKI) secondary to obstructive nephropathy. Which of the following best describes the mechanism leading to irreversible renal damage if the obstruction is not promptly managed?",
+    "options": [
+      "A. Increased filtration rate",
+      "B. Decreased tubular pressure",
+      "C. Tubular atrophy and interstitial fibrosis",
+      "D. Hyperkalemic metabolic acidosis",
+      "E. Excessive post-obstructive diuresis"
+    ],
+    "answer": "C",
+    "lecture": "11"
+  },
+  {
+    "question": "A 45-year-old man presents with flank pain and recurrent UTIs. Imaging reveals a stone in the proximal ureter causing moderate hydronephrosis. What clinical finding would most strongly indicate the need for immediate intervention?",
+    "options": [
+      "A. Intermittent hematuria",
+      "B. Mild leukocytosis",
+      "C. Persistent nausea",
+      "D. Sudden decrease in urine output",
+      "E. Costovertebral angle tenderness"
+    ],
+    "answer": "D",
+    "lecture": "11"
+  },
+  {
+    "question": "Which of the following is the hallmark finding on imaging for diagnosing obstructive uropathy?",
+    "options": [
+      "A. Bilateral kidney atrophy",
+      "B. Dilatation of the collecting system (hydronephrosis)",
+      "C. Increased echogenicity of the renal cortex",
+      "D. Presence of renal cysts",
+      "E. Retroperitoneal calcifications"
+    ],
+    "answer": "B",
+    "lecture": "11"
   }
 ]
