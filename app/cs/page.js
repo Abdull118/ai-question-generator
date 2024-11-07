@@ -162,6 +162,9 @@ const Page = () => {
           >
             All Lectures
           </button>
+          <button className={styles.reviewButton1} onClick={handleReturnHome}>
+              Return Home
+            </button>
         </div>
       )}
       {selectedLecture && (
@@ -170,7 +173,7 @@ const Page = () => {
             {!reviewMode && questions.length > 0 && (
               <>
                 <span className={styles.questionTracker}>
-                  <strong>Lecture {selectedLecture} </strong><br/>
+                  <strong>{selectedLecture !== 'all' ? `Lecture ${selectedLecture}` : null}</strong><br/>
                   Question {currentQuestionIndex + 1} of {totalQuestions}
                 </span>
                 <h3>{questions[currentQuestionIndex].question}</h3>
@@ -260,9 +263,15 @@ const Page = () => {
             <button className={styles.reviewButton} onClick={handleReviewToggle}>
               {reviewMode ? 'Return to All Questions' : 'Review Incorrect Questions'}
             </button>
-            <button className={styles.reviewButton} onClick={handleReturnHome}>
-              Return to Home
-            </button>
+            <div>
+              <button className={styles.reviewButton} onClick={()=>setSelectedLecture(null)}>
+                Go Back
+              </button>
+              <button className={styles.reviewButton} onClick={handleReturnHome}>
+                Return Home
+              </button>
+            </div>
+            
           </div>
         </>
       )}

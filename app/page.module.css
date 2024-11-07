@@ -146,6 +146,21 @@
  cursor: pointer;
 }
 
+.reviewButton1{
+ margin: 20px auto;
+  font-size: 1em;
+ padding: 10px 20px;
+ background-color: #0070f3;
+ color: #fff;
+ border: none;
+ border-radius: 5px;
+ cursor: pointer;
+}
+
+.buttons div{
+  display: flex;
+  gap: 10px;
+}
 .buttons{
   display: flex;
   flex-direction: column;
