@@ -108,6 +108,306 @@
     "lecture": "1"
   },
   {
+    "question": "A 40-year-old male presents with persistent microscopic hematuria detected during routine screening. He denies any urinary symptoms, recent infections, or trauma. He has a history of chronic analgesic use for headaches. Urine dipstick is positive for blood, and sediment analysis shows 6 RBCs per high power field. What condition should be considered in the differential diagnosis?",
+    "options": [
+      "A. IgA nephropathy",
+      "B. Renal cell carcinoma",
+      "C. Analgesic nephropathy",
+      "D. Urinary tract infection",
+      "E. Glomerulonephritis"
+    ],
+    "answer": "C",
+    "lecture": "1"
+  },
+  {
+    "question": "A 55-year-old male presents with painless gross hematuria and recent weight loss. He has no history of urinary tract infections or kidney stones. He worked in a factory handling chemicals for over 20 years. Physical exam reveals no abnormalities. Urine dipstick is positive for blood, and sediment analysis confirms 8 RBCs per high power field. What is the most appropriate next step?",
+    "options": [
+      "A. Urine culture",
+      "B. Renal biopsy",
+      "C. CT urography",
+      "D. Renal ultrasound",
+      "E. Repeat urinalysis in 2 weeks"
+    ],
+    "answer": "C",
+    "lecture": "1"
+  },
+  {
+    "question": "A 19-year-old male comes to the clinic with complaints of dark-colored urine following an intense workout session. He denies dysuria, fever, or flank pain. His urine dipstick is positive for blood, but sediment analysis reveals no RBCs. Which of the following is the most likely cause of his symptoms?",
+    "options": [
+      "A. Hemoglobinuria",
+      "B. Nutcracker syndrome",
+      "C. IgA nephropathy",
+      "D. Myoglobinuria",
+      "E. Vitamin C interference"
+    ],
+    "answer": "D",
+    "lecture": "1"
+  },
+  {
+    "question": "A 32-year-old woman presents with intermittent, painless gross hematuria. She denies recent infections, trauma, or family history of renal disease. Urine dipstick and sediment analysis confirm the presence of RBCs. Further imaging reveals compression of the left renal vein between the aorta and the superior mesenteric artery. What is the most likely diagnosis?",
+    "options": [
+      "A. IgA nephropathy",
+      "B. Renal cell carcinoma",
+      "C. Nutcracker syndrome",
+      "D. AV malformation",
+      "E. Ureteral stone"
+    ],
+    "answer": "C",
+    "lecture": "1"
+  },
+  {
+    "question": "A 68-year-old male with a history of smoking and chronic cystitis presents with new-onset microscopic hematuria. He denies any pain or fever. Urine dipstick is positive for blood, and urine sediment shows 5-7 RBCs per high power field. Which of the following risk factors most strongly suggests the need for urological evaluation for malignancy?",
+    "options": [
+      "A. Age >35 years",
+      "B. Recent cystitis episodes",
+      "C. Obesity",
+      "D. Use of diuretics",
+      "E. Past abdominal surgery"
+    ],
+    "answer": "A",
+    "lecture": "1"
+  },
+  {
+    "question": "A 45-year-old woman presents with microscopic hematuria detected during a routine health check. She denies any recent infections, trauma, or family history of renal disease. Urine dipstick is positive for blood, and urine sediment analysis shows 5 RBCs per high power field. Which of the following conditions should be considered if she reports no other symptoms?",
+    "options": [
+      "A. Exercise-induced hematuria",
+      "B. Bladder cancer",
+      "C. Vitamin C intake causing false positive",
+      "D. Cystitis",
+      "E. IgA nephropathy"
+    ],
+    "answer": "C",
+    "lecture": "1"
+  },
+  {
+    "question": "A 50-year-old male presents with painless gross hematuria. He denies fever, dysuria, or recent trauma but mentions a 10-pound weight loss over the past 2 months. His occupational history includes exposure to dyes and chemicals. Urine dipstick is positive for blood, and urine sediment shows 8 RBCs per high power field. What is the most appropriate initial diagnostic test?",
+    "options": [
+      "A. Renal biopsy",
+      "B. MRI of the kidneys",
+      "C. Cystoscopy",
+      "D. Voiding cystourethrogram",
+      "E. Urine cytology"
+    ],
+    "answer": "C",
+    "lecture": "1"
+  },
+  {
+    "question": "A 22-year-old male presents with tea-colored urine that started one day after a sore throat. He reports mild fatigue but no fever, dysuria, or recent travel. Urine dipstick is positive for blood, and sediment analysis shows RBC casts. What is the most likely diagnosis?",
+    "options": [
+      "A. Myoglobinuria",
+      "B. IgA nephropathy",
+      "C. Post-streptococcal glomerulonephritis",
+      "D. Hemophilia",
+      "E. Nephrolithiasis"
+    ],
+    "answer": "C",
+    "lecture": "1"
+  },
+  {
+    "question": "A 33-year-old female presents with mild flank pain and gross hematuria. She denies recent trauma or vigorous exercise. Physical examination reveals left-sided tenderness. Urine dipstick and sediment analysis confirm the presence of RBCs. An ultrasound shows compression of the left renal vein. Which treatment is most appropriate for this condition?",
+    "options": [
+      "A. Diuretics",
+      "B. Renal artery stenting",
+      "C. Conservative management with follow-up",
+      "D. Antibiotics",
+      "E. Surgery for AV malformation"
+    ],
+    "answer": "C",
+    "lecture": "1"
+  },
+  {
+    "question": "A 58-year-old male with a 30-year smoking history presents with microscopic hematuria. He denies dysuria, urgency, or history of kidney stones. Urine dipstick is positive for blood, and urine sediment shows 3 RBCs per high power field. What would be the most important step to take next?",
+    "options": [
+      "A. Repeat urinalysis in one month",
+      "B. Initiate antibiotic therapy",
+      "C. Perform cystoscopy",
+      "D. Prescribe NSAIDs",
+      "E. Check for coagulation disorders"
+    ],
+    "answer": "C",
+    "lecture": "1"
+  },
+  {
+    "question": "A 48-year-old male presents with intermittent, painless gross hematuria that he has noticed for the past month. He denies any fever, dysuria, or recent trauma but has a 20-year smoking history. Urine dipstick is positive for blood, and urine sediment analysis shows 10 RBCs per high power field. What is the most appropriate next diagnostic step?",
+    "options": [
+      "A. Renal ultrasound",
+      "B. Urine culture",
+      "C. Cystoscopy",
+      "D. Repeat urinalysis in 4 weeks",
+      "E. Empiric antibiotic therapy"
+    ],
+    "answer": "C",
+    "lecture": "1"
+  },
+  {
+    "question": "A 30-year-old female presents with gross hematuria following a marathon. She denies any pain, dysuria, or family history of kidney disease. Urine dipstick is positive for blood, and urine sediment shows 2 RBCs per high power field. What is the most likely explanation for her hematuria?",
+    "options": [
+      "A. UTI",
+      "B. IgA nephropathy",
+      "C. Exercise-induced hematuria",
+      "D. Bladder cancer",
+      "E. Vitamin C intake causing a false positive"
+    ],
+    "answer": "C",
+    "lecture": "1"
+  },
+  {
+    "question": "A 60-year-old male presents with new-onset microscopic hematuria. He reports no recent infections, dysuria, or trauma. He has a history of chronic cyclophosphamide use for a previous medical condition. Urine dipstick is positive for blood, and urine sediment analysis confirms 5 RBCs per high power field. What should be considered as the most concerning potential diagnosis?",
+    "options": [
+      "A. Chronic UTI",
+      "B. Bladder cancer",
+      "C. Kidney stones",
+      "D. Analgesic nephropathy",
+      "E. Renal artery stenosis"
+    ],
+    "answer": "B",
+    "lecture": "1"
+  },
+  {
+    "question": "A 35-year-old male presents with gross hematuria after a car accident. He reports flank pain but denies dysuria or fever. Urine dipstick and sediment analysis confirm blood and RBCs. Which of the following would be the most appropriate next step in management?",
+    "options": [
+      "A. Repeat urinalysis after 4 weeks",
+      "B. Abdominal CT scan",
+      "C. Start empirical antibiotics",
+      "D. Renal biopsy",
+      "E. Observation only"
+    ],
+    "answer": "B",
+    "lecture": "1"
+  },
+  {
+    "question": "A 29-year-old male reports red urine but denies pain or recent trauma. Urine dipstick is positive for blood, but urine sediment analysis shows no RBCs. Which of the following is most likely causing the red urine?",
+    "options": [
+      "A. Glomerulonephritis",
+      "B. Myoglobinuria",
+      "C. IgA nephropathy",
+      "D. Nutcracker syndrome",
+      "E. Renal cell carcinoma"
+    ],
+    "answer": "B",
+    "lecture": "1"
+  },
+  {
+    "question": "A 62-year-old male presents with painless gross hematuria. He denies any history of urinary tract infections, trauma, or recent exercise. He has a 30-year history of smoking and reports occupational exposure to dyes. Urine dipstick is positive for blood, and urine sediment analysis confirms the presence of 12 RBCs per high power field. What is the most appropriate next step in management?",
+    "options": [
+      "A. Urine cytology",
+      "B. Start empirical antibiotics",
+      "C. Cystoscopy",
+      "D. Repeat urinalysis in 4 weeks",
+      "E. Renal biopsy"
+    ],
+    "answer": "C",
+    "lecture": "1"
+  },
+  {
+    "question": "A 28-year-old female presents with microscopic hematuria noted during a routine examination. She denies pain, fever, or recent infections and reports a history of recent exercise. Urine dipstick is positive for blood, and sediment analysis shows 2 RBCs per high power field. What is the best next step?",
+    "options": [
+      "A. Renal biopsy",
+      "B. Repeat urinalysis after a period of rest",
+      "C. Start a course of antibiotics",
+      "D. Schedule a CT urography",
+      "E. Perform cystoscopy"
+    ],
+    "answer": "B",
+    "lecture": "1"
+  },
+  {
+    "question": "A 55-year-old male with a history of hypertension presents with persistent microscopic hematuria. He denies any other symptoms or recent trauma. Urine dipstick is positive for blood, and sediment analysis shows 5-7 RBCs per high power field. He has no known family history of kidney disease. What is the most appropriate test to rule out malignancy?",
+    "options": [
+      "A. Urine culture",
+      "B. MRI of the kidneys",
+      "C. Cystoscopy",
+      "D. Renal ultrasound",
+      "E. Intravenous pyelogram (IVP)"
+    ],
+    "answer": "C",
+    "lecture": "1"
+  },
+  {
+    "question": "A 24-year-old male presents with painless gross hematuria that appeared after a soccer game. He denies any other symptoms and reports being in good health. Urine dipstick is positive for blood, and urine sediment analysis shows 1 RBC per high power field. What is the most likely diagnosis?",
+    "options": [
+      "A. Nutcracker syndrome",
+      "B. Exercise-induced hematuria",
+      "C. Bladder cancer",
+      "D. IgA nephropathy",
+      "E. UTI"
+    ],
+    "answer": "B",
+    "lecture": "1"
+  },
+  {
+    "question": "A 47-year-old female presents with hematuria accompanied by suprapubic pain and dysuria. She denies fever or recent trauma. Urine dipstick and sediment analysis confirm the presence of blood and 8 RBCs per high power field. Which condition should be considered first in the differential diagnosis?",
+    "options": [
+      "A. Bladder cancer",
+      "B. UTI",
+      "C. Renal cell carcinoma",
+      "D. Nutcracker syndrome",
+      "E. Myoglobinuria"
+    ],
+    "answer": "B",
+    "lecture": "1"
+  },
+  {
+    "question": "A 65-year-old woman presents to the clinic with complaints of urine leakage that occurs whenever she laughs, sneezes, or exercises. She denies any strong urges to urinate before the leakage occurs and has no trouble emptying her bladder completely. What is the most likely type of incontinence?",
+    "options": [
+      "A. Urge incontinence",
+      "B. Stress incontinence",
+      "C. Overflow incontinence",
+      "D. Functional incontinence",
+      "E. Transient incontinence"
+    ],
+    "answer": "B",
+    "lecture": "3"
+  },
+  {
+    "question": "A 78-year-old man with a history of chronic constipation presents with complaints of dribbling urine and the feeling of incomplete bladder emptying. He has no history of recent urinary tract infections or nocturia. His physical exam shows a distended bladder and digital rectal exam reveals fecal impaction. What type of incontinence is most likely?",
+    "options": [
+      "A. Urge incontinence",
+      "B. Stress incontinence",
+      "C. Overflow incontinence",
+      "D. Functional incontinence",
+      "E. Transient incontinence"
+    ],
+    "answer": "C",
+    "lecture": "3"
+  },
+  {
+    "question": "A 70-year-old woman with a history of dementia is brought in by her daughter due to concerns of frequent urinary incontinence. The daughter reports that her mother often becomes confused and cannot find the bathroom in time. The patient has no history of sudden urges or leakage associated with coughing. What is the most likely type of incontinence?",
+    "options": [
+      "A. Urge incontinence",
+      "B. Stress incontinence",
+      "C. Overflow incontinence",
+      "D. Functional incontinence",
+      "E. Transient incontinence"
+    ],
+    "answer": "D",
+    "lecture": "3"
+  },
+  {
+    "question": "A 58-year-old man presents to the clinic with complaints of frequent urination and urgency, often resulting in urine leakage if he does not reach the bathroom quickly. He has no history of prostate issues or surgery, and physical examination is unremarkable. What is the most likely type of incontinence?",
+    "options": [
+      "A. Urge incontinence",
+      "B. Stress incontinence",
+      "C. Overflow incontinence",
+      "D. Functional incontinence",
+      "E. Transient incontinence"
+    ],
+    "answer": "A",
+    "lecture": "3"
+  },
+  {
+    "question": "A 40-year-old woman reports urine leakage that occurs during high-impact exercises such as jumping and running. She has no history of nocturia, urgency, or difficulty voiding. Pelvic exam shows a slight weakening of the pelvic floor muscles. What is the most likely diagnosis?",
+    "options": [
+      "A. Urge incontinence",
+      "B. Stress incontinence",
+      "C. Overflow incontinence",
+      "D. Functional incontinence",
+      "E. Transient incontinence"
+    ],
+    "answer": "B",
+    "lecture": "3"
+  },
+  {
     "question": "A 45-year-old male presents with a 3-day history of burning during urination, urinary frequency, and suprapubic discomfort. He denies any fever, chills, or back pain. He has no significant past medical history and is not taking any medications. Physical exam shows mild suprapubic tenderness. Urine dipstick is positive for leukocyte esterase and nitrites. Which of the following empiric therapies would be most appropriate for this patient?",
     "options": [
       "A. Nitrofurantoin",
@@ -288,6 +588,186 @@
     "lecture": "2"
   },
   {
+    "question": "A 35-year-old woman presents with dysuria and suprapubic pain for 3 days. She reports multiple similar episodes in the past year. Physical examination is unremarkable except for mild suprapubic tenderness. Urine dipstick is positive for leukocyte esterase. What is the most appropriate management for recurrent uncomplicated cystitis in this patient?",
+    "options": [
+      "A. Single-dose fosfomycin",
+      "B. Continuous prophylactic antibiotics",
+      "C. Fluoroquinolones for 7 days",
+      "D. Cranberry juice and increased hydration",
+      "E. Empiric treatment with nitrofurantoin and follow-up urine culture"
+    ],
+    "answer": "E",
+    "lecture": "2"
+  },
+  {
+    "question": "A 42-year-old male presents with urinary frequency, dysuria, and lower back pain. He denies fever but reports having had these symptoms intermittently for months. Digital rectal examination reveals a mildly tender, enlarged prostate. Urinalysis shows pyuria. What is the most likely diagnosis?",
+    "options": [
+      "A. Acute bacterial prostatitis",
+      "B. Chronic bacterial prostatitis",
+      "C. Cystitis",
+      "D. Urethritis",
+      "E. Pyelonephritis"
+    ],
+    "answer": "B",
+    "lecture": "2"
+  },
+  {
+    "question": "A 29-year-old pregnant woman at 32 weeks’ gestation presents with fever, flank pain, and nausea. She has a history of two prior UTIs during this pregnancy. Urine dipstick is positive for leukocyte esterase and nitrites. What is the most appropriate next step?",
+    "options": [
+      "A. Oral nitrofurantoin",
+      "B. Admission for IV antibiotics",
+      "C. Observation and follow-up in 2 days",
+      "D. Single-dose fosfomycin",
+      "E. Start metronidazole"
+    ],
+    "answer": "B",
+    "lecture": "2"
+  },
+  {
+    "question": "A 20-year-old male presents with painful urination and clear urethral discharge. He denies fever or chills but is sexually active with new partners. Which of the following is the most appropriate initial test?",
+    "options": [
+      "A. Urine dipstick",
+      "B. Urine culture",
+      "C. Urethral swab for gonorrhea and chlamydia testing",
+      "D. Renal ultrasound",
+      "E. Prostate-specific antigen (PSA) test"
+    ],
+    "answer": "C",
+    "lecture": "2"
+  },
+  {
+    "question": "A 60-year-old female with a history of diabetes presents with fever, chills, and flank pain for 2 days. Physical exam reveals costovertebral angle tenderness. Urine culture grows Escherichia coli. What is the most appropriate treatment for her condition?",
+    "options": [
+      "A. Oral fosfomycin",
+      "B. Oral trimethoprim-sulfamethoxazole",
+      "C. Oral nitrofurantoin",
+      "D. Admission for IV antibiotics",
+      "E. Observation with increased hydration"
+    ],
+    "answer": "D",
+    "lecture": "2"
+  },
+  {
+    "question": "A 30-year-old female presents with dysuria, frequency, and lower abdominal pain for 2 days. She denies fever or flank pain. She mentions she has a new sexual partner and has had multiple similar episodes in the past year. Urine dipstick is positive for leukocyte esterase. Which of the following is the most appropriate empiric therapy?",
+    "options": [
+      "A. Ciprofloxacin",
+      "B. Nitrofurantoin",
+      "C. Amoxicillin",
+      "D. Doxycycline",
+      "E. Metronidazole"
+    ],
+    "answer": "B",
+    "lecture": "2"
+  },
+  {
+    "question": "A 58-year-old male presents with dysuria and urgency. He has a history of diabetes and was recently treated with antibiotics for a skin infection. Urinalysis shows pyuria but no growth on urine culture. Which of the following is the most likely diagnosis?",
+    "options": [
+      "A. Cystitis due to E. coli",
+      "B. Urethritis from gonorrhea",
+      "C. Candida urinary tract infection",
+      "D. Asymptomatic bacteriuria",
+      "E. Prostatitis"
+    ],
+    "answer": "E",
+    "lecture": "2"
+  },
+  {
+    "question": "A 45-year-old female with a history of recurrent UTIs presents with fever, chills, and left-sided flank pain for 1 day. Urinalysis is positive for leukocyte esterase and nitrites. What is the most important next step in management?",
+    "options": [
+      "A. Prescribe oral trimethoprim-sulfamethoxazole",
+      "B. Start metronidazole and discharge the patient",
+      "C. Obtain a urine culture and admit for IV antibiotics",
+      "D. Begin oral nitrofurantoin and schedule a follow-up",
+      "E. Observation and hydration at home"
+    ],
+    "answer": "C",
+    "lecture": "2"
+  },
+  {
+    "question": "A 22-year-old male presents with painful urination and a urethral discharge. He is sexually active with a new partner. A urethral swab is positive for Neisseria gonorrhoeae. What is the most appropriate treatment?",
+    "options": [
+      "A. Oral ciprofloxacin",
+      "B. IV vancomycin",
+      "C. Oral metronidazole",
+      "D. IM ceftriaxone plus oral azithromycin",
+      "E. Oral doxycycline alone"
+    ],
+    "answer": "D",
+    "lecture": "2"
+  },
+  {
+    "question": "A 65-year-old female presents with recurrent urinary tract infections. She has a history of type 2 diabetes and reports frequent episodes of dysuria and urgency. Which of the following is the best preventive measure to reduce the recurrence of UTIs?",
+    "options": [
+      "A. Continuous prophylactic antibiotics",
+      "B. Single-dose fosfomycin after intercourse",
+      "C. Increased fluid intake and cranberry supplementation",
+      "D. Long-term fluoroquinolones",
+      "E. Topical estrogen therapy"
+    ],
+    "answer": "E",
+    "lecture": "2"
+  },
+  {
+    "question": "A 28-year-old male presents with a 2-day history of burning during urination and a milky urethral discharge. He denies fever and back pain but reports having unprotected intercourse with a new partner last week. A urethral swab is performed. What is the most appropriate empiric treatment?",
+    "options": [
+      "A. Oral trimethoprim-sulfamethoxazole",
+      "B. IM ceftriaxone plus oral azithromycin",
+      "C. Oral metronidazole",
+      "D. Oral ciprofloxacin",
+      "E. Oral doxycycline"
+    ],
+    "answer": "B",
+    "lecture": "2"
+  },
+  {
+    "question": "A 50-year-old male with a history of recurrent UTIs presents with dysuria, urgency, and suprapubic pain. He denies fever and chills. Urinalysis reveals positive leukocyte esterase but no nitrites. What is the most likely causative organism?",
+    "options": [
+      "A. Escherichia coli",
+      "B. Staphylococcus saprophyticus",
+      "C. Klebsiella pneumoniae",
+      "D. Proteus mirabilis",
+      "E. Enterococcus faecalis"
+    ],
+    "answer": "E",
+    "lecture": "2"
+  },
+  {
+    "question": "A 30-year-old female presents with dysuria, frequency, and suprapubic pain. She reports these symptoms occur almost every month after sexual activity. Which of the following is the best preventive strategy to reduce the recurrence of her UTIs?",
+    "options": [
+      "A. Prescribe continuous prophylactic antibiotics",
+      "B. Recommend postcoital antimicrobial prophylaxis",
+      "C. Increase fluid intake and cranberry juice supplementation",
+      "D. Use nitrofurantoin at the onset of symptoms",
+      "E. Refer to a urologist for further evaluation"
+    ],
+    "answer": "B",
+    "lecture": "2"
+  },
+  {
+    "question": "A 47-year-old male presents with dysuria and fever for 2 days. He reports suprapubic pain and difficulty initiating urination. Digital rectal examination reveals a tender, boggy prostate. What is the most appropriate next step in treatment?",
+    "options": [
+      "A. Prescribe oral nitrofurantoin",
+      "B. Initiate oral trimethoprim-sulfamethoxazole",
+      "C. Start metronidazole and schedule a follow-up",
+      "D. Observation and hydration",
+      "E. Recommend cranberry supplementation"
+    ],
+    "answer": "B",
+    "lecture": "2"
+  },
+  {
+    "question": "A 55-year-old female with type 2 diabetes presents with dysuria, flank pain, and fever. She has a history of recurrent UTIs and is currently febrile with costovertebral angle tenderness. Which of the following diagnostic studies should be considered to evaluate for complications?",
+    "options": [
+      "A. Pelvic ultrasound",
+      "B. Renal ultrasound",
+      "C. Urethral swab for STI testing",
+      "D. Cystoscopy",
+      "E. PSA test"
+    ],
+    "answer": "B",
+    "lecture": "2"
+  },
+  {
     "question": "A 68-year-old woman presents with complaints of involuntary urine leakage for the past six months. She reports that the leakage occurs when she coughs, sneezes, or laughs. She denies nocturnal leakage, urgency, and any significant medical history. Physical exam is unremarkable except for a slightly weakened pelvic floor. What is the most likely type of incontinence in this patient?",
     "options": [
       "A. Urge incontinence",
@@ -397,6 +877,66 @@
   },
   {
     "question": "A 60-year-old woman presents with complaints of urine leakage that occurs when she lifts heavy objects or exercises. She denies urgency, nocturia, or difficulty emptying her bladder. Physical examination reveals a slightly weakened pelvic floor. What is the most likely type of incontinence in this patient?",
+    "options": [
+      "A. Urge incontinence",
+      "B. Stress incontinence",
+      "C. Overflow incontinence",
+      "D. Functional incontinence",
+      "E. Transient incontinence"
+    ],
+    "answer": "B",
+    "lecture": "3"
+  },
+  {
+    "question": "A 75-year-old woman presents with complaints of frequent urinary incontinence that occurs without warning. She describes a strong, sudden urge to urinate and reports that she often cannot make it to the bathroom in time. She denies leakage associated with physical activity or coughing. What type of incontinence does she most likely have?",
+    "options": [
+      "A. Stress incontinence",
+      "B. Overflow incontinence",
+      "C. Urge incontinence",
+      "D. Functional incontinence",
+      "E. Transient incontinence"
+    ],
+    "answer": "C",
+    "lecture": "3"
+  },
+  {
+    "question": "A 69-year-old man presents with complaints of dribbling urine and a sensation of incomplete bladder emptying. He has a history of benign prostatic hyperplasia (BPH). He denies any sudden urges or leakage during physical exertion. What type of incontinence does this patient most likely have?",
+    "options": [
+      "A. Urge incontinence",
+      "B. Stress incontinence",
+      "C. Overflow incontinence",
+      "D. Functional incontinence",
+      "E. Transient incontinence"
+    ],
+    "answer": "C",
+    "lecture": "3"
+  },
+  {
+    "question": "An 82-year-old woman with advanced arthritis presents with complaints of urine leakage. She states that she knows when she needs to urinate but often cannot reach the bathroom quickly enough due to her limited mobility. She denies any strong urges or leakage related to coughing or sneezing. What is the most likely type of incontinence?",
+    "options": [
+      "A. Urge incontinence",
+      "B. Stress incontinence",
+      "C. Overflow incontinence",
+      "D. Functional incontinence",
+      "E. Transient incontinence"
+    ],
+    "answer": "D",
+    "lecture": "3"
+  },
+  {
+    "question": "A 62-year-old man reports frequent episodes of sudden urgency to urinate, which sometimes leads to involuntary leakage. He denies any dribbling, nocturia, or trouble emptying his bladder completely. What is the most likely type of incontinence?",
+    "options": [
+      "A. Stress incontinence",
+      "B. Overflow incontinence",
+      "C. Urge incontinence",
+      "D. Functional incontinence",
+      "E. Transient incontinence"
+    ],
+    "answer": "C",
+    "lecture": "3"
+  },
+  {
+    "question": "A 55-year-old woman presents to the clinic with complaints of urine leakage when she exercises, particularly during high-impact activities like jumping and running. She denies urgency, nocturia, or difficulty with bladder emptying. Her pelvic exam shows slight weakness of the pelvic floor. What type of incontinence is most likely?",
     "options": [
       "A. Urge incontinence",
       "B. Stress incontinence",
@@ -1064,121 +1604,121 @@
   {
     "question": "A 43-year-old male presents with chronic fatigue and muscle weakness. His laboratory results indicate hyperkalemia, normal anion gap metabolic acidosis, and a urine pH of 5.2. He has been on spironolactone for his hypertension. What is the most likely diagnosis?",
     "options": [
-        "A. Type I RTA",
-        "B. Type II RTA",
-        "C. Type IV RTA",
-        "D. Addison's disease",
-        "E. Bartter syndrome"
+      "A. Type I RTA",
+      "B. Type II RTA",
+      "C. Type IV RTA",
+      "D. Addison's disease",
+      "E. Bartter syndrome"
     ],
     "answer": "C",
     "lecture": "10"
-},
-{
+  },
+  {
     "question": "A 28-year-old woman presents with a history of polyuria, weakness, and recent development of kidney stones. Her lab findings show hypokalemia, a urine pH of 6.4, and a normal anion gap metabolic acidosis. Which condition is most consistent with these findings?",
     "options": [
-        "A. Type I RTA",
-        "B. Type II RTA",
-        "C. Type IV RTA",
-        "D. Chronic kidney disease",
-        "E. Primary hyperparathyroidism"
+      "A. Type I RTA",
+      "B. Type II RTA",
+      "C. Type IV RTA",
+      "D. Chronic kidney disease",
+      "E. Primary hyperparathyroidism"
     ],
     "answer": "A",
     "lecture": "10"
-},
-{
+  },
+  {
     "question": "A 10-year-old child presents with stunted growth, polyuria, and muscle cramps. Lab results reveal a normal anion gap metabolic acidosis and hypokalemia. His urine is initially alkaline but becomes more acidic as the serum bicarbonate level drops. What is the most likely diagnosis?",
     "options": [
-        "A. Type I RTA",
-        "B. Type II RTA",
-        "C. Type IV RTA",
-        "D. Distal renal tubular dysfunction",
-        "E. Renal osteodystrophy"
+      "A. Type I RTA",
+      "B. Type II RTA",
+      "C. Type IV RTA",
+      "D. Distal renal tubular dysfunction",
+      "E. Renal osteodystrophy"
     ],
     "answer": "B",
     "lecture": "10"
-},
-{
+  },
+  {
     "question": "A 61-year-old male with a history of uncontrolled diabetes mellitus presents with hyperkalemia, metabolic acidosis with a normal anion gap, and a urine pH of 5.3. What is the most likely type of renal tubular acidosis?",
     "options": [
-        "A. Type I RTA",
-        "B. Type II RTA",
-        "C. Type IV RTA",
-        "D. Diabetic ketoacidosis",
-        "E. Nephrogenic diabetes insipidus"
+      "A. Type I RTA",
+      "B. Type II RTA",
+      "C. Type IV RTA",
+      "D. Diabetic ketoacidosis",
+      "E. Nephrogenic diabetes insipidus"
     ],
     "answer": "C",
     "lecture": "10"
-},
-{
+  },
+  {
     "question": "A 35-year-old female presents with generalized weakness and muscle cramps. Lab tests show normal anion gap metabolic acidosis, hypokalemia, and a urine pH > 5.5. She has a history of autoimmune conditions, including Sjogren's syndrome. What is the most likely diagnosis?",
     "options": [
-        "A. Type I RTA",
-        "B. Type II RTA",
-        "C. Type IV RTA",
-        "D. Chronic interstitial nephritis",
-        "E. Fanconi syndrome"
+      "A. Type I RTA",
+      "B. Type II RTA",
+      "C. Type IV RTA",
+      "D. Chronic interstitial nephritis",
+      "E. Fanconi syndrome"
     ],
     "answer": "A",
     "lecture": "10"
-},
-{
+  },
+  {
     "question": "A 55-year-old female presents with generalized weakness, bone pain, and polyuria. Her lab results reveal hypokalemia, normal anion gap metabolic acidosis, and a urine pH of 6.5. She has a history of multiple kidney stones. What is the most likely diagnosis?",
     "options": [
-        "A. Type I RTA",
-        "B. Type II RTA",
-        "C. Type IV RTA",
-        "D. Bartter syndrome",
-        "E. Hyperparathyroidism"
+      "A. Type I RTA",
+      "B. Type II RTA",
+      "C. Type IV RTA",
+      "D. Bartter syndrome",
+      "E. Hyperparathyroidism"
     ],
     "answer": "A",
     "lecture": "10"
-},
-{
+  },
+  {
     "question": "A 30-year-old male presents with muscle weakness and fatigue. Lab tests show hyperkalemia, normal anion gap metabolic acidosis, and a urine pH of 5.0. He is on ACE inhibitors for hypertension. Which type of renal tubular acidosis does he most likely have?",
     "options": [
-        "A. Type I RTA",
-        "B. Type II RTA",
-        "C. Type IV RTA",
-        "D. Addison’s disease",
-        "E. Bartter syndrome"
+      "A. Type I RTA",
+      "B. Type II RTA",
+      "C. Type IV RTA",
+      "D. Addison’s disease",
+      "E. Bartter syndrome"
     ],
     "answer": "C",
     "lecture": "10"
-},
-{
+  },
+  {
     "question": "A 12-year-old girl presents with short stature and rickets. Her lab tests show normal anion gap metabolic acidosis, hypokalemia, and an initially high urine pH that decreases below 5.5 as serum bicarbonate drops. Which type of renal tubular acidosis does she most likely have?",
     "options": [
-        "A. Type I RTA",
-        "B. Type II RTA",
-        "C. Type IV RTA",
-        "D. Fanconi syndrome",
-        "E. Primary hyperparathyroidism"
+      "A. Type I RTA",
+      "B. Type II RTA",
+      "C. Type IV RTA",
+      "D. Fanconi syndrome",
+      "E. Primary hyperparathyroidism"
     ],
     "answer": "B",
     "lecture": "10"
-},
-{
+  },
+  {
     "question": "A 47-year-old male presents with muscle cramps and episodes of polyuria. Lab findings reveal a urine pH of 6.8, hypokalemia, and normal anion gap metabolic acidosis. He has a history of kidney stones. What is the most likely type of renal tubular acidosis?",
     "options": [
-        "A. Type I RTA",
-        "B. Type II RTA",
-        "C. Type IV RTA",
-        "D. Chronic interstitial nephritis",
-        "E. Diabetic nephropathy"
+      "A. Type I RTA",
+      "B. Type II RTA",
+      "C. Type IV RTA",
+      "D. Chronic interstitial nephritis",
+      "E. Diabetic nephropathy"
     ],
     "answer": "A",
     "lecture": "10"
-},
-{
+  },
+  {
     "question": "A 60-year-old male with a history of poorly controlled diabetes presents with mild edema and lab results showing hyperkalemia, normal anion gap metabolic acidosis, and a urine pH of 5.3. What is the most likely underlying condition?",
     "options": [
-        "A. Type I RTA",
-        "B. Type II RTA",
-        "C. Type IV RTA",
-        "D. Diabetic ketoacidosis",
-        "E. Chronic kidney disease"
+      "A. Type I RTA",
+      "B. Type II RTA",
+      "C. Type IV RTA",
+      "D. Diabetic ketoacidosis",
+      "E. Chronic kidney disease"
     ],
     "answer": "C",
     "lecture": "10"
-}
+  }
 ]
