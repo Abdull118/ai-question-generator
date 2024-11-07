@@ -170,6 +170,7 @@ const Page = () => {
             {!reviewMode && questions.length > 0 && (
               <>
                 <span className={styles.questionTracker}>
+                  <strong>Lecture {selectedLecture} </strong><br/>
                   Question {currentQuestionIndex + 1} of {totalQuestions}
                 </span>
                 <h3>{questions[currentQuestionIndex].question}</h3>
