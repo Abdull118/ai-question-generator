@@ -1900,5 +1900,113 @@
     ],
     "answer": "B",
     "lecture": "11"
+  },
+  {
+    "question": "A 28-year-old male presents to the emergency department with complaints of dark, tea-colored urine and severe muscle pain. He recently participated in an intense marathon training session and experienced dehydration. On examination, he appears tachycardic and has muscle tenderness in his calves. Initial laboratory findings reveal elevated CPK levels and hyperkalemia. Which of the following is the most immediate next step in management?",
+    "options": [
+      "A. IV calcium gluconate",
+      "B. Start isotonic IV fluids",
+      "C. Dialysis",
+      "D. Alkaline diuresis",
+      "E. Mannitol infusion"
+    ],
+    "answer": "B",
+    "lecture": "12"
+  },
+  {
+    "question": "A 19-year-old college athlete presents with fatigue, muscle cramping, and dark-colored urine after several consecutive days of strenuous weightlifting and minimal hydration. His blood tests show elevated CPK levels and a urine dipstick test positive for heme, with no RBCs seen on microscopy. What is the most likely diagnosis?",
+    "options": [
+      "A. Acute pyelonephritis",
+      "B. Rhabdomyolysis",
+      "C. UTI with hematuria",
+      "D. Nephrolithiasis",
+      "E. Glomerulonephritis"
+    ],
+    "answer": "B",
+    "lecture": "12"
+  },
+  {
+    "question": "A 35-year-old man presents to the clinic complaining of muscle cramps and dark-colored urine after a long hike in hot weather. He reports drinking an 'energy supplement' with unknown ingredients. Examination shows muscle twitching and tenderness in his thighs. Laboratory results indicate elevated serum potassium and creatine kinase. What is the primary mechanism causing the kidney injury in this condition?",
+    "options": [
+      "A. Direct tubular necrosis by hemoglobin",
+      "B. Myoglobin-induced tubular obstruction",
+      "C. Immune complex deposition",
+      "D. Uric acid precipitation",
+      "E. Calcium oxalate crystal formation"
+    ],
+    "answer": "B",
+    "lecture": "12"
+  },
+  {
+    "question": "A 24-year-old female is brought to the ED after collapsing during a dance rehearsal in high heat. She is confused and agitated, with a blood pressure of 90/60 mmHg and a temperature of 103°F. Lab results reveal increased serum creatine kinase and metabolic acidosis. What initial treatment should be prioritized?",
+    "options": [
+      "A. Cooling blankets for hyperthermia",
+      "B. IV hydration with normal saline",
+      "C. Administration of diuretics",
+      "D. Sodium bicarbonate infusion",
+      "E. Immediate dialysis"
+    ],
+    "answer": "B",
+    "lecture": "12"
+  },
+  {
+    "question": "A 50-year-old construction worker presents after being pinned under debris for several hours following an accident. He reports extreme muscle pain, and urine analysis shows dark brown urine with positive dipstick heme but no red cells on microscopy. What complication should be closely monitored for in this patient?",
+    "options": [
+      "A. Hypercalcemia",
+      "B. Hypokalemia",
+      "C. Acute kidney injury",
+      "D. Hepatic failure",
+      "E. Hyponatremia"
+    ],
+    "answer": "C",
+    "lecture": "12"
+  },
+  {
+    "question": "A 30-year-old woman presents to the emergency department with severe muscle pain and weakness after a vigorous CrossFit workout. She notes her urine has become dark in color. Physical examination reveals muscle tenderness, and laboratory results show a CPK of 25,000 U/L and hyperkalemia. What is the best initial treatment for this patient?",
+    "options": [
+      "A. IV mannitol",
+      "B. IV normal saline",
+      "C. Hemodialysis",
+      "D. IV calcium gluconate",
+      "E. Sodium bicarbonate infusion"
+    ],
+    "answer": "B",
+    "lecture": "12"
+  },
+  {
+    "question": "A 40-year-old man is brought to the ED after being found unconscious in his garage following a long night of heavy alcohol consumption. On examination, he has dark, tea-colored urine and muscle tenderness. Lab tests reveal elevated creatine kinase and a potassium level of 6.2 mEq/L. What is the most likely underlying cause of his renal issues?",
+    "options": [
+      "A. Ethanol-induced acute tubular necrosis",
+      "B. Myoglobin-induced renal tubular obstruction",
+      "C. Uric acid nephropathy",
+      "D. Ethylene glycol poisoning",
+      "E. Hepatorenal syndrome"
+    ],
+    "answer": "B",
+    "lecture": "12"
+  },
+  {
+    "question": "A 25-year-old male presents to urgent care complaining of muscle cramping and cola-colored urine after running a marathon in hot weather. He reports feeling fatigued and light-headed. His CPK levels are significantly elevated, and a urine dipstick is positive for blood, but no RBCs are observed on microscopy. What complication should be monitored for in this patient?",
+    "options": [
+      "A. Rhabdomyolysis-induced cardiac arrhythmias",
+      "B. Hypernatremia",
+      "C. Hypocalcemia",
+      "D. Hepatotoxicity",
+      "E. Pulmonary embolism"
+    ],
+    "answer": "A",
+    "lecture": "12"
+  },
+  {
+    "question": "A 22-year-old college student presents with muscle weakness and reddish-brown urine following a week of intense weightlifting and a high-protein diet. Lab results show a CPK level of 45,000 U/L, and a urine dipstick test shows positive heme but no RBCs on microscopic analysis. Which of the following lab findings would most likely be present in this patient?",
+    "options": [
+      "A. Hypokalemia",
+      "B. Hyperuricemia",
+      "C. Thrombocytopenia",
+      "D. Leukocytosis",
+      "E. Hypoglycemia"
+    ],
+    "answer": "B",
+    "lecture": "12"
   }
 ]
