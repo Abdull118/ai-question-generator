@@ -109,16 +109,33 @@ const Page = () => {
   const handleReviewToggle = () => {
     if (reviewMode) {
       setReviewMode(false);
-      setQuestions(questionsData.filter(
+  
+      // Filter questions based on the selected lecture when exiting review mode
+      const filteredLectureQuestions =
+        selectedLecture === "all"
+          ? questionsData // Show all questions if "all" is selected
+          : questionsData.filter((question) => question.lecture === selectedLecture);
+  
+      // Filter out questions that were already answered correctly
+      const filteredQuestions = filteredLectureQuestions.filter(
         (question) => !correctQuestions.some((correct) => correct.question === question.question)
-      ));
+      );
+  
+      setQuestions(filteredQuestions);
       setCurrentQuestionIndex(0);
     } else {
       setReviewMode(true);
+  
+      // Filter incorrect questions based on the selected lecture
+      const filteredIncorrectQuestions =
+        selectedLecture === "all"
+          ? incorrectQuestions // Show all incorrect questions if "all" is selected
+          : incorrectQuestions.filter((question) => question.lecture === selectedLecture);
+  
+      setIncorrectQuestions(filteredIncorrectQuestions);
       setCurrentQuestionIndex(0);
     }
   };
-
   const handleReturnHome = () => {
     router.push('/'); // Navigate to the home route
   };
