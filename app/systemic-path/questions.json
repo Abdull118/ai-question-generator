@@ -1,452 +1,2672 @@
-[
+{
+  "1": [
     {
       "question": "A 2-month-old infant presents with a palpable mass in the left abdomen. The mass is surgically removed, revealing cysts of varying sizes. Histological examination shows undifferentiated tubules surrounded by mesenchyme, smooth muscle, and islands of cartilage. Which of the following is the most likely diagnosis?",
-      "options": ["A. Infantile polycystic disease", "B. Medullary sponge kidney", "C. Neuroblastoma", "D. Wilm’s tumor", "E. Renal dysplasia"],
+      "options": [
+        "A. Infantile polycystic disease",
+        "B. Medullary sponge kidney",
+        "C. Neuroblastoma",
+        "D. Wilm’s tumor",
+        "E. Renal dysplasia"
+      ],
       "answer": "D"
     },
     {
       "question": "A 40-year-old male presents with a palpable abdominal mass, flank pain, and hematuria. Imaging reveals bilateral enlarged kidneys with multiple cysts throughout the cortex and medulla. Which gene is most commonly associated with this condition?",
-      "options": ["A. PKD1", "B. PKD2", "C. PKHD1", "D. Fibrocystin", "E. Polycystin"],
+      "options": [
+        "A. PKD1",
+        "B. PKD2",
+        "C. PKHD1",
+        "D. Fibrocystin",
+        "E. Polycystin"
+      ],
       "answer": "A"
     },
     {
       "question": "A 10-year-old child with a history of progressive renal failure has bilaterally enlarged kidneys on imaging. Histology shows radially arranged cysts and a smooth external surface. Which condition is most likely present?",
-      "options": ["A. Autosomal dominant polycystic kidney disease (ADPKD)", "B. Autosomal recessive polycystic kidney disease (ARPKD)", "C. Multicystic dysplastic kidney", "D. Medullary sponge kidney", "E. Acquired cystic kidney disease"],
+      "options": [
+        "A. Autosomal dominant polycystic kidney disease (ADPKD)",
+        "B. Autosomal recessive polycystic kidney disease (ARPKD)",
+        "C. Multicystic dysplastic kidney",
+        "D. Medullary sponge kidney",
+        "E. Acquired cystic kidney disease"
+      ],
       "answer": "B"
     },
     {
       "question": "A 45-year-old male undergoing long-term hemodialysis develops cysts in both the cortex and medulla of the kidneys. What is the main concern associated with this acquired condition?",
-      "options": ["A. Kidney stones", "B. Renal cell carcinoma", "C. Glomerulonephritis", "D. Hydronephrosis", "E. Pyelonephritis"],
+      "options": [
+        "A. Kidney stones",
+        "B. Renal cell carcinoma",
+        "C. Glomerulonephritis",
+        "D. Hydronephrosis",
+        "E. Pyelonephritis"
+      ],
       "answer": "B"
     },
     {
       "question": "A neonate with oligohydramnios presents with severe respiratory insufficiency, low-set ears, and limb deformities. This presentation is most consistent with which of the following conditions?",
-      "options": ["A. Ectopic kidney", "B. Renal agenesis", "C. Potter sequence", "D. Horseshoe kidney", "E. Renal dysplasia"],
+      "options": [
+        "A. Ectopic kidney",
+        "B. Renal agenesis",
+        "C. Potter sequence",
+        "D. Horseshoe kidney",
+        "E. Renal dysplasia"
+      ],
       "answer": "C"
     },
     {
       "question": "A 55-year-old man presents with flank pain and blood in his urine. Physical examination reveals a palpable abdominal mass. Imaging shows multiple bilateral renal cysts, with the largest measuring 4 cm. Which of the following is the most likely diagnosis?",
-      "options": ["A. Autosomal recessive polycystic kidney disease (ARPKD)", "B. Medullary sponge kidney", "C. Simple renal cyst", "D. Autosomal dominant polycystic kidney disease (ADPKD)", "E. Nephronophthisis"],
+      "options": [
+        "A. Autosomal recessive polycystic kidney disease (ARPKD)",
+        "B. Medullary sponge kidney",
+        "C. Simple renal cyst",
+        "D. Autosomal dominant polycystic kidney disease (ADPKD)",
+        "E. Nephronophthisis"
+      ],
       "answer": "D"
     },
     {
       "question": "A 2-week-old infant is diagnosed with bilateral enlarged kidneys, and histological examination shows radially arranged cysts. The infant also has signs of pulmonary hypoplasia and oligohydramnios. What is the most likely underlying genetic mutation?",
-      "options": ["A. PKD1", "B. PKD2", "C. PKHD1", "D. Fibrocystin", "E. Polycystin"],
+      "options": [
+        "A. PKD1",
+        "B. PKD2",
+        "C. PKHD1",
+        "D. Fibrocystin",
+        "E. Polycystin"
+      ],
       "answer": "C"
     },
     {
       "question": "A 35-year-old woman with a history of multiple urinary tract infections presents with flank pain and hematuria. Imaging shows small cystic collections in the renal papillae. Which of the following conditions is most consistent with this presentation?",
-      "options": ["A. Multicystic dysplastic kidney", "B. Medullary sponge kidney", "C. Autosomal dominant polycystic kidney disease (ADPKD)", "D. Vesico-ureteral reflux", "E. Simple renal cyst"],
+      "options": [
+        "A. Multicystic dysplastic kidney",
+        "B. Medullary sponge kidney",
+        "C. Autosomal dominant polycystic kidney disease (ADPKD)",
+        "D. Vesico-ureteral reflux",
+        "E. Simple renal cyst"
+      ],
       "answer": "B"
     },
     {
       "question": "A 45-year-old man with a history of poorly controlled hypertension and diabetes has been undergoing dialysis for the past 7 years. He now presents with hematuria and a solid mass in the kidney detected on imaging. Which of the following is the most likely cause of the mass?",
-      "options": ["A. Simple cyst", "B. Renal cell carcinoma", "C. Multicystic dysplastic kidney", "D. Autosomal dominant polycystic kidney disease (ADPKD)", "E. Medullary sponge kidney"],
+      "options": [
+        "A. Simple cyst",
+        "B. Renal cell carcinoma",
+        "C. Multicystic dysplastic kidney",
+        "D. Autosomal dominant polycystic kidney disease (ADPKD)",
+        "E. Medullary sponge kidney"
+      ],
       "answer": "B"
     },
     {
       "question": "A newborn is found to have a midline abdominal mass. Imaging reveals a single, large, U-shaped kidney located below the inferior mesenteric artery. Which of the following congenital anomalies is most likely present?",
-      "options": ["A. Renal agenesis", "B. Horseshoe kidney", "C. Renal dysplasia", "D. Ectopic kidney", "E. Polycystic kidney disease"],
+      "options": [
+        "A. Renal agenesis",
+        "B. Horseshoe kidney",
+        "C. Renal dysplasia",
+        "D. Ectopic kidney",
+        "E. Polycystic kidney disease"
+      ],
+      "answer": "B"
+    }
+  ],
+
+  "2A": [
+    {
+      "question": "A 45-year-old male presents to the emergency room with acute renal failure following prolonged hypotension after a severe burn injury. Which of the following is the most likely cause of his acute kidney injury?",
+      "options": [
+        "A. Acute pyelonephritis",
+        "B. Ischemic acute tubular injury",
+        "C. Drug-induced interstitial nephritis",
+        "D. Benign nephrosclerosis",
+        "E. Chronic pyelonephritis"
+      ],
       "answer": "B"
     },
     {
-        "question": "A 45-year-old male presents to the emergency room with acute renal failure following prolonged hypotension after a severe burn injury. Which of the following is the most likely cause of his acute kidney injury?",
-        "options": ["A. Acute pyelonephritis", "B. Ischemic acute tubular injury", "C. Drug-induced interstitial nephritis", "D. Benign nephrosclerosis", "E. Chronic pyelonephritis"],
-        "answer": "B"
-      },
-      {
-        "question": "A 30-year-old woman is hospitalized for acute renal failure. Her history includes recent use of gentamycin. Which of the following best describes the pathology seen in her kidneys?",
-        "options": ["A. Interstitial edema and fibrosis", "B. Necrosis of the proximal convoluted tubules", "C. Widespread glomerulosclerosis", "D. Thickening of the glomerular basement membrane", "E. Tubulorrhexis with intact basement membranes"],
-        "answer": "B"
-      },
-      {
-        "question": "A patient with type 2 diabetes presents with acute renal failure. Urine microscopy reveals eosinophilic hyaline casts. What is the most likely diagnosis?",
-        "options": ["A. Acute pyelonephritis", "B. Nephrotoxic acute tubular injury", "C. Benign nephrosclerosis", "D. Hemolytic-Uremic syndrome", "E. Tubulointerstitial nephritis"],
-        "answer": "B"
-      },
-      {
-        "question": "A patient with a history of carbon tetrachloride exposure develops acute renal failure. What histological change is most likely to be observed in the proximal tubules?",
-        "options": ["A. Large acidophilic inclusions", "B. Lipid accumulation within injured cells", "C. Eosinophilic infiltration", "D. Tubular basement membrane thickening", "E. Mononuclear leukocyte infiltration"],
-        "answer": "B"
-      },
-      {
-        "question": "A 50-year-old male with acute kidney injury is found to have interstitial edema and leukocytic infiltration in the renal biopsy. What is the most likely diagnosis?",
-        "options": ["A. Acute tubular injury", "B. Chronic interstitial nephritis", "C. Acute tubulointerstitial nephritis", "D. Drug-induced nephropathy", "E. Glomerulonephritis"],
-        "answer": "C"
-      },
-      {
-        "question": "A 60-year-old woman presents with acute renal failure following several days of hypotension and severe dehydration. Renal biopsy shows patchy areas of tubular epithelial necrosis and the presence of casts in the distal tubules. What is the most likely diagnosis?",
-        "options": ["A. Acute pyelonephritis", "B. Ischemic acute tubular injury", "C. Chronic pyelonephritis", "D. Drug-induced interstitial nephritis", "E. Urate nephropathy"],
-        "answer": "B"
-      },
-      {
-        "question": "A patient presents with signs of acute kidney injury after using radiographic contrast agents for imaging. Which part of the nephron is most likely to show extensive necrosis?",
-        "options": ["A. Glomerulus", "B. Proximal convoluted tubule", "C. Distal convoluted tubule", "D. Ascending limb of the loop of Henle", "E. Collecting ducts"],
-        "answer": "B"
-      },
-      {
-        "question": "A 35-year-old male develops acute renal failure after an episode of hypovolemic shock. His renal biopsy shows interstitial edema and numerous leukocytes within the tubules. Which of the following phases of acute tubular injury is he most likely in?",
-        "options": ["A. Initiation phase", "B. Recovery phase", "C. Maintenance phase", "D. Pre-renal phase", "E. Post-renal phase"],
-        "answer": "A"
-      },
-      {
-        "question": "A 40-year-old man with a history of chronic NSAID use presents with acute renal failure. Renal biopsy shows mononuclear leukocyte infiltration and widespread tubular atrophy. Which condition is most consistent with these findings?",
-        "options": ["A. Acute pyelonephritis", "B. Acute tubulointerstitial nephritis", "C. Chronic interstitial nephritis", "D. Benign nephrosclerosis", "E. Drug-induced nephropathy"],
-        "answer": "C"
-      },
-      {
-        "question": "A patient presents with acute tubular necrosis due to ethylene glycol poisoning. Which of the following findings is expected on renal biopsy?",
-        "options": ["A. Eosinophilic infiltrates in the tubules", "B. Calcium oxalate crystals in the tubules", "C. Granulomatous inflammation", "D. Tubulorrhexis with cast formation", "E. Widespread glomerular collapse"],
-        "answer": "B"
-      },
-      {
-        "question": "A 50-year-old male is admitted with acute kidney injury after suffering from septic shock. His urine output decreases to 200 mL/day, and his serum potassium is elevated. Which phase of acute tubular injury is he most likely experiencing?",
-        "options": ["A. Recovery phase", "B. Initiation phase", "C. Maintenance phase", "D. Pre-renal phase", "E. Post-renal phase"],
-        "answer": "C"
-      },
-      {
-        "question": "A 45-year-old woman presents with acute renal failure. A kidney biopsy reveals eosinophilic hyaline casts and pigmented granular casts in the distal tubules. What is the primary component of these casts?",
-        "options": ["A. Red blood cells", "B. Lipid-laden macrophages", "C. Tamm-Horsfall protein", "D. Platelets", "E. Uric acid crystals"],
-        "answer": "C"
-      },
-      {
-        "question": "A 55-year-old male with poorly controlled diabetes develops acute kidney injury. Renal biopsy shows interstitial inflammation with neutrophils and eosinophils, along with acute tubular injury. Which condition is most likely responsible for these findings?",
-        "options": ["A. Acute pyelonephritis", "B. Acute tubulointerstitial nephritis", "C. Chronic interstitial nephritis", "D. Benign nephrosclerosis", "E. Nephrotoxic acute tubular injury"],
-        "answer": "B"
-      },
-      {
-        "question": "A patient presents with oliguria and rising BUN levels after ingesting a large amount of ethylene glycol. Which morphological finding is most consistent with this condition?",
-        "options": ["A. Widespread glomerular necrosis", "B. Calcium oxalate crystals in tubular lumens", "C. Extensive interstitial fibrosis", "D. Focal tubular epithelial necrosis", "E. Mononuclear leukocyte infiltration"],
-        "answer": "B"
-      },
-      {
-        "question": "A 40-year-old man develops acute renal failure following exposure to mercuric chloride. What histological change is most likely to be observed in the proximal tubules?",
-        "options": ["A. Granulomatous inflammation", "B. Eosinophilic infiltration", "C. Acidophilic inclusions within tubular epithelial cells", "D. Glomerular hypertrophy", "E. Tubular basement membrane thickening"],
-        "answer": "C"
-      },
-      {
-        "question": "A 35-year-old female presents to the clinic with fever, flank pain, and dysuria. Urinalysis reveals pyuria with leukocyte casts. What is the most common cause of the described kidney condition?",
-        "options": ["A. Hematogenous spread of bacteria", "B. Ascending infection from the lower urinary tract", "C. Viral infection in immunocompromised host", "D. Mycobacterial infection", "E. Fungal infection via the bloodstream"],
-        "answer": "B"
-      },
-      {
-        "question": "A 60-year-old male with diabetes presents with bilateral flank pain and fever. Imaging shows dilated renal pelvis and calyces filled with pus. What is the most likely diagnosis?",
-        "options": ["A. Acute tubular necrosis", "B. Renal cell carcinoma", "C. Acute pyonephrosis", "D. Chronic glomerulonephritis", "E. Papillary necrosis"],
-        "answer": "C"
-      },
-      {
-        "question": "A 50-year-old male with a history of neurogenic bladder due to spinal cord injury presents with recurrent urinary tract infections and renal insufficiency. What is the most likely underlying mechanism for his recurrent pyelonephritis?",
-        "options": ["A. Vesicoureteral reflux", "B. Hematogenous spread", "C. Fungal infection", "D. Glomerulonephritis", "E. Immunosuppression"],
-        "answer": "A"
-      },
-      {
-        "question": "A 3-year-old child presents with urinary tract infection and vesicoureteral reflux confirmed by imaging. What is the most likely long-term consequence if this condition persists untreated?",
-        "options": ["A. Renal hypertrophy", "B. Bilateral nephrolithiasis", "C. Chronic pyelonephritis with scarring", "D. Renal vein thrombosis", "E. Polycystic kidney disease"],
-        "answer": "C"
-      },
-      {
-        "question": "A kidney biopsy of a 45-year-old female with chronic pyelonephritis reveals dilated tubules filled with pink casts resembling thyroid colloid. This finding is characteristic of which of the following?",
-        "options": ["A. Xanthogranulomatous pyelonephritis", "B. Chronic interstitial nephritis", "C. Thyroidization of tubules", "D. Acute glomerulonephritis", "E. Diabetic nephropathy"],
-        "answer": "C"
-      },
-      {
-        "question": "A 42-year-old male with poorly controlled diabetes presents with fever, malaise, and costovertebral angle pain. Urinalysis reveals pyuria and leukocyte casts. What is the hallmark gross finding of acute pyelonephritis?",
-        "options": ["A. Small, shrunken kidneys", "B. Enlarged kidneys with glomerular crescents", "C. Patchy, suppurative inflammation with abscesses", "D. Uniform cortical atrophy", "E. Large, orange-yellow nodules"],
-        "answer": "C"
-      },
-      {
-        "question": "A 28-year-old female develops fever, chills, and dysuria two days after undergoing urethral catheterization. She is diagnosed with acute pyelonephritis. What is the most likely causative organism?",
-        "options": ["A. Streptococcus faecalis", "B. Staphylococcus aureus", "C. Escherichia coli", "D. Mycobacterium tuberculosis", "E. Candida albicans"],
-        "answer": "C"
-      },
-      {
-        "question": "A 55-year-old male with chronic renal insufficiency and a history of kidney stones presents with flank pain and fever. Imaging shows asymmetric contraction of the kidneys with coarse scarring. Which of the following is the most likely diagnosis?",
-        "options": ["A. Acute tubular necrosis", "B. Chronic glomerulonephritis", "C. Chronic pyelonephritis", "D. Membranous nephropathy", "E. Focal segmental glomerulosclerosis"],
-        "answer": "C"
-      },
-      {
-        "question": "A 63-year-old male with diabetes is admitted with acute pyelonephritis. Over the course of treatment, he develops necrosis of the renal papillae. Which condition is most strongly associated with this complication?",
-        "options": ["A. Polycystic kidney disease", "B. Renal artery stenosis", "C. Sickle cell disease", "D. Acute glomerulonephritis", "E. Lupus nephritis"],
-        "answer": "C"
-      },
-      {
-        "question": "A 6-year-old boy is diagnosed with vesicoureteral reflux and recurrent urinary tract infections. What is the classic radiographic finding associated with this condition?",
-        "options": ["A. Enlarged kidneys with cortical thinning", "B. Bilateral renal cysts", "C. Blunting of calyces with scarring", "D. Diffuse thickening of the basement membrane", "E. Small, contracted kidneys with linear scarring"],
-        "answer": "C"
-      },
-      {
-        "question": "A 45-year-old female with a history of recurrent urinary tract infections presents with flank pain and fever. Imaging reveals dilation of the ureters and renal pelvis with blunted calyces. What is the most likely mechanism leading to these findings?",
-        "options": ["A. Hematogenous bacterial spread", "B. Vesicoureteral reflux", "C. Renal artery stenosis", "D. Acute tubular necrosis", "E. Nephrotic syndrome"],
-        "answer": "B"
-      },
-      {
-        "question": "A 32-year-old male presents with sudden-onset flank pain, fever, and dysuria. Urinalysis shows significant pyuria and urine culture reveals Proteus mirabilis. Which of the following is a potential complication of this infection?",
-        "options": ["A. Papillary necrosis", "B. Chronic interstitial nephritis", "C. Renal vein thrombosis", "D. Xanthogranulomatous pyelonephritis", "E. Membranous nephropathy"],
-        "answer": "A"
-      },
-      {
-        "question": "A 72-year-old male with a long-standing history of benign prostatic hyperplasia (BPH) presents with fever, malaise, and costovertebral angle tenderness. Which of the following is the most likely diagnosis?",
-        "options": ["A. Chronic glomerulonephritis", "B. Renal cell carcinoma", "C. Chronic pyelonephritis", "D. Acute pyelonephritis", "E. Diabetic nephropathy"],
-        "answer": "D"
-      },
-      {
-        "question": "A 67-year-old diabetic female presents with a history of recurrent pyelonephritis. A renal biopsy reveals chronic tubulointerstitial inflammation, tubular atrophy, and fibrosis. What is a characteristic finding of chronic pyelonephritis?",
-        "options": ["A. Crescent formation in glomeruli", "B. Thyroidization of tubules", "C. Hyaline casts in the glomeruli", "D. Diffuse basement membrane thickening", "E. Hypercellular glomeruli"],
-        "answer": "B"
-      },
-      {
-        "question": "A 29-year-old pregnant woman presents with fever, dysuria, and flank pain. She is diagnosed with acute pyelonephritis. What is the primary factor predisposing pregnant women to this condition?",
-        "options": ["A. Immune suppression", "B. Increased renal plasma flow", "C. Hormonal changes causing ureteral dilation", "D. Decreased bladder capacity", "E. Low progesterone levels"],
-        "answer": "C"
-      },
-      {
-        "question": "A 45-year-old female is started on methicillin for a bacterial infection. Two weeks later, she presents with fever, rash, and decreased urine output. A urine test shows mild proteinuria and eosinophiluria. Which of the following is the most likely cause of her symptoms?",
-        "options": ["A. Acute pyelonephritis", "B. Acute drug-induced interstitial nephritis", "C. Renal artery stenosis", "D. Chronic glomerulonephritis", "E. Diabetic nephropathy"],
-        "answer": "B"
-      },
-      {
-        "question": "A 30-year-old male undergoing chemotherapy for lymphoma presents with acute flank pain and oliguria. Lab tests show hyperuricemia and urinalysis reveals uric acid crystals. What is the most likely underlying cause of his renal condition?",
-        "options": ["A. Acute uric acid nephropathy", "B. Nephrolithiasis", "C. Chronic gouty nephropathy", "D. Calcium oxalate nephropathy", "E. Renal artery thrombosis"],
-        "answer": "A"
-      },
-      {
-        "question": "A 65-year-old male with a history of hypertension presents with progressive renal insufficiency. Biopsy shows narrowing of the arterioles with hyaline arteriolosclerosis. Which of the following conditions is most likely responsible for these findings?",
-        "options": ["A. Diabetic nephropathy", "B. Benign nephrosclerosis", "C. Acute tubular necrosis", "D. Amyloidosis", "E. Alport syndrome"],
-        "answer": "B"
-      },
-      {
-        "question": "A 50-year-old male with poorly controlled diabetes mellitus presents with albuminuria and nephrotic syndrome. Kidney biopsy reveals segmental glomerulosclerosis. What is the most likely cause of his nephropathy?",
-        "options": ["A. Minimal change disease", "B. Focal segmental glomerulosclerosis", "C. Membranous nephropathy", "D. IgA nephropathy", "E. Acute interstitial nephritis"],
-        "answer": "B"
-      },
-      {
-        "question": "A 70-year-old female with a history of chronic NSAID use presents with generalized edema and nephrotic syndrome. A kidney biopsy shows minimal-change disease. Which mechanism is most likely responsible for her kidney disease?",
-        "options": ["A. Glomerular basement membrane thickening", "B. IgA deposition", "C. Podocyte injury from NSAIDs", "D. Eosinophilic infiltration of tubules", "E. Uric acid crystal deposition"],
-        "answer": "C"
-      },
-      {
-        "question": "A 55-year-old male with a history of chronic analgesic use presents with hematuria and flank pain. Imaging reveals papillary necrosis. What is the most likely mechanism of his renal pathology?",
-        "options": ["A. Uric acid crystal deposition", "B. Acute interstitial nephritis", "C. Tubular obstruction by casts", "D. Papillary ischemia due to vasoconstriction", "E. Glomerular basement membrane thickening"],
-        "answer": "D"
-      },
-      {
-        "question": "A 45-year-old female is diagnosed with benign nephrosclerosis after a routine health check. Which of the following findings is most likely to be seen on her renal biopsy?",
-        "options": ["A. Hyaline arteriolosclerosis and glomerular collapse", "B. Crescent formation in glomeruli", "C. Diffuse thickening of the basement membrane", "D. Tubulitis and interstitial lymphocyte infiltration", "E. Segmental glomerulosclerosis"],
-        "answer": "A"
-      },
-      {
-        "question": "A 60-year-old male with multiple myeloma presents with oliguria and rising creatinine levels. A kidney biopsy shows pink to blue amorphous masses obstructing the tubular lumens. Which of the following best describes the underlying pathology?",
-        "options": ["A. Glomerular basement membrane deposition", "B. Bence-Jones protein casts in the tubules", "C. Uric acid crystal deposition", "D. Fibrin thrombi in glomerular capillaries", "E. Nodular glomerulosclerosis"],
-        "answer": "B"
-      },
-      {
-        "question": "A 35-year-old male presents with severe oliguria and hematuria following a diarrheal illness caused by E. coli O157. Which of the following renal findings is most likely present?",
-        "options": ["A. Bence-Jones protein casts", "B. Fibrin-platelet thrombi within glomerular capillaries", "C. Crescent formation in the glomeruli", "D. Tubular epithelial necrosis", "E. Granulomatous interstitial inflammation"],
-        "answer": "B"
-      },
-      {
-        "question": "A 50-year-old male with poorly controlled diabetes presents with acute kidney injury after taking a high dose of NSAIDs for back pain. What is the most likely cause of his renal failure?",
-        "options": ["A. Acute glomerulonephritis", "B. Acute interstitial nephritis", "C. Benign nephrosclerosis", "D. Membranous nephropathy", "E. Focal segmental glomerulosclerosis"],
-        "answer": "B"
-      },
-      {
-        "question": "A 54-year-old man presents with a history of hypertension and diabetes. He reports recent episodes of fever, flank pain, and frequent urination. A renal biopsy reveals neutrophilic infiltration of the tubules and interstitium. Which condition is most likely causing his symptoms?",
-        "options": ["A. Membranous nephropathy", "B. Acute pyelonephritis", "C. Focal segmental glomerulosclerosis", "D. Diabetic nephropathy", "E. Chronic glomerulonephritis"],
-        "answer": "B"
-      },
-      {
-        "question": "A 26-year-old female presents with flank pain and fever. Urinalysis shows white blood cell casts and bacteriuria. Which of the following would be the most useful in confirming the diagnosis of acute pyelonephritis?",
-        "options": ["A. Blood urea nitrogen (BUN) measurement", "B. Serum creatinine levels", "C. Quantitative urine culture", "D. Renal biopsy", "E. Serum protein electrophoresis"],
-        "answer": "C"
-      },
-      {
-        "question": "A 58-year-old female presents with a history of recurrent urinary tract infections and hypertension. Imaging shows coarse scarring of the kidneys with blunted calyces, most prominent at the upper and lower poles. What is the most likely diagnosis?",
-        "options": ["A. Acute tubular necrosis", "B. Membranous glomerulopathy", "C. Chronic pyelonephritis", "D. Renal artery stenosis", "E. Diabetic nephropathy"],
-        "answer": "C"
-      },
-      {
-        "question": "A 60-year-old male with poorly controlled diabetes is found to have papillary necrosis on imaging. Which of the following findings is most likely on gross examination of his kidneys?",
-        "options": ["A. Enlarged, edematous kidneys", "B. Gray-to-yellow necrosis of the papillary tips", "C. Multiple cystic lesions in the cortex", "D. Diffuse glomerular sclerosis", "E. Cortical infarcts"],
-        "answer": "B"
-      },
-      {
-        "question": "A 10-year-old child with a history of congenital vesicoureteral reflux presents with fever and flank pain. He is diagnosed with acute pyelonephritis. What is the most likely route of infection in this case?",
-        "options": ["A. Hematogenous spread", "B. Ascending infection from the bladder", "C. Direct extension from the peritoneum", "D. Lymphatic spread", "E. Autoimmune reaction"],
-        "answer": "B"
-      },
-      {
-        "question": "A 34-year-old man presents to the emergency department with severe left flank pain and hematuria. Urinalysis reveals a pH of 8.5. Which of the following is the most likely type of kidney stone this patient has?",
-        "options": ["A. Calcium oxalate", "B. Uric acid", "C. Struvite", "D. Cystine", "E. Ammonium urate"],
-        "answer": "C"
-      },
-      {
-        "question": "A 45-year-old woman presents with dull, aching flank pain and gross hematuria. Imaging reveals marked dilation of the renal pelvis and calyces with thinning of the renal parenchyma. What is the most likely cause of this patient’s condition?",
-        "options": ["A. Bladder cancer", "B. Staghorn calculi", "C. Ureteral stricture", "D. Renal artery stenosis", "E. Neurogenic bladder"],
-        "answer": "B"
-      },
-      {
-        "question": "A 50-year-old male with a history of chronic alcoholism presents with severe abdominal pain. Laboratory results show oxalate crystals in the urine. What is the most likely cause of this finding?",
-        "options": ["A. Hyperuricosuria", "B. Hypercalcemia", "C. Antifreeze (ethylene glycol) poisoning", "D. Hyperparathyroidism", "E. Tumor lysis syndrome"],
-        "answer": "C"
-      },
-      {
-        "question": "A pregnant woman in her third trimester presents with flank pain and urinary retention. Which of the following is the most likely cause of her symptoms?",
-        "options": ["A. Urethral atresia", "B. Renal artery stenosis", "C. Ureteral kinking", "D. Bladder diverticulum", "E. Prostate hypertrophy"],
-        "answer": "C"
-      },
-      {
-        "question": "A 65-year-old man presents with oliguria and worsening renal function. Laboratory findings include elevated BUN and creatinine, hyperkalemia, and hyperuricemia. Urine microscopy reveals numerous rhomboid crystals. What is the most likely diagnosis?",
-        "options": ["A. Acute tubular necrosis", "B. Chronic pyelonephritis", "C. Tumor lysis syndrome", "D. Struvite stones", "E. Uric acid nephrolithiasis"],
-        "answer": "C"
-      },
-      {
-        "question": "A 55-year-old male presents with severe right flank pain radiating to the groin. Urinalysis shows microscopic hematuria and pH of 5.0. Which of the following is the most likely type of kidney stone?",
-        "options": ["A. Calcium oxalate", "B. Struvite", "C. Uric acid", "D. Cystine", "E. Ammonium urate"],
-        "answer": "A"
-      },
-      {
-        "question": "A 68-year-old woman with a history of recurrent urinary tract infections presents with fever, chills, and dysuria. Urinalysis shows alkaline urine with a pH of 8.4. A culture grows urease-positive, gram-negative rods. Which of the following organisms is most likely responsible for the infection?",
-        "options": ["A. Escherichia coli", "B. Enterococcus faecalis", "C. Klebsiella pneumoniae", "D. Proteus mirabilis", "E. Pseudomonas aeruginosa"],
-        "answer": "D"
-      },
-      {
-        "question": "A 23-year-old male is diagnosed with cystinuria after presenting with recurrent kidney stones. Which of the following findings would be expected on urine microscopy?",
-        "options": ["A. Rhomboid-shaped crystals", "B. Envelope-shaped crystals", "C. Hexagonal-shaped crystals", "D. Dumbbell-shaped crystals", "E. Coffin lid-shaped crystals"],
-        "answer": "C"
-      },
-      {
-        "question": "A 47-year-old man with hyperparathyroidism presents with renal colic. Imaging reveals a 5mm radio-opaque stone in the renal pelvis. Which of the following is the most likely composition of the stone?",
-        "options": ["A. Calcium oxalate", "B. Uric acid", "C. Struvite", "D. Cystine", "E. Ammonium urate"],
-        "answer": "A"
-      },
-      {
-        "question": "A 40-year-old man with poorly controlled diabetes mellitus presents with fatigue and decreased urine output. Labs show elevated BUN and creatinine. Imaging reveals bilateral hydronephrosis. Which of the following is the most likely cause?",
-        "options": ["A. Uric acid nephropathy", "B. Bilateral ureteral obstruction", "C. Vesicoureteral reflux", "D. Bladder cancer", "E. Prostate hypertrophy"],
-        "answer": "B"
-      },
-      {
-        "question": "A 62-year-old man with a history of gout presents with severe left flank pain and gross hematuria. Urine pH is 5.2, and imaging shows a radiolucent stone in the ureter. What is the most likely composition of this stone?",
-        "options": ["A. Calcium oxalate", "B. Struvite", "C. Uric acid", "D. Cystine", "E. Ammonium urate"],
-        "answer": "C"
-      },
-      {
-        "question": "A 45-year-old woman presents with a 3-month history of dysuria, fever, and lower abdominal pain. Imaging reveals a large, irregular stone in the renal pelvis. Urine culture shows urease-positive bacteria. Which of the following is the most likely type of stone?",
-        "options": ["A. Calcium oxalate", "B. Struvite", "C. Uric acid", "D. Cystine", "E. Calcium phosphate"],
-        "answer": "B"
-      },
-      {
-        "question": "A 34-year-old male with cystinuria presents to the emergency room with severe colicky pain and hematuria. Which of the following interventions is most likely to prevent future stone formation in this patient?",
-        "options": ["A. Increase dietary calcium", "B. Maintain urine alkalinization", "C. Decrease dietary oxalate", "D. Restrict protein intake", "E. Increase vitamin C supplementation"],
-        "answer": "B"
-      },
-      {
-        "question": "A 58-year-old man with type 2 diabetes presents with flank pain and an abdominal CT shows bilateral hydronephrosis. Which of the following conditions is the most likely cause?",
-        "options": ["A. Bladder outlet obstruction", "B. Vesicoureteral reflux", "C. Ureteral stricture", "D. Bilateral staghorn calculi", "E. Renal artery stenosis"],
-        "answer": "A"
-      },
-      {
-        "question": "A 30-year-old male with hypercalciuria presents with recurrent episodes of nephrolithiasis. Which of the following is the most appropriate dietary modification to reduce his risk of stone formation?",
-        "options": ["A. Increase oxalate intake", "B. Restrict calcium intake", "C. Increase fluid intake", "D. Increase sodium intake", "E. Increase protein intake"],
-        "answer": "C"
-      },
-      {
-        "question": "A 65-year-old male with a history of recurrent renal stones presents with severe right flank pain. Imaging shows a 6mm stone in the renal pelvis that is radio-opaque. Which of the following is the most likely type of stone?",
-        "options": ["A. Uric acid", "B. Struvite", "C. Calcium oxalate", "D. Cystine", "E. Ammonium urate"],
-        "answer": "C"
-      },
-      {
-        "question": "A 48-year-old female with type 2 diabetes presents with fever, chills, and flank pain. Imaging reveals hydronephrosis, and urine culture shows a urease-positive organism. What is the most likely complication if the condition is not promptly treated?",
-        "options": ["A. Bladder cancer", "B. Urosepsis", "C. Chronic kidney disease", "D. Calcium oxalate nephrolithiasis", "E. Diabetic ketoacidosis"],
-        "answer": "B"
-      },
-      {
-        "question": "A 40-year-old man presents with recurrent nephrolithiasis. Analysis of his urine shows envelope-shaped crystals. Which of the following dietary recommendations is most appropriate to prevent further stone formation?",
-        "options": ["A. Increase dietary purines", "B. Increase oxalate intake", "C. Reduce dietary sodium", "D. Increase dietary calcium", "E. Increase vitamin D intake"],
-        "answer": "C"
-      },
-      {
-        "question": "A 70-year-old man with prostate hypertrophy presents with urinary retention and lower abdominal pain. Imaging shows bilateral hydronephrosis. Which of the following is the best initial management?",
-        "options": ["A. Immediate nephrectomy", "B. Urgent hemodialysis", "C. Ureteral stent placement", "D. Bladder catheterization", "E. High-dose antibiotics"],
-        "answer": "D"
-      },
-      {
-        "question": "A 32-year-old man presents with severe, sudden onset of flank pain. Urinalysis shows microscopic hematuria, and imaging reveals a radiolucent stone. Which of the following is the most likely cause of his symptoms?",
-        "options": ["A. Struvite stones", "B. Calcium phosphate stones", "C. Cystine stones", "D. Uric acid stones", "E. Calcium oxalate stones"],
-        "answer": "D"
-      },
-      {
-        "question": "A 25-year-old male presents with difficulty retracting the foreskin over the glans penis. He is uncircumcised and reports pain during erection. Physical examination reveals a tight prepuce that cannot be retracted. What is the most likely diagnosis?",
-        "options": ["A. Phimosis", "B. Hypospadias", "C. Epispadias", "D. Urethral stricture", "E. Penile carcinoma"],
-        "answer": "A"
-      },
-      {
-        "question": "A 2-year-old boy is brought in for a routine check-up. On physical examination, the right testis is not palpable in the scrotum. Ultrasound confirms the presence of the testis in the inguinal canal. Which of the following is the most appropriate management for this condition?",
-        "options": ["A. Wait and observe until adolescence", "B. Immediate orchiopexy", "C. Testicular biopsy", "D. Hormone therapy", "E. No intervention needed"],
-        "answer": "B"
-      },
-      {
-        "question": "A 20-year-old male presents to the clinic with a swollen scrotum. Transillumination reveals a clear fluid collection around the testis. What is the most likely diagnosis?",
-        "options": ["A. Varicocele", "B. Hydrocele", "C. Spermatocele", "D. Hematocele", "E. Testicular torsion"],
-        "answer": "B"
-      },
-      {
-        "question": "A 16-year-old boy presents to the emergency department with sudden onset of severe scrotal pain. Physical examination reveals an elevated testis with absent cremasteric reflex. What is the most likely diagnosis?",
-        "options": ["A. Epididymitis", "B. Orchitis", "C. Hydrocele", "D. Testicular torsion", "E. Varicocele"],
-        "answer": "D"
-      },
-      {
-        "question": "A 30-year-old male undergoes evaluation for infertility. Physical examination reveals a soft, irregular mass above the left testis, described as a 'bag of worms.' What is the most likely cause of his infertility?",
-        "options": ["A. Epididymitis", "B. Hydrocele", "C. Varicocele", "D. Testicular torsion", "E. Spermatocele"],
-        "answer": "C"
-      },
-      {
-        "question": "A 3-year-old boy presents with a left scrotal swelling that has gradually increased in size over the past few months. The swelling transilluminates and does not change size with position. What is the most likely diagnosis?",
-        "options": ["A. Varicocele", "B. Hydrocele", "C. Testicular torsion", "D. Spermatocele", "E. Epididymitis"],
-        "answer": "B"
-      },
-      {
-        "question": "A 14-year-old boy presents to the emergency department with acute right scrotal pain that started 4 hours ago. He denies any fever or dysuria. On examination, there is tenderness over the right testis and an absent cremasteric reflex. What is the best next step in management?",
-        "options": ["A. Urinalysis", "B. Doppler ultrasound", "C. Scrotal transillumination", "D. Immediate surgical exploration", "E. NSAIDs and observation"],
-        "answer": "D"
-      },
-      {
-        "question": "A 45-year-old man presents with a painless mass in the scrotum. Physical examination reveals a well-circumscribed, firm nodule that does not transilluminate. What is the most appropriate next step in management?",
-        "options": ["A. Watchful waiting", "B. Scrotal transillumination", "C. Scrotal ultrasound", "D. Fine needle aspiration", "E. Antibiotic therapy"],
-        "answer": "C"
-      },
-      {
-        "question": "A 6-month-old male infant is brought in by his parents due to a mass in the left groin. On examination, the left testis is not palpable in the scrotum, and there is a mass in the inguinal canal. What is the most likely diagnosis?",
-        "options": ["A. Hydrocele", "B. Inguinal hernia", "C. Cryptorchidism", "D. Testicular torsion", "E. Spermatocele"],
-        "answer": "C"
-      },
-      {
-        "question": "A 28-year-old male presents with a painless, swollen scrotum. He reports a dull ache in the scrotum but denies fever or recent trauma. Physical examination reveals dilated veins in the scrotum that are more prominent on standing and reduce on lying down. What is the most likely diagnosis?",
-        "options": ["A. Hydrocele", "B. Testicular torsion", "C. Spermatocele", "D. Varicocele", "E. Epididymitis"],
-        "answer": "D"
-      },
-      {
-        "question": "A 20-year-old man presents with pain in the left scrotum that worsens after prolonged standing. On physical examination, there is a 'bag of worms' appearance above the left testis that becomes more prominent when standing. What is the most likely diagnosis?",
-        "options": ["A. Hydrocele", "B. Testicular torsion", "C. Varicocele", "D. Epididymitis", "E. Spermatocele"],
-        "answer": "C"
-      },
-      {
-        "question": "A 5-year-old boy is brought to the clinic for scrotal swelling that has been present since birth. The swelling is soft, non-tender, and transilluminates. It has not changed in size with activity or position. What is the most likely diagnosis?",
-        "options": ["A. Testicular torsion", "B. Epididymitis", "C. Varicocele", "D. Hydrocele", "E. Spermatocele"],
-        "answer": "D"
-      },
-      {
-        "question": "A 17-year-old boy presents with sudden onset of severe right scrotal pain that radiates to the groin. Physical examination reveals an elevated right testis, and the cremasteric reflex is absent. What is the most likely diagnosis?",
-        "options": ["A. Epididymitis", "B. Orchitis", "C. Testicular torsion", "D. Hydrocele", "E. Varicocele"],
-        "answer": "C"
-      },
-      {
-        "question": "A 24-year-old male reports infertility despite trying to conceive for over a year. Physical examination reveals a palpable mass in the scrotum, described as a 'bag of worms.' What is the most appropriate next step in management?",
-        "options": ["A. NSAIDs for pain relief", "B. Scrotal ultrasound", "C. Scrotal transillumination", "D. Immediate surgical intervention", "E. Antibiotics"],
-        "answer": "B"
-      },
-      {
-        "question": "A 30-year-old man presents with right-sided scrotal pain and swelling that started 2 days ago. He also reports fever and dysuria. On physical examination, the right scrotum is tender and swollen, and the cremasteric reflex is intact. What is the most likely diagnosis?",
-        "options": ["A. Testicular torsion", "B. Hydrocele", "C. Epididymitis", "D. Varicocele", "E. Spermatocele"],
-        "answer": "C"
-      }
-    ]
+      "question": "A 30-year-old woman is hospitalized for acute renal failure. Her history includes recent use of gentamycin. Which of the following best describes the pathology seen in her kidneys?",
+      "options": [
+        "A. Interstitial edema and fibrosis",
+        "B. Necrosis of the proximal convoluted tubules",
+        "C. Widespread glomerulosclerosis",
+        "D. Thickening of the glomerular basement membrane",
+        "E. Tubulorrhexis with intact basement membranes"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient with type 2 diabetes presents with acute renal failure. Urine microscopy reveals eosinophilic hyaline casts. What is the most likely diagnosis?",
+      "options": [
+        "A. Acute pyelonephritis",
+        "B. Nephrotoxic acute tubular injury",
+        "C. Benign nephrosclerosis",
+        "D. Hemolytic-Uremic syndrome",
+        "E. Tubulointerstitial nephritis"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient with a history of carbon tetrachloride exposure develops acute renal failure. What histological change is most likely to be observed in the proximal tubules?",
+      "options": [
+        "A. Large acidophilic inclusions",
+        "B. Lipid accumulation within injured cells",
+        "C. Eosinophilic infiltration",
+        "D. Tubular basement membrane thickening",
+        "E. Mononuclear leukocyte infiltration"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 50-year-old male with acute kidney injury is found to have interstitial edema and leukocytic infiltration in the renal biopsy. What is the most likely diagnosis?",
+      "options": [
+        "A. Acute tubular injury",
+        "B. Chronic interstitial nephritis",
+        "C. Acute tubulointerstitial nephritis",
+        "D. Drug-induced nephropathy",
+        "E. Glomerulonephritis"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 60-year-old woman presents with acute renal failure following several days of hypotension and severe dehydration. Renal biopsy shows patchy areas of tubular epithelial necrosis and the presence of casts in the distal tubules. What is the most likely diagnosis?",
+      "options": [
+        "A. Acute pyelonephritis",
+        "B. Ischemic acute tubular injury",
+        "C. Chronic pyelonephritis",
+        "D. Drug-induced interstitial nephritis",
+        "E. Urate nephropathy"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient presents with signs of acute kidney injury after using radiographic contrast agents for imaging. Which part of the nephron is most likely to show extensive necrosis?",
+      "options": [
+        "A. Glomerulus",
+        "B. Proximal convoluted tubule",
+        "C. Distal convoluted tubule",
+        "D. Ascending limb of the loop of Henle",
+        "E. Collecting ducts"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 35-year-old male develops acute renal failure after an episode of hypovolemic shock. His renal biopsy shows interstitial edema and numerous leukocytes within the tubules. Which of the following phases of acute tubular injury is he most likely in?",
+      "options": [
+        "A. Initiation phase",
+        "B. Recovery phase",
+        "C. Maintenance phase",
+        "D. Pre-renal phase",
+        "E. Post-renal phase"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A 40-year-old man with a history of chronic NSAID use presents with acute renal failure. Renal biopsy shows mononuclear leukocyte infiltration and widespread tubular atrophy. Which condition is most consistent with these findings?",
+      "options": [
+        "A. Acute pyelonephritis",
+        "B. Acute tubulointerstitial nephritis",
+        "C. Chronic interstitial nephritis",
+        "D. Benign nephrosclerosis",
+        "E. Drug-induced nephropathy"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient presents with acute tubular necrosis due to ethylene glycol poisoning. Which of the following findings is expected on renal biopsy?",
+      "options": [
+        "A. Eosinophilic infiltrates in the tubules",
+        "B. Calcium oxalate crystals in the tubules",
+        "C. Granulomatous inflammation",
+        "D. Tubulorrhexis with cast formation",
+        "E. Widespread glomerular collapse"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 50-year-old male is admitted with acute kidney injury after suffering from septic shock. His urine output decreases to 200 mL/day, and his serum potassium is elevated. Which phase of acute tubular injury is he most likely experiencing?",
+      "options": [
+        "A. Recovery phase",
+        "B. Initiation phase",
+        "C. Maintenance phase",
+        "D. Pre-renal phase",
+        "E. Post-renal phase"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 45-year-old woman presents with acute renal failure. A kidney biopsy reveals eosinophilic hyaline casts and pigmented granular casts in the distal tubules. What is the primary component of these casts?",
+      "options": [
+        "A. Red blood cells",
+        "B. Lipid-laden macrophages",
+        "C. Tamm-Horsfall protein",
+        "D. Platelets",
+        "E. Uric acid crystals"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 55-year-old male with poorly controlled diabetes develops acute kidney injury. Renal biopsy shows interstitial inflammation with neutrophils and eosinophils, along with acute tubular injury. Which condition is most likely responsible for these findings?",
+      "options": [
+        "A. Acute pyelonephritis",
+        "B. Acute tubulointerstitial nephritis",
+        "C. Chronic interstitial nephritis",
+        "D. Benign nephrosclerosis",
+        "E. Nephrotoxic acute tubular injury"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient presents with oliguria and rising BUN levels after ingesting a large amount of ethylene glycol. Which morphological finding is most consistent with this condition?",
+      "options": [
+        "A. Widespread glomerular necrosis",
+        "B. Calcium oxalate crystals in tubular lumens",
+        "C. Extensive interstitial fibrosis",
+        "D. Focal tubular epithelial necrosis",
+        "E. Mononuclear leukocyte infiltration"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 40-year-old man develops acute renal failure following exposure to mercuric chloride. What histological change is most likely to be observed in the proximal tubules?",
+      "options": [
+        "A. Granulomatous inflammation",
+        "B. Eosinophilic infiltration",
+        "C. Acidophilic inclusions within tubular epithelial cells",
+        "D. Glomerular hypertrophy",
+        "E. Tubular basement membrane thickening"
+      ],
+      "answer": "C"
+    }
+  ],
+  "2B": [
+    {
+      "question": "A 35-year-old female presents to the clinic with fever, flank pain, and dysuria. Urinalysis reveals pyuria with leukocyte casts. What is the most common cause of the described kidney condition?",
+      "options": [
+        "A. Hematogenous spread of bacteria",
+        "B. Ascending infection from the lower urinary tract",
+        "C. Viral infection in immunocompromised host",
+        "D. Mycobacterial infection",
+        "E. Fungal infection via the bloodstream"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 60-year-old male with diabetes presents with bilateral flank pain and fever. Imaging shows dilated renal pelvis and calyces filled with pus. What is the most likely diagnosis?",
+      "options": [
+        "A. Acute tubular necrosis",
+        "B. Renal cell carcinoma",
+        "C. Acute pyonephrosis",
+        "D. Chronic glomerulonephritis",
+        "E. Papillary necrosis"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 50-year-old male with a history of neurogenic bladder due to spinal cord injury presents with recurrent urinary tract infections and renal insufficiency. What is the most likely underlying mechanism for his recurrent pyelonephritis?",
+      "options": [
+        "A. Vesicoureteral reflux",
+        "B. Hematogenous spread",
+        "C. Fungal infection",
+        "D. Glomerulonephritis",
+        "E. Immunosuppression"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A 3-year-old child presents with urinary tract infection and vesicoureteral reflux confirmed by imaging. What is the most likely long-term consequence if this condition persists untreated?",
+      "options": [
+        "A. Renal hypertrophy",
+        "B. Bilateral nephrolithiasis",
+        "C. Chronic pyelonephritis with scarring",
+        "D. Renal vein thrombosis",
+        "E. Polycystic kidney disease"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A kidney biopsy of a 45-year-old female with chronic pyelonephritis reveals dilated tubules filled with pink casts resembling thyroid colloid. This finding is characteristic of which of the following?",
+      "options": [
+        "A. Xanthogranulomatous pyelonephritis",
+        "B. Chronic interstitial nephritis",
+        "C. Thyroidization of tubules",
+        "D. Acute glomerulonephritis",
+        "E. Diabetic nephropathy"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 42-year-old male with poorly controlled diabetes presents with fever, malaise, and costovertebral angle pain. Urinalysis reveals pyuria and leukocyte casts. What is the hallmark gross finding of acute pyelonephritis?",
+      "options": [
+        "A. Small, shrunken kidneys",
+        "B. Enlarged kidneys with glomerular crescents",
+        "C. Patchy, suppurative inflammation with abscesses",
+        "D. Uniform cortical atrophy",
+        "E. Large, orange-yellow nodules"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 28-year-old female develops fever, chills, and dysuria two days after undergoing urethral catheterization. She is diagnosed with acute pyelonephritis. What is the most likely causative organism?",
+      "options": [
+        "A. Streptococcus faecalis",
+        "B. Staphylococcus aureus",
+        "C. Escherichia coli",
+        "D. Mycobacterium tuberculosis",
+        "E. Candida albicans"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 55-year-old male with chronic renal insufficiency and a history of kidney stones presents with flank pain and fever. Imaging shows asymmetric contraction of the kidneys with coarse scarring. Which of the following is the most likely diagnosis?",
+      "options": [
+        "A. Acute tubular necrosis",
+        "B. Chronic glomerulonephritis",
+        "C. Chronic pyelonephritis",
+        "D. Membranous nephropathy",
+        "E. Focal segmental glomerulosclerosis"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 63-year-old male with diabetes is admitted with acute pyelonephritis. Over the course of treatment, he develops necrosis of the renal papillae. Which condition is most strongly associated with this complication?",
+      "options": [
+        "A. Polycystic kidney disease",
+        "B. Renal artery stenosis",
+        "C. Sickle cell disease",
+        "D. Acute glomerulonephritis",
+        "E. Lupus nephritis"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 6-year-old boy is diagnosed with vesicoureteral reflux and recurrent urinary tract infections. What is the classic radiographic finding associated with this condition?",
+      "options": [
+        "A. Enlarged kidneys with cortical thinning",
+        "B. Bilateral renal cysts",
+        "C. Blunting of calyces with scarring",
+        "D. Diffuse thickening of the basement membrane",
+        "E. Small, contracted kidneys with linear scarring"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 45-year-old female with a history of recurrent urinary tract infections presents with flank pain and fever. Imaging reveals dilation of the ureters and renal pelvis with blunted calyces. What is the most likely mechanism leading to these findings?",
+      "options": [
+        "A. Hematogenous bacterial spread",
+        "B. Vesicoureteral reflux",
+        "C. Renal artery stenosis",
+        "D. Acute tubular necrosis",
+        "E. Nephrotic syndrome"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 32-year-old male presents with sudden-onset flank pain, fever, and dysuria. Urinalysis shows significant pyuria and urine culture reveals Proteus mirabilis. Which of the following is a potential complication of this infection?",
+      "options": [
+        "A. Papillary necrosis",
+        "B. Chronic interstitial nephritis",
+        "C. Renal vein thrombosis",
+        "D. Xanthogranulomatous pyelonephritis",
+        "E. Membranous nephropathy"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A 72-year-old male with a long-standing history of benign prostatic hyperplasia (BPH) presents with fever, malaise, and costovertebral angle tenderness. Which of the following is the most likely diagnosis?",
+      "options": [
+        "A. Chronic glomerulonephritis",
+        "B. Renal cell carcinoma",
+        "C. Chronic pyelonephritis",
+        "D. Acute pyelonephritis",
+        "E. Diabetic nephropathy"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A 67-year-old diabetic female presents with a history of recurrent pyelonephritis. A renal biopsy reveals chronic tubulointerstitial inflammation, tubular atrophy, and fibrosis. What is a characteristic finding of chronic pyelonephritis?",
+      "options": [
+        "A. Crescent formation in glomeruli",
+        "B. Thyroidization of tubules",
+        "C. Hyaline casts in the glomeruli",
+        "D. Diffuse basement membrane thickening",
+        "E. Hypercellular glomeruli"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 29-year-old pregnant woman presents with fever, dysuria, and flank pain. She is diagnosed with acute pyelonephritis. What is the primary factor predisposing pregnant women to this condition?",
+      "options": [
+        "A. Immune suppression",
+        "B. Increased renal plasma flow",
+        "C. Hormonal changes causing ureteral dilation",
+        "D. Decreased bladder capacity",
+        "E. Low progesterone levels"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 54-year-old man presents with a history of hypertension and diabetes. He reports recent episodes of fever, flank pain, and frequent urination. A renal biopsy reveals neutrophilic infiltration of the tubules and interstitium. Which condition is most likely causing his symptoms?",
+      "options": [
+        "A. Membranous nephropathy",
+        "B. Acute pyelonephritis",
+        "C. Focal segmental glomerulosclerosis",
+        "D. Diabetic nephropathy",
+        "E. Chronic glomerulonephritis"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 26-year-old female presents with flank pain and fever. Urinalysis shows white blood cell casts and bacteriuria. Which of the following would be the most useful in confirming the diagnosis of acute pyelonephritis?",
+      "options": [
+        "A. Blood urea nitrogen (BUN) measurement",
+        "B. Serum creatinine levels",
+        "C. Quantitative urine culture",
+        "D. Renal biopsy",
+        "E. Serum protein electrophoresis"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 58-year-old female presents with a history of recurrent urinary tract infections and hypertension. Imaging shows coarse scarring of the kidneys with blunted calyces, most prominent at the upper and lower poles. What is the most likely diagnosis?",
+      "options": [
+        "A. Acute tubular necrosis",
+        "B. Membranous glomerulopathy",
+        "C. Chronic pyelonephritis",
+        "D. Renal artery stenosis",
+        "E. Diabetic nephropathy"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 60-year-old male with poorly controlled diabetes is found to have papillary necrosis on imaging. Which of the following findings is most likely on gross examination of his kidneys?",
+      "options": [
+        "A. Enlarged, edematous kidneys",
+        "B. Gray-to-yellow necrosis of the papillary tips",
+        "C. Multiple cystic lesions in the cortex",
+        "D. Diffuse glomerular sclerosis",
+        "E. Cortical infarcts"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 10-year-old child with a history of congenital vesicoureteral reflux presents with fever and flank pain. He is diagnosed with acute pyelonephritis. What is the most likely route of infection in this case?",
+      "options": [
+        "A. Hematogenous spread",
+        "B. Ascending infection from the bladder",
+        "C. Direct extension from the peritoneum",
+        "D. Lymphatic spread",
+        "E. Autoimmune reaction"
+      ],
+      "answer": "B"
+    }
+  ],
+  "2C": [
+    {
+      "question": "A 45-year-old female is started on methicillin for a bacterial infection. Two weeks later, she presents with fever, rash, and decreased urine output. A urine test shows mild proteinuria and eosinophiluria. Which of the following is the most likely cause of her symptoms?",
+      "options": [
+        "A. Acute pyelonephritis",
+        "B. Acute drug-induced interstitial nephritis",
+        "C. Renal artery stenosis",
+        "D. Chronic glomerulonephritis",
+        "E. Diabetic nephropathy"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 30-year-old male undergoing chemotherapy for lymphoma presents with acute flank pain and oliguria. Lab tests show hyperuricemia and urinalysis reveals uric acid crystals. What is the most likely underlying cause of his renal condition?",
+      "options": [
+        "A. Acute uric acid nephropathy",
+        "B. Nephrolithiasis",
+        "C. Chronic gouty nephropathy",
+        "D. Calcium oxalate nephropathy",
+        "E. Renal artery thrombosis"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A 65-year-old male with a history of hypertension presents with progressive renal insufficiency. Biopsy shows narrowing of the arterioles with hyaline arteriolosclerosis. Which of the following conditions is most likely responsible for these findings?",
+      "options": [
+        "A. Diabetic nephropathy",
+        "B. Benign nephrosclerosis",
+        "C. Acute tubular necrosis",
+        "D. Amyloidosis",
+        "E. Alport syndrome"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 50-year-old male with poorly controlled diabetes mellitus presents with albuminuria and nephrotic syndrome. Kidney biopsy reveals segmental glomerulosclerosis. What is the most likely cause of his nephropathy?",
+      "options": [
+        "A. Minimal change disease",
+        "B. Focal segmental glomerulosclerosis",
+        "C. Membranous nephropathy",
+        "D. IgA nephropathy",
+        "E. Acute interstitial nephritis"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 70-year-old female with a history of chronic NSAID use presents with generalized edema and nephrotic syndrome. A kidney biopsy shows minimal-change disease. Which mechanism is most likely responsible for her kidney disease?",
+      "options": [
+        "A. Glomerular basement membrane thickening",
+        "B. IgA deposition",
+        "C. Podocyte injury from NSAIDs",
+        "D. Eosinophilic infiltration of tubules",
+        "E. Uric acid crystal deposition"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 55-year-old male with a history of chronic analgesic use presents with hematuria and flank pain. Imaging reveals papillary necrosis. What is the most likely mechanism of his renal pathology?",
+      "options": [
+        "A. Uric acid crystal deposition",
+        "B. Acute interstitial nephritis",
+        "C. Tubular obstruction by casts",
+        "D. Papillary ischemia due to vasoconstriction",
+        "E. Glomerular basement membrane thickening"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A 45-year-old female is diagnosed with benign nephrosclerosis after a routine health check. Which of the following findings is most likely to be seen on her renal biopsy?",
+      "options": [
+        "A. Hyaline arteriolosclerosis and glomerular collapse",
+        "B. Crescent formation in glomeruli",
+        "C. Diffuse thickening of the basement membrane",
+        "D. Tubulitis and interstitial lymphocyte infiltration",
+        "E. Segmental glomerulosclerosis"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A 60-year-old male with multiple myeloma presents with oliguria and rising creatinine levels. A kidney biopsy shows pink to blue amorphous masses obstructing the tubular lumens. Which of the following best describes the underlying pathology?",
+      "options": [
+        "A. Glomerular basement membrane deposition",
+        "B. Bence-Jones protein casts in the tubules",
+        "C. Uric acid crystal deposition",
+        "D. Fibrin thrombi in glomerular capillaries",
+        "E. Nodular glomerulosclerosis"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 35-year-old male presents with severe oliguria and hematuria following a diarrheal illness caused by E. coli O157. Which of the following renal findings is most likely present?",
+      "options": [
+        "A. Bence-Jones protein casts",
+        "B. Fibrin-platelet thrombi within glomerular capillaries",
+        "C. Crescent formation in the glomeruli",
+        "D. Tubular epithelial necrosis",
+        "E. Granulomatous interstitial inflammation"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 50-year-old male with poorly controlled diabetes presents with acute kidney injury after taking a high dose of NSAIDs for back pain. What is the most likely cause of his renal failure?",
+      "options": [
+        "A. Acute glomerulonephritis",
+        "B. Acute interstitial nephritis",
+        "C. Benign nephrosclerosis",
+        "D. Membranous nephropathy",
+        "E. Focal segmental glomerulosclerosis"
+      ],
+      "answer": "B"
+    }
+  ],
+  "4A/B": [
+    {
+      "question": "A 6-year-old child presents with swelling, particularly around the eyes, and significant proteinuria (>3.5 g/day). A renal biopsy appears normal under light microscopy but shows effacement of podocyte foot processes under electron microscopy. What is the most likely diagnosis?",
+      "options": [
+        "A. Membranous glomerulopathy",
+        "B. Minimal change disease",
+        "C. Focal segmental glomerulosclerosis",
+        "D. Diabetic nephropathy",
+        "E. IgA nephropathy"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 45-year-old male with a history of chronic hepatitis B infection presents with hematuria and proteinuria. Renal biopsy shows subendothelial immune complex deposits and a 'tram track' appearance under light microscopy. Which of the following is the most likely diagnosis?",
+      "options": [
+        "A. Post-streptococcal glomerulonephritis",
+        "B. Type I membranoproliferative glomerulonephritis",
+        "C. Minimal change disease",
+        "D. Focal segmental glomerulosclerosis",
+        "E. Alport syndrome"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient with a history of diabetes mellitus presents with proteinuria, which has gradually worsened over time. Biopsy findings include thickened glomerular basement membranes and Kimmelstiel-Wilson nodules. What is the most likely diagnosis?",
+      "options": [
+        "A. Acute glomerulonephritis",
+        "B. Diabetic nephropathy",
+        "C. Amyloidosis",
+        "D. Minimal change disease",
+        "E. Goodpasture syndrome"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 28-year-old male presents with hematuria following an upper respiratory tract infection. Renal biopsy shows mesangial proliferation, and immunofluorescence highlights mesangial deposits of IgA. What is the most likely diagnosis?",
+      "options": [
+        "A. Post-streptococcal glomerulonephritis",
+        "B. Minimal change disease",
+        "C. Focal segmental glomerulosclerosis",
+        "D. IgA nephropathy",
+        "E. Goodpasture syndrome"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A 16-year-old male presents with hematuria, sensorineural hearing loss, and vision problems. Electron microscopy of a renal biopsy shows alternating thickening and thinning of the glomerular basement membrane with a 'basket weave' appearance. What is the most likely diagnosis?",
+      "options": [
+        "A. Thin basement membrane disease",
+        "B. Alport syndrome",
+        "C. Focal segmental glomerulosclerosis",
+        "D. Minimal change disease",
+        "E. Post-streptococcal glomerulonephritis"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 50-year-old patient with known systemic lupus erythematosus (SLE) presents with hematuria, proteinuria, and hypertension. A kidney biopsy shows a thickened capillary loop resembling a 'wire loop' on light microscopy. Which of the following best describes this patient's renal condition?",
+      "options": [
+        "A. Minimal change disease",
+        "B. Membranous glomerulopathy",
+        "C. Lupus nephritis",
+        "D. Diabetic nephropathy",
+        "E. IgA nephropathy"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 40-year-old male presents with nephrotic syndrome, and a kidney biopsy shows thickened glomerular capillary walls with subepithelial immune complex deposits. The immunofluorescence microscopy reveals a granular pattern. Which condition is most likely?",
+      "options": [
+        "A. Minimal change disease",
+        "B. Focal segmental glomerulosclerosis",
+        "C. Membranous glomerulopathy",
+        "D. Post-streptococcal glomerulonephritis",
+        "E. Alport syndrome"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 22-year-old male presents with gross hematuria and a history of recent respiratory infection. Immunofluorescence reveals IgA deposits in the mesangium. Which of the following conditions is most likely associated with these findings?",
+      "options": [
+        "A. Minimal change disease",
+        "B. Goodpasture syndrome",
+        "C. IgA nephropathy",
+        "D. Post-streptococcal glomerulonephritis",
+        "E. Membranoproliferative glomerulonephritis"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 48-year-old female with chronic kidney disease secondary to diabetes undergoes a kidney biopsy. The findings include thickened basement membranes and nodular glomerulosclerosis (Kimmelstiel-Wilson lesions). Which of the following is the most appropriate diagnosis?",
+      "options": [
+        "A. Acute glomerulonephritis",
+        "B. Diabetic nephropathy",
+        "C. Amyloidosis",
+        "D. Focal segmental glomerulosclerosis",
+        "E. Minimal change disease"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 17-year-old male presents with hematuria, hearing loss, and visual disturbances. Electron microscopy of a renal biopsy shows irregular thickening and splitting of the glomerular basement membrane with a 'basket weave' pattern. Which condition does this patient most likely have?",
+      "options": [
+        "A. Post-streptococcal glomerulonephritis",
+        "B. Minimal change disease",
+        "C. Focal segmental glomerulosclerosis",
+        "D. Alport syndrome",
+        "E. IgA nephropathy"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A 10-year-old boy presents with periorbital edema, hypertension, and hematuria two weeks after a sore throat. A urinalysis reveals red cell casts, and immunofluorescence microscopy shows granular deposits of IgG and C3. Which of the following is the most likely diagnosis?",
+      "options": [
+        "A. IgA nephropathy",
+        "B. Minimal change disease",
+        "C. Post-streptococcal glomerulonephritis",
+        "D. Focal segmental glomerulosclerosis",
+        "E. Goodpasture syndrome"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A renal biopsy from a 55-year-old patient shows amorphous pink deposits in the glomeruli that display apple-green birefringence under polarized light with a Congo red stain. What is the most likely diagnosis?",
+      "options": [
+        "A. Minimal change disease",
+        "B. Diabetic nephropathy",
+        "C. Amyloidosis",
+        "D. Lupus nephritis",
+        "E. Membranous glomerulopathy"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 27-year-old male presents with hematuria and cough producing bloody sputum. Immunofluorescence microscopy of his renal biopsy reveals linear deposits of IgG along the glomerular basement membrane. What is the most likely diagnosis?",
+      "options": [
+        "A. Wegener's granulomatosis",
+        "B. IgA nephropathy",
+        "C. Goodpasture syndrome",
+        "D. Minimal change disease",
+        "E. Post-streptococcal glomerulonephritis"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient with a history of recurrent hematuria is found to have a mutation in the COL4A5 gene. Which of the following additional findings is most consistent with this diagnosis?",
+      "options": [
+        "A. Nephrotic syndrome and hyperlipidemia",
+        "B. Linear deposits of IgG on immunofluorescence",
+        "C. Nerve deafness and eye abnormalities",
+        "D. Mesangial IgA deposits",
+        "E. 'Tram track' appearance on light microscopy"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 60-year-old patient with chronic hepatitis C presents with hematuria and proteinuria. Renal biopsy shows hypercellular glomeruli with thickened basement membranes and subendothelial immune complex deposits. What is the most likely diagnosis?",
+      "options": [
+        "A. Diabetic nephropathy",
+        "B. Minimal change disease",
+        "C. Focal segmental glomerulosclerosis",
+        "D. Membranoproliferative glomerulonephritis type I",
+        "E. Amyloidosis"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A 32-year-old woman presents with hematuria, hypertension, and decreased kidney function. A renal biopsy reveals hypercellular glomeruli with proliferation of mesangial and endothelial cells, as well as infiltration by leukocytes. Immunofluorescence microscopy shows a 'lumpy-bumpy' pattern of IgG and C3 deposits. What is the most likely diagnosis?",
+      "options": [
+        "A. IgA nephropathy",
+        "B. Goodpasture syndrome",
+        "C. Post-streptococcal glomerulonephritis",
+        "D. Membranous glomerulopathy",
+        "E. Minimal change disease"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 45-year-old male with nephrotic syndrome undergoes a renal biopsy that reveals thickened glomerular capillary walls with subepithelial electron-dense deposits on electron microscopy. What is the most likely diagnosis?",
+      "options": [
+        "A. Minimal change disease",
+        "B. Diabetic nephropathy",
+        "C. Membranous glomerulopathy",
+        "D. Amyloidosis",
+        "E. IgA nephropathy"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 25-year-old male presents with hematuria, and electron microscopy of his renal biopsy shows irregular thickening and splitting of the glomerular basement membrane with a 'basket weave' appearance. Which of the following is most consistent with these findings?",
+      "options": [
+        "A. Post-streptococcal glomerulonephritis",
+        "B. Thin basement membrane disease",
+        "C. Alport syndrome",
+        "D. Minimal change disease",
+        "E. Membranoproliferative glomerulonephritis"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 55-year-old patient presents with nephrotic syndrome, and a kidney biopsy shows the presence of Congo red-positive deposits that display apple-green birefringence under polarized light. Which of the following is the most appropriate diagnosis?",
+      "options": [
+        "A. Diabetic nephropathy",
+        "B. Minimal change disease",
+        "C. Amyloidosis",
+        "D. Focal segmental glomerulosclerosis",
+        "E. Membranous glomerulopathy"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 60-year-old man presents with hypertension and chronic renal failure. He has a history of long-standing diabetes. A renal biopsy shows diffuse mesangial sclerosis and Kimmelstiel-Wilson nodules. Which of the following best describes his condition?",
+      "options": [
+        "A. Acute glomerulonephritis",
+        "B. Amyloidosis",
+        "C. Diabetic nephropathy",
+        "D. Membranous glomerulopathy",
+        "E. Goodpasture syndrome"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 30-year-old patient presents with nephrotic syndrome, including significant proteinuria and generalized edema. Electron microscopy of the renal biopsy reveals effacement of podocyte foot processes without immune complex deposits. Which of the following is the most likely diagnosis?",
+      "options": [
+        "A. Membranous glomerulopathy",
+        "B. Minimal change disease",
+        "C. Focal segmental glomerulosclerosis",
+        "D. Diabetic nephropathy",
+        "E. IgA nephropathy"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 12-year-old child presents with hematuria, proteinuria, and a history of recent sore throat. Light microscopy of a renal biopsy shows hypercellularity and proliferation of endothelial and mesangial cells. Immunofluorescence microscopy reveals granular deposits of IgG and C3. What is the most likely diagnosis?",
+      "options": [
+        "A. Goodpasture syndrome",
+        "B. IgA nephropathy",
+        "C. Post-streptococcal glomerulonephritis",
+        "D. Minimal change disease",
+        "E. Membranous glomerulopathy"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 45-year-old patient presents with chronic renal insufficiency and a history of hearing loss and ocular abnormalities. Electron microscopy of a kidney biopsy shows areas of thickening and thinning of the glomerular basement membrane with a 'basket weave' pattern. Which condition best fits this description?",
+      "options": [
+        "A. Diabetic nephropathy",
+        "B. Thin basement membrane disease",
+        "C. Alport syndrome",
+        "D. Membranous glomerulopathy",
+        "E. Minimal change disease"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 55-year-old woman presents with generalized edema and nephrotic syndrome. A kidney biopsy stained with Congo red shows deposits with apple-green birefringence under polarized light. What is the most appropriate diagnosis?",
+      "options": [
+        "A. Diabetic nephropathy",
+        "B. Focal segmental glomerulosclerosis",
+        "C. Amyloidosis",
+        "D. Minimal change disease",
+        "E. Membranoproliferative glomerulonephritis"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 50-year-old patient with a history of chronic hepatitis B presents with proteinuria and hematuria. Renal biopsy shows thickened capillary walls and subendothelial deposits. Which of the following conditions is most consistent with these findings?",
+      "options": [
+        "A. Minimal change disease",
+        "B. IgA nephropathy",
+        "C. Membranous glomerulopathy",
+        "D. Membranoproliferative glomerulonephritis type I",
+        "E. Goodpasture syndrome"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A 25-year-old male presents with recurrent episodes of gross hematuria. A renal biopsy shows mesangial proliferation, and immunofluorescence reveals deposits of IgA in the mesangium. Which condition is most likely?",
+      "options": [
+        "A. Minimal change disease",
+        "B. Goodpasture syndrome",
+        "C. IgA nephropathy",
+        "D. Membranous glomerulopathy",
+        "E. Diabetic nephropathy"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 16-year-old boy presents with palpable purpura on the buttocks and legs, abdominal pain, and joint pain. He also has hematuria and proteinuria. Which condition does this presentation most likely indicate?",
+      "options": [
+        "A. Minimal change disease",
+        "B. Henoch-Schönlein purpura (HSP)",
+        "C. Post-streptococcal glomerulonephritis",
+        "D. Focal segmental glomerulosclerosis",
+        "E. Goodpasture syndrome"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 40-year-old female with chronic renal failure is found to have Congo red-negative pink deposits in the glomeruli. Which of the following is most consistent with this finding?",
+      "options": [
+        "A. Diabetic nephropathy",
+        "B. Amyloidosis",
+        "C. Minimal change disease",
+        "D. Membranous glomerulopathy",
+        "E. Focal segmental glomerulosclerosis"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A patient presents with nephrotic syndrome. A kidney biopsy shows segmental sclerosis affecting only portions of individual glomeruli. There is no immune complex deposition on immunofluorescence. What is the most likely diagnosis?",
+      "options": [
+        "A. Minimal change disease",
+        "B. Membranous glomerulopathy",
+        "C. Focal segmental glomerulosclerosis (FSGS)",
+        "D. IgA nephropathy",
+        "E. Post-streptococcal glomerulonephritis"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 14-year-old patient is diagnosed with thin basement membrane disease. What would be the expected findings on electron microscopy?",
+      "options": [
+        "A. Thickening of the glomerular basement membrane with immune complex deposition",
+        "B. Normal-appearing glomeruli with effacement of podocyte foot processes",
+        "C. Irregular thickening and splitting of the basement membrane",
+        "D. Diffuse thinning of the glomerular basement membrane",
+        "E. Subendothelial electron-dense deposits"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A 45-year-old patient presents with rapidly worsening renal function and oliguria. A kidney biopsy shows crescents formed by proliferation of parietal epithelial cells and macrophages. Which condition is most likely associated with these findings?",
+      "options": [
+        "A. IgA nephropathy",
+        "B. Minimal change disease",
+        "C. Rapidly progressive glomerulonephritis (RPGN)",
+        "D. Membranous glomerulopathy",
+        "E. Focal segmental glomerulosclerosis"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A renal biopsy from a patient with nephrotic syndrome reveals thickening of the capillary walls with subepithelial spikes and granular deposits on immunofluorescence. Which condition does this most likely indicate?",
+      "options": [
+        "A. Minimal change disease",
+        "B. Membranous glomerulopathy",
+        "C. Diabetic nephropathy",
+        "D. Amyloidosis",
+        "E. Focal segmental glomerulosclerosis"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 35-year-old male presents with hematuria, hypertension, and proteinuria. Immunofluorescence of the renal biopsy shows a linear pattern of IgG along the glomerular basement membrane. What is the most likely diagnosis?",
+      "options": [
+        "A. IgA nephropathy",
+        "B. Goodpasture syndrome",
+        "C. Post-streptococcal glomerulonephritis",
+        "D. Minimal change disease",
+        "E. Membranous glomerulopathy"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 50-year-old man with a history of chronic hepatitis C infection presents with proteinuria and hematuria. The kidney biopsy shows mesangial proliferation and subendothelial deposits that give a 'tram track' appearance on light microscopy. Which condition is most consistent with these findings?",
+      "options": [
+        "A. Minimal change disease",
+        "B. Membranous glomerulopathy",
+        "C. Membranoproliferative glomerulonephritis type I",
+        "D. Focal segmental glomerulosclerosis",
+        "E. Goodpasture syndrome"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient presents with symptoms of nephrotic syndrome, including severe edema and proteinuria. Renal biopsy shows effacement of podocyte foot processes without immune deposits. The condition responds well to corticosteroid treatment. What is the most likely diagnosis?",
+      "options": [
+        "A. Membranous glomerulopathy",
+        "B. Focal segmental glomerulosclerosis",
+        "C. Minimal change disease",
+        "D. IgA nephropathy",
+        "E. Diabetic nephropathy"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 42-year-old patient presents with nephrotic syndrome, including significant proteinuria, hypoalbuminemia, and edema. The renal biopsy shows thickening of the glomerular basement membrane and subepithelial deposits on electron microscopy. Immunofluorescence microscopy reveals granular deposits of IgG. What is the most likely diagnosis?",
+      "options": [
+        "A. Minimal change disease",
+        "B. Focal segmental glomerulosclerosis",
+        "C. Membranous glomerulopathy",
+        "D. Amyloidosis",
+        "E. IgA nephropathy"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 28-year-old male presents with hematuria and mild proteinuria. A renal biopsy shows a linear pattern of IgG on immunofluorescence. What condition does this indicate?",
+      "options": [
+        "A. IgA nephropathy",
+        "B. Goodpasture syndrome",
+        "C. Membranous glomerulopathy",
+        "D. Minimal change disease",
+        "E. Post-streptococcal glomerulonephritis"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A renal biopsy from a 45-year-old patient shows hypercellular glomeruli with mesangial and endothelial proliferation. Light microscopy shows 'tram track' splitting of the basement membrane, and immunofluorescence reveals subendothelial deposits. Which condition is most likely?",
+      "options": [
+        "A. Minimal change disease",
+        "B. Membranous glomerulopathy",
+        "C. Membranoproliferative glomerulonephritis type I",
+        "D. IgA nephropathy",
+        "E. Goodpasture syndrome"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 12-year-old boy presents with abdominal pain, palpable purpura on his lower extremities, and hematuria. Which condition is most consistent with this presentation?",
+      "options": [
+        "A. Minimal change disease",
+        "B. Focal segmental glomerulosclerosis",
+        "C. Henoch-Schönlein purpura (HSP)",
+        "D. Post-streptococcal glomerulonephritis",
+        "E. Goodpasture syndrome"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 50-year-old woman with long-standing diabetes presents with chronic kidney disease. A kidney biopsy shows thickening of the glomerular basement membrane and nodular glomerulosclerosis. What is the most appropriate diagnosis?",
+      "options": [
+        "A. Minimal change disease",
+        "B. Amyloidosis",
+        "C. Diabetic nephropathy",
+        "D. Focal segmental glomerulosclerosis",
+        "E. Membranous glomerulopathy"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 37-year-old patient presents with recurrent episodes of hematuria and sensorineural hearing loss. Electron microscopy of a kidney biopsy shows a 'basket weave' appearance due to irregular thickening and splitting of the glomerular basement membrane. What is the most likely diagnosis?",
+      "options": [
+        "A. IgA nephropathy",
+        "B. Alport syndrome",
+        "C. Thin basement membrane disease",
+        "D. Post-streptococcal glomerulonephritis",
+        "E. Minimal change disease"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 60-year-old male with chronic renal insufficiency undergoes a renal biopsy that shows nodular glomerulosclerosis with hyaline material. The patient has a history of long-standing hyperglycemia. What is the most likely diagnosis?",
+      "options": [
+        "A. Amyloidosis",
+        "B. Diabetic nephropathy",
+        "C. Minimal change disease",
+        "D. Membranous glomerulopathy",
+        "E. Focal segmental glomerulosclerosis"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 25-year-old woman presents with hematuria and proteinuria. Immunofluorescence of the kidney biopsy reveals mesangial deposits of IgA. Which condition is most consistent with these findings?",
+      "options": [
+        "A. Minimal change disease",
+        "B. Goodpasture syndrome",
+        "C. IgA nephropathy",
+        "D. Membranoproliferative glomerulonephritis",
+        "E. Membranous glomerulopathy"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 50-year-old man presents with progressive renal failure and hemoptysis. Immunofluorescence microscopy of a kidney biopsy shows a linear pattern of IgG deposits. What is the most likely diagnosis?",
+      "options": [
+        "A. Post-streptococcal glomerulonephritis",
+        "B. IgA nephropathy",
+        "C. Goodpasture syndrome",
+        "D. Minimal change disease",
+        "E. Membranous glomerulopathy"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 10-year-old child presents with nephrotic syndrome characterized by severe proteinuria, hypoalbuminemia, and generalized edema. The condition responds well to corticosteroid treatment, and no significant findings are noted on light microscopy. What is the most likely diagnosis?",
+      "options": [
+        "A. Membranous glomerulopathy",
+        "B. Minimal change disease",
+        "C. Focal segmental glomerulosclerosis",
+        "D. IgA nephropathy",
+        "E. Diabetic nephropathy"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 55-year-old woman presents with generalized edema, proteinuria, and hypoalbuminemia. A kidney biopsy stained with Congo red shows apple-green birefringence under polarized light. What is the most likely diagnosis?",
+      "options": [
+        "A. Diabetic nephropathy",
+        "B. Focal segmental glomerulosclerosis",
+        "C. Amyloidosis",
+        "D. Membranous glomerulopathy",
+        "E. Minimal change disease"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 40-year-old man presents with hematuria and hypertension. A kidney biopsy shows crescent formation with wrinkling and disruption of the glomerular basement membrane on electron microscopy. What is the most likely diagnosis?",
+      "options": [
+        "A. Minimal change disease",
+        "B. Membranous glomerulopathy",
+        "C. Rapidly progressive glomerulonephritis (RPGN)",
+        "D. IgA nephropathy",
+        "E. Post-streptococcal glomerulonephritis"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 35-year-old male presents with nephrotic syndrome. A kidney biopsy shows a thickened glomerular basement membrane with subepithelial electron-dense deposits. Immunofluorescence reveals granular IgG deposits. What condition does this most likely indicate?",
+      "options": [
+        "A. Minimal change disease",
+        "B. Membranoproliferative glomerulonephritis",
+        "C. Diabetic nephropathy",
+        "D. Membranous glomerulopathy",
+        "E. Focal segmental glomerulosclerosis"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A 20-year-old patient presents with gross hematuria following a respiratory infection. Immunofluorescence of a renal biopsy shows IgA deposits in the mesangium. Which condition is most consistent with these findings?",
+      "options": [
+        "A. Minimal change disease",
+        "B. IgA nephropathy",
+        "C. Membranous glomerulopathy",
+        "D. Goodpasture syndrome",
+        "E. Henoch-Schönlein purpura"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 65-year-old male presents with chronic renal failure. His kidney biopsy reveals mesangial proliferation and 'tram track' splitting of the glomerular basement membrane. What condition is most consistent with these findings?",
+      "options": [
+        "A. Minimal change disease",
+        "B. Diabetic nephropathy",
+        "C. Focal segmental glomerulosclerosis",
+        "D. Membranoproliferative glomerulonephritis type I",
+        "E. Goodpasture syndrome"
+      ],
+      "answer": "D"
+    }
+  ],
+
+  "5": [
+    {
+      "question": "A 34-year-old man presents to the emergency department with severe left flank pain and hematuria. Urinalysis reveals a pH of 8.5. Which of the following is the most likely type of kidney stone this patient has?",
+      "options": [
+        "A. Calcium oxalate",
+        "B. Uric acid",
+        "C. Struvite",
+        "D. Cystine",
+        "E. Ammonium urate"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 45-year-old woman presents with dull, aching flank pain and gross hematuria. Imaging reveals marked dilation of the renal pelvis and calyces with thinning of the renal parenchyma. What is the most likely cause of this patient’s condition?",
+      "options": [
+        "A. Bladder cancer",
+        "B. Staghorn calculi",
+        "C. Ureteral stricture",
+        "D. Renal artery stenosis",
+        "E. Neurogenic bladder"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 50-year-old male with a history of chronic alcoholism presents with severe abdominal pain. Laboratory results show oxalate crystals in the urine. What is the most likely cause of this finding?",
+      "options": [
+        "A. Hyperuricosuria",
+        "B. Hypercalcemia",
+        "C. Antifreeze (ethylene glycol) poisoning",
+        "D. Hyperparathyroidism",
+        "E. Tumor lysis syndrome"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A pregnant woman in her third trimester presents with flank pain and urinary retention. Which of the following is the most likely cause of her symptoms?",
+      "options": [
+        "A. Urethral atresia",
+        "B. Renal artery stenosis",
+        "C. Ureteral kinking",
+        "D. Bladder diverticulum",
+        "E. Prostate hypertrophy"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 65-year-old man presents with oliguria and worsening renal function. Laboratory findings include elevated BUN and creatinine, hyperkalemia, and hyperuricemia. Urine microscopy reveals numerous rhomboid crystals. What is the most likely diagnosis?",
+      "options": [
+        "A. Acute tubular necrosis",
+        "B. Chronic pyelonephritis",
+        "C. Tumor lysis syndrome",
+        "D. Struvite stones",
+        "E. Uric acid nephrolithiasis"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 55-year-old male presents with severe right flank pain radiating to the groin. Urinalysis shows microscopic hematuria and pH of 5.0. Which of the following is the most likely type of kidney stone?",
+      "options": [
+        "A. Calcium oxalate",
+        "B. Struvite",
+        "C. Uric acid",
+        "D. Cystine",
+        "E. Ammonium urate"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A 68-year-old woman with a history of recurrent urinary tract infections presents with fever, chills, and dysuria. Urinalysis shows alkaline urine with a pH of 8.4. A culture grows urease-positive, gram-negative rods. Which of the following organisms is most likely responsible for the infection?",
+      "options": [
+        "A. Escherichia coli",
+        "B. Enterococcus faecalis",
+        "C. Klebsiella pneumoniae",
+        "D. Proteus mirabilis",
+        "E. Pseudomonas aeruginosa"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A 23-year-old male is diagnosed with cystinuria after presenting with recurrent kidney stones. Which of the following findings would be expected on urine microscopy?",
+      "options": [
+        "A. Rhomboid-shaped crystals",
+        "B. Envelope-shaped crystals",
+        "C. Hexagonal-shaped crystals",
+        "D. Dumbbell-shaped crystals",
+        "E. Coffin lid-shaped crystals"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 47-year-old man with hyperparathyroidism presents with renal colic. Imaging reveals a 5mm radio-opaque stone in the renal pelvis. Which of the following is the most likely composition of the stone?",
+      "options": [
+        "A. Calcium oxalate",
+        "B. Uric acid",
+        "C. Struvite",
+        "D. Cystine",
+        "E. Ammonium urate"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A 40-year-old man with poorly controlled diabetes mellitus presents with fatigue and decreased urine output. Labs show elevated BUN and creatinine. Imaging reveals bilateral hydronephrosis. Which of the following is the most likely cause?",
+      "options": [
+        "A. Uric acid nephropathy",
+        "B. Bilateral ureteral obstruction",
+        "C. Vesicoureteral reflux",
+        "D. Bladder cancer",
+        "E. Prostate hypertrophy"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 62-year-old man with a history of gout presents with severe left flank pain and gross hematuria. Urine pH is 5.2, and imaging shows a radiolucent stone in the ureter. What is the most likely composition of this stone?",
+      "options": [
+        "A. Calcium oxalate",
+        "B. Struvite",
+        "C. Uric acid",
+        "D. Cystine",
+        "E. Ammonium urate"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 45-year-old woman presents with a 3-month history of dysuria, fever, and lower abdominal pain. Imaging reveals a large, irregular stone in the renal pelvis. Urine culture shows urease-positive bacteria. Which of the following is the most likely type of stone?",
+      "options": [
+        "A. Calcium oxalate",
+        "B. Struvite",
+        "C. Uric acid",
+        "D. Cystine",
+        "E. Calcium phosphate"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 34-year-old male with cystinuria presents to the emergency room with severe colicky pain and hematuria. Which of the following interventions is most likely to prevent future stone formation in this patient?",
+      "options": [
+        "A. Increase dietary calcium",
+        "B. Maintain urine alkalinization",
+        "C. Decrease dietary oxalate",
+        "D. Restrict protein intake",
+        "E. Increase vitamin C supplementation"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 58-year-old man with type 2 diabetes presents with flank pain and an abdominal CT shows bilateral hydronephrosis. Which of the following conditions is the most likely cause?",
+      "options": [
+        "A. Bladder outlet obstruction",
+        "B. Vesicoureteral reflux",
+        "C. Ureteral stricture",
+        "D. Bilateral staghorn calculi",
+        "E. Renal artery stenosis"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A 30-year-old male with hypercalciuria presents with recurrent episodes of nephrolithiasis. Which of the following is the most appropriate dietary modification to reduce his risk of stone formation?",
+      "options": [
+        "A. Increase oxalate intake",
+        "B. Restrict calcium intake",
+        "C. Increase fluid intake",
+        "D. Increase sodium intake",
+        "E. Increase protein intake"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 65-year-old male with a history of recurrent renal stones presents with severe right flank pain. Imaging shows a 6mm stone in the renal pelvis that is radio-opaque. Which of the following is the most likely type of stone?",
+      "options": [
+        "A. Uric acid",
+        "B. Struvite",
+        "C. Calcium oxalate",
+        "D. Cystine",
+        "E. Ammonium urate"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 48-year-old female with type 2 diabetes presents with fever, chills, and flank pain. Imaging reveals hydronephrosis, and urine culture shows a urease-positive organism. What is the most likely complication if the condition is not promptly treated?",
+      "options": [
+        "A. Bladder cancer",
+        "B. Urosepsis",
+        "C. Chronic kidney disease",
+        "D. Calcium oxalate nephrolithiasis",
+        "E. Diabetic ketoacidosis"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 40-year-old man presents with recurrent nephrolithiasis. Analysis of his urine shows envelope-shaped crystals. Which of the following dietary recommendations is most appropriate to prevent further stone formation?",
+      "options": [
+        "A. Increase dietary purines",
+        "B. Increase oxalate intake",
+        "C. Reduce dietary sodium",
+        "D. Increase dietary calcium",
+        "E. Increase vitamin D intake"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 70-year-old man with prostate hypertrophy presents with urinary retention and lower abdominal pain. Imaging shows bilateral hydronephrosis. Which of the following is the best initial management?",
+      "options": [
+        "A. Immediate nephrectomy",
+        "B. Urgent hemodialysis",
+        "C. Ureteral stent placement",
+        "D. Bladder catheterization",
+        "E. High-dose antibiotics"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A 32-year-old man presents with severe, sudden onset of flank pain. Urinalysis shows microscopic hematuria, and imaging reveals a radiolucent stone. Which of the following is the most likely cause of his symptoms?",
+      "options": [
+        "A. Struvite stones",
+        "B. Calcium phosphate stones",
+        "C. Cystine stones",
+        "D. Uric acid stones",
+        "E. Calcium oxalate stones"
+      ],
+      "answer": "D"
+    }
+  ],
+  "6": [
+    {
+      "question": "A 25-year-old male presents with difficulty retracting the foreskin over the glans penis. He is uncircumcised and reports pain during erection. Physical examination reveals a tight prepuce that cannot be retracted. What is the most likely diagnosis?",
+      "options": [
+        "A. Phimosis",
+        "B. Hypospadias",
+        "C. Epispadias",
+        "D. Urethral stricture",
+        "E. Penile carcinoma"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A 2-year-old boy is brought in for a routine check-up. On physical examination, the right testis is not palpable in the scrotum. Ultrasound confirms the presence of the testis in the inguinal canal. Which of the following is the most appropriate management for this condition?",
+      "options": [
+        "A. Wait and observe until adolescence",
+        "B. Immediate orchiopexy",
+        "C. Testicular biopsy",
+        "D. Hormone therapy",
+        "E. No intervention needed"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 20-year-old male presents to the clinic with a swollen scrotum. Transillumination reveals a clear fluid collection around the testis. What is the most likely diagnosis?",
+      "options": [
+        "A. Varicocele",
+        "B. Hydrocele",
+        "C. Spermatocele",
+        "D. Hematocele",
+        "E. Testicular torsion"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 16-year-old boy presents to the emergency department with sudden onset of severe scrotal pain. Physical examination reveals an elevated testis with absent cremasteric reflex. What is the most likely diagnosis?",
+      "options": [
+        "A. Epididymitis",
+        "B. Orchitis",
+        "C. Hydrocele",
+        "D. Testicular torsion",
+        "E. Varicocele"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A 30-year-old male undergoes evaluation for infertility. Physical examination reveals a soft, irregular mass above the left testis, described as a 'bag of worms.' What is the most likely cause of his infertility?",
+      "options": [
+        "A. Epididymitis",
+        "B. Hydrocele",
+        "C. Varicocele",
+        "D. Testicular torsion",
+        "E. Spermatocele"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 3-year-old boy presents with a left scrotal swelling that has gradually increased in size over the past few months. The swelling transilluminates and does not change size with position. What is the most likely diagnosis?",
+      "options": [
+        "A. Varicocele",
+        "B. Hydrocele",
+        "C. Testicular torsion",
+        "D. Spermatocele",
+        "E. Epididymitis"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 14-year-old boy presents to the emergency department with acute right scrotal pain that started 4 hours ago. He denies any fever or dysuria. On examination, there is tenderness over the right testis and an absent cremasteric reflex. What is the best next step in management?",
+      "options": [
+        "A. Urinalysis",
+        "B. Doppler ultrasound",
+        "C. Scrotal transillumination",
+        "D. Immediate surgical exploration",
+        "E. NSAIDs and observation"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A 45-year-old man presents with a painless mass in the scrotum. Physical examination reveals a well-circumscribed, firm nodule that does not transilluminate. What is the most appropriate next step in management?",
+      "options": [
+        "A. Watchful waiting",
+        "B. Scrotal transillumination",
+        "C. Scrotal ultrasound",
+        "D. Fine needle aspiration",
+        "E. Antibiotic therapy"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 6-month-old male infant is brought in by his parents due to a mass in the left groin. On examination, the left testis is not palpable in the scrotum, and there is a mass in the inguinal canal. What is the most likely diagnosis?",
+      "options": [
+        "A. Hydrocele",
+        "B. Inguinal hernia",
+        "C. Cryptorchidism",
+        "D. Testicular torsion",
+        "E. Spermatocele"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 28-year-old male presents with a painless, swollen scrotum. He reports a dull ache in the scrotum but denies fever or recent trauma. Physical examination reveals dilated veins in the scrotum that are more prominent on standing and reduce on lying down. What is the most likely diagnosis?",
+      "options": [
+        "A. Hydrocele",
+        "B. Testicular torsion",
+        "C. Spermatocele",
+        "D. Varicocele",
+        "E. Epididymitis"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A 20-year-old man presents with pain in the left scrotum that worsens after prolonged standing. On physical examination, there is a 'bag of worms' appearance above the left testis that becomes more prominent when standing. What is the most likely diagnosis?",
+      "options": [
+        "A. Hydrocele",
+        "B. Testicular torsion",
+        "C. Varicocele",
+        "D. Epididymitis",
+        "E. Spermatocele"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 5-year-old boy is brought to the clinic for scrotal swelling that has been present since birth. The swelling is soft, non-tender, and transilluminates. It has not changed in size with activity or position. What is the most likely diagnosis?",
+      "options": [
+        "A. Testicular torsion",
+        "B. Epididymitis",
+        "C. Varicocele",
+        "D. Hydrocele",
+        "E. Spermatocele"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A 17-year-old boy presents with sudden onset of severe right scrotal pain that radiates to the groin. Physical examination reveals an elevated right testis, and the cremasteric reflex is absent. What is the most likely diagnosis?",
+      "options": [
+        "A. Epididymitis",
+        "B. Orchitis",
+        "C. Testicular torsion",
+        "D. Hydrocele",
+        "E. Varicocele"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 24-year-old male reports infertility despite trying to conceive for over a year. Physical examination reveals a palpable mass in the scrotum, described as a 'bag of worms.' What is the most appropriate next step in management?",
+      "options": [
+        "A. NSAIDs for pain relief",
+        "B. Scrotal ultrasound",
+        "C. Scrotal transillumination",
+        "D. Immediate surgical intervention",
+        "E. Antibiotics"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 30-year-old man presents with right-sided scrotal pain and swelling that started 2 days ago. He also reports fever and dysuria. On physical examination, the right scrotum is tender and swollen, and the cremasteric reflex is intact. What is the most likely diagnosis?",
+      "options": [
+        "A. Testicular torsion",
+        "B. Hydrocele",
+        "C. Epididymitis",
+        "D. Varicocele",
+        "E. Spermatocele"
+      ],
+      "answer": "C"
+    }
+  ],
+  "7": [
+    {
+      "question": "A 45-year-old man presents with a painless testicular mass and occasional gynecomastia. Histological examination reveals large, polygonal cells with abundant granular eosinophilic cytoplasm and Reinke crystals. What is the most likely diagnosis?",
+      "options": [
+          "A. Seminoma",
+          "B. Leydig cell tumor",
+          "C. Embryonal carcinoma",
+          "D. Yolk sac tumor",
+          "E. Teratoma"
+      ],
+      "answer": "B"
+  },
+  {
+      "question": "A 3-year-old boy is diagnosed with a testicular tumor that shows a reticular pattern and Schiller-Duval bodies under the microscope. Which tumor marker is most likely elevated?",
+      "options": [
+          "A. hCG",
+          "B. LDH",
+          "C. AFP",
+          "D. PLAP",
+          "E. CK"
+      ],
+      "answer": "C"
+  },
+  {
+      "question": "A 32-year-old man reports painless enlargement of the testis. Biopsy reveals sheets of uniform cells with fibrous septae and lymphocytes in between. The cells are PLAP positive. What is the most likely type of tumor?",
+      "options": [
+          "A. Yolk sac tumor",
+          "B. Seminoma",
+          "C. Embryonal carcinoma",
+          "D. Choriocarcinoma",
+          "E. Teratoma"
+      ],
+      "answer": "B"
+  },
+  {
+      "question": "A 60-year-old man presents with a testicular mass and recent seizures. Histological analysis reveals pleomorphic, non-cohesive malignant cells with prominent nucleoli. What is the most likely diagnosis?",
+      "options": [
+          "A. Testicular lymphoma",
+          "B. Seminoma",
+          "C. Embryonal carcinoma",
+          "D. Leydig cell tumor",
+          "E. Teratoma"
+      ],
+      "answer": "A"
+  },
+  {
+      "question": "A 20-year-old male presents with a testicular mass. Histology shows large, anaplastic cells with indistinct cell borders and frequent mitoses. The tumor stains positive for CK and CD30. What type of tumor is this most likely?",
+      "options": [
+          "A. Seminoma",
+          "B. Teratoma",
+          "C. Embryonal carcinoma",
+          "D. Yolk sac tumor",
+          "E. Choriocarcinoma"
+      ],
+      "answer": "C"
+  },
+  {
+      "question": "A 35-year-old man presents with a testicular mass. Histology reveals syncytiotrophoblastic and cytotrophoblastic cells with hemorrhagic and necrotic tissue. Which tumor marker is most likely elevated?",
+      "options": [
+          "A. AFP",
+          "B. LDH",
+          "C. PLAP",
+          "D. hCG",
+          "E. CK"
+      ],
+      "answer": "D"
+  },
+  {
+      "question": "A 2-year-old boy is diagnosed with a testicular tumor. Gross examination shows a soft, non-encapsulated mass with a yellow-white mucinous appearance. What is the most likely diagnosis?",
+      "options": [
+          "A. Embryonal carcinoma",
+          "B. Yolk sac tumor",
+          "C. Seminoma",
+          "D. Teratoma",
+          "E. Choriocarcinoma"
+      ],
+      "answer": "B"
+  },
+  {
+      "question": "A 50-year-old man is found to have a testicular mass that presents as a firm, yellow-gray nodule with no signs of hormone production. Histology shows trabeculae forming cord-like structures. What is the most likely diagnosis?",
+      "options": [
+          "A. Leydig cell tumor",
+          "B. Sertoli cell tumor",
+          "C. Seminoma",
+          "D. Testicular lymphoma",
+          "E. Teratoma"
+      ],
+      "answer": "B"
+  },
+  {
+      "question": "A 60-year-old male presents with a painless testicular mass. The tumor is histologically similar to a seminoma but contains sheets of lymphocytes surrounding the normal tubules. What is the most likely diagnosis?",
+      "options": [
+          "A. Embryonal carcinoma",
+          "B. Leydig cell tumor",
+          "C. Testicular lymphoma",
+          "D. Yolk sac tumor",
+          "E. Seminoma"
+      ],
+      "answer": "C"
+  },
+  {
+      "question": "A young man is diagnosed with a testicular mass. Histological analysis reveals poorly demarcated lobules of uniform cells separated by fibrous septae and lymphocytic infiltrates. Which tumor marker is most likely positive in this case?",
+      "options": [
+          "A. AFP",
+          "B. LDH",
+          "C. CK",
+          "D. PLAP",
+          "E. hCG"
+      ],
+      "answer": "D"
+  },
+  {
+      "question": "A 28-year-old man presents with a rapidly enlarging testicular mass. Histology reveals large anaplastic cells with indistinct borders, frequent mitoses, and areas of hemorrhage and necrosis. The tumor is CK+ and CD30+. What is the most likely diagnosis?",
+      "options": [
+          "A. Seminoma",
+          "B. Yolk sac tumor",
+          "C. Choriocarcinoma",
+          "D. Embryonal carcinoma",
+          "E. Teratoma"
+      ],
+      "answer": "D"
+  },
+  {
+      "question": "A 42-year-old man has a testicular tumor that is described as a white, lobulated, bulky mass with no hemorrhage or necrosis. Histology shows sheets of uniform cells separated by fibrous septae with lymphocytic infiltrates. Which tumor marker is most likely elevated?",
+      "options": [
+          "A. AFP",
+          "B. LDH",
+          "C. hCG",
+          "D. CK",
+          "E. CD30"
+      ],
+      "answer": "B"
+  },
+  {
+      "question": "A 5-year-old boy is diagnosed with a testicular tumor that has a high level of AFP and shows Schiller-Duval bodies on histology. What is the most likely diagnosis?",
+      "options": [
+          "A. Teratoma",
+          "B. Seminoma",
+          "C. Embryonal carcinoma",
+          "D. Yolk sac tumor",
+          "E. Choriocarcinoma"
+      ],
+      "answer": "D"
+  },
+  {
+      "question": "A 60-year-old man presents with an enlarged testis and recent CNS symptoms, including seizures. Histological examination reveals sheets of pleomorphic lymphoid cells with prominent nucleoli. What is the most likely diagnosis?",
+      "options": [
+          "A. Seminoma",
+          "B. Teratoma",
+          "C. Testicular lymphoma",
+          "D. Embryonal carcinoma",
+          "E. Leydig cell tumor"
+      ],
+      "answer": "C"
+  },
+  {
+      "question": "A 20-year-old male has a testicular mass that histologically shows differentiated tissues from all three germ layers and areas of immature neural tissue. What is the most likely diagnosis?",
+      "options": [
+          "A. Yolk sac tumor",
+          "B. Seminoma",
+          "C. Embryonal carcinoma",
+          "D. Choriocarcinoma",
+          "E. Teratoma"
+      ],
+      "answer": "E"
+  },{
+    "question": "A 50-year-old man presents with a painless testicular mass. Histology reveals large, polygonal cells with eosinophilic granular cytoplasm and Reinke crystals. What is the most likely diagnosis?",
+    "options": [
+        "A. Seminoma",
+        "B. Leydig cell tumor",
+        "C. Embryonal carcinoma",
+        "D. Teratoma",
+        "E. Testicular lymphoma"
+    ],
+    "answer": "B"
+},
+{
+    "question": "A 60-year-old man presents with an enlarged testicle and histological findings of sheets of non-cohesive lymphoid cells with prominent nucleoli. What is the most likely diagnosis?",
+    "options": [
+        "A. Seminoma",
+        "B. Choriocarcinoma",
+        "C. Testicular lymphoma",
+        "D. Embryonal carcinoma",
+        "E. Teratoma"
+    ],
+    "answer": "C"
+},
+{
+    "question": "A 3-year-old boy is found to have a testicular mass with a soft, non-encapsulated appearance and elevated AFP levels. What is the most likely type of tumor?",
+    "options": [
+        "A. Seminoma",
+        "B. Embryonal carcinoma",
+        "C. Yolk sac tumor",
+        "D. Teratoma",
+        "E. Choriocarcinoma"
+    ],
+    "answer": "C"
+},
+{
+    "question": "A 30-year-old man has a testicular mass that grossly appears red and ulcerated, and histologically shows large, pleomorphic cells with syncytiotrophoblastic and cytotrophoblastic differentiation. What is the most likely diagnosis?",
+    "options": [
+        "A. Seminoma",
+        "B. Teratoma",
+        "C. Embryonal carcinoma",
+        "D. Choriocarcinoma",
+        "E. Leydig cell tumor"
+    ],
+    "answer": "D"
+},
+{
+    "question": "A 25-year-old male presents with a testicular mass. Histology shows fibrous septae separating lobules of uniform cells with lymphocytes interspersed. Which tumor marker is most likely positive?",
+    "options": [
+        "A. AFP",
+        "B. CK",
+        "C. LDH",
+        "D. hCG",
+        "E. CD30"
+    ],
+    "answer": "C"
+},
+{
+    "question": "A 27-year-old male presents with a testicular mass that is well-circumscribed, yellow-brown, and shows Reinke crystals on histology. What is the most likely diagnosis?",
+    "options": [
+        "A. Seminoma",
+        "B. Teratoma",
+        "C. Leydig cell tumor",
+        "D. Embryonal carcinoma",
+        "E. Yolk sac tumor"
+    ],
+    "answer": "C"
+},
+{
+    "question": "A 35-year-old man has a testicular tumor that histologically reveals two cell types: syncytiotrophoblastic cells and cytotrophoblastic cells. Which tumor marker is most likely elevated?",
+    "options": [
+        "A. AFP",
+        "B. hCG",
+        "C. LDH",
+        "D. PLAP",
+        "E. CD30"
+    ],
+    "answer": "B"
+},
+{
+    "question": "A 20-year-old man presents with a testicular tumor that is large, lobulated, and shows no areas of necrosis or hemorrhage. Histology shows uniform cells separated by fibrous septae and lymphocytes. What is the most likely diagnosis?",
+    "options": [
+        "A. Choriocarcinoma",
+        "B. Seminoma",
+        "C. Embryonal carcinoma",
+        "D. Teratoma",
+        "E. Yolk sac tumor"
+    ],
+    "answer": "B"
+},
+{
+    "question": "A testicular tumor in a 3-year-old child presents with elevated AFP and Schiller-Duval bodies on histology. What is the most likely diagnosis?",
+    "options": [
+        "A. Embryonal carcinoma",
+        "B. Teratoma",
+        "C. Yolk sac tumor",
+        "D. Seminoma",
+        "E. Leydig cell tumor"
+    ],
+    "answer": "C"
+},
+{
+    "question": "A 40-year-old male presents with a painless testicular mass. Histology shows a firm, yellow nodule with cord-like structures and cells forming trabeculae. What is the most likely diagnosis?",
+    "options": [
+        "A. Sertoli cell tumor",
+        "B. Seminoma",
+        "C. Embryonal carcinoma",
+        "D. Leydig cell tumor",
+        "E. Testicular lymphoma"
+    ],
+    "answer": "A"
+},
+{
+    "question": "A 45-year-old man presents with a testicular mass that is described as gray, crusted, and papular, leading to ulceration. Histology shows invasive squamous cell carcinoma. What risk factor is most associated with this condition?",
+    "options": [
+        "A. Smoking",
+        "B. Cryptorchidism",
+        "C. Hypospadias",
+        "D. Klinefelter syndrome",
+        "E. Family history of testicular cancer"
+    ],
+    "answer": "A"
+},
+{
+    "question": "A 3-year-old boy is found to have a testicular tumor that histologically presents with a reticular pattern and eosinophilic hyaline globules. What tumor marker is most likely elevated?",
+    "options": [
+        "A. hCG",
+        "B. AFP",
+        "C. LDH",
+        "D. PLAP",
+        "E. CD30"
+    ],
+    "answer": "B"
+},
+{
+    "question": "A testicular mass in a 32-year-old male is characterized by large, poorly defined lobules of uniform cells with fibrous septae and lymphocytic infiltrates. Which of the following markers would most likely be elevated?",
+    "options": [
+        "A. AFP",
+        "B. hCG",
+        "C. LDH",
+        "D. CK",
+        "E. EMA"
+    ],
+    "answer": "C"
+},
+{
+    "question": "A 50-year-old man presents with a painless, firm testicular mass that histologically shows large polygonal cells with abundant granular eosinophilic cytoplasm and no Reinke crystals. What is the most likely diagnosis?",
+    "options": [
+        "A. Leydig cell tumor",
+        "B. Seminoma",
+        "C. Embryonal carcinoma",
+        "D. Sertoli cell tumor",
+        "E. Testicular lymphoma"
+    ],
+    "answer": "D"
+},
+{
+    "question": "A testicular mass in a 25-year-old male presents with highly malignant cells forming sheets with syncytiotrophoblastic features and significant hemorrhage. What is the most likely tumor marker elevated?",
+    "options": [
+        "A. AFP",
+        "B. PLAP",
+        "C. CK",
+        "D. hCG",
+        "E. LDH"
+    ],
+    "answer": "D"
+},
+{
+  "question": "A 28-year-old man presents with a testicular mass. Histology reveals large, pleomorphic cells with indistinct cell borders and frequent mitoses. The tumor stains positive for CK and CD30. What is the most likely diagnosis?",
+  "options": [
+      "A. Seminoma",
+      "B. Yolk sac tumor",
+      "C. Teratoma",
+      "D. Embryonal carcinoma",
+      "E. Leydig cell tumor"
+  ],
+  "answer": "D"
+},
+{
+  "question": "A 60-year-old man is diagnosed with a testicular mass that histologically shows sheets of lymphoid cells surrounding the tubules. Which testicular tumor is most commonly associated with these findings?",
+  "options": [
+      "A. Seminoma",
+      "B. Embryonal carcinoma",
+      "C. Testicular lymphoma",
+      "D. Leydig cell tumor",
+      "E. Sertoli cell tumor"
+  ],
+  "answer": "C"
+},
+{
+  "question": "A testicular tumor in a 3-year-old boy presents with a soft, yellowish mass and elevated serum AFP. Which of the following is the most likely diagnosis?",
+  "options": [
+      "A. Seminoma",
+      "B. Choriocarcinoma",
+      "C. Yolk sac tumor",
+      "D. Teratoma",
+      "E. Embryonal carcinoma"
+  ],
+  "answer": "C"
+},
+{
+  "question": "A 35-year-old man presents with a firm, painless testicular mass. Histology shows cells that form cord-like structures and trabeculae with vacuolated cytoplasm. What is the most likely diagnosis?",
+  "options": [
+      "A. Seminoma",
+      "B. Leydig cell tumor",
+      "C. Sertoli cell tumor",
+      "D. Embryonal carcinoma",
+      "E. Teratoma"
+  ],
+  "answer": "C"
+},
+{
+  "question": "A testicular tumor in a young male reveals a gross appearance of multiple nodules containing cystic, cartilaginous, and sebaceous elements. What is the most likely diagnosis?",
+  "options": [
+      "A. Seminoma",
+      "B. Choriocarcinoma",
+      "C. Yolk sac tumor",
+      "D. Embryonal carcinoma",
+      "E. Teratoma"
+  ],
+  "answer": "E"
+}
+
+  ],
+  "8" : [
+    {
+      "question": "A 55-year-old man presents with painless hematuria and flank pain. Imaging reveals a well-circumscribed, non-encapsulated mass with a mahogany brown color and a central stellate scar. Histological analysis shows uniform cells with granular eosinophilic cytoplasm. What is the most likely diagnosis?",
+      "options": [
+          "A. Oncocytoma",
+          "B. Clear cell renal cell carcinoma",
+          "C. Papillary renal cell carcinoma",
+          "D. Chromophobe renal cell carcinoma",
+          "E. Collecting duct carcinoma"
+      ],
+      "answer": "A"
+  },
+  {
+      "question": "A 60-year-old smoker presents with a renal mass. Biopsy shows cells with clear cytoplasm and thin-walled blood vessels arranged in a sinusoidal pattern. What is the most common chromosomal mutation associated with this type of tumor?",
+      "options": [
+          "A. Chromosome 11 deletion",
+          "B. Chromosome 3p deletion",
+          "C. Chromosome 17p mutation",
+          "D. Chromosome 16 translocation",
+          "E. Chromosome 7 duplication"
+      ],
+      "answer": "B"
+  },
+  {
+      "question": "A pediatric patient, aged 4, is found to have an abdominal mass. Genetic testing reveals a mutation in the WT1 gene located on chromosome 11p13. Which syndrome is most associated with this genetic finding?",
+      "options": [
+          "A. Beckwith-Wiedemann syndrome",
+          "B. WAGR syndrome",
+          "C. Von Hippel-Lindau syndrome",
+          "D. Li-Fraumeni syndrome",
+          "E. Neurofibromatosis type 1"
+      ],
+      "answer": "B"
+  },
+  {
+      "question": "During a nephrectomy for a renal tumor, the mass is found to originate in the medulla and distort the renal pelvis. Histological examination shows dilated tubules lined by cuboidal to columnar cells. What is the most likely type of renal carcinoma?",
+      "options": [
+          "A. Clear cell renal cell carcinoma",
+          "B. Papillary renal cell carcinoma",
+          "C. Chromophobe renal cell carcinoma",
+          "D. Collecting duct carcinoma",
+          "E. Oncocytoma"
+      ],
+      "answer": "D"
+  },
+  {
+      "question": "A 58-year-old woman presents with flank pain and a palpable renal mass. Imaging shows a well-circumscribed lesion with significant intratumoral hemorrhage. Histology reveals cells arranged in a single layer on fibrovascular stalks. What is the most likely diagnosis?",
+      "options": [
+          "A. Oncocytoma",
+          "B. Clear cell renal cell carcinoma",
+          "C. Papillary renal cell carcinoma",
+          "D. Chromophobe renal cell carcinoma",
+          "E. Collecting duct carcinoma"
+      ],
+      "answer": "C"
+  },
+  {
+      "question": "A 45-year-old male presents with painless hematuria and a palpable flank mass. Imaging shows a well-circumscribed renal lesion with areas of necrosis and hemorrhage. Histologically, it is composed of cells arranged in nests and sheets with abundant eosinophilic cytoplasm. What is the most likely diagnosis?",
+      "options": [
+          "A. Oncocytoma",
+          "B. Clear cell renal cell carcinoma",
+          "C. Chromophobe renal cell carcinoma",
+          "D. Papillary renal cell carcinoma",
+          "E. Collecting duct carcinoma"
+      ],
+      "answer": "B"
+  },
+  {
+      "question": "A patient with a history of smoking presents with a renal mass. The tumor is found to invade the renal vein and extends into the inferior vena cava. What is the most common type of renal carcinoma with this pattern of vascular invasion?",
+      "options": [
+          "A. Oncocytoma",
+          "B. Clear cell renal cell carcinoma",
+          "C. Papillary renal cell carcinoma",
+          "D. Chromophobe renal cell carcinoma",
+          "E. Collecting duct carcinoma"
+      ],
+      "answer": "B"
+  },
+  {
+      "question": "A 3-year-old child presents with an abdominal mass and genetic analysis shows a mutation in the WT2 gene on chromosome 11p15. What condition is most likely associated with this genetic change?",
+      "options": [
+          "A. WAGR syndrome",
+          "B. Beckwith-Wiedemann syndrome",
+          "C. Von Hippel-Lindau syndrome",
+          "D. Neurofibromatosis type 1",
+          "E. Li-Fraumeni syndrome"
+      ],
+      "answer": "B"
+  },
+  {
+      "question": "A patient with a renal tumor undergoes biopsy which shows clear cytoplasm, abundant blood vessels, and fat globules in the malignant cells. Electron microscopy confirms the presence of fat globules. What type of renal carcinoma is this?",
+      "options": [
+          "A. Papillary renal cell carcinoma",
+          "B. Clear cell renal cell carcinoma",
+          "C. Chromophobe renal cell carcinoma",
+          "D. Oncocytoma",
+          "E. Collecting duct carcinoma"
+      ],
+      "answer": "B"
+  },
+  {
+      "question": "During examination, a renal tumor is noted to be well-circumscribed, located at one of the renal poles, with significant hemorrhage but no extension beyond the renal capsule. Histopathology shows single-layered cells on fibrovascular stalks. Which type of carcinoma does this describe?",
+      "options": [
+          "A. Clear cell renal cell carcinoma",
+          "B. Chromophobe renal cell carcinoma",
+          "C. Papillary renal cell carcinoma",
+          "D. Collecting duct carcinoma",
+          "E. Oncocytoma"
+      ],
+      "answer": "C"
+  },
+  {
+    "question": "A 62-year-old male presents with a palpable flank mass and painless hematuria. Imaging reveals a solid, well-demarcated mass that invades the renal vein. The tumor is yellowish with a lipid-rich cytoplasm. What is the most likely diagnosis?",
+    "options": [
+        "A. Oncocytoma",
+        "B. Clear cell renal cell carcinoma",
+        "C. Papillary renal cell carcinoma",
+        "D. Chromophobe renal cell carcinoma",
+        "E. Collecting duct carcinoma"
+    ],
+    "answer": "B"
+},
+{
+    "question": "A 4-year-old child is brought to the clinic with abdominal pain. Examination shows a firm mass in the posterior abdomen. Genetic testing reveals mutations in WT1 on chromosome 11p13. What additional symptom would support the diagnosis of WAGR syndrome?",
+    "options": [
+        "A. Polycythemia",
+        "B. Hypercalcemia",
+        "C. Aniridia",
+        "D. Cushing syndrome",
+        "E. Hypertension"
+    ],
+    "answer": "C"
+},
+{
+    "question": "A patient with a renal tumor undergoes a biopsy that reveals broad trabeculae of cells with abundant eosinophilic cytoplasm. The tumor has a traditional tan color and shows minimal hemorrhage. What type of renal carcinoma is this?",
+    "options": [
+        "A. Clear cell renal cell carcinoma",
+        "B. Papillary renal cell carcinoma",
+        "C. Chromophobe renal cell carcinoma",
+        "D. Oncocytoma",
+        "E. Collecting duct carcinoma"
+    ],
+    "answer": "D"
+},
+{
+    "question": "During an autopsy, a renal tumor is found to be located in the renal medulla with an invasive border. Histopathology shows dilated tubules and papillae lined by cuboidal to columnar cells with frequent mitoses. What type of carcinoma does this indicate?",
+    "options": [
+        "A. Clear cell renal cell carcinoma",
+        "B. Papillary renal cell carcinoma",
+        "C. Chromophobe renal cell carcinoma",
+        "D. Collecting duct carcinoma",
+        "E. Oncocytoma"
+    ],
+    "answer": "D"
+},
+{
+    "question": "A 50-year-old man presents with hematuria and flank pain. Imaging shows a tumor confined to the kidney without extension beyond the renal capsule. Histologically, the cells appear clear and are arranged with thin-walled blood vessels. What is the most likely type of renal carcinoma?",
+    "options": [
+        "A. Oncocytoma",
+        "B. Clear cell renal cell carcinoma",
+        "C. Papillary renal cell carcinoma",
+        "D. Chromophobe renal cell carcinoma",
+        "E. Collecting duct carcinoma"
+    ],
+    "answer": "B"
+},
+{
+    "question": "A 59-year-old male with a history of heavy smoking presents with painless hematuria and significant flank pain. Imaging reveals a mass with a pushing border and tan color. Histopathology shows broad trabeculae with eosinophilic cytoplasm and minimal hemorrhage. What is the most likely diagnosis?",
+    "options": [
+        "A. Oncocytoma",
+        "B. Clear cell renal cell carcinoma",
+        "C. Papillary renal cell carcinoma",
+        "D. Chromophobe renal cell carcinoma",
+        "E. Collecting duct carcinoma"
+    ],
+    "answer": "D"
+},
+{
+    "question": "A pediatric patient presents with a lobulated, tan-white mass in the kidney. Genetic testing confirms mutations in the WT1 gene on chromosome 11p13. Which clinical feature is most likely associated with this condition?",
+    "options": [
+        "A. Hypercalcemia",
+        "B. Polycythemia",
+        "C. Aniridia",
+        "D. Hematuria",
+        "E. Flank pain"
+    ],
+    "answer": "C"
+},
+{
+    "question": "A renal tumor that originates in the medulla and distorts the renal pelvis is found during surgery. Histology shows a mix of dilated tubules and papillae lined by cuboidal cells with frequent mitotic figures. What is the type of carcinoma?",
+    "options": [
+        "A. Clear cell renal cell carcinoma",
+        "B. Papillary renal cell carcinoma",
+        "C. Chromophobe renal cell carcinoma",
+        "D. Collecting duct carcinoma",
+        "E. Oncocytoma"
+    ],
+    "answer": "D"
+},
+{
+    "question": "A 60-year-old female presents with a renal mass. Histopathology shows clear cytoplasm and a sinusoidal vascular pattern. Electron microscopy reveals fat globules. Which type of chromosomal abnormality is most commonly associated with this type of renal cell carcinoma?",
+    "options": [
+        "A. Chromosome 11 deletion",
+        "B. Chromosome 3p deletion",
+        "C. Chromosome 17 translocation",
+        "D. Chromosome 7 duplication",
+        "E. Chromosome 6 inversion"
+    ],
+    "answer": "B"
+},
+{
+    "question": "A tumor is identified in a 4-year-old child and is described as arising from the kidney with three histological elements: metanephric blastema, immature glomeruli, and fibrovascular stroma. What is the most likely diagnosis?",
+    "options": [
+        "A. Clear cell renal cell carcinoma",
+        "B. Papillary renal cell carcinoma",
+        "C. Wilms tumor",
+        "D. Chromophobe renal cell carcinoma",
+        "E. Oncocytoma"
+    ],
+    "answer": "C"
+}
+  ],
+  "9" : [
+    {
+      "question": "A 52-year-old male presents with painless hematuria and reports a history of smoking. A cystoscopy reveals a mass in the bladder. What is the most common type of bladder tumor in this patient?",
+      "options": [
+          "A. Squamous cell carcinoma",
+          "B. Adenocarcinoma",
+          "C. Transitional cell carcinoma",
+          "D. Sarcoma"
+      ],
+      "answer": "C"
+  },
+  {
+      "question": "A 60-year-old patient presents with painless hematuria. A biopsy reveals flat, non-invasive carcinoma confined to the submucosal layer. Which treatment approach would most likely be used in this case?",
+      "options": [
+          "A. Systemic chemotherapy",
+          "B. Intravesical chemotherapy",
+          "C. Immediate cystectomy",
+          "D. Radiation therapy"
+      ],
+      "answer": "B"
+  },
+  {
+      "question": "A patient diagnosed with bladder cancer is staged at T2a N0 M0. What does this indicate regarding the tumor's progression?",
+      "options": [
+          "A. Tumor is in situ and non-invasive",
+          "B. Tumor has grown into the superficial muscle layer of the bladder",
+          "C. Tumor has spread to surrounding organs",
+          "D. Tumor is confined to the bladder’s inner lining"
+      ],
+      "answer": "B"
+  },
+  {
+      "question": "A patient with a history of chronic bladder catheter use presents with a new diagnosis of bladder cancer. Which type of bladder cancer is most commonly associated with chronic irritation?",
+      "options": [
+          "A. Transitional cell carcinoma",
+          "B. Adenocarcinoma",
+          "C. Squamous cell carcinoma",
+          "D. Sarcoma"
+      ],
+      "answer": "C"
+  },
+  {
+      "question": "A 7-year-old girl is diagnosed with a bladder tumor showing grape-like structures. What is the most likely diagnosis?",
+      "options": [
+          "A. Leiomyosarcoma",
+          "B. Sarcoma botryoides",
+          "C. Squamous cell carcinoma",
+          "D. Transitional cell carcinoma"
+      ],
+      "answer": "B"
+  },
+  {
+      "question": "A 45-year-old male presents with painless hematuria and a history of working in a chemical dye factory. Which exposure is most strongly associated with his condition?",
+      "options": [
+          "A. β-naphthylamine",
+          "B. Arsenic",
+          "C. Cadmium",
+          "D. Asbestos"
+      ],
+      "answer": "A"
+  },
+  {
+      "question": "A patient presents with a diagnosis of high-grade non-invasive papillary urothelial carcinoma. Which gene mutations are commonly associated with this type of carcinoma?",
+      "options": [
+          "A. BRCA1 and BRCA2",
+          "B. P53 and Rb",
+          "C. KRAS and APC",
+          "D. EGFR and HER2"
+      ],
+      "answer": "B"
+  },
+  {
+      "question": "A 58-year-old male has been diagnosed with bladder cancer staged as T4. What does this indicate about the tumor's progression?",
+      "options": [
+          "A. The tumor is only in the inner lining of the bladder.",
+          "B. The tumor has invaded the muscle layer of the bladder.",
+          "C. The tumor has grown through the bladder wall into surrounding fat.",
+          "D. The tumor has spread to surrounding organs such as the prostate or bowel."
+      ],
+      "answer": "D"
+  },
+  {
+      "question": "A 68-year-old female with a history of chronic cystitis is found to have bladder cancer. Which type of bladder cancer is most commonly associated with long-standing inflammation and metaplasia?",
+      "options": [
+          "A. Adenocarcinoma",
+          "B. Transitional cell carcinoma",
+          "C. Sarcoma",
+          "D. Squamous cell carcinoma"
+      ],
+      "answer": "D"
+  },
+  {
+      "question": "Which of the following is a characteristic finding of sarcoma botryoides in the bladder?",
+      "options": [
+          "A. Flat, non-invasive appearance",
+          "B. Glandular metaplasia with mucous-secreting cells",
+          "C. Grape-like masses originating from muscle tissue",
+          "D. Irregular patches with hyperchromatic cells"
+      ],
+      "answer": "C"
+  },
+  {
+      "question": "A 55-year-old patient presents with painless hematuria and imaging shows a mass in the renal pelvis. Which of the following risk factors is most strongly associated with this condition?",
+      "options": [
+          "A. Chronic cystitis",
+          "B. Cigarette smoking",
+          "C. Alcohol consumption",
+          "D. High salt diet"
+      ],
+      "answer": "B"
+  },
+  {
+      "question": "A biopsy report shows a low-grade papillary urothelial carcinoma. Which of the following best describes the cellular characteristics of this tumor?",
+      "options": [
+          "A. Highly pleomorphic cells with high mitotic activity",
+          "B. Uniform cells with rare mitotic figures",
+          "C. Flat carcinoma with submucosal invasion",
+          "D. Glandular differentiation with mucous secretion"
+      ],
+      "answer": "B"
+  },
+  {
+      "question": "A 70-year-old male diagnosed with transitional cell carcinoma is found to have hydronephrosis on imaging. What is the most likely explanation for this finding?",
+      "options": [
+          "A. Tumor invasion of the bladder muscle",
+          "B. Tumor obstruction at the renal pelvis or ureter",
+          "C. Tumor spreading to surrounding organs",
+          "D. Formation of granulomas in the bladder wall"
+      ],
+      "answer": "B"
+  },
+  {
+      "question": "Which of the following is most characteristic of adenocarcinoma of the bladder?",
+      "options": [
+          "A. Presence of squamous metaplasia",
+          "B. Association with Schistosoma infection",
+          "C. Arising from extensive intestinal metaplasia",
+          "D. Commonly linked with chronic catheter use"
+      ],
+      "answer": "C"
+  },
+  {
+      "question": "A patient with known bladder cancer undergoes staging and is found to have T3 disease. What does this indicate about the extent of tumor invasion?",
+      "options": [
+          "A. Tumor confined to the inner lining of the bladder",
+          "B. Tumor has invaded the lamina propria",
+          "C. Tumor has invaded into the muscle layer of the bladder",
+          "D. Tumor has grown through the muscle into the surrounding fat layer"
+      ],
+      "answer": "D"
+  },
+  {
+    "question": "A 63-year-old male presents with painless hematuria and is diagnosed with transitional cell carcinoma. Which of the following additional findings would be most consistent with a diagnosis of high-grade carcinoma?",
+    "options": [
+        "A. Uniform cell structure with minimal mitotic figures",
+        "B. Loss of p53 and Rb gene expression",
+        "C. Presence of umbrella cells",
+        "D. Glandular differentiation"
+    ],
+    "answer": "B"
+},
+{
+    "question": "A biopsy reveals a papillary urothelial carcinoma that has invaded the muscle layer of the bladder. Which staging is most appropriate for this finding?",
+    "options": [
+        "A. T1",
+        "B. T2",
+        "C. T3",
+        "D. T4"
+    ],
+    "answer": "B"
+},
+{
+    "question": "Which of the following is most likely associated with the development of squamous cell carcinoma of the bladder?",
+    "options": [
+        "A. β-naphthylamine exposure",
+        "B. Chronic Schistosoma infection",
+        "C. Polycystic kidney disease",
+        "D. Use of diuretics"
+    ],
+    "answer": "B"
+},
+{
+    "question": "A patient presents with bladder cancer characterized by a flat, high-grade lesion that has not invaded the submucosa. Which of the following terms best describes this type of cancer?",
+    "options": [
+        "A. Papillary carcinoma",
+        "B. Adenocarcinoma",
+        "C. Carcinoma in situ",
+        "D. Sarcoma botryoides"
+    ],
+    "answer": "C"
+},
+{
+    "question": "Which of the following characteristics is typical of a low-grade papillary urothelial carcinoma?",
+    "options": [
+        "A. Aggressive growth with high recurrence rate",
+        "B. High level of cellular atypia and mitotic figures",
+        "C. Cells appearing more uniform with fewer mitotic figures",
+        "D. Associated with glandular metaplasia and mucus production"
+    ],
+    "answer": "C"
+},
+{
+    "question": "A 70-year-old male presents with painless hematuria. Cystoscopy reveals a tumor with a central fibrovascular core. Which type of tumor does this most likely indicate?",
+    "options": [
+        "A. Adenocarcinoma",
+        "B. Squamous cell carcinoma",
+        "C. Papillary urothelial carcinoma",
+        "D. Sarcoma botryoides"
+    ],
+    "answer": "C"
+},
+{
+    "question": "Which bladder cancer type is most likely to develop in patients with a history of chronic catheter use and long-standing inflammation?",
+    "options": [
+        "A. Transitional cell carcinoma",
+        "B. Squamous cell carcinoma",
+        "C. Papillary carcinoma",
+        "D. Sarcoma"
+    ],
+    "answer": "B"
+},
+{
+    "question": "A patient is diagnosed with bladder cancer staged as T1. Which of the following best describes the extent of the tumor's invasion?",
+    "options": [
+        "A. Tumor is limited to the inner lining of the bladder.",
+        "B. Tumor has invaded the lamina propria but not the muscle layer.",
+        "C. Tumor has invaded the muscle layer of the bladder.",
+        "D. Tumor has grown through the bladder wall into the surrounding fat."
+    ],
+    "answer": "B"
+},
+{
+    "question": "Which of the following is a common clinical presentation of lower urinary tract cancers?",
+    "options": [
+        "A. Frequent urination with pain",
+        "B. Painless hematuria",
+        "C. Urinary incontinence",
+        "D. Severe pelvic pain"
+    ],
+    "answer": "B"
+},
+{
+    "question": "Which type of bladder cancer is considered rare and associated with extensive intestinal metaplasia or chronic irritation of the bladder?",
+    "options": [
+        "A. Transitional cell carcinoma",
+        "B. Squamous cell carcinoma",
+        "C. Papillary urothelial carcinoma",
+        "D. Adenocarcinoma"
+    ],
+    "answer": "D"
+},
+{
+    "question": "A 64-year-old male patient presents with a history of chronic bladder irritation and recurrent urinary tract infections. Which type of bladder cancer is he at higher risk for developing?",
+    "options": [
+        "A. Transitional cell carcinoma",
+        "B. Squamous cell carcinoma",
+        "C. Papillary urothelial carcinoma",
+        "D. Adenocarcinoma"
+    ],
+    "answer": "B"
+},
+{
+    "question": "Which of the following is true regarding the prognosis of papillary urothelial carcinoma?",
+    "options": [
+        "A. High-grade papillary carcinoma often has a better prognosis than low-grade",
+        "B. Low-grade papillary carcinoma typically has a lower risk of progression",
+        "C. Papillary carcinoma always invades the muscle layer",
+        "D. Both high-grade and low-grade have the same prognosis"
+    ],
+    "answer": "B"
+},
+{
+    "question": "A patient is diagnosed with bladder cancer that has spread into the fat layer surrounding the bladder but not to other organs. Which stage best describes this finding?",
+    "options": [
+        "A. T2",
+        "B. T3",
+        "C. T4",
+        "D. T1"
+    ],
+    "answer": "B"
+},
+{
+    "question": "Which of the following risk factors is most associated with the development of adenocarcinoma of the bladder?",
+    "options": [
+        "A. Cigarette smoking",
+        "B. Extensive intestinal metaplasia",
+        "C. Schistosoma infection",
+        "D. Occupational exposure to β-naphthylamine"
+    ],
+    "answer": "B"
+},
+{
+    "question": "What is the most common presenting symptom of bladder cancer?",
+    "options": [
+        "A. Severe pelvic pain",
+        "B. Painless hematuria",
+        "C. Urinary incontinence",
+        "D. Dysuria (painful urination)"
+    ],
+    "answer": "B"
+}
+  ],
+  "10" : [
+    {
+      "question": "A 62-year-old African American male presents with urinary frequency, reduced stream, and nocturia. He had an episode of acute urinary retention treated by catheterization. Histological examination of his prostatectomy specimen is most likely to reveal which of the following features?",
+      "options": [
+          "A. Hyperplasia of glandular and stromal elements",
+          "B. Crowded nests of cells with prominent nucleoli",
+          "C. Dense inflammatory neutrophilic infiltrate",
+          "D. Tumor metastasis from the bladder"
+      ],
+      "answer": "A"
+  },
+  {
+      "question": "A 68-year-old male reports progressive dysuria, frequent urination, and lower back pain for several months. A DRE reveals a firm, irregular area of induration in the right peripheral lobe of the prostate. Elevated PSA and alkaline phosphatase levels are noted, and a bone scan shows lesions in the spine and pelvis. What is the most likely diagnosis?",
+      "options": [
+          "A. Acute prostatitis",
+          "B. Benign prostatic hyperplasia (BPH)",
+          "C. Lung carcinoma with metastasis to the prostate",
+          "D. Prostatic adenocarcinoma"
+      ],
+      "answer": "D"
+  },
+  {
+      "question": "A 55-year-old man presents with pain during urination and a mildly tender, slightly enlarged prostate on DRE. His temperature is 37.5°C, with elevated WBC count and urine culture positive for E. coli. PSA is mildly elevated. After antibiotic therapy, he shows improvement. What is the most likely diagnosis?",
+      "options": [
+          "A. Acute bacterial prostatitis",
+          "B. Chronic bacterial prostatitis",
+          "C. Prostatic adenocarcinoma",
+          "D. Prostatic hyperplasia",
+          "E. Urothelial carcinoma of the urethra"
+      ],
+      "answer": "A"
+  },
+  {
+      "question": "During a routine examination, a 70-year-old man is found to have a PSA level of 12 ng/mL and palpable firm nodules on DRE. A biopsy reveals small, invasive glandular structures with a lack of myoepithelial cells. What is the most likely diagnosis?",
+      "options": [
+          "A. Benign prostatic hyperplasia",
+          "B. Prostatic adenocarcinoma",
+          "C. Prostatitis",
+          "D. Bladder carcinoma invading the prostate"
+      ],
+      "answer": "B"
+  },
+  {
+      "question": "A 60-year-old male with chronic urinary obstruction undergoes imaging that shows an enlarged bladder with a roughened mucosa and bladder stones. Which of the following is the most likely complication associated with his condition?",
+      "options": [
+          "A. Post-renal azotemia",
+          "B. Acute glomerulonephritis",
+          "C. Tubulointerstitial nephritis",
+          "D. Renal artery stenosis"
+      ],
+      "answer": "A"
+  },
+  {
+      "question": "A 70-year-old male presents with lower back pain and difficulty urinating. Imaging reveals osteoblastic lesions in the spine, and his PSA is significantly elevated. What is the most likely explanation for these findings?",
+      "options": [
+          "A. Renal cell carcinoma",
+          "B. Benign prostatic hyperplasia (BPH)",
+          "C. Multiple myeloma",
+          "D. Prostatic adenocarcinoma with bone metastasis"
+      ],
+      "answer": "D"
+  },
+  {
+      "question": "A 60-year-old man is found to have a firm nodule in the peripheral zone of his prostate during a digital rectal exam (DRE). A biopsy confirms glandular tissue with nuclear atypia and a high Gleason score. What is the most likely diagnosis?",
+      "options": [
+          "A. Benign prostatic hyperplasia",
+          "B. Acute prostatitis",
+          "C. Prostatic adenocarcinoma",
+          "D. Chronic prostatitis"
+      ],
+      "answer": "C"
+  },
+  {
+      "question": "A 55-year-old male reports urinary hesitancy and nocturia. On DRE, the prostate feels smooth and symmetrically enlarged. His PSA is within normal limits. Which of the following is the most likely diagnosis?",
+      "options": [
+          "A. Prostatic adenocarcinoma",
+          "B. Acute bacterial prostatitis",
+          "C. Benign prostatic hyperplasia (BPH)",
+          "D. Urothelial carcinoma of the bladder"
+      ],
+      "answer": "C"
+  },
+  {
+      "question": "A 65-year-old man has a prostate biopsy revealing infiltrative small glands with a single layer of cells and prominent nucleoli. Which feature supports a diagnosis of prostatic adenocarcinoma?",
+      "options": [
+          "A. Presence of basal myoepithelial cells",
+          "B. Cribriform gland pattern",
+          "C. Uniform gland size",
+          "D. Pink amorphous secretions"
+      ],
+      "answer": "B"
+  },
+  {
+      "question": "A 58-year-old male undergoes a transrectal ultrasound due to elevated PSA levels. The ultrasound shows lesions in the peripheral zone of the prostate. What is the most common cancer associated with this zone?",
+      "options": [
+          "A. Transitional cell carcinoma",
+          "B. Squamous cell carcinoma",
+          "C. Adenocarcinoma",
+          "D. Sarcoma"
+      ],
+      "answer": "C"
+  },
+  {
+    "question": "A 67-year-old man has a PSA level of 15 ng/mL and complains of urinary obstruction symptoms. A digital rectal exam (DRE) reveals a firm mass in the peripheral zone of the prostate. Which of the following is the most likely diagnosis?",
+    "options": [
+        "A. Acute prostatitis",
+        "B. Prostatic hyperplasia",
+        "C. Prostatic adenocarcinoma",
+        "D. Urothelial carcinoma"
+    ],
+    "answer": "C"
+},
+{
+    "question": "A 72-year-old male has elevated PSA levels and an ultrasound showing a lesion in the prostate's peripheral zone. Biopsy reveals perineural invasion. Which of the following is most likely associated with this finding?",
+    "options": [
+        "A. Benign prostatic hyperplasia (BPH)",
+        "B. Chronic bacterial prostatitis",
+        "C. Prostatic adenocarcinoma",
+        "D. Acute bacterial prostatitis"
+    ],
+    "answer": "C"
+},
+{
+    "question": "A 64-year-old man reports difficulty initiating urination and a weak stream. A DRE reveals a symmetrically enlarged, smooth prostate. His PSA is 3.8 ng/mL. What is the most likely condition?",
+    "options": [
+        "A. Prostatic adenocarcinoma",
+        "B. Benign prostatic hyperplasia (BPH)",
+        "C. Prostate abscess",
+        "D. Chronic prostatitis"
+    ],
+    "answer": "B"
+},
+{
+    "question": "A 65-year-old male with lower back pain has an elevated PSA and a bone scan showing osteoblastic lesions. Which lab finding would most likely be elevated?",
+    "options": [
+        "A. Serum calcium",
+        "B. Serum phosphate",
+        "C. Alkaline phosphatase",
+        "D. Serum creatinine"
+    ],
+    "answer": "C"
+},
+{
+    "question": "A prostate biopsy from a 66-year-old man shows infiltrative small glands lacking basal cells and with prominent nucleoli. Which of the following is most diagnostic of this condition?",
+    "options": [
+        "A. High mitotic activity",
+        "B. Perineural invasion",
+        "C. Presence of basal myoepithelial cells",
+        "D. Granulomatous inflammation"
+    ],
+    "answer": "B"
+},
+{
+    "question": "A 70-year-old male undergoes a prostate biopsy that reveals crowded small glands with an infiltrative pattern. The patient has a PSA of 11 ng/mL. What type of grading system is typically used to evaluate this pathology?",
+    "options": [
+        "A. Gleason grading system",
+        "B. Bethesda grading system",
+        "C. TNM staging system",
+        "D. Dukes staging system"
+    ],
+    "answer": "A"
+},
+{
+    "question": "A 68-year-old man has progressive urinary symptoms, including frequency and nocturia. On DRE, the prostate is firm and nodular. Biopsy confirms adenocarcinoma. Which zone of the prostate is most commonly affected?",
+    "options": [
+        "A. Central zone",
+        "B. Peripheral zone",
+        "C. Transitional zone",
+        "D. Anterior fibromuscular stroma"
+    ],
+    "answer": "B"
+},
+{
+    "question": "A 62-year-old male has a biopsy confirming high-grade prostatic intraepithelial neoplasia (PIN). What is the clinical significance of this finding?",
+    "options": [
+        "A. It indicates chronic inflammation.",
+        "B. It suggests a high risk of developing prostatic adenocarcinoma.",
+        "C. It confirms metastatic cancer.",
+        "D. It is indicative of benign prostatic hyperplasia."
+    ],
+    "answer": "B"
+},
+{
+    "question": "A 58-year-old man complains of painful urination and fever. On examination, the prostate is tender. Lab results show elevated WBC and a positive urine culture. What is the most likely diagnosis?",
+    "options": [
+        "A. Prostatic adenocarcinoma",
+        "B. Chronic prostatitis",
+        "C. Acute bacterial prostatitis",
+        "D. Benign prostatic hyperplasia (BPH)"
+    ],
+    "answer": "C"
+},
+{
+    "question": "A 70-year-old man with a long-standing history of urinary retention and bladder distension presents with flank pain. Imaging shows hydronephrosis. Which of the following is the most likely complication of this condition?",
+    "options": [
+        "A. Acute glomerulonephritis",
+        "B. Post-renal azotemia",
+        "C. Chronic pyelonephritis",
+        "D. Renal cell carcinoma"
+    ],
+    "answer": "B"
+}
+  ]
+}
