@@ -1,31 +1,61 @@
 {
   "Diuretics": [
     {
-        "question": "A patient is being treated for hypertension with a diuretic and develops gynecomastia. Which drug is most likely responsible for this side effect?",
-        "options": ["A. Furosemide", "B. Spironolactone", "C. Acetazolamide", "D. Amiloride", "E. Mannitol"],
-        "answer": "B"
-      },
-      {
-        "question": "A patient with congestive heart failure is treated with a diuretic that acts in the medullary collecting tubule and prevents sodium recovery. The patient later develops hyperkalemia and acidosis. Which drug was administered?",
-        "options": ["A. Furosemide", "B. Hydrochlorothiazide", "C. Amiloride", "D. Mannitol", "E. Spironolactone"],
-        "answer": "E"
-      },
-      {
-        "question": "A patient experiences increased thirst and hyponatremia after taking a diuretic for edema. Laboratory results show a decrease in plasma sodium concentration. Which type of diuretic is most likely responsible?",
-        "options": ["A. Amiloride", "B. Mannitol", "C. Furosemide", "D. Spironolactone", "E. Hydrochlorothiazide"],
-        "answer": "C"
-      },
-      {
-        "question": "A patient with hypercalcemia is treated with a diuretic that inhibits the Na+-K+-2Cl- cotransport system in the thick ascending loop of Henle. Which drug was most likely used?",
-        "options": ["A. Spironolactone", "B. Acetazolamide", "C. Furosemide", "D. Mannitol", "E. Hydrochlorothiazide"],
-        "answer": "C"
-      },
-      {
-        "question": "A patient develops sulfa-sensitivity after starting a diuretic, presenting with photosensitivity and a rash. Which of the following drugs is likely to have caused this reaction?",
-        "options": ["A. Amiloride", "B. Furosemide", "C. Ethacrynic acid", "D. Spironolactone", "E. Mannitol"],
-        "answer": "B"
-      },
-      {
+      "question": "A patient is being treated for hypertension with a diuretic and develops gynecomastia. Which drug is most likely responsible for this side effect?",
+      "options": [
+        "A. Furosemide",
+        "B. Spironolactone",
+        "C. Acetazolamide",
+        "D. Amiloride",
+        "E. Mannitol"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient with congestive heart failure is treated with a diuretic that acts in the medullary collecting tubule and prevents sodium recovery. The patient later develops hyperkalemia and acidosis. Which drug was administered?",
+      "options": [
+        "A. Furosemide",
+        "B. Hydrochlorothiazide",
+        "C. Amiloride",
+        "D. Mannitol",
+        "E. Spironolactone"
+      ],
+      "answer": "E"
+    },
+    {
+      "question": "A patient experiences increased thirst and hyponatremia after taking a diuretic for edema. Laboratory results show a decrease in plasma sodium concentration. Which type of diuretic is most likely responsible?",
+      "options": [
+        "A. Amiloride",
+        "B. Mannitol",
+        "C. Furosemide",
+        "D. Spironolactone",
+        "E. Hydrochlorothiazide"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient with hypercalcemia is treated with a diuretic that inhibits the Na+-K+-2Cl- cotransport system in the thick ascending loop of Henle. Which drug was most likely used?",
+      "options": [
+        "A. Spironolactone",
+        "B. Acetazolamide",
+        "C. Furosemide",
+        "D. Mannitol",
+        "E. Hydrochlorothiazide"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient develops sulfa-sensitivity after starting a diuretic, presenting with photosensitivity and a rash. Which of the following drugs is likely to have caused this reaction?",
+      "options": [
+        "A. Amiloride",
+        "B. Furosemide",
+        "C. Ethacrynic acid",
+        "D. Spironolactone",
+        "E. Mannitol"
+      ],
+      "answer": "B"
+    },
+    {
       "question": "A patient treated for altitude sickness presented with drowsiness and paresthesias. Laboratory results showed elevated urinary pH and renal stones. Which drug likely caused these side effects?",
       "options": [
         "A. Furosemide",
@@ -189,6 +219,61 @@
         "E. Carbonic anhydrase inhibitors"
       ],
       "answer": "C"
+    },
+    {
+      "question": "A patient is given a diuretic for treatment of acute pulmonary edema but later develops ototoxicity. Which drug is most likely responsible?",
+      "options": [
+        "A. Hydrochlorothiazide",
+        "B. Spironolactone",
+        "C. Ethacrynic acid",
+        "D. Acetazolamide",
+        "E. Amiloride"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient with chronic hypertension is prescribed a diuretic that acts on the distal convoluted tubule and reduces the formation of calcium stones. Which drug is this?",
+      "options": [
+        "A. Furosemide",
+        "B. Mannitol",
+        "C. Hydrochlorothiazide",
+        "D. Spironolactone",
+        "E. Acetazolamide"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient being treated with a combination of diuretics to neutralize potassium loss develops hyperkalemia. Which drug combination is most likely responsible for this effect?",
+      "options": [
+        "A. Furosemide and Hydrochlorothiazide",
+        "B. Acetazolamide and Mannitol",
+        "C. Spironolactone and Amiloride",
+        "D. Mannitol and Furosemide",
+        "E. Hydrochlorothiazide and Acetazolamide"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient with glaucoma is given a drug that works by inhibiting carbonic anhydrase in the proximal convoluted tubule. Which drug was used?",
+      "options": [
+        "A. Furosemide",
+        "B. Hydrochlorothiazide",
+        "C. Mannitol",
+        "D. Acetazolamide",
+        "E. Spironolactone"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A patient treated with a diuretic develops hyperuricemia, contributing to an exacerbation of gouty arthritis. Which drug is most likely the cause?",
+      "options": [
+        "A. Amiloride",
+        "B. Ethacrynic acid",
+        "C. Acetazolamide",
+        "D. Hydrochlorothiazide",
+        "E. Spironolactone"
+      ],
+      "answer": "D"
     }
   ]
 }
