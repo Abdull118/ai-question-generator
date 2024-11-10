@@ -884,5 +884,131 @@
       ],
       "answer": "B"
     }
+  ],
+  "Glomerulonephritis": [
+    {
+        "question": "A 45-year-old male with hypertension and proteinuria is started on medication to control his condition. After a few weeks, his blood pressure improves, and protein levels in his urine decrease. Which medication is most likely responsible for these effects?",
+        "options": ["A. Furosemide", "B. Captopril", "C. Warfarin", "D. Prednisone", "E. Azathioprine"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient with minimal-change nephropathy shows significant improvement after treatment. Which drug was most likely prescribed?",
+        "options": ["A. Losartan", "B. Cyclosporine", "C. Mycophenolate mofetil", "D. Prednisone", "E. Furosemide"],
+        "answer": "D"
+      },
+      {
+        "question": "A 60-year-old woman is admitted with edema secondary to chronic kidney disease. To manage her symptoms, a loop diuretic is administered. Which of the following drugs was given?",
+        "options": ["A. Losartan", "B. Furosemide", "C. Warfarin", "D. Azathioprine", "E. Captopril"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient with glomerulonephritis is undergoing immunosuppressive therapy. Which combination of drugs is most likely included in their treatment plan?",
+        "options": ["A. Enalapril and Valsartan", "B. Azathioprine and Cyclosporine", "C. Warfarin and Furosemide", "D. Prednisone and Losartan", "E. Captopril and Mycophenolate mofetil"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient presents with intravascular thrombosis and is prescribed an anticoagulant. Which medication was used?",
+        "options": ["A. Prednisone", "B. Furosemide", "C. Warfarin", "D. Enalapril", "E. Cyclosporine"],
+        "answer": "C"
+      },
+      {
+        "question": "A 52-year-old patient with hypertension and chronic kidney disease is advised to take a medication that inhibits angiotensin II and reduces proteinuria. Which drug is most appropriate for this patient?",
+        "options": ["A. Furosemide", "B. Warfarin", "C. Losartan", "D. Azathioprine", "E. Prednisone"],
+        "answer": "C"
+      },
+      {
+        "question": "A patient with glomerulonephritis is treated to reduce inflammation and immune response. After several weeks, the treatment shows significant improvement in their condition. Which type of drug was likely administered?",
+        "options": ["A. ACE inhibitor", "B. Loop diuretic", "C. Corticosteroid", "D. Anticoagulant", "E. Antibiotic"],
+        "answer": "C"
+      },
+      {
+        "question": "A patient presents with edema due to a renal disorder. A loop diuretic is chosen as part of the treatment to alleviate fluid retention. Which medication was prescribed?",
+        "options": ["A. Captopril", "B. Mycophenolate mofetil", "C. Warfarin", "D. Furosemide", "E. Enalapril"],
+        "answer": "D"
+      },
+      {
+        "question": "A nephrologist prescribes an immunosuppressant for a patient diagnosed with glomerulonephritis. Which medication might be included in the treatment plan?",
+        "options": ["A. Valsartan", "B. Furosemide", "C. Azathioprine", "D. Warfarin", "E. Captopril"],
+        "answer": "C"
+      },
+      {
+        "question": "A patient with chronic kidney disease is at risk for thrombosis and is prescribed medication to manage this condition. Which drug would be appropriate for this purpose?",
+        "options": ["A. Losartan", "B. Enalapril", "C. Furosemide", "D. Warfarin", "E. Prednisone"],
+        "answer": "D"
+      },
+      {
+        "question": "A patient diagnosed with glomerulonephritis is placed on medication to manage their proteinuria and blood pressure. Which drug is most likely prescribed?",
+        "options": ["A. Warfarin", "B. Prednisone", "C. Enalapril", "D. Mycophenolate mofetil", "E. Furosemide"],
+        "answer": "C"
+      },
+      {
+        "question": "A patient with minimal-change nephropathy requires treatment with an anti-inflammatory agent. Which drug should be used?",
+        "options": ["A. Losartan", "B. Captopril", "C. Azathioprine", "D. Prednisone", "E. Warfarin"],
+        "answer": "D"
+      },
+      {
+        "question": "A 55-year-old patient presents with hypertension and chronic kidney disease. The physician prescribes a drug that helps to inhibit angiotensin II. Which drug was likely chosen?",
+        "options": ["A. Mycophenolate mofetil", "B. Furosemide", "C. Prednisone", "D. Captopril", "E. Warfarin"],
+        "answer": "D"
+      },
+      {
+        "question": "A patient experiencing edema as a complication of chronic kidney disease is prescribed a loop diuretic. Which of the following drugs is most appropriate?",
+        "options": ["A. Azathioprine", "B. Warfarin", "C. Enalapril", "D. Furosemide", "E. Losartan"],
+        "answer": "D"
+      },
+      {
+        "question": "A patient being treated for glomerulonephritis is given an immunosuppressive drug as part of their therapy. Which medication might they be taking?",
+        "options": ["A. Captopril", "B. Prednisone", "C. Furosemide", "D. Azathioprine", "E. Warfarin"],
+        "answer": "D"
+      },
+      {
+        "question": "A 50-year-old patient with glomerulonephritis is prescribed medication to help reduce immune response and inflammation. Which drug is most appropriate for this treatment?",
+        "options": ["A. Furosemide", "B. Warfarin", "C. Losartan", "D. Prednisone", "E. Captopril"],
+        "answer": "D"
+      },
+      {
+        "question": "A patient with chronic kidney disease presents with hypertension and is prescribed a medication that inhibits the formation of angiotensin II. Which drug would be most suitable?",
+        "options": ["A. Azathioprine", "B. Enalapril", "C. Furosemide", "D. Warfarin", "E. Prednisone"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient being treated for glomerulonephritis requires an immunosuppressant as part of their therapy. Which of the following medications could be included?",
+        "options": ["A. Losartan", "B. Warfarin", "C. Cyclosporine", "D. Furosemide", "E. Enalapril"],
+        "answer": "C"
+      },
+      {
+        "question": "A patient develops significant edema as a result of a renal disorder and requires a loop diuretic. Which medication would be used in this case?",
+        "options": ["A. Captopril", "B. Mycophenolate mofetil", "C. Furosemide", "D. Warfarin", "E. Azathioprine"],
+        "answer": "C"
+      },
+      {
+        "question": "A 45-year-old patient with a history of intravascular thrombosis is prescribed an anticoagulant to prevent further complications. Which drug is most appropriate?",
+        "options": ["A. Losartan", "B. Prednisone", "C. Furosemide", "D. Warfarin", "E. Cyclosporine"],
+        "answer": "D"
+      },
+      {
+        "question": "A patient with chronic kidney disease is experiencing hypertension and is prescribed a medication that helps reduce proteinuria. Which drug is appropriate for this treatment?",
+        "options": ["A. Furosemide", "B. Prednisone", "C. Captopril", "D. Warfarin", "E. Mycophenolate mofetil"],
+        "answer": "C"
+      },
+      {
+        "question": "A nephrologist prescribes an immunosuppressive therapy for a patient diagnosed with glomerulonephritis. Which medication could be part of this treatment plan?",
+        "options": ["A. Enalapril", "B. Azathioprine", "C. Furosemide", "D. Warfarin", "E. Losartan"],
+        "answer": "B"
+      },{
+        "question": "A patient with minimal-change nephropathy responds well to treatment and shows significant improvement. Which drug was most likely used?",
+        "options": ["A. Warfarin", "B. Losartan", "C. Cyclosporine", "D. Prednisone", "E. Furosemide"],
+        "answer": "D"
+      },
+      {
+        "question": "A patient being treated for a renal disorder develops significant edema and needs medication to reduce fluid retention. Which of the following should be administered?",
+        "options": ["A. Prednisone", "B. Captopril", "C. Azathioprine", "D. Furosemide", "E. Enalapril"],
+        "answer": "D"
+      },
+      {
+        "question": "A patient at risk of developing thrombosis due to a renal condition is prescribed an anticoagulant. Which drug would be appropriate?",
+        "options": ["A. Captopril", "B. Warfarin", "C. Losartan", "D. Mycophenolate mofetil", "E. Furosemide"],
+        "answer": "B"
+      }
   ]
 }
