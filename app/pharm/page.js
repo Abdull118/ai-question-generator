@@ -151,7 +151,7 @@ const Page = () => {
       {!selectedLecture && (
         <div className={styles.lectureSelection}>
   <h2>Please select a lecture or all:</h2>
-  {['Diuretics', "ARI's & ARB's", "Drug-Induced Nephrotoxicity", "Glomerulonephritis"].map((lecture) => (
+  {['Diuretics', "ARI's & ARB's", "Drug-Induced Nephrotoxicity", "Glomerulonephritis", "UTI's"].map((lecture) => (
     <button
       key={lecture}
       className={styles.lectureButton}

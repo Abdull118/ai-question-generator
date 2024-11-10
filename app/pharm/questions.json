@@ -1010,5 +1010,220 @@
         "options": ["A. Captopril", "B. Warfarin", "C. Losartan", "D. Mycophenolate mofetil", "E. Furosemide"],
         "answer": "B"
       }
+  ],
+  "UTI's": [
+    {
+        "question": "A 45-year-old male with a history of frequent UTIs is treated with an antibiotic. A few days later, he develops a skin rash and facial swelling. Laboratory tests indicate elevated eosinophils and creatinine levels. Which drug is most likely responsible for his acute allergic interstitial nephritis?",
+        "options": ["A. Ciprofloxacin", "B. Amoxicillin-Clavulanic acid", "C. Nitrofurantoin", "D. Cefdinir", "E. Phenazopyridine"],
+        "answer": "B"
+      },
+      {
+        "question": "A 30-year-old woman with cystitis is prescribed a medication that inhibits bacterial DNA replication. She later experiences Achilles tendon pain. Which medication is most likely responsible for this side effect?",
+        "options": ["A. Nitrofurantoin", "B. Cefepime", "C. Ciprofloxacin", "D. Amoxicillin", "E. Phenazopyridine"],
+        "answer": "C"
+      },
+      {
+        "question": "A 28-year-old pregnant woman presents with urinary frequency and burning. A UTI is confirmed, and her doctor prescribes a medication that is effective against E. coli and considered safe during pregnancy (except near term). Which medication was prescribed?",
+        "options": ["A. Fosfomycin", "B. Nitrofurantoin", "C. Trimethoprim-Sulfamethoxazole", "D. Ciprofloxacin", "E. Phenazopyridine"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient is treated for a UTI and develops hemolytic anemia due to a medication known for this risk in patients with G6PD deficiency. Which drug is most likely responsible?",
+        "options": ["A. Trimethoprim-Sulfamethoxazole", "B. Phenazopyridine", "C. Cefdinir", "D. Levofloxacin", "E. Amoxicillin"],
+        "answer": "A"
+      },
+      {
+        "question": "A 19-year-old female with cystitis is prescribed a drug that inhibits peptidoglycan biosynthesis via MurA enzyme inhibition. What is the most appropriate medication for her treatment?",
+        "options": ["A. Ciprofloxacin", "B. Amoxicillin-Clavulanic acid", "C. Nitrofurantoin", "D. Fosfomycin", "E. Cefepime"],
+        "answer": "D"
+      },
+      {
+        "question": "A 35-year-old male is prescribed an antibiotic for cystitis. He later develops nausea, vomiting, and a prolonged QT interval on an EKG. Which of the following medications is most likely responsible?",
+        "options": ["A. Fosfomycin", "B. Ciprofloxacin", "C. Nitrofurantoin", "D. Amoxicillin-Clavulanic acid", "E. Cefpodoxime"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient taking medication for cystitis reports reddish-orange urine discoloration but no other side effects. Which drug is most likely responsible for this symptom?",
+        "options": ["A. Phenazopyridine", "B. Trimethoprim-Sulfamethoxazole", "C. Cefdinir", "D. Fosfomycin", "E. Nitrofurantoin"],
+        "answer": "A"
+      },
+      {
+        "question": "A 50-year-old woman is treated for pyelonephritis with an antibiotic. She later develops phototoxicity and reports insomnia. Which medication was likely used in her treatment?",
+        "options": ["A. Nitrofurantoin", "B. Fosfomycin", "C. Ciprofloxacin", "D. Amoxicillin", "E. Phenazopyridine"],
+        "answer": "C"
+      },
+      {
+        "question": "A patient with a urinary tract infection is prescribed a medication that blocks purine production and nucleic acid synthesis. Later, the patient experiences crystalluria. Which medication is most likely responsible for these effects?",
+        "options": ["A. Cefdinir", "B. Trimethoprim-Sulfamethoxazole", "C. Nitrofurantoin", "D. Ciprofloxacin", "E. Amoxicillin"],
+        "answer": "B"
+      },
+      {
+        "question": "A 60-year-old man with a history of G6PD deficiency is prescribed an antibiotic for cystitis. Shortly after, he develops signs of hemolytic anemia. Which of the following drugs was likely prescribed?",
+        "options": ["A. Phenazopyridine", "B. Nitrofurantoin", "C. Cefpodoxime", "D. Fosfomycin", "E. Amoxicillin"],
+        "answer": "B"
+      },
+      {
+        "question": "A 42-year-old male presents with cystitis and is treated with a drug that inhibits bacterial DNA-gyrase. He later complains of dizziness and GI upset. Which of the following medications was he most likely prescribed?",
+        "options": ["A. Nitrofurantoin", "B. Ciprofloxacin", "C. Amoxicillin", "D. Fosfomycin", "E. Phenazopyridine"],
+        "answer": "B"
+      },
+      {
+        "question": "A 29-year-old female is given a urinary tract antiseptic for cystitis. The patient has a history of G6PD deficiency. Shortly after, she develops hemolytic anemia. Which medication is most likely responsible?",
+        "options": ["A. Ciprofloxacin", "B. Phenazopyridine", "C. Nitrofurantoin", "D. Fosfomycin", "E. Amoxicillin"],
+        "answer": "C"
+      },
+      {
+        "question": "A patient being treated for a UTI reports orange-colored urine. Which drug is most likely causing this effect?",
+        "options": ["A. Fosfomycin", "B. Trimethoprim-Sulfamethoxazole", "C. Phenazopyridine", "D. Cefpodoxime", "E. Nitrofurantoin"],
+        "answer": "C"
+      },
+      {
+        "question": "A 56-year-old woman is being treated for pyelonephritis with an antibiotic that can cause tendonitis and is contraindicated in pregnancy due to potential cartilage damage. Which medication is this?",
+        "options": ["A. Amoxicillin-Clavulanic acid", "B. Nitrofurantoin", "C. Ciprofloxacin", "D. Cefdinir", "E. Trimethoprim-Sulfamethoxazole"],
+        "answer": "C"
+      },
+      {
+        "question": "A patient treated for cystitis develops pulmonary fibrosis after long-term use of the medication. Which of the following drugs is most likely to cause this condition?",
+        "options": ["A. Nitrofurantoin", "B. Ciprofloxacin", "C. Amoxicillin", "D. Fosfomycin", "E. Phenazopyridine"],
+        "answer": "A"
+      },
+      {
+        "question": "A 48-year-old male with a urinary tract infection is treated with an antibiotic known for its risk of causing tendonitis and possible seizures. Which of the following drugs was most likely used?",
+        "options": ["A. Nitrofurantoin", "B. Ciprofloxacin", "C. Trimethoprim-Sulfamethoxazole", "D. Fosfomycin", "E. Amoxicillin-Clavulanic acid"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient presents with cystitis and is prescribed a medication that inhibits folate synthesis and can cause photosensitivity. Which drug is most likely prescribed?",
+        "options": ["A. Cefdinir", "B. Fosfomycin", "C. Ciprofloxacin", "D. Trimethoprim-Sulfamethoxazole", "E. Phenazopyridine"],
+        "answer": "D"
+      },
+      {
+        "question": "A 65-year-old woman with a history of UTIs is treated with an antibiotic that inhibits peptidoglycan synthesis. After treatment, she experiences minimal side effects. Which medication was most likely used?",
+        "options": ["A. Nitrofurantoin", "B. Fosfomycin", "C. Ciprofloxacin", "D. Amoxicillin", "E. Phenazopyridine"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient on antibiotic treatment for a UTI develops significant GI upset, phototoxicity, and CNS effects, such as insomnia. Which medication was most likely prescribed?",
+        "options": ["A. Trimethoprim-Sulfamethoxazole", "B. Fosfomycin", "C. Nitrofurantoin", "D. Ciprofloxacin", "E. Amoxicillin-Clavulanic acid"],
+        "answer": "D"
+      },
+      {
+        "question": "A pregnant woman with a UTI is given an antibiotic that is considered safe during pregnancy but must be avoided near term to prevent hemolytic anemia. Which drug was likely prescribed?",
+        "options": ["A. Trimethoprim-Sulfamethoxazole", "B. Ciprofloxacin", "C. Nitrofurantoin", "D. Phenazopyridine", "E. Cefpodoxime"],
+        "answer": "C"
+      },
+      {
+        "question": "A 45-year-old woman is prescribed an antibiotic that inhibits peptidoglycan biosynthesis for her cystitis. Which of the following drugs matches this description and is known for minimal side effects?",
+        "options": [
+            "A. Ciprofloxacin",
+            "B. Fosfomycin",
+            "C. Trimethoprim-Sulfamethoxazole",
+            "D. Nitrofurantoin",
+            "E. Amoxicillin"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "A patient taking an antibiotic for a UTI reports GI upset and phototoxicity as side effects. The patient also experiences occasional insomnia. Which medication is most likely responsible?",
+        "options": [
+            "A. Nitrofurantoin",
+            "B. Trimethoprim-Sulfamethoxazole",
+            "C. Fosfomycin",
+            "D. Ciprofloxacin",
+            "E. Cefdinir"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "A 58-year-old man with G6PD deficiency is treated for cystitis and develops hemolytic anemia. Which of the following medications is most likely responsible?",
+        "options": [
+            "A. Ciprofloxacin",
+            "B. Phenazopyridine",
+            "C. Nitrofurantoin",
+            "D. Amoxicillin-Clavulanic acid",
+            "E. Fosfomycin"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "A pregnant woman is treated for a UTI with a drug considered safe during pregnancy but should be avoided near term to prevent hemolytic anemia. Which medication was used?",
+        "options": [
+            "A. Ciprofloxacin",
+            "B. Phenazopyridine",
+            "C. Nitrofurantoin",
+            "D. Trimethoprim-Sulfamethoxazole",
+            "E. Fosfomycin"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "A patient is treated for a UTI with an antibiotic that blocks purine production and nucleic acid synthesis. After treatment, the patient develops crystalluria as a side effect. Which drug was prescribed?",
+        "options": [
+            "A. Ciprofloxacin",
+            "B. Fosfomycin",
+            "C. Nitrofurantoin",
+            "D. Trimethoprim-Sulfamethoxazole",
+            "E. Amoxicillin"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "A 67-year-old man is prescribed an antibiotic that can block purine production and nucleic acid synthesis for his UTI. He later develops photosensitivity and crystalluria. Which of the following medications was likely used?",
+        "options": [
+            "A. Ciprofloxacin",
+            "B. Fosfomycin",
+            "C. Nitrofurantoin",
+            "D. Trimethoprim-Sulfamethoxazole",
+            "E. Phenazopyridine"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "A patient treated with an antibiotic for pyelonephritis reports side effects including phototoxicity, CNS issues such as insomnia, and tendonitis. Which medication was most likely prescribed?",
+        "options": [
+            "A. Nitrofurantoin",
+            "B. Fosfomycin",
+            "C. Ciprofloxacin",
+            "D. Trimethoprim-Sulfamethoxazole",
+            "E. Amoxicillin"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "A pregnant patient in her third trimester is treated for cystitis. Which of the following antibiotics should be avoided due to the risk of hemolytic anemia in the newborn?",
+        "options": [
+            "A. Ciprofloxacin",
+            "B. Fosfomycin",
+            "C. Nitrofurantoin",
+            "D. Amoxicillin",
+            "E. Phenazopyridine"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "A patient with G6PD deficiency is treated for a UTI with a medication that later results in hemolytic anemia. Which drug was most likely responsible?",
+        "options": [
+            "A. Ciprofloxacin",
+            "B. Amoxicillin",
+            "C. Nitrofurantoin",
+            "D. Fosfomycin",
+            "E. Trimethoprim-Sulfamethoxazole"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "A 40-year-old male is treated for cystitis with an antibiotic that inhibits peptidoglycan biosynthesis but does not cause significant side effects. Which drug fits this description?",
+        "options": [
+            "A. Nitrofurantoin",
+            "B. Ciprofloxacin",
+            "C. Trimethoprim-Sulfamethoxazole",
+            "D. Fosfomycin",
+            "E. Amoxicillin"
+        ],
+        "answer": "D"
+    }
   ]
 }
+
+
+
