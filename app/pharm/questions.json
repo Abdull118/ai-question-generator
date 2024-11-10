@@ -607,5 +607,282 @@
       ],
       "answer": "C"
     }
+  ],
+  "Drug-Induced Nephrotoxicity": [
+    {
+      "question": "A patient treated for systemic fungal infection with an antifungal medication developed acute kidney injury characterized by muddy brown granular casts and hypokalemia. Which drug most likely caused this nephrotoxicity?",
+      "options": [
+        "A. Vancomycin",
+        "B. Amphotericin B",
+        "C. Ciprofloxacin",
+        "D. Ceftriaxone",
+        "E. Acyclovir"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient receiving chemotherapy for testicular cancer presents with signs of nephrotoxicity, including increased serum creatinine, BUN levels, and hypomagnesemia. Which drug most likely led to this acute tubular necrosis?",
+      "options": [
+        "A. Cyclophosphamide",
+        "B. Cisplatin",
+        "C. Methotrexate",
+        "D. Doxorubicin",
+        "E. Fluorouracil"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 56-year-old male developed acute kidney injury after being treated with a medication known for inducing osmotic nephrosis. What drug could have caused this reaction?",
+      "options": [
+        "A. Mannitol",
+        "B. Cisplatin",
+        "C. Ibuprofen",
+        "D. Losartan",
+        "E. Vancomycin"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A 45-year-old patient developed a fever, rash, and eosinophiluria after being treated for a bacterial infection. Which antibiotic most likely caused this acute allergic interstitial nephritis (AIN)?",
+      "options": [
+        "A. Amoxicillin",
+        "B. Gentamicin",
+        "C. Doxycycline",
+        "D. Ciprofloxacin",
+        "E. Clindamycin"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A patient who recently underwent treatment for herpes zoster with an antiviral medication developed nephropathy due to crystallization in the renal tubules. Which drug is most likely responsible for this condition?",
+      "options": [
+        "A. Ribavirin",
+        "B. Oseltamivir",
+        "C. Acyclovir",
+        "D. Valganciclovir",
+        "E. Foscarnet"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 64-year-old male being treated for hypertension with an angiotensin II receptor blocker developed oliguria. Which condition made him susceptible to this hemodynamically-mediated kidney injury?",
+      "options": [
+        "A. Diabetes mellitus",
+        "B. Renal artery stenosis",
+        "C. Hyperlipidemia",
+        "D. Hyperthyroidism",
+        "E. Polycystic kidney disease"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient presents with chronic kidney disease and a history of long-term use of a medication for bipolar disorder. Which drug is most likely responsible for this chronic interstitial nephritis (CIN)?",
+      "options": [
+        "A. Valproate",
+        "B. Lithium",
+        "C. Lamotrigine",
+        "D. Carbamazepine",
+        "E. Haloperidol"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A young female was treated with an immunosuppressive agent after a kidney transplant and subsequently developed nephrotoxicity. The drug involved is known to also cause hypertension as a side effect. Which drug is this?",
+      "options": [
+        "A. Tacrolimus",
+        "B. Mycophenolate mofetil",
+        "C. Azathioprine",
+        "D. Prednisone",
+        "E. Sirolimus"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A patient receiving IV treatment for severe herpes simplex encephalitis developed kidney injury characterized by crystal formation in the renal tubules. Which drug is most likely the cause?",
+      "options": [
+        "A. Valacyclovir",
+        "B. Ganciclovir",
+        "C. Oseltamivir",
+        "D. Acyclovir",
+        "E. Amantadine"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A 72-year-old patient taking a lipid-lowering agent presented with muscle pain, dark urine, and elevated serum creatine kinase levels, indicating rhabdomyolysis. Which drug most likely led to this condition?",
+      "options": [
+        "A. Atorvastatin",
+        "B. Ezetimibe",
+        "C. Niacin",
+        "D. Colestipol",
+        "E. Fenofibrate"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A patient undergoing treatment with a beta-lactam antibiotic for pneumonia developed fever, rash, and eosinophiluria. This triad suggests acute allergic interstitial nephritis (AIN). Which antibiotic is most likely responsible?",
+      "options": [
+        "A. Vancomycin",
+        "B. Amoxicillin",
+        "C. Doxycycline",
+        "D. Clindamycin",
+        "E. Azithromycin"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient treated with IV contrast media for a diagnostic procedure developed oliguria and increased serum creatinine shortly afterward. What condition is most likely responsible for this renal complication?",
+      "options": [
+        "A. Acute tubular necrosis",
+        "B. Chronic interstitial nephritis",
+        "C. Rhabdomyolysis",
+        "D. Crystal nephropathy",
+        "E. Acute allergic interstitial nephritis"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A patient receiving an antiviral medication for CMV infection developed nephrotoxicity characterized by crystal deposition in the renal tubules. Which drug is most likely responsible for this condition?",
+      "options": [
+        "A. Acyclovir",
+        "B. Foscarnet",
+        "C. Oseltamivir",
+        "D. Ganciclovir",
+        "E. Zanamivir"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A 58-year-old male with hyperlipidemia started treatment with a lipid-lowering agent and soon experienced dark-colored urine, muscle pain, and elevated creatine kinase levels. Which medication likely caused this rhabdomyolysis?",
+      "options": [
+        "A. Ezetimibe",
+        "B. Lovastatin",
+        "C. Omega-3 fatty acids",
+        "D. Colesevelam",
+        "E. Gemfibrozil"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient receiving long-term treatment for a psychiatric disorder developed chronic kidney disease with non-reversible damage. Which drug is most likely associated with this chronic interstitial nephritis (CIN)?",
+      "options": [
+        "A. Valproic acid",
+        "B. Risperidone",
+        "C. Lithium",
+        "D. Sertraline",
+        "E. Quetiapine"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient undergoing long-term treatment with an immunosuppressive medication developed chronic interstitial nephritis. Which of the following drugs is most likely responsible for this condition?",
+      "options": [
+        "A. Azathioprine",
+        "B. Prednisone",
+        "C. Mycophenolate mofetil",
+        "D. Cyclosporine",
+        "E. Tacrolimus"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A 45-year-old patient was treated with an antiviral drug for herpes simplex and later developed renal impairment characterized by crystal-induced nephropathy. Which drug is most likely the cause?",
+      "options": [
+        "A. Oseltamivir",
+        "B. Amantadine",
+        "C. Valacyclovir",
+        "D. Ribavirin",
+        "E. Acyclovir"
+      ],
+      "answer": "E"
+    },
+    {
+      "question": "A patient being treated for a fungal infection developed acute kidney injury with signs of hypokalemia and hypomagnesemia. Which drug is most likely responsible?",
+      "options": [
+        "A. Fluconazole",
+        "B. Voriconazole",
+        "C. Amphotericin B",
+        "D. Terbinafine",
+        "E. Itraconazole"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient with acute pyelonephritis during pregnancy needs an appropriate antibiotic for treatment. Which of the following is most suitable?",
+      "options": [
+        "A. Doxycycline",
+        "B. Ciprofloxacin",
+        "C. Amoxicillin",
+        "D. Trimethoprim-Sulfamethoxazole",
+        "E. Nitrofurantoin"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient treated with an aminoglycoside for a severe infection developed signs of nephrotoxicity, including increased serum creatinine and BUN levels. Which drug most likely led to this acute tubular necrosis?",
+      "options": [
+        "A. Vancomycin",
+        "B. Tobramycin",
+        "C. Clindamycin",
+        "D. Linezolid",
+        "E. Metronidazole"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient who has been taking an aminoglycoside antibiotic for a serious infection develops nephrotoxicity, shown by increased serum creatinine and BUN. Which of the following drugs is most likely responsible for this condition?",
+      "options": [
+        "A. Vancomycin",
+        "B. Tobramycin",
+        "C. Clindamycin",
+        "D. Linezolid",
+        "E. Metronidazole"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 28-year-old pregnant patient is diagnosed with acute pyelonephritis. Which of the following antibiotics would be the most appropriate choice for treatment?",
+      "options": [
+        "A. Ciprofloxacin",
+        "B. Doxycycline",
+        "C. Amoxicillin",
+        "D. Trimethoprim-Sulfamethoxazole",
+        "E. Nitrofurantoin"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient undergoing treatment with an immunosuppressive agent after an organ transplant develops chronic interstitial nephritis. Which drug is most likely responsible for this condition?",
+      "options": [
+        "A. Azathioprine",
+        "B. Prednisone",
+        "C. Cyclosporine",
+        "D. Mycophenolate mofetil",
+        "E. Tacrolimus"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient treated for CMV infection develops nephrotoxicity characterized by crystal formation in the renal tubules. Which antiviral drug is most likely the cause?",
+      "options": [
+        "A. Oseltamivir",
+        "B. Ganciclovir",
+        "C. Acyclovir",
+        "D. Zanamivir",
+        "E. Amantadine"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 67-year-old male with hyperlipidemia started a statin medication and soon experienced muscle pain, dark urine, and elevated serum creatine kinase levels. Which of the following medications likely caused this rhabdomyolysis?",
+      "options": [
+        "A. Ezetimibe",
+        "B. Lovastatin",
+        "C. Colesevelam",
+        "D. Omega-3 fatty acids",
+        "E. Gemfibrozil"
+      ],
+      "answer": "B"
+    }
   ]
 }
