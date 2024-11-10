@@ -330,5 +330,282 @@
       ],
       "answer": "D"
     }
+  ],
+  "ARI's & ARB's": [
+    {
+      "question": "A patient presents with a chronic cough after starting medication for hypertension. She is switched to an alternative drug and her cough resolves. Which drug was likely the cause of her original symptoms?",
+      "options": [
+        "A. Losartan",
+        "B. Captopril",
+        "C. Lisinopril",
+        "D. Valsartan",
+        "E. Enalapril"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A hypertensive patient develops hypotension immediately after starting a new medication. His history includes diuretic use and a low-sodium diet. Which drug is most likely responsible for this reaction?",
+      "options": [
+        "A. Aliskiren",
+        "B. Losartan",
+        "C. Ramipril",
+        "D. Valsartan",
+        "E. Candesartan"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient being treated for hypertension presents with hyperkalemia. Which class of medication is most associated with this electrolyte disturbance?",
+      "options": [
+        "A. Beta-blockers",
+        "B. Calcium channel blockers",
+        "C. ACE inhibitors",
+        "D. Thiazide diuretics",
+        "E. Loop diuretics"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A pregnant patient in her second trimester has chronic hypertension. Which medication should be avoided due to potential teratogenic effects?",
+      "options": [
+        "A. Furosemide",
+        "B. Losartan",
+        "C. Methyldopa",
+        "D. Hydralazine",
+        "E. Nifedipine"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient with bilateral renal artery stenosis is prescribed medication for hypertension and subsequently develops acute renal failure. Which type of drug is most likely implicated?",
+      "options": [
+        "A. Calcium channel blockers",
+        "B. ACE inhibitors",
+        "C. Beta-blockers",
+        "D. Thiazide diuretics",
+        "E. Potassium-sparing diuretics"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient is being treated with an antihypertensive that prevents the conversion of angiotensin I to angiotensin II and preserves bradykinin. Which drug is most likely responsible for these actions?",
+      "options": [
+        "A. Losartan",
+        "B. Valsartan",
+        "C. Captopril",
+        "D. Irbesartan",
+        "E. Aliskiren"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient develops angioedema while being treated for hypertension. This reaction is most likely due to which type of drug?",
+      "options": [
+        "A. Thiazide diuretics",
+        "B. Beta-blockers",
+        "C. ACE inhibitors",
+        "D. Calcium channel blockers",
+        "E. ARBs"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient taking medication for heart failure presents with symptoms of hyperkalemia and decreased glomerular filtration rate. Which medication is most likely responsible for these findings?",
+      "options": [
+        "A. Furosemide",
+        "B. Lisinopril",
+        "C. Hydrochlorothiazide",
+        "D. Metoprolol",
+        "E. Nifedipine"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Which of the following drugs acts by directly inhibiting renin and is used to treat hypertension?",
+      "options": [
+        "A. Lisinopril",
+        "B. Losartan",
+        "C. Aliskiren",
+        "D. Valsartan",
+        "E. Ramipril"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient being treated for chronic kidney disease is given an angiotensin II receptor blocker (ARB). Which of the following side effects might they experience?",
+      "options": [
+        "A. Cough and angioedema",
+        "B. Hyperkalemia and decreased GFR",
+        "C. Bradycardia and hypotension",
+        "D. Hyponatremia and tachycardia",
+        "E. Peripheral edema and constipation"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 52-year-old male with hypertension is prescribed a drug that acts as an angiotensin II receptor antagonist. One month later, he develops hyperkalemia. Which drug is most likely responsible?",
+      "options": [
+        "A. Captopril",
+        "B. Enalapril",
+        "C. Losartan",
+        "D. Furosemide",
+        "E. Metoprolol"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 65-year-old woman is treated for hypertension with a drug that inhibits angiotensin-converting enzyme and preserves bradykinin. She reports a persistent dry cough as a side effect. Which drug is she likely taking?",
+      "options": [
+        "A. Irbesartan",
+        "B. Lisinopril",
+        "C. Losartan",
+        "D. Valsartan",
+        "E. Amlodipine"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient on medication for congestive heart failure reports significant swelling of the lips and face, indicating angioedema. Which class of drugs is most likely responsible for this side effect?",
+      "options": [
+        "A. Beta-blockers",
+        "B. Calcium channel blockers",
+        "C. ACE inhibitors",
+        "D. ARBs",
+        "E. Thiazide diuretics"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 48-year-old male with chronic kidney disease is switched from an ACE inhibitor to a different class of medication due to a persistent cough. Which drug is the best alternative to avoid this side effect?",
+      "options": [
+        "A. Ramipril",
+        "B. Lisinopril",
+        "C. Valsartan",
+        "D. Furosemide",
+        "E. Aliskiren"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient with hypertension is prescribed a medication that binds to renin and prevents the conversion of angiotensinogen to angiotensin I. What potential side effects should be monitored with this drug?",
+      "options": [
+        "A. Hypokalemia and dehydration",
+        "B. Hyperkalemia and decreased GFR",
+        "C. Tachycardia and palpitations",
+        "D. Peripheral edema and cough",
+        "E. Hyponatremia and dizziness"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 55-year-old male with hypertension and diabetic nephropathy is started on a medication that blocks the AT-1 receptor. Which benefit does this drug provide specifically for patients with diabetic nephropathy?",
+      "options": [
+        "A. Increased aldosterone secretion",
+        "B. Decreased progression of kidney damage",
+        "C. Increased GFR",
+        "D. Reduced bradykinin levels",
+        "E. Enhanced sympathetic nervous system activation"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient on antihypertensive therapy reports symptoms of fatigue and muscle weakness. Laboratory results show hyperkalemia. Which mechanism is most likely contributing to these symptoms?",
+      "options": [
+        "A. Inhibition of angiotensin-converting enzyme",
+        "B. Blockade of calcium channels",
+        "C. Increased renin release",
+        "D. Direct antagonism of the AT-1 receptor",
+        "E. Binding to renin to inhibit conversion of angiotensinogen"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A patient being treated with an antihypertensive medication experiences acute renal failure. The patient is found to have bilateral renal artery stenosis. Which type of drug is most likely responsible for this adverse reaction?",
+      "options": [
+        "A. Calcium channel blockers",
+        "B. Thiazide diuretics",
+        "C. ACE inhibitors",
+        "D. Beta-blockers",
+        "E. Alpha-blockers"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Which of the following drugs is classified as a prodrug and must be converted to an active form in the body?",
+      "options": [
+        "A. Lisinopril",
+        "B. Captopril",
+        "C. Ramipril",
+        "D. Losartan",
+        "E. Aliskiren"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient with hypertension is prescribed a drug that acts by binding to renin, preventing the formation of angiotensin I. Which of the following should be monitored as a potential side effect of this medication?",
+      "options": [
+        "A. Hypotension and increased bradykinin levels",
+        "B. Hyperkalemia and decreased renal function",
+        "C. Increased sympathetic activation",
+        "D. Reflex tachycardia and palpitations",
+        "E. Peripheral edema and flushing"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient is prescribed an ACE inhibitor for hypertension. What potential side effect should be most closely monitored due to the accumulation of bradykinin?",
+      "options": [
+        "A. Hyperkalemia",
+        "B. Dry cough",
+        "C. Peripheral edema",
+        "D. Reflex tachycardia",
+        "E. Constipation"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 68-year-old female with chronic hypertension develops acute renal failure after starting a new medication. She is found to have pre-existing bilateral renal artery stenosis. Which drug is most likely responsible for this condition?",
+      "options": [
+        "A. Losartan",
+        "B. Amlodipine",
+        "C. Ramipril",
+        "D. Metoprolol",
+        "E. Furosemide"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient with heart failure is being treated with a medication that decreases angiotensin II and increases bradykinin. What is the primary mechanism of action of this drug?",
+      "options": [
+        "A. Blocks the AT-1 receptor",
+        "B. Binds to renin to inhibit angiotensinogen conversion",
+        "C. Inhibits angiotensin-converting enzyme",
+        "D. Reduces calcium influx in vascular smooth muscle",
+        "E. Increases sodium excretion in the kidneys"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Which of the following drugs is associated with a lower risk of cough and angioedema compared to ACE inhibitors due to its lack of bradykinin accumulation?",
+      "options": [
+        "A. Captopril",
+        "B. Ramipril",
+        "C. Irbesartan",
+        "D. Lisinopril",
+        "E. Enalapril"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient being treated for hypertension is switched to a drug that binds directly to renin. What is the primary effect of this drug on the renin-angiotensin-aldosterone system (RAAS)?",
+      "options": [
+        "A. Reduces aldosterone secretion only",
+        "B. Blocks angiotensin II receptors only",
+        "C. Prevents conversion of angiotensinogen to angiotensin I",
+        "D. Increases bradykinin degradation",
+        "E. Enhances sodium reabsorption in the kidneys"
+      ],
+      "answer": "C"
+    }
   ]
 }
