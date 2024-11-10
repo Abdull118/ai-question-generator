@@ -2008,5 +2008,305 @@
     ],
     "answer": "B",
     "lecture": "12"
+  },
+  {
+    "question": "A 68-year-old male with a history of diabetes and congestive heart failure presents with a rapid decline in urine output and generalized weakness over the past 24 hours. Physical examination reveals mild peripheral edema and crackles at the lung bases. His serum creatinine has increased by 0.5 mg/dL over 48 hours, and his urine sodium is 15 mEq/L. Which of the following is the most likely underlying cause of his acute kidney injury?",
+    "options": [
+      "A. Acute tubular necrosis",
+      "B. Pre-renal azotemia",
+      "C. Acute interstitial nephritis",
+      "D. Post-renal obstruction",
+      "E. Glomerulonephritis"
+    ],
+    "answer": "B",
+    "lecture": "13"
+  },
+  {
+    "question": "A 50-year-old woman with a history of chronic NSAID use for osteoarthritis presents with flank pain and hematuria. Urinalysis reveals granular casts, and her serum creatinine is elevated. Which of the following is the most likely diagnosis?",
+    "options": [
+      "A. Acute interstitial nephritis",
+      "B. Post-renal obstruction",
+      "C. Nephrolithiasis",
+      "D. Acute tubular necrosis",
+      "E. Hepatorenal syndrome"
+    ],
+    "answer": "A",
+    "lecture": "13"
+  },
+  {
+    "question": "A 55-year-old male presents to the emergency department with confusion, nausea, and tremors. He has a known history of chronic kidney disease. Laboratory findings show serum potassium of 6.8 mEq/L, bicarbonate of 14 mEq/L, and a serum creatinine of 5.5 mg/dL. What is the most appropriate immediate intervention?",
+    "options": [
+      "A. Initiate IV fluids with saline",
+      "B. Administer oral potassium binder",
+      "C. Start emergency hemodialysis",
+      "D. Begin a diuretic regimen",
+      "E. Prescribe oral sodium bicarbonate"
+    ],
+    "answer": "C",
+    "lecture": "13"
+  },
+  {
+    "question": "A 45-year-old male presents with sudden-onset oliguria following cardiac catheterization performed earlier in the day. Laboratory studies show a rise in serum creatinine by 1.0 mg/dL from baseline, and urinalysis reveals no abnormalities. What is the most likely etiology of his renal dysfunction?",
+    "options": [
+      "A. Acute interstitial nephritis",
+      "B. Acute tubular necrosis",
+      "C. Contrast-induced nephropathy",
+      "D. Hepatorenal syndrome",
+      "E. Renal artery thrombosis"
+    ],
+    "answer": "E",
+    "lecture": "13"
+  },
+  {
+    "question": "A 32-year-old woman presents with fever, flank pain, and a maculopapular rash 8 days after starting a new antibiotic. Her serum creatinine has risen from 1.0 mg/dL to 2.5 mg/dL. Urinalysis shows white blood cell casts and eosinophils. Which of the following is the most likely diagnosis?",
+    "options": [
+      "A. Acute interstitial nephritis",
+      "B. Acute tubular necrosis",
+      "C. Pyelonephritis",
+      "D. Post-renal obstruction",
+      "E. Glomerulonephritis"
+    ],
+    "answer": "A",
+    "lecture": "13"
+  },
+  {
+    "question": "A 56-year-old man with a history of uncontrolled hypertension and diabetes presents with sudden onset of flank pain and gross hematuria. On examination, he is afebrile and has a blood pressure of 170/100 mmHg. Laboratory findings reveal an elevated serum creatinine of 3.2 mg/dL and a BUN ratio of 15:1. A CT scan without contrast shows no evidence of stones. What is the most likely cause of his acute kidney injury?",
+    "options": [
+      "A. Renal artery stenosis",
+      "B. Glomerulonephritis",
+      "C. Renal vein thrombosis",
+      "D. Acute tubular necrosis",
+      "E. Hydronephrosis"
+    ],
+    "answer": "A",
+    "lecture": "13"
+  },
+  {
+    "question": "A 45-year-old female presents with malaise, joint pain, and dark-colored urine over the past few days. Physical examination reveals a malar rash and periorbital edema. Urinalysis shows RBC casts and proteinuria. What is the most likely diagnosis?",
+    "options": [
+      "A. Acute interstitial nephritis",
+      "B. Pyelonephritis",
+      "C. Glomerulonephritis",
+      "D. Renal artery stenosis",
+      "E. Nephrotic syndrome"
+    ],
+    "answer": "C",
+    "lecture": "13"
+  },
+  {
+    "question": "A 70-year-old man with a history of prostate enlargement presents with decreased urine output and lower abdominal pain. On examination, he has a distended bladder. A renal ultrasound shows bilateral hydronephrosis. What is the most likely cause of his condition?",
+    "options": [
+      "A. Acute tubular necrosis",
+      "B. Glomerulonephritis",
+      "C. Nephrotic syndrome",
+      "D. Post-renal obstruction",
+      "E. Renal artery stenosis"
+    ],
+    "answer": "D",
+    "lecture": "13"
+  },
+  {
+    "question": "A 32-year-old male presents with sudden onset of hematuria and flank pain following a car accident. His blood pressure is 130/80 mmHg, and he denies any significant past medical history. Urinalysis shows gross hematuria without proteinuria or casts. What is the most appropriate next step in the evaluation of this patient?",
+    "options": [
+      "A. CT scan of the abdomen and pelvis",
+      "B. Renal biopsy",
+      "C. Intravenous pyelogram (IVP)",
+      "D. Renal ultrasound",
+      "E. Voiding cystourethrogram"
+    ],
+    "answer": "A",
+    "lecture": "13"
+  },
+  {
+    "question": "A 65-year-old female with a history of chronic kidney disease presents with fatigue, nausea, and confusion. Her lab results show a serum creatinine of 6.0 mg/dL, potassium of 7.1 mEq/L, and bicarbonate of 15 mEq/L. Which of the following is the most appropriate initial treatment?",
+    "options": [
+      "A. IV sodium bicarbonate",
+      "B. Emergency hemodialysis",
+      "C. Insulin and glucose infusion",
+      "D. Oral potassium binder",
+      "E. IV fluids with saline"
+    ],
+    "answer": "B",
+    "lecture": "13"
+  },
+  {
+    "question": "A 40-year-old male with a history of chronic hypertension presents with new-onset severe headache, vision changes, and blood pressure of 210/120 mmHg. Laboratory tests reveal a serum creatinine of 2.8 mg/dL and a BUN ratio of 15:1. Urinalysis shows RBC casts and mild proteinuria. What is the most likely diagnosis?",
+    "options": [
+      "A. Acute tubular necrosis",
+      "B. Malignant hypertension with acute glomerulonephritis",
+      "C. Acute interstitial nephritis",
+      "D. Renal artery stenosis",
+      "E. Chronic kidney disease"
+    ],
+    "answer": "B",
+    "lecture": "13"
+  },
+  {
+    "question": "A 25-year-old female presents with fever, chills, flank pain, and dysuria. On examination, she is febrile and has costovertebral angle tenderness. Urinalysis shows WBC casts and significant pyuria. What is the most likely diagnosis?",
+    "options": [
+      "A. Cystitis",
+      "B. Pyelonephritis",
+      "C. Acute interstitial nephritis",
+      "D. Glomerulonephritis",
+      "E. Nephrotic syndrome"
+    ],
+    "answer": "B",
+    "lecture": "13"
+  },
+  {
+    "question": "A 60-year-old male with a history of multiple myeloma presents with fatigue, bone pain, and elevated serum calcium. His serum creatinine is 3.5 mg/dL. Urinalysis is negative for proteinuria and casts, but a serum protein electrophoresis (SPEP) reveals monoclonal spike. What is the most likely cause of his kidney injury?",
+    "options": [
+      "A. Acute tubular necrosis",
+      "B. Post-renal obstruction",
+      "C. Cast nephropathy",
+      "D. Pyelonephritis",
+      "E. Glomerulonephritis"
+    ],
+    "answer": "C",
+    "lecture": "13"
+  },
+  {
+    "question": "A 48-year-old female with lupus presents with new-onset swelling of her legs and face. Laboratory findings include a serum creatinine of 1.8 mg/dL, proteinuria >3.5 g/day, and hypoalbuminemia. Urinalysis shows fatty casts. What is the most likely diagnosis?",
+    "options": [
+      "A. Nephrotic syndrome",
+      "B. Acute tubular necrosis",
+      "C. Glomerulonephritis",
+      "D. Acute interstitial nephritis",
+      "E. Hepatorenal syndrome"
+    ],
+    "answer": "A",
+    "lecture": "13"
+  },
+  {
+    "question": "A 67-year-old male with a history of coronary artery disease and recent use of contrast media for coronary angiography presents with decreased urine output and elevated serum creatinine. His urinalysis shows muddy brown granular casts and a high fractional excretion of sodium (FeNa >2%). What is the most likely diagnosis?",
+    "options": [
+      "A. Contrast-induced nephropathy",
+      "B. Acute tubular necrosis",
+      "C. Pre-renal azotemia",
+      "D. Post-renal obstruction",
+      "E. Glomerulonephritis"
+    ],
+    "answer": "B",
+    "lecture": "13"
+  },
+  {
+    "question": "A 54-year-old male with a history of chronic heart failure presents with worsening shortness of breath and decreased urine output over the past week. Laboratory findings reveal a serum creatinine of 2.1 mg/dL, a BUN of 45 mg/dL, and a urine sodium of 12 mEq/L. What is the most likely cause of his kidney injury?",
+    "options": [
+      "A. Acute tubular necrosis",
+      "B. Pre-renal azotemia",
+      "C. Glomerulonephritis",
+      "D. Acute interstitial nephritis",
+      "E. Post-renal obstruction"
+    ],
+    "answer": "B",
+    "lecture": "13"
+  },
+  {
+    "question": "A 30-year-old woman presents with joint pain, fatigue, and hematuria. Physical examination reveals a malar rash, and her blood pressure is 150/95 mmHg. Urinalysis shows RBC casts and proteinuria. What is the most likely diagnosis?",
+    "options": [
+      "A. Pyelonephritis",
+      "B. Acute tubular necrosis",
+      "C. Acute interstitial nephritis",
+      "D. Lupus nephritis",
+      "E. Nephrotic syndrome"
+    ],
+    "answer": "D",
+    "lecture": "13"
+  },
+  {
+    "question": "A 70-year-old male with benign prostatic hyperplasia (BPH) reports lower abdominal pain and difficulty urinating. Physical examination reveals a distended bladder, and a post-void residual volume is significantly high. What is the most appropriate next step?",
+    "options": [
+      "A. Renal biopsy",
+      "B. Bladder catheterization",
+      "C. IV fluids",
+      "D. Nephrectomy",
+      "E. Renal ultrasound"
+    ],
+    "answer": "B",
+    "lecture": "13"
+  },
+  {
+    "question": "A 62-year-old male with diabetes presents with nausea, vomiting, and confusion. His lab results show serum creatinine of 5.5 mg/dL, BUN of 70 mg/dL, and potassium of 6.5 mEq/L. Urinalysis is negative for protein and casts. What is the most appropriate initial treatment?",
+    "options": [
+      "A. Oral potassium binder",
+      "B. Hemodialysis",
+      "C. IV insulin and glucose",
+      "D. Sodium polystyrene sulfonate",
+      "E. Observation"
+    ],
+    "answer": "B",
+    "lecture": "13"
+  },
+  {
+    "question": "A 25-year-old male with no significant medical history presents with hematuria after a viral upper respiratory infection. Urinalysis shows RBC casts and mild proteinuria. What is the most likely diagnosis?",
+    "options": [
+      "A. Acute interstitial nephritis",
+      "B. Goodpasture syndrome",
+      "C. IgA nephropathy",
+      "D. Acute tubular necrosis",
+      "E. Nephrotic syndrome"
+    ],
+    "answer": "C",
+    "lecture": "13"
+  },
+  {
+    "question": "A 65-year-old male presents with confusion, weight loss, and a recent history of upper respiratory tract infection. Laboratory results show a serum creatinine of 3.8 mg/dL and BUN of 60 mg/dL. Urinalysis reveals RBC casts and significant proteinuria. Which condition is most likely responsible for these findings?",
+    "options": [
+      "A. Goodpasture syndrome",
+      "B. IgA nephropathy",
+      "C. Acute tubular necrosis",
+      "D. Post-renal obstruction",
+      "E. Rapidly progressive glomerulonephritis (RPGN)"
+    ],
+    "answer": "E",
+    "lecture": "13"
+  },
+  {
+    "question": "A 52-year-old woman with long-standing type 2 diabetes and hypertension presents with peripheral edema and frothy urine. Laboratory tests show hypoalbuminemia and proteinuria >3.5 g/day. Urinalysis shows fatty casts. What is the most likely diagnosis?",
+    "options": [
+      "A. Acute interstitial nephritis",
+      "B. Nephrotic syndrome",
+      "C. Glomerulonephritis",
+      "D. Acute tubular necrosis",
+      "E. Diabetic nephropathy"
+    ],
+    "answer": "B",
+    "lecture": "13"
+  },
+  {
+    "question": "A 48-year-old man presents with severe flank pain radiating to the groin and gross hematuria. He has a history of nephrolithiasis. Which of the following is the best initial diagnostic test?",
+    "options": [
+      "A. Renal biopsy",
+      "B. Non-contrast CT scan of the abdomen and pelvis",
+      "C. Renal ultrasound",
+      "D. MRI of the abdomen",
+      "E. Voiding cystourethrogram"
+    ],
+    "answer": "B",
+    "lecture": "13"
+  },
+  {
+    "question": "A 30-year-old male presents with a fever, rash, and a history of taking an antibiotic for a recent throat infection. Laboratory findings show an elevated creatinine and eosinophilia. Urinalysis reveals WBC casts. What is the most likely diagnosis?",
+    "options": [
+      "A. Pyelonephritis",
+      "B. Acute interstitial nephritis",
+      "C. Glomerulonephritis",
+      "D. Acute tubular necrosis",
+      "E. Post-renal obstruction"
+    ],
+    "answer": "B",
+    "lecture": "13"
+  },
+  {
+    "question": "A 60-year-old woman with chronic heart failure presents with swelling in her legs and shortness of breath. Lab findings show serum creatinine of 2.5 mg/dL and BUN of 55 mg/dL. Urinalysis reveals no significant protein or casts, and urine sodium is 10 mEq/L. What is the most likely diagnosis?",
+    "options": [
+      "A. Pre-renal azotemia",
+      "B. Acute tubular necrosis",
+      "C. Nephrotic syndrome",
+      "D. Acute interstitial nephritis",
+      "E. Post-renal obstruction"
+    ],
+    "answer": "A",
+    "lecture": "13"
   }
 ]
