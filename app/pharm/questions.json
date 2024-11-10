@@ -1,0 +1,54 @@
+{
+    "Diuretics" :[
+        {
+            "question": "A 45-year-old patient is on diuretic therapy for hypertension and presents with confusion, nausea, and ventricular arrhythmias. Laboratory tests reveal severe hyponatremia and an elevated antidiuretic hormone (ADH) level. Which drug class is most likely responsible for these symptoms?",
+            "options": ["A. Thiazides", "B. Loop Diuretics", "C. Osmotic Diuretics", "D. Potassium-sparing Diuretics", "E. Carbonic Anhydrase Inhibitors"],
+            "answer": "B"
+          },
+          {
+            "question": "A 60-year-old male is being treated for congestive heart failure and is prescribed a medication that blocks sodium reabsorption at the cortical collecting tubule. A week later, he develops hyperkalemia and acidosis. Which drug is most likely responsible?",
+            "options": ["A. Spironolactone", "B. Furosemide", "C. Hydrochlorothiazide", "D. Acetazolamide", "E. Mannitol"],
+            "answer": "A"
+          },
+          {
+            "question": "A 35-year-old woman presents with increased thirst, frequent urination, and muscle cramps. She reports taking a medication for glaucoma. Her lab tests show a metabolic alkalosis. Which medication is most likely causing these findings?",
+            "options": ["A. Furosemide", "B. Acetazolamide", "C. Mannitol", "D. Spironolactone", "E. Hydrochlorothiazide"],
+            "answer": "B"
+          },
+          {
+            "question": "A patient on diuretic therapy for hypertension develops gouty arthritis. Which drug is most likely causing this adverse effect due to hyperuricemia?",
+            "options": ["A. Spironolactone", "B. Mannitol", "C. Hydrochlorothiazide", "D. Acetazolamide", "E. Ethacrynic acid"],
+            "answer": "C"
+          },
+          {
+            "question": "A 50-year-old patient with congestive heart failure is treated with a diuretic that blocks the Na+-K+-2Cl- cotransporter in the thick ascending loop of Henle. After several weeks, he develops ototoxicity. Which medication is most likely responsible for this side effect?",
+            "options": ["A. Mannitol", "B. Spironolactone", "C. Furosemide", "D. Amiloride", "E. Acetazolamide"],
+            "answer": "C"
+          },
+          {
+            "question": "A 52-year-old man with a history of heart failure is prescribed a medication that inhibits the Na+-K+-2Cl- cotransporter in the thick ascending loop of Henle. He presents with dehydration and hypokalemia two weeks later. Which drug is most likely responsible?",
+            "options": ["A. Spironolactone", "B. Furosemide", "C. Acetazolamide", "D. Mannitol", "E. Triamterene"],
+            "answer": "B"
+          },
+          {
+            "question": "A 30-year-old patient undergoing treatment for hypertension experiences hypercalcemia. The medication acts on the distal convoluted tubule and helps retain calcium. Which drug is most likely being used?",
+            "options": ["A. Furosemide", "B. Mannitol", "C. Hydrochlorothiazide", "D. Acetazolamide", "E. Spironolactone"],
+            "answer": "C"
+          },
+          {
+            "question": "A patient with congestive heart failure is treated with a diuretic and reports muscle weakness, dry mouth, and severe thirst. Lab tests show hypovolemia and hyponatremia. Which class of diuretics is most likely causing these effects?",
+            "options": ["A. Thiazides", "B. Potassium-sparing diuretics", "C. Loop diuretics", "D. Carbonic anhydrase inhibitors", "E. Osmotic diuretics"],
+            "answer": "C"
+          },
+          {
+            "question": "A patient presents with metabolic acidosis after being started on a diuretic for altitude sickness. Which medication is the likely cause of this condition?",
+            "options": ["A. Furosemide", "B. Hydrochlorothiazide", "C. Spironolactone", "D. Acetazolamide", "E. Mannitol"],
+            "answer": "D"
+          },
+          {
+            "question": "A patient on diuretic therapy reports photosensitivity and a skin rash. Which class of drugs is most likely to have caused these side effects?",
+            "options": ["A. Loop diuretics", "B. Potassium-sparing diuretics", "C. Thiazides", "D. Osmotic diuretics", "E. Carbonic anhydrase inhibitors"],
+            "answer": "C"
+          }
+    ]
+}

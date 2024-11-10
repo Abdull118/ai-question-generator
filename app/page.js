@@ -50,9 +50,9 @@ const Home = () => {
           <div onClick={() => handleRoute('/cs')} className={styles.option}>
             CS
           </div>
-          {/* <div onClick={() => handleRoute('/pharm')} className={styles.option}>
+          <div onClick={() => handleRoute('/pharm')} className={styles.option}>
             Pharm
-          </div> */}
+          </div>
         </div>
       )}
     </div>
