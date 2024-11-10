@@ -1,6 +1,61 @@
 {
   "Diuretics": [
     {
+      "question": "A patient with metabolic alkalosis is prescribed a diuretic that acts in the proximal convoluted tubule. Which diuretic, known to alkalinize urine, is most likely being used?",
+      "options": [
+        "A. Hydrochlorothiazide",
+        "B. Mannitol",
+        "C. Acetazolamide",
+        "D. Furosemide",
+        "E. Spironolactone"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient on a diuretic presents with symptoms of photosensitivity and a generalized rash. Which class of diuretics is most likely responsible for this sulfa-sensitivity reaction?",
+      "options": [
+        "A. Potassium-sparing diuretics",
+        "B. Osmotic diuretics",
+        "C. Carbonic anhydrase inhibitors",
+        "D. Loop diuretics",
+        "E. Aldosterone antagonists"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A patient experiences hyperglycemia while being treated with a diuretic. Which of the following drugs is most likely causing this effect due to its impact on pancreatic beta-cell potassium channels?",
+      "options": [
+        "A. Spironolactone",
+        "B. Hydrochlorothiazide",
+        "C. Mannitol",
+        "D. Acetazolamide",
+        "E. Amiloride"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 55-year-old patient taking a loop diuretic starts experiencing muscle cramps and dehydration. Which mechanism explains the potential development of hypovolemia with this type of diuretic?",
+      "options": [
+        "A. Reduced ADH secretion",
+        "B. Decreased calcium retention",
+        "C. Excessive sodium loss balanced by fluid loss",
+        "D. Increased sodium retention in the distal tubule",
+        "E. Inhibition of aldosterone"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient with chronic heart failure is started on a diuretic that acts as an aldosterone antagonist. Which of the following drugs is most appropriate for this use and is known for potential endocrine side effects?",
+      "options": [
+        "A. Hydrochlorothiazide",
+        "B. Amiloride",
+        "C. Mannitol",
+        "D. Acetazolamide",
+        "E. Spironolactone"
+      ],
+      "answer": "E"
+    },
+    {
       "question": "A patient is being treated for hypertension with a diuretic and develops gynecomastia. Which drug is most likely responsible for this side effect?",
       "options": [
         "A. Furosemide",
