@@ -2308,5 +2308,125 @@
     ],
     "answer": "A",
     "lecture": "13"
-  }
+  },
+  {
+    "question": "A 35-year-old male presents with tea-colored urine, periorbital edema, and a history of a sore throat 2 weeks ago. His blood pressure is elevated, and laboratory findings reveal proteinuria of 1.5 g/day and RBC casts in the urine. What is the most likely diagnosis?",
+    "options": ["A. Minimal change disease", "B. Post-infectious glomerulonephritis", "C. Focal segmental glomerulosclerosis", "D. Membranous nephropathy", "E. IgA nephropathy"],
+    "answer": "B",
+    "lecture": "14"
+},
+{
+    "question": "A 45-year-old female presents with generalized edema and recent episodes of deep vein thrombosis. Her urinalysis shows foamy urine, proteinuria exceeding 4 g/day, and fatty casts. What is the most likely underlying mechanism causing her edema?",
+    "options": ["A. Increased vascular permeability", "B. Decreased plasma oncotic pressure", "C. Increased capillary hydrostatic pressure", "D. Sodium and water loss", "E. Decreased sodium reabsorption"],
+    "answer": "B",
+    "lecture": "14"
+},
+{
+    "question": "A 22-year-old male with a history of recurrent hematuria since childhood presents with hearing difficulties and recent visual disturbances. Urine analysis shows microscopic hematuria and RBC casts. What genetic condition should be considered?",
+    "options": ["A. Membranoproliferative glomerulonephritis", "B. Minimal change disease", "C. Alport syndrome", "D. Goodpasture's disease", "E. IgA nephropathy"],
+    "answer": "C",
+    "lecture": "14"
+},
+{
+    "question": "A 58-year-old female with systemic lupus erythematosus presents with worsening renal function. Urinalysis reveals proteinuria greater than 3.5 g/day and dysmorphic RBCs. What is the most common histological finding in her kidney biopsy?",
+    "options": ["A. Crescent formation", "B. Nodular glomerulosclerosis", "C. Minimal change disease", "D. Diffuse proliferative glomerulonephritis", "E. Hyaline arteriolosclerosis"],
+    "answer": "D",
+    "lecture": "14"
+},
+{
+    "question": "A 7-year-old child presents with sudden onset facial edema and ascites. Urine analysis indicates proteinuria greater than 4 g/day and no RBC casts. No significant findings are seen on light microscopy, and the condition responds well to corticosteroids. Which condition is most likely?",
+    "options": ["A. Focal segmental glomerulosclerosis", "B. Membranous nephropathy", "C. Minimal change disease", "D. Post-infectious glomerulonephritis", "E. IgA nephropathy"],
+    "answer": "C",
+    "lecture": "14"
+},
+{
+    "question": "A 32-year-old female presents with sudden-onset hematuria and edema. She has a history of systemic lupus erythematosus and reports fatigue and joint pain. Urinalysis shows proteinuria of 3.8 g/day, RBC casts, and a decrease in serum C3 and C4 levels. What would most likely be seen on renal biopsy?",
+    "options": ["A. Crescentic glomerulonephritis", "B. Focal segmental glomerulosclerosis", "C. Minimal change disease", "D. Diffuse proliferative glomerulonephritis", "E. Membranous nephropathy"],
+    "answer": "D",
+    "lecture": "14"
+},
+{
+    "question": "A 60-year-old male presents with worsening leg swelling and shortness of breath. He has a history of diabetes mellitus and hypertension. Urinalysis reveals proteinuria of 5 g/day and oval fat bodies. Light microscopy shows mesangial expansion with Kimmelstiel-Wilson nodules. Which of the following best describes the underlying pathophysiology of his edema?",
+    "options": ["A. Decreased glomerular filtration rate", "B. Increased capillary permeability", "C. Decreased plasma oncotic pressure", "D. Activation of the alternative complement pathway", "E. Glomerular basement membrane splitting"],
+    "answer": "C",
+    "lecture": "14"
+},
+{
+    "question": "A 15-year-old male presents with gross hematuria 3 days after an upper respiratory infection. His family history is significant for kidney disease in males, and urinalysis reveals dysmorphic RBCs and RBC casts. Which of the following findings on electron microscopy would be most consistent with this patient’s condition?",
+    "options": ["A. Effacement of podocyte foot processes", "B. Irregular thickening of the basement membrane with spikes", "C. Subendothelial immune complex deposits", "D. Basket-weave appearance of the basement membrane", "E. Subepithelial humps"],
+    "answer": "D",
+    "lecture": "14"
+},
+{
+    "question": "A 48-year-old African American male presents with hypertension, proteinuria of 4 g/day, and significant lower extremity edema. Renal biopsy shows segmental glomerular sclerosis and hyalinosis with IgM and C3 deposits on immunofluorescence. What is the most likely diagnosis?",
+    "options": ["A. Membranous nephropathy", "B. Minimal change disease", "C. Focal segmental glomerulosclerosis", "D. Diabetic nephropathy", "E. IgA nephropathy"],
+    "answer": "C",
+    "lecture": "14"
+},
+{
+    "question": "A 25-year-old woman presents with hemoptysis, shortness of breath, and hematuria. Serology tests reveal positive anti-glomerular basement membrane antibodies, and a renal biopsy shows crescent formation in the majority of glomeruli. Which of the following treatments is most appropriate for this patient’s condition?",
+    "options": ["A. ACE inhibitors", "B. Corticosteroids and plasmapheresis", "C. Antiviral therapy", "D. Diuretics and salt restriction", "E. Cyclophosphamide monotherapy"],
+    "answer": "B",
+    "lecture": "14"
+},
+{
+    "question": "A 29-year-old female presents with periorbital edema, severe proteinuria of 5.5 g/day, and hyperlipidemia. Urinalysis shows fatty casts. Renal biopsy reveals normal glomeruli under light microscopy, while electron microscopy shows effacement of podocyte foot processes. What is the most likely diagnosis?",
+    "options": ["A. Membranous nephropathy", "B. Minimal change disease", "C. Focal segmental glomerulosclerosis", "D. IgA nephropathy", "E. Diabetic nephropathy"],
+    "answer": "B",
+    "lecture": "14"
+},
+{
+    "question": "A 40-year-old male presents with hematuria, hypertension, and oliguria. He reports a history of recent flu-like symptoms. Urinalysis reveals RBC casts, and serum analysis shows low complement levels. Renal biopsy demonstrates hypercellular glomeruli with subepithelial humps on electron microscopy. What is the most likely diagnosis?",
+    "options": ["A. Alport syndrome", "B. Post-infectious glomerulonephritis", "C. Membranous nephropathy", "D. Minimal change disease", "E. Focal segmental glomerulosclerosis"],
+    "answer": "B",
+    "lecture": "14"
+},
+{
+    "question": "A 55-year-old male with a history of chronic hepatitis C presents with proteinuria, peripheral edema, and mild hypertension. Renal biopsy shows thickened glomerular basement membranes with a 'tram-track' appearance. What is the most likely diagnosis?",
+    "options": ["A. Diabetic nephropathy", "B. Focal segmental glomerulosclerosis", "C. Minimal change disease", "D. Membranoproliferative glomerulonephritis", "E. Alport syndrome"],
+    "answer": "D",
+    "lecture": "14"
+},
+{
+    "question": "A 22-year-old male presents with episodic gross hematuria that typically follows upper respiratory infections. Renal biopsy shows mesangial proliferation with IgA deposits. What condition is most consistent with these findings?",
+    "options": ["A. Membranous nephropathy", "B. Post-infectious glomerulonephritis", "C. Minimal change disease", "D. IgA nephropathy", "E. Alport syndrome"],
+    "answer": "D",
+    "lecture": "14"
+},
+{
+  "question": "A 45-year-old female presents with chronic leg swelling and frothy urine. Urinalysis shows proteinuria of 4.2 g/day, and serum albumin is low. She also has a history of a prior venous thromboembolic event. What is the most likely mechanism leading to her thrombotic event?",
+  "options": ["A. Decreased platelet aggregation", "B. Increased urinary loss of antithrombin III", "C. Increased synthesis of coagulation factors", "D. Hypocomplementemia", "E. Decreased urinary excretion of clotting factors"],
+  "answer": "B",
+  "lecture": "14"
+},
+{
+  "question": "A 62-year-old male with a long-standing history of hypertension presents with sudden onset of flank pain, hematuria, and lower extremity swelling. Urinalysis shows 4.5 g/day proteinuria and no RBC casts. Renal biopsy reveals glomerular basement membrane thickening with subepithelial deposits and 'spike and dome' appearance under electron microscopy. What is the most likely diagnosis?",
+  "options": ["A. Focal segmental glomerulosclerosis", "B. Minimal change disease", "C. Membranous nephropathy", "D. Alport syndrome", "E. Membranoproliferative glomerulonephritis"],
+  "answer": "C",
+  "lecture": "14"
+},
+{
+  "question": "A 50-year-old female presents with complaints of hemoptysis, hematuria, and progressive fatigue. Urinalysis reveals proteinuria of 2.8 g/day and RBC casts. Serologic testing is positive for anti-GBM antibodies, and renal biopsy shows linear IgG deposition along the glomerular basement membrane. What is the most appropriate initial treatment for this condition?",
+  "options": ["A. ACE inhibitors", "B. Plasmapheresis and corticosteroids", "C. Immunosuppressive monotherapy", "D. Diuretics and fluid restriction", "E. Antiviral therapy"],
+  "answer": "B",
+  "lecture": "14"
+},
+{
+  "question": "A 45-year-old African American woman with a history of obesity and hypertension presents with worsening edema and proteinuria of 6 g/day. Light microscopy shows focal and segmental glomerulosclerosis in some glomeruli. Immunofluorescence reveals nonspecific IgM and C3 deposits. What is the most likely risk factor contributing to her condition?",
+  "options": ["A. HIV infection", "B. Hepatitis B", "C. Genetic predisposition (APOL1 gene variant)", "D. Streptococcal infection", "E. Long-standing type 1 diabetes"],
+  "answer": "C",
+  "lecture": "14"
+},
+{
+  "question": "A 25-year-old male presents with generalized swelling, fatigue, and recurrent deep vein thromboses. Laboratory results reveal proteinuria of 7 g/day, hypoalbuminemia, and hyperlipidemia. Renal biopsy shows diffuse capillary and basement membrane thickening with subepithelial deposits. Which condition is most likely responsible for these findings?",
+  "options": ["A. Minimal change disease", "B. Focal segmental glomerulosclerosis", "C. Membranous nephropathy", "D. IgA nephropathy", "E. Lupus nephritis"],
+  "answer": "C",
+  "lecture": "14"
+},
+{
+  "question": "A 15-year-old male presents with hearing loss, hematuria, and a family history of renal failure. Urinalysis shows microscopic hematuria, and renal biopsy reveals splitting and lamellation of the glomerular basement membrane under electron microscopy. Which mutation is most associated with this patient’s condition?",
+  "options": ["A. COL4A3 gene mutation", "B. COL4A4 gene mutation", "C. COL4A5 gene mutation", "D. NPHS2 gene mutation", "E. PLA2R gene mutation"],
+  "answer": "C",
+  "lecture": "14"
+}
 ]
