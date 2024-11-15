@@ -1,0 +1,1229 @@
+{
+  "Diuretics": [
+    {
+      "question": "A patient with metabolic alkalosis is prescribed a diuretic that acts in the proximal convoluted tubule. Which diuretic, known to alkalinize urine, is most likely being used?",
+      "options": [
+        "A. Hydrochlorothiazide",
+        "B. Mannitol",
+        "C. Acetazolamide",
+        "D. Furosemide",
+        "E. Spironolactone"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient on a diuretic presents with symptoms of photosensitivity and a generalized rash. Which class of diuretics is most likely responsible for this sulfa-sensitivity reaction?",
+      "options": [
+        "A. Potassium-sparing diuretics",
+        "B. Osmotic diuretics",
+        "C. Carbonic anhydrase inhibitors",
+        "D. Loop diuretics",
+        "E. Aldosterone antagonists"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A patient experiences hyperglycemia while being treated with a diuretic. Which of the following drugs is most likely causing this effect due to its impact on pancreatic beta-cell potassium channels?",
+      "options": [
+        "A. Spironolactone",
+        "B. Hydrochlorothiazide",
+        "C. Mannitol",
+        "D. Acetazolamide",
+        "E. Amiloride"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 55-year-old patient taking a loop diuretic starts experiencing muscle cramps and dehydration. Which mechanism explains the potential development of hypovolemia with this type of diuretic?",
+      "options": [
+        "A. Reduced ADH secretion",
+        "B. Decreased calcium retention",
+        "C. Excessive sodium loss balanced by fluid loss",
+        "D. Increased sodium retention in the distal tubule",
+        "E. Inhibition of aldosterone"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient with chronic heart failure is started on a diuretic that acts as an aldosterone antagonist. Which of the following drugs is most appropriate for this use and is known for potential endocrine side effects?",
+      "options": [
+        "A. Hydrochlorothiazide",
+        "B. Amiloride",
+        "C. Mannitol",
+        "D. Acetazolamide",
+        "E. Spironolactone"
+      ],
+      "answer": "E"
+    },
+    {
+      "question": "A patient is being treated for hypertension with a diuretic and develops gynecomastia. Which drug is most likely responsible for this side effect?",
+      "options": [
+        "A. Furosemide",
+        "B. Spironolactone",
+        "C. Acetazolamide",
+        "D. Amiloride",
+        "E. Mannitol"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient with congestive heart failure is treated with a diuretic that acts in the medullary collecting tubule and prevents sodium recovery. The patient later develops hyperkalemia and acidosis. Which drug was administered?",
+      "options": [
+        "A. Furosemide",
+        "B. Hydrochlorothiazide",
+        "C. Amiloride",
+        "D. Mannitol",
+        "E. Spironolactone"
+      ],
+      "answer": "E"
+    },
+    {
+      "question": "A patient experiences increased thirst and hyponatremia after taking a diuretic for edema. Laboratory results show a decrease in plasma sodium concentration. Which type of diuretic is most likely responsible?",
+      "options": [
+        "A. Amiloride",
+        "B. Mannitol",
+        "C. Furosemide",
+        "D. Spironolactone",
+        "E. Hydrochlorothiazide"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient with hypercalcemia is treated with a diuretic that inhibits the Na+-K+-2Cl- cotransport system in the thick ascending loop of Henle. Which drug was most likely used?",
+      "options": [
+        "A. Spironolactone",
+        "B. Acetazolamide",
+        "C. Furosemide",
+        "D. Mannitol",
+        "E. Hydrochlorothiazide"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient develops sulfa-sensitivity after starting a diuretic, presenting with photosensitivity and a rash. Which of the following drugs is likely to have caused this reaction?",
+      "options": [
+        "A. Amiloride",
+        "B. Furosemide",
+        "C. Ethacrynic acid",
+        "D. Spironolactone",
+        "E. Mannitol"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient treated for altitude sickness presented with drowsiness and paresthesias. Laboratory results showed elevated urinary pH and renal stones. Which drug likely caused these side effects?",
+      "options": [
+        "A. Furosemide",
+        "B. Amiloride",
+        "C. Acetazolamide",
+        "D. Spironolactone",
+        "E. Mannitol"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 45-year-old patient undergoing treatment for hypertension developed hypokalemia and alkalosis. Which diuretic is most likely responsible for these effects?",
+      "options": [
+        "A. Mannitol",
+        "B. Hydrochlorothiazide",
+        "C. Amiloride",
+        "D. Spironolactone",
+        "E. Eplerenone"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient with a history of gout experiences an exacerbation of gouty arthritis while being treated with a diuretic. Which of the following drugs is most likely to have caused this hyperuricemia?",
+      "options": [
+        "A. Spironolactone",
+        "B. Acetazolamide",
+        "C. Hydrochlorothiazide",
+        "D. Mannitol",
+        "E. Amiloride"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient experienced significant dehydration and pulmonary edema after being treated for glaucoma. Which of the following drugs is most likely responsible?",
+      "options": [
+        "A. Acetazolamide",
+        "B. Ethacrynic acid",
+        "C. Furosemide",
+        "D. Mannitol",
+        "E. Spironolactone"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A patient on a loop diuretic reported hearing loss, which may be irreversible. Which of the following drugs could cause this side effect?",
+      "options": [
+        "A. Acetazolamide",
+        "B. Hydrochlorothiazide",
+        "C. Ethacrynic acid",
+        "D. Spironolactone",
+        "E. Amiloride"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 45-year-old patient is on diuretic therapy for hypertension and presents with confusion, nausea, and ventricular arrhythmias. Laboratory tests reveal severe hyponatremia and an elevated antidiuretic hormone (ADH) level. Which drug class is most likely responsible for these symptoms?",
+      "options": [
+        "A. Thiazides",
+        "B. Loop Diuretics",
+        "C. Osmotic Diuretics",
+        "D. Potassium-sparing Diuretics",
+        "E. Carbonic Anhydrase Inhibitors"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 60-year-old male is being treated for congestive heart failure and is prescribed a medication that blocks sodium reabsorption at the cortical collecting tubule. A week later, he develops hyperkalemia and acidosis. Which drug is most likely responsible?",
+      "options": [
+        "A. Spironolactone",
+        "B. Furosemide",
+        "C. Hydrochlorothiazide",
+        "D. Acetazolamide",
+        "E. Mannitol"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A 35-year-old woman presents with increased thirst, frequent urination, and muscle cramps. She reports taking a medication for glaucoma. Her lab tests show a metabolic alkalosis. Which medication is most likely causing these findings?",
+      "options": [
+        "A. Furosemide",
+        "B. Acetazolamide",
+        "C. Mannitol",
+        "D. Spironolactone",
+        "E. Hydrochlorothiazide"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient on diuretic therapy for hypertension develops gouty arthritis. Which drug is most likely causing this adverse effect due to hyperuricemia?",
+      "options": [
+        "A. Spironolactone",
+        "B. Mannitol",
+        "C. Hydrochlorothiazide",
+        "D. Acetazolamide",
+        "E. Ethacrynic acid"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 50-year-old patient with congestive heart failure is treated with a diuretic that blocks the Na+-K+-2Cl- cotransporter in the thick ascending loop of Henle. After several weeks, he develops ototoxicity. Which medication is most likely responsible for this side effect?",
+      "options": [
+        "A. Mannitol",
+        "B. Spironolactone",
+        "C. Furosemide",
+        "D. Amiloride",
+        "E. Acetazolamide"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 52-year-old man with a history of heart failure is prescribed a medication that inhibits the Na+-K+-2Cl- cotransporter in the thick ascending loop of Henle. He presents with dehydration and hypokalemia two weeks later. Which drug is most likely responsible?",
+      "options": [
+        "A. Spironolactone",
+        "B. Furosemide",
+        "C. Acetazolamide",
+        "D. Mannitol",
+        "E. Triamterene"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 30-year-old patient undergoing treatment for hypertension experiences hypercalcemia. The medication acts on the distal convoluted tubule and helps retain calcium. Which drug is most likely being used?",
+      "options": [
+        "A. Furosemide",
+        "B. Mannitol",
+        "C. Hydrochlorothiazide",
+        "D. Acetazolamide",
+        "E. Spironolactone"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient with congestive heart failure is treated with a diuretic and reports muscle weakness, dry mouth, and severe thirst. Lab tests show hypovolemia and hyponatremia. Which class of diuretics is most likely causing these effects?",
+      "options": [
+        "A. Thiazides",
+        "B. Potassium-sparing diuretics",
+        "C. Loop diuretics",
+        "D. Carbonic anhydrase inhibitors",
+        "E. Osmotic diuretics"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient presents with metabolic acidosis after being started on a diuretic for altitude sickness. Which medication is the likely cause of this condition?",
+      "options": [
+        "A. Furosemide",
+        "B. Hydrochlorothiazide",
+        "C. Spironolactone",
+        "D. Acetazolamide",
+        "E. Mannitol"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A patient on diuretic therapy reports photosensitivity and a skin rash. Which class of drugs is most likely to have caused these side effects?",
+      "options": [
+        "A. Loop diuretics",
+        "B. Potassium-sparing diuretics",
+        "C. Thiazides",
+        "D. Osmotic diuretics",
+        "E. Carbonic anhydrase inhibitors"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient is given a diuretic for treatment of acute pulmonary edema but later develops ototoxicity. Which drug is most likely responsible?",
+      "options": [
+        "A. Hydrochlorothiazide",
+        "B. Spironolactone",
+        "C. Ethacrynic acid",
+        "D. Acetazolamide",
+        "E. Amiloride"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient with chronic hypertension is prescribed a diuretic that acts on the distal convoluted tubule and reduces the formation of calcium stones. Which drug is this?",
+      "options": [
+        "A. Furosemide",
+        "B. Mannitol",
+        "C. Hydrochlorothiazide",
+        "D. Spironolactone",
+        "E. Acetazolamide"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient being treated with a combination of diuretics to neutralize potassium loss develops hyperkalemia. Which drug combination is most likely responsible for this effect?",
+      "options": [
+        "A. Furosemide and Hydrochlorothiazide",
+        "B. Acetazolamide and Mannitol",
+        "C. Spironolactone and Amiloride",
+        "D. Mannitol and Furosemide",
+        "E. Hydrochlorothiazide and Acetazolamide"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient with glaucoma is given a drug that works by inhibiting carbonic anhydrase in the proximal convoluted tubule. Which drug was used?",
+      "options": [
+        "A. Furosemide",
+        "B. Hydrochlorothiazide",
+        "C. Mannitol",
+        "D. Acetazolamide",
+        "E. Spironolactone"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A patient treated with a diuretic develops hyperuricemia, contributing to an exacerbation of gouty arthritis. Which drug is most likely the cause?",
+      "options": [
+        "A. Amiloride",
+        "B. Ethacrynic acid",
+        "C. Acetazolamide",
+        "D. Hydrochlorothiazide",
+        "E. Spironolactone"
+      ],
+      "answer": "D"
+    }
+  ],
+  "ARI's & ARB's": [
+    {
+      "question": "A patient presents with a chronic cough after starting medication for hypertension. She is switched to an alternative drug and her cough resolves. Which drug was likely the cause of her original symptoms?",
+      "options": [
+        "A. Losartan",
+        "B. Captopril",
+        "C. Lisinopril",
+        "D. Valsartan",
+        "E. Enalapril"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A hypertensive patient develops hypotension immediately after starting a new medication. His history includes diuretic use and a low-sodium diet. Which drug is most likely responsible for this reaction?",
+      "options": [
+        "A. Aliskiren",
+        "B. Losartan",
+        "C. Ramipril",
+        "D. Valsartan",
+        "E. Candesartan"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient being treated for hypertension presents with hyperkalemia. Which class of medication is most associated with this electrolyte disturbance?",
+      "options": [
+        "A. Beta-blockers",
+        "B. Calcium channel blockers",
+        "C. ACE inhibitors",
+        "D. Thiazide diuretics",
+        "E. Loop diuretics"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A pregnant patient in her second trimester has chronic hypertension. Which medication should be avoided due to potential teratogenic effects?",
+      "options": [
+        "A. Furosemide",
+        "B. Losartan",
+        "C. Methyldopa",
+        "D. Hydralazine",
+        "E. Nifedipine"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient with bilateral renal artery stenosis is prescribed medication for hypertension and subsequently develops acute renal failure. Which type of drug is most likely implicated?",
+      "options": [
+        "A. Calcium channel blockers",
+        "B. ACE inhibitors",
+        "C. Beta-blockers",
+        "D. Thiazide diuretics",
+        "E. Potassium-sparing diuretics"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient is being treated with an antihypertensive that prevents the conversion of angiotensin I to angiotensin II and preserves bradykinin. Which drug is most likely responsible for these actions?",
+      "options": [
+        "A. Losartan",
+        "B. Valsartan",
+        "C. Captopril",
+        "D. Irbesartan",
+        "E. Aliskiren"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient develops angioedema while being treated for hypertension. This reaction is most likely due to which type of drug?",
+      "options": [
+        "A. Thiazide diuretics",
+        "B. Beta-blockers",
+        "C. ACE inhibitors",
+        "D. Calcium channel blockers",
+        "E. ARBs"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient taking medication for heart failure presents with symptoms of hyperkalemia and decreased glomerular filtration rate. Which medication is most likely responsible for these findings?",
+      "options": [
+        "A. Furosemide",
+        "B. Lisinopril",
+        "C. Hydrochlorothiazide",
+        "D. Metoprolol",
+        "E. Nifedipine"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Which of the following drugs acts by directly inhibiting renin and is used to treat hypertension?",
+      "options": [
+        "A. Lisinopril",
+        "B. Losartan",
+        "C. Aliskiren",
+        "D. Valsartan",
+        "E. Ramipril"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient being treated for chronic kidney disease is given an angiotensin II receptor blocker (ARB). Which of the following side effects might they experience?",
+      "options": [
+        "A. Cough and angioedema",
+        "B. Hyperkalemia and decreased GFR",
+        "C. Bradycardia and hypotension",
+        "D. Hyponatremia and tachycardia",
+        "E. Peripheral edema and constipation"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 52-year-old male with hypertension is prescribed a drug that acts as an angiotensin II receptor antagonist. One month later, he develops hyperkalemia. Which drug is most likely responsible?",
+      "options": [
+        "A. Captopril",
+        "B. Enalapril",
+        "C. Losartan",
+        "D. Furosemide",
+        "E. Metoprolol"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 65-year-old woman is treated for hypertension with a drug that inhibits angiotensin-converting enzyme and preserves bradykinin. She reports a persistent dry cough as a side effect. Which drug is she likely taking?",
+      "options": [
+        "A. Irbesartan",
+        "B. Lisinopril",
+        "C. Losartan",
+        "D. Valsartan",
+        "E. Amlodipine"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient on medication for congestive heart failure reports significant swelling of the lips and face, indicating angioedema. Which class of drugs is most likely responsible for this side effect?",
+      "options": [
+        "A. Beta-blockers",
+        "B. Calcium channel blockers",
+        "C. ACE inhibitors",
+        "D. ARBs",
+        "E. Thiazide diuretics"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 48-year-old male with chronic kidney disease is switched from an ACE inhibitor to a different class of medication due to a persistent cough. Which drug is the best alternative to avoid this side effect?",
+      "options": [
+        "A. Ramipril",
+        "B. Lisinopril",
+        "C. Valsartan",
+        "D. Furosemide",
+        "E. Aliskiren"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient with hypertension is prescribed a medication that binds to renin and prevents the conversion of angiotensinogen to angiotensin I. What potential side effects should be monitored with this drug?",
+      "options": [
+        "A. Hypokalemia and dehydration",
+        "B. Hyperkalemia and decreased GFR",
+        "C. Tachycardia and palpitations",
+        "D. Peripheral edema and cough",
+        "E. Hyponatremia and dizziness"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 55-year-old male with hypertension and diabetic nephropathy is started on a medication that blocks the AT-1 receptor. Which benefit does this drug provide specifically for patients with diabetic nephropathy?",
+      "options": [
+        "A. Increased aldosterone secretion",
+        "B. Decreased progression of kidney damage",
+        "C. Increased GFR",
+        "D. Reduced bradykinin levels",
+        "E. Enhanced sympathetic nervous system activation"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient on antihypertensive therapy reports symptoms of fatigue and muscle weakness. Laboratory results show hyperkalemia. Which mechanism is most likely contributing to these symptoms?",
+      "options": [
+        "A. Inhibition of angiotensin-converting enzyme",
+        "B. Blockade of calcium channels",
+        "C. Increased renin release",
+        "D. Direct antagonism of the AT-1 receptor",
+        "E. Binding to renin to inhibit conversion of angiotensinogen"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A patient being treated with an antihypertensive medication experiences acute renal failure. The patient is found to have bilateral renal artery stenosis. Which type of drug is most likely responsible for this adverse reaction?",
+      "options": [
+        "A. Calcium channel blockers",
+        "B. Thiazide diuretics",
+        "C. ACE inhibitors",
+        "D. Beta-blockers",
+        "E. Alpha-blockers"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Which of the following drugs is classified as a prodrug and must be converted to an active form in the body?",
+      "options": [
+        "A. Lisinopril",
+        "B. Captopril",
+        "C. Ramipril",
+        "D. Losartan",
+        "E. Aliskiren"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient with hypertension is prescribed a drug that acts by binding to renin, preventing the formation of angiotensin I. Which of the following should be monitored as a potential side effect of this medication?",
+      "options": [
+        "A. Hypotension and increased bradykinin levels",
+        "B. Hyperkalemia and decreased renal function",
+        "C. Increased sympathetic activation",
+        "D. Reflex tachycardia and palpitations",
+        "E. Peripheral edema and flushing"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient is prescribed an ACE inhibitor for hypertension. What potential side effect should be most closely monitored due to the accumulation of bradykinin?",
+      "options": [
+        "A. Hyperkalemia",
+        "B. Dry cough",
+        "C. Peripheral edema",
+        "D. Reflex tachycardia",
+        "E. Constipation"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 68-year-old female with chronic hypertension develops acute renal failure after starting a new medication. She is found to have pre-existing bilateral renal artery stenosis. Which drug is most likely responsible for this condition?",
+      "options": [
+        "A. Losartan",
+        "B. Amlodipine",
+        "C. Ramipril",
+        "D. Metoprolol",
+        "E. Furosemide"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient with heart failure is being treated with a medication that decreases angiotensin II and increases bradykinin. What is the primary mechanism of action of this drug?",
+      "options": [
+        "A. Blocks the AT-1 receptor",
+        "B. Binds to renin to inhibit angiotensinogen conversion",
+        "C. Inhibits angiotensin-converting enzyme",
+        "D. Reduces calcium influx in vascular smooth muscle",
+        "E. Increases sodium excretion in the kidneys"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Which of the following drugs is associated with a lower risk of cough and angioedema compared to ACE inhibitors due to its lack of bradykinin accumulation?",
+      "options": [
+        "A. Captopril",
+        "B. Ramipril",
+        "C. Irbesartan",
+        "D. Lisinopril",
+        "E. Enalapril"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient being treated for hypertension is switched to a drug that binds directly to renin. What is the primary effect of this drug on the renin-angiotensin-aldosterone system (RAAS)?",
+      "options": [
+        "A. Reduces aldosterone secretion only",
+        "B. Blocks angiotensin II receptors only",
+        "C. Prevents conversion of angiotensinogen to angiotensin I",
+        "D. Increases bradykinin degradation",
+        "E. Enhances sodium reabsorption in the kidneys"
+      ],
+      "answer": "C"
+    }
+  ],
+  "Drug-Induced Nephrotoxicity": [
+    {
+      "question": "A patient treated for systemic fungal infection with an antifungal medication developed acute kidney injury characterized by muddy brown granular casts and hypokalemia. Which drug most likely caused this nephrotoxicity?",
+      "options": [
+        "A. Vancomycin",
+        "B. Amphotericin B",
+        "C. Ciprofloxacin",
+        "D. Ceftriaxone",
+        "E. Acyclovir"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient receiving chemotherapy for testicular cancer presents with signs of nephrotoxicity, including increased serum creatinine, BUN levels, and hypomagnesemia. Which drug most likely led to this acute tubular necrosis?",
+      "options": [
+        "A. Cyclophosphamide",
+        "B. Cisplatin",
+        "C. Methotrexate",
+        "D. Doxorubicin",
+        "E. Fluorouracil"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 56-year-old male developed acute kidney injury after being treated with a medication known for inducing osmotic nephrosis. What drug could have caused this reaction?",
+      "options": [
+        "A. Mannitol",
+        "B. Cisplatin",
+        "C. Ibuprofen",
+        "D. Losartan",
+        "E. Vancomycin"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A 45-year-old patient developed a fever, rash, and eosinophiluria after being treated for a bacterial infection. Which antibiotic most likely caused this acute allergic interstitial nephritis (AIN)?",
+      "options": [
+        "A. Amoxicillin",
+        "B. Gentamicin",
+        "C. Doxycycline",
+        "D. Ciprofloxacin",
+        "E. Clindamycin"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A patient who recently underwent treatment for herpes zoster with an antiviral medication developed nephropathy due to crystallization in the renal tubules. Which drug is most likely responsible for this condition?",
+      "options": [
+        "A. Ribavirin",
+        "B. Oseltamivir",
+        "C. Acyclovir",
+        "D. Valganciclovir",
+        "E. Foscarnet"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A 64-year-old male being treated for hypertension with an angiotensin II receptor blocker developed oliguria. Which condition made him susceptible to this hemodynamically-mediated kidney injury?",
+      "options": [
+        "A. Diabetes mellitus",
+        "B. Renal artery stenosis",
+        "C. Hyperlipidemia",
+        "D. Hyperthyroidism",
+        "E. Polycystic kidney disease"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient presents with chronic kidney disease and a history of long-term use of a medication for bipolar disorder. Which drug is most likely responsible for this chronic interstitial nephritis (CIN)?",
+      "options": [
+        "A. Valproate",
+        "B. Lithium",
+        "C. Lamotrigine",
+        "D. Carbamazepine",
+        "E. Haloperidol"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A young female was treated with an immunosuppressive agent after a kidney transplant and subsequently developed nephrotoxicity. The drug involved is known to also cause hypertension as a side effect. Which drug is this?",
+      "options": [
+        "A. Tacrolimus",
+        "B. Mycophenolate mofetil",
+        "C. Azathioprine",
+        "D. Prednisone",
+        "E. Sirolimus"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A patient receiving IV treatment for severe herpes simplex encephalitis developed kidney injury characterized by crystal formation in the renal tubules. Which drug is most likely the cause?",
+      "options": [
+        "A. Valacyclovir",
+        "B. Ganciclovir",
+        "C. Oseltamivir",
+        "D. Acyclovir",
+        "E. Amantadine"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A 72-year-old patient taking a lipid-lowering agent presented with muscle pain, dark urine, and elevated serum creatine kinase levels, indicating rhabdomyolysis. Which drug most likely led to this condition?",
+      "options": [
+        "A. Atorvastatin",
+        "B. Ezetimibe",
+        "C. Niacin",
+        "D. Colestipol",
+        "E. Fenofibrate"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A patient undergoing treatment with a beta-lactam antibiotic for pneumonia developed fever, rash, and eosinophiluria. This triad suggests acute allergic interstitial nephritis (AIN). Which antibiotic is most likely responsible?",
+      "options": [
+        "A. Vancomycin",
+        "B. Amoxicillin",
+        "C. Doxycycline",
+        "D. Clindamycin",
+        "E. Azithromycin"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient treated with IV contrast media for a diagnostic procedure developed oliguria and increased serum creatinine shortly afterward. What condition is most likely responsible for this renal complication?",
+      "options": [
+        "A. Acute tubular necrosis",
+        "B. Chronic interstitial nephritis",
+        "C. Rhabdomyolysis",
+        "D. Crystal nephropathy",
+        "E. Acute allergic interstitial nephritis"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "A patient receiving an antiviral medication for CMV infection developed nephrotoxicity characterized by crystal deposition in the renal tubules. Which drug is most likely responsible for this condition?",
+      "options": [
+        "A. Acyclovir",
+        "B. Foscarnet",
+        "C. Oseltamivir",
+        "D. Ganciclovir",
+        "E. Zanamivir"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A 58-year-old male with hyperlipidemia started treatment with a lipid-lowering agent and soon experienced dark-colored urine, muscle pain, and elevated creatine kinase levels. Which medication likely caused this rhabdomyolysis?",
+      "options": [
+        "A. Ezetimibe",
+        "B. Lovastatin",
+        "C. Omega-3 fatty acids",
+        "D. Colesevelam",
+        "E. Gemfibrozil"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient receiving long-term treatment for a psychiatric disorder developed chronic kidney disease with non-reversible damage. Which drug is most likely associated with this chronic interstitial nephritis (CIN)?",
+      "options": [
+        "A. Valproic acid",
+        "B. Risperidone",
+        "C. Lithium",
+        "D. Sertraline",
+        "E. Quetiapine"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient undergoing long-term treatment with an immunosuppressive medication developed chronic interstitial nephritis. Which of the following drugs is most likely responsible for this condition?",
+      "options": [
+        "A. Azathioprine",
+        "B. Prednisone",
+        "C. Mycophenolate mofetil",
+        "D. Cyclosporine",
+        "E. Tacrolimus"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "A 45-year-old patient was treated with an antiviral drug for herpes simplex and later developed renal impairment characterized by crystal-induced nephropathy. Which drug is most likely the cause?",
+      "options": [
+        "A. Oseltamivir",
+        "B. Amantadine",
+        "C. Valacyclovir",
+        "D. Ribavirin",
+        "E. Acyclovir"
+      ],
+      "answer": "E"
+    },
+    {
+      "question": "A patient being treated for a fungal infection developed acute kidney injury with signs of hypokalemia and hypomagnesemia. Which drug is most likely responsible?",
+      "options": [
+        "A. Fluconazole",
+        "B. Voriconazole",
+        "C. Amphotericin B",
+        "D. Terbinafine",
+        "E. Itraconazole"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient with acute pyelonephritis during pregnancy needs an appropriate antibiotic for treatment. Which of the following is most suitable?",
+      "options": [
+        "A. Doxycycline",
+        "B. Ciprofloxacin",
+        "C. Amoxicillin",
+        "D. Trimethoprim-Sulfamethoxazole",
+        "E. Nitrofurantoin"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient treated with an aminoglycoside for a severe infection developed signs of nephrotoxicity, including increased serum creatinine and BUN levels. Which drug most likely led to this acute tubular necrosis?",
+      "options": [
+        "A. Vancomycin",
+        "B. Tobramycin",
+        "C. Clindamycin",
+        "D. Linezolid",
+        "E. Metronidazole"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A patient who has been taking an aminoglycoside antibiotic for a serious infection develops nephrotoxicity, shown by increased serum creatinine and BUN. Which of the following drugs is most likely responsible for this condition?",
+      "options": [
+        "A. Vancomycin",
+        "B. Tobramycin",
+        "C. Clindamycin",
+        "D. Linezolid",
+        "E. Metronidazole"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 28-year-old pregnant patient is diagnosed with acute pyelonephritis. Which of the following antibiotics would be the most appropriate choice for treatment?",
+      "options": [
+        "A. Ciprofloxacin",
+        "B. Doxycycline",
+        "C. Amoxicillin",
+        "D. Trimethoprim-Sulfamethoxazole",
+        "E. Nitrofurantoin"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient undergoing treatment with an immunosuppressive agent after an organ transplant develops chronic interstitial nephritis. Which drug is most likely responsible for this condition?",
+      "options": [
+        "A. Azathioprine",
+        "B. Prednisone",
+        "C. Cyclosporine",
+        "D. Mycophenolate mofetil",
+        "E. Tacrolimus"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "A patient treated for CMV infection develops nephrotoxicity characterized by crystal formation in the renal tubules. Which antiviral drug is most likely the cause?",
+      "options": [
+        "A. Oseltamivir",
+        "B. Ganciclovir",
+        "C. Acyclovir",
+        "D. Zanamivir",
+        "E. Amantadine"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "A 67-year-old male with hyperlipidemia started a statin medication and soon experienced muscle pain, dark urine, and elevated serum creatine kinase levels. Which of the following medications likely caused this rhabdomyolysis?",
+      "options": [
+        "A. Ezetimibe",
+        "B. Lovastatin",
+        "C. Colesevelam",
+        "D. Omega-3 fatty acids",
+        "E. Gemfibrozil"
+      ],
+      "answer": "B"
+    }
+  ],
+  "Glomerulonephritis": [
+    {
+        "question": "A 45-year-old male with hypertension and proteinuria is started on medication to control his condition. After a few weeks, his blood pressure improves, and protein levels in his urine decrease. Which medication is most likely responsible for these effects?",
+        "options": ["A. Furosemide", "B. Captopril", "C. Warfarin", "D. Prednisone", "E. Azathioprine"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient with minimal-change nephropathy shows significant improvement after treatment. Which drug was most likely prescribed?",
+        "options": ["A. Losartan", "B. Cyclosporine", "C. Mycophenolate mofetil", "D. Prednisone", "E. Furosemide"],
+        "answer": "D"
+      },
+      {
+        "question": "A 60-year-old woman is admitted with edema secondary to chronic kidney disease. To manage her symptoms, a loop diuretic is administered. Which of the following drugs was given?",
+        "options": ["A. Losartan", "B. Furosemide", "C. Warfarin", "D. Azathioprine", "E. Captopril"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient with glomerulonephritis is undergoing immunosuppressive therapy. Which combination of drugs is most likely included in their treatment plan?",
+        "options": ["A. Enalapril and Valsartan", "B. Azathioprine and Cyclosporine", "C. Warfarin and Furosemide", "D. Prednisone and Losartan", "E. Captopril and Mycophenolate mofetil"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient presents with intravascular thrombosis and is prescribed an anticoagulant. Which medication was used?",
+        "options": ["A. Prednisone", "B. Furosemide", "C. Warfarin", "D. Enalapril", "E. Cyclosporine"],
+        "answer": "C"
+      },
+      {
+        "question": "A 52-year-old patient with hypertension and chronic kidney disease is advised to take a medication that inhibits angiotensin II and reduces proteinuria. Which drug is most appropriate for this patient?",
+        "options": ["A. Furosemide", "B. Warfarin", "C. Losartan", "D. Azathioprine", "E. Prednisone"],
+        "answer": "C"
+      },
+      {
+        "question": "A patient with glomerulonephritis is treated to reduce inflammation and immune response. After several weeks, the treatment shows significant improvement in their condition. Which type of drug was likely administered?",
+        "options": ["A. ACE inhibitor", "B. Loop diuretic", "C. Corticosteroid", "D. Anticoagulant", "E. Antibiotic"],
+        "answer": "C"
+      },
+      {
+        "question": "A patient presents with edema due to a renal disorder. A loop diuretic is chosen as part of the treatment to alleviate fluid retention. Which medication was prescribed?",
+        "options": ["A. Captopril", "B. Mycophenolate mofetil", "C. Warfarin", "D. Furosemide", "E. Enalapril"],
+        "answer": "D"
+      },
+      {
+        "question": "A nephrologist prescribes an immunosuppressant for a patient diagnosed with glomerulonephritis. Which medication might be included in the treatment plan?",
+        "options": ["A. Valsartan", "B. Furosemide", "C. Azathioprine", "D. Warfarin", "E. Captopril"],
+        "answer": "C"
+      },
+      {
+        "question": "A patient with chronic kidney disease is at risk for thrombosis and is prescribed medication to manage this condition. Which drug would be appropriate for this purpose?",
+        "options": ["A. Losartan", "B. Enalapril", "C. Furosemide", "D. Warfarin", "E. Prednisone"],
+        "answer": "D"
+      },
+      {
+        "question": "A patient diagnosed with glomerulonephritis is placed on medication to manage their proteinuria and blood pressure. Which drug is most likely prescribed?",
+        "options": ["A. Warfarin", "B. Prednisone", "C. Enalapril", "D. Mycophenolate mofetil", "E. Furosemide"],
+        "answer": "C"
+      },
+      {
+        "question": "A patient with minimal-change nephropathy requires treatment with an anti-inflammatory agent. Which drug should be used?",
+        "options": ["A. Losartan", "B. Captopril", "C. Azathioprine", "D. Prednisone", "E. Warfarin"],
+        "answer": "D"
+      },
+      {
+        "question": "A 55-year-old patient presents with hypertension and chronic kidney disease. The physician prescribes a drug that helps to inhibit angiotensin II. Which drug was likely chosen?",
+        "options": ["A. Mycophenolate mofetil", "B. Furosemide", "C. Prednisone", "D. Captopril", "E. Warfarin"],
+        "answer": "D"
+      },
+      {
+        "question": "A patient experiencing edema as a complication of chronic kidney disease is prescribed a loop diuretic. Which of the following drugs is most appropriate?",
+        "options": ["A. Azathioprine", "B. Warfarin", "C. Enalapril", "D. Furosemide", "E. Losartan"],
+        "answer": "D"
+      },
+      {
+        "question": "A patient being treated for glomerulonephritis is given an immunosuppressive drug as part of their therapy. Which medication might they be taking?",
+        "options": ["A. Captopril", "B. Prednisone", "C. Furosemide", "D. Azathioprine", "E. Warfarin"],
+        "answer": "D"
+      },
+      {
+        "question": "A 50-year-old patient with glomerulonephritis is prescribed medication to help reduce immune response and inflammation. Which drug is most appropriate for this treatment?",
+        "options": ["A. Furosemide", "B. Warfarin", "C. Losartan", "D. Prednisone", "E. Captopril"],
+        "answer": "D"
+      },
+      {
+        "question": "A patient with chronic kidney disease presents with hypertension and is prescribed a medication that inhibits the formation of angiotensin II. Which drug would be most suitable?",
+        "options": ["A. Azathioprine", "B. Enalapril", "C. Furosemide", "D. Warfarin", "E. Prednisone"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient being treated for glomerulonephritis requires an immunosuppressant as part of their therapy. Which of the following medications could be included?",
+        "options": ["A. Losartan", "B. Warfarin", "C. Cyclosporine", "D. Furosemide", "E. Enalapril"],
+        "answer": "C"
+      },
+      {
+        "question": "A patient develops significant edema as a result of a renal disorder and requires a loop diuretic. Which medication would be used in this case?",
+        "options": ["A. Captopril", "B. Mycophenolate mofetil", "C. Furosemide", "D. Warfarin", "E. Azathioprine"],
+        "answer": "C"
+      },
+      {
+        "question": "A 45-year-old patient with a history of intravascular thrombosis is prescribed an anticoagulant to prevent further complications. Which drug is most appropriate?",
+        "options": ["A. Losartan", "B. Prednisone", "C. Furosemide", "D. Warfarin", "E. Cyclosporine"],
+        "answer": "D"
+      },
+      {
+        "question": "A patient with chronic kidney disease is experiencing hypertension and is prescribed a medication that helps reduce proteinuria. Which drug is appropriate for this treatment?",
+        "options": ["A. Furosemide", "B. Prednisone", "C. Captopril", "D. Warfarin", "E. Mycophenolate mofetil"],
+        "answer": "C"
+      },
+      {
+        "question": "A nephrologist prescribes an immunosuppressive therapy for a patient diagnosed with glomerulonephritis. Which medication could be part of this treatment plan?",
+        "options": ["A. Enalapril", "B. Azathioprine", "C. Furosemide", "D. Warfarin", "E. Losartan"],
+        "answer": "B"
+      },{
+        "question": "A patient with minimal-change nephropathy responds well to treatment and shows significant improvement. Which drug was most likely used?",
+        "options": ["A. Warfarin", "B. Losartan", "C. Cyclosporine", "D. Prednisone", "E. Furosemide"],
+        "answer": "D"
+      },
+      {
+        "question": "A patient being treated for a renal disorder develops significant edema and needs medication to reduce fluid retention. Which of the following should be administered?",
+        "options": ["A. Prednisone", "B. Captopril", "C. Azathioprine", "D. Furosemide", "E. Enalapril"],
+        "answer": "D"
+      },
+      {
+        "question": "A patient at risk of developing thrombosis due to a renal condition is prescribed an anticoagulant. Which drug would be appropriate?",
+        "options": ["A. Captopril", "B. Warfarin", "C. Losartan", "D. Mycophenolate mofetil", "E. Furosemide"],
+        "answer": "B"
+      }
+  ],
+  "UTI's": [
+    {
+        "question": "A 45-year-old male with a history of frequent UTIs is treated with an antibiotic. A few days later, he develops a skin rash and facial swelling. Laboratory tests indicate elevated eosinophils and creatinine levels. Which drug is most likely responsible for his acute allergic interstitial nephritis?",
+        "options": ["A. Ciprofloxacin", "B. Amoxicillin-Clavulanic acid", "C. Nitrofurantoin", "D. Cefdinir", "E. Phenazopyridine"],
+        "answer": "B"
+      },
+      {
+        "question": "A 30-year-old woman with cystitis is prescribed a medication that inhibits bacterial DNA replication. She later experiences Achilles tendon pain. Which medication is most likely responsible for this side effect?",
+        "options": ["A. Nitrofurantoin", "B. Cefepime", "C. Ciprofloxacin", "D. Amoxicillin", "E. Phenazopyridine"],
+        "answer": "C"
+      },
+      {
+        "question": "A 28-year-old pregnant woman presents with urinary frequency and burning. A UTI is confirmed, and her doctor prescribes a medication that is effective against E. coli and considered safe during pregnancy (except near term). Which medication was prescribed?",
+        "options": ["A. Fosfomycin", "B. Nitrofurantoin", "C. Trimethoprim-Sulfamethoxazole", "D. Ciprofloxacin", "E. Phenazopyridine"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient is treated for a UTI and develops hemolytic anemia due to a medication known for this risk in patients with G6PD deficiency. Which drug is most likely responsible?",
+        "options": ["A. Trimethoprim-Sulfamethoxazole", "B. Phenazopyridine", "C. Cefdinir", "D. Levofloxacin", "E. Amoxicillin"],
+        "answer": "A"
+      },
+      {
+        "question": "A 19-year-old female with cystitis is prescribed a drug that inhibits peptidoglycan biosynthesis via MurA enzyme inhibition. What is the most appropriate medication for her treatment?",
+        "options": ["A. Ciprofloxacin", "B. Amoxicillin-Clavulanic acid", "C. Nitrofurantoin", "D. Fosfomycin", "E. Cefepime"],
+        "answer": "D"
+      },
+      {
+        "question": "A 35-year-old male is prescribed an antibiotic for cystitis. He later develops nausea, vomiting, and a prolonged QT interval on an EKG. Which of the following medications is most likely responsible?",
+        "options": ["A. Fosfomycin", "B. Ciprofloxacin", "C. Nitrofurantoin", "D. Amoxicillin-Clavulanic acid", "E. Cefpodoxime"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient taking medication for cystitis reports reddish-orange urine discoloration but no other side effects. Which drug is most likely responsible for this symptom?",
+        "options": ["A. Phenazopyridine", "B. Trimethoprim-Sulfamethoxazole", "C. Cefdinir", "D. Fosfomycin", "E. Nitrofurantoin"],
+        "answer": "A"
+      },
+      {
+        "question": "A 50-year-old woman is treated for pyelonephritis with an antibiotic. She later develops phototoxicity and reports insomnia. Which medication was likely used in her treatment?",
+        "options": ["A. Nitrofurantoin", "B. Fosfomycin", "C. Ciprofloxacin", "D. Amoxicillin", "E. Phenazopyridine"],
+        "answer": "C"
+      },
+      {
+        "question": "A patient with a urinary tract infection is prescribed a medication that blocks purine production and nucleic acid synthesis. Later, the patient experiences crystalluria. Which medication is most likely responsible for these effects?",
+        "options": ["A. Cefdinir", "B. Trimethoprim-Sulfamethoxazole", "C. Nitrofurantoin", "D. Ciprofloxacin", "E. Amoxicillin"],
+        "answer": "B"
+      },
+      {
+        "question": "A 60-year-old man with a history of G6PD deficiency is prescribed an antibiotic for cystitis. Shortly after, he develops signs of hemolytic anemia. Which of the following drugs was likely prescribed?",
+        "options": ["A. Phenazopyridine", "B. Nitrofurantoin", "C. Cefpodoxime", "D. Fosfomycin", "E. Amoxicillin"],
+        "answer": "B"
+      },
+      {
+        "question": "A 42-year-old male presents with cystitis and is treated with a drug that inhibits bacterial DNA-gyrase. He later complains of dizziness and GI upset. Which of the following medications was he most likely prescribed?",
+        "options": ["A. Nitrofurantoin", "B. Ciprofloxacin", "C. Amoxicillin", "D. Fosfomycin", "E. Phenazopyridine"],
+        "answer": "B"
+      },
+      {
+        "question": "A 29-year-old female is given a urinary tract antiseptic for cystitis. The patient has a history of G6PD deficiency. Shortly after, she develops hemolytic anemia. Which medication is most likely responsible?",
+        "options": ["A. Ciprofloxacin", "B. Phenazopyridine", "C. Nitrofurantoin", "D. Fosfomycin", "E. Amoxicillin"],
+        "answer": "C"
+      },
+      {
+        "question": "A patient being treated for a UTI reports orange-colored urine. Which drug is most likely causing this effect?",
+        "options": ["A. Fosfomycin", "B. Trimethoprim-Sulfamethoxazole", "C. Phenazopyridine", "D. Cefpodoxime", "E. Nitrofurantoin"],
+        "answer": "C"
+      },
+      {
+        "question": "A 56-year-old woman is being treated for pyelonephritis with an antibiotic that can cause tendonitis and is contraindicated in pregnancy due to potential cartilage damage. Which medication is this?",
+        "options": ["A. Amoxicillin-Clavulanic acid", "B. Nitrofurantoin", "C. Ciprofloxacin", "D. Cefdinir", "E. Trimethoprim-Sulfamethoxazole"],
+        "answer": "C"
+      },
+      {
+        "question": "A patient treated for cystitis develops pulmonary fibrosis after long-term use of the medication. Which of the following drugs is most likely to cause this condition?",
+        "options": ["A. Nitrofurantoin", "B. Ciprofloxacin", "C. Amoxicillin", "D. Fosfomycin", "E. Phenazopyridine"],
+        "answer": "A"
+      },
+      {
+        "question": "A 48-year-old male with a urinary tract infection is treated with an antibiotic known for its risk of causing tendonitis and possible seizures. Which of the following drugs was most likely used?",
+        "options": ["A. Nitrofurantoin", "B. Ciprofloxacin", "C. Trimethoprim-Sulfamethoxazole", "D. Fosfomycin", "E. Amoxicillin-Clavulanic acid"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient presents with cystitis and is prescribed a medication that inhibits folate synthesis and can cause photosensitivity. Which drug is most likely prescribed?",
+        "options": ["A. Cefdinir", "B. Fosfomycin", "C. Ciprofloxacin", "D. Trimethoprim-Sulfamethoxazole", "E. Phenazopyridine"],
+        "answer": "D"
+      },
+      {
+        "question": "A 65-year-old woman with a history of UTIs is treated with an antibiotic that inhibits peptidoglycan synthesis. After treatment, she experiences minimal side effects. Which medication was most likely used?",
+        "options": ["A. Nitrofurantoin", "B. Fosfomycin", "C. Ciprofloxacin", "D. Amoxicillin", "E. Phenazopyridine"],
+        "answer": "B"
+      },
+      {
+        "question": "A patient on antibiotic treatment for a UTI develops significant GI upset, phototoxicity, and CNS effects, such as insomnia. Which medication was most likely prescribed?",
+        "options": ["A. Trimethoprim-Sulfamethoxazole", "B. Fosfomycin", "C. Nitrofurantoin", "D. Ciprofloxacin", "E. Amoxicillin-Clavulanic acid"],
+        "answer": "D"
+      },
+      {
+        "question": "A pregnant woman with a UTI is given an antibiotic that is considered safe during pregnancy but must be avoided near term to prevent hemolytic anemia. Which drug was likely prescribed?",
+        "options": ["A. Trimethoprim-Sulfamethoxazole", "B. Ciprofloxacin", "C. Nitrofurantoin", "D. Phenazopyridine", "E. Cefpodoxime"],
+        "answer": "C"
+      },
+      {
+        "question": "A 45-year-old woman is prescribed an antibiotic that inhibits peptidoglycan biosynthesis for her cystitis. Which of the following drugs matches this description and is known for minimal side effects?",
+        "options": [
+            "A. Ciprofloxacin",
+            "B. Fosfomycin",
+            "C. Trimethoprim-Sulfamethoxazole",
+            "D. Nitrofurantoin",
+            "E. Amoxicillin"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "A patient taking an antibiotic for a UTI reports GI upset and phototoxicity as side effects. The patient also experiences occasional insomnia. Which medication is most likely responsible?",
+        "options": [
+            "A. Nitrofurantoin",
+            "B. Trimethoprim-Sulfamethoxazole",
+            "C. Fosfomycin",
+            "D. Ciprofloxacin",
+            "E. Cefdinir"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "A 58-year-old man with G6PD deficiency is treated for cystitis and develops hemolytic anemia. Which of the following medications is most likely responsible?",
+        "options": [
+            "A. Ciprofloxacin",
+            "B. Phenazopyridine",
+            "C. Nitrofurantoin",
+            "D. Amoxicillin-Clavulanic acid",
+            "E. Fosfomycin"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "A pregnant woman is treated for a UTI with a drug considered safe during pregnancy but should be avoided near term to prevent hemolytic anemia. Which medication was used?",
+        "options": [
+            "A. Ciprofloxacin",
+            "B. Phenazopyridine",
+            "C. Nitrofurantoin",
+            "D. Trimethoprim-Sulfamethoxazole",
+            "E. Fosfomycin"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "A patient is treated for a UTI with an antibiotic that blocks purine production and nucleic acid synthesis. After treatment, the patient develops crystalluria as a side effect. Which drug was prescribed?",
+        "options": [
+            "A. Ciprofloxacin",
+            "B. Fosfomycin",
+            "C. Nitrofurantoin",
+            "D. Trimethoprim-Sulfamethoxazole",
+            "E. Amoxicillin"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "A 67-year-old man is prescribed an antibiotic that can block purine production and nucleic acid synthesis for his UTI. He later develops photosensitivity and crystalluria. Which of the following medications was likely used?",
+        "options": [
+            "A. Ciprofloxacin",
+            "B. Fosfomycin",
+            "C. Nitrofurantoin",
+            "D. Trimethoprim-Sulfamethoxazole",
+            "E. Phenazopyridine"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "A patient treated with an antibiotic for pyelonephritis reports side effects including phototoxicity, CNS issues such as insomnia, and tendonitis. Which medication was most likely prescribed?",
+        "options": [
+            "A. Nitrofurantoin",
+            "B. Fosfomycin",
+            "C. Ciprofloxacin",
+            "D. Trimethoprim-Sulfamethoxazole",
+            "E. Amoxicillin"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "A pregnant patient in her third trimester is treated for cystitis. Which of the following antibiotics should be avoided due to the risk of hemolytic anemia in the newborn?",
+        "options": [
+            "A. Ciprofloxacin",
+            "B. Fosfomycin",
+            "C. Nitrofurantoin",
+            "D. Amoxicillin",
+            "E. Phenazopyridine"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "A patient with G6PD deficiency is treated for a UTI with a medication that later results in hemolytic anemia. Which drug was most likely responsible?",
+        "options": [
+            "A. Ciprofloxacin",
+            "B. Amoxicillin",
+            "C. Nitrofurantoin",
+            "D. Fosfomycin",
+            "E. Trimethoprim-Sulfamethoxazole"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "A 40-year-old male is treated for cystitis with an antibiotic that inhibits peptidoglycan biosynthesis but does not cause significant side effects. Which drug fits this description?",
+        "options": [
+            "A. Nitrofurantoin",
+            "B. Ciprofloxacin",
+            "C. Trimethoprim-Sulfamethoxazole",
+            "D. Fosfomycin",
+            "E. Amoxicillin"
+        ],
+        "answer": "D"
+    }
+  ]
+}
+
+
+
