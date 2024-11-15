@@ -1,0 +1,418 @@
+{
+    "1": [
+        {
+            "question": "Which of the following is the primary goal of public health?",
+            "options": [
+                "a. To treat individuals after the onset of disease",
+                "b. To promote the health of a population through organized efforts",
+                "c. To improve individual healthcare practices",
+                "d. To focus solely on disease treatment in hospitals"
+            ],
+            "answer": "b"
+             
+        },
+        {
+            "question": "The epidemiologic triad refers to the interaction between which of the following elements?",
+            "options": [
+                "a. Host, agent, environment",
+                "b. Individual, healthcare provider, disease",
+                "c. Population, healthcare policy, medicine",
+                "d. Disease, treatment, environment"
+            ],
+            "answer": "a"
+             
+        },
+        {
+            "question": "Which of the following is an example of a pandemic?",
+            "options": [
+                "a. A flu outbreak limited to one city",
+                "b. The presence of malaria in certain regions of Africa",
+                "c. The global spread of COVID-19 across multiple continents",
+                "d. A localized cholera outbreak in one country"
+            ],
+            "answer": "c"
+             
+        },
+        {
+            "question": "Descriptive epidemiology primarily deals with which of the following?",
+            "options": [
+                "a. The frequency and distribution of disease risk factors in populations",
+                "b. Conducting laboratory experiments on disease causes",
+                "c. Diagnosing individual patients with specific conditions",
+                "d. Implementing treatment protocols for diseases in clinical settings"
+            ],
+            "answer": "a"
+             
+        },
+        {
+            "question": "Which of the following is NOT a core public health function?",
+            "options": [
+                "a. Assessment of health risks in populations",
+                "b. Policy development to address health problems",
+                "c. Assurance of access to healthcare services",
+                "d. Providing individualized care to specific patients"
+            ],
+            "answer": "d"
+             
+        },
+        {
+            "question": "Which of the following best describes the purpose of epidemiology?",
+            "options": [
+                "a. To treat individual patients with diseases",
+                "b. To study the causes and distribution of diseases in populations and apply this knowledge to prevent and control health problems",
+                "c. To develop personalized medical treatments for specific diseases",
+                "d. To focus solely on the environmental causes of disease"
+            ],
+            "answer": "b"
+             
+        },
+        {
+            "question": "What is the role of analytic epidemiology?",
+            "options": [
+                "a. To describe the frequency and distribution of diseases in populations",
+                "b. To determine the 'what' and 'where' of disease occurrences",
+                "c. To investigate the 'why' and 'how' of disease causes, typically through study designs and measures of association",
+                "d. To assess the clinical outcomes of individuals with specific diseases"
+            ],
+            "answer": "c"
+             
+        },
+        {
+            "question": "Which of the following is NOT a mode of direct disease transmission?",
+            "options": [
+                "a. Person-to-person contact",
+                "b. Indirect contact via contaminated objects",
+                "c. Droplet transmission through coughing or sneezing",
+                "d. Transmission via bodily fluids"
+            ],
+            "answer": "b"
+             
+        },
+        {
+            "question": "Which of the following is a key aspect of the natural history of disease?",
+            "options": [
+                "a. It refers to the transmission patterns of infectious diseases across populations",
+                "b. It outlines the progression of a disease in an individual over time, without treatment or intervention",
+                "c. It describes how diseases spread in urban and rural populations",
+                "d. It focuses on the preventive measures taken to stop disease transmission"
+            ],
+            "answer": "b"
+             
+        },
+        {
+            "question": "Which of the following is an example of an endemic disease?",
+            "options": [
+                "a. A sudden outbreak of Ebola virus in West Africa",
+                "b. The consistent presence of malaria in certain regions of sub-Saharan Africa",
+                "c. A rapid spread of influenza across multiple continents",
+                "d. The eradication of smallpox worldwide"
+            ],
+            "answer": "b"
+            
+        },
+        {
+            "question": "Which of the following is a primary function of public health assessment?",
+            "options": [
+                "a. Formulating public policies to address health problems",
+                "b. Developing personalized treatment plans for individuals",
+                "c. Monitoring the health of populations to identify priorities",
+                "d. Ensuring the development of new pharmaceuticals"
+            ],
+            "answer": "c"
+             
+        },
+        {
+            "question": "The term 'epidemic' refers to:",
+            "options": [
+                "a. The presence of a disease within a specific geographic area over time",
+                "b. The occurrence of disease that spreads rapidly and affects large populations",
+                "c. A disease that affects multiple countries across continents",
+                "d. The constant presence of a disease in a population"
+            ],
+            "answer": "b"
+             
+        },
+        {
+            "question": "What is the primary objective of public health policy development?",
+            "options": [
+                "a. Ensuring equitable access to healthcare for individuals",
+                "b. Designing and implementing solutions for community-level health issues",
+                "c. Providing advanced clinical care for specific diseases",
+                "d. Conducting research on rare diseases"
+            ],
+            "answer": "b"
+             
+        },
+        {
+            "question": "Which of the following is a key focus of analytic epidemiology?",
+            "options": [
+                "a. Measuring the prevalence of disease in a specific population",
+                "b. Describing patterns of disease in a community",
+                "c. Investigating causal relationships between risk factors and disease outcomes",
+                "d. Monitoring the distribution of health services in hospitals"
+            ],
+            "answer": "c"
+             
+        },
+        {
+            "question": "Which of the following best describes a vehicle-borne mode of transmission?",
+            "options": [
+                "a. Transmission of disease through respiratory droplets",
+                "b. Spread of disease through direct physical contact between people",
+                "c. Indirect spread of disease via a contaminated object, such as food or water",
+                "d. Disease transmission through animal or insect vectors"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following describes the concept of 'health' according to the World Health Organization (WHO)?",
+            "options": [
+                "a. The absence of disease or infirmity",
+                "b. Complete physical, mental, and social well-being",
+                "c. A state of equilibrium between the individual and their environment",
+                "d. The ability to function normally without symptoms"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "What is the primary goal of descriptive epidemiology?",
+            "options": [
+                "a. To explain the cause of diseases",
+                "b. To describe the frequency and distribution of diseases in populations",
+                "c. To implement prevention programs",
+                "d. To conduct clinical trials on new treatments"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "The epidemiologic triad is used to describe the relationship between which of the following elements?",
+            "options": [
+                "a. Agent, host, and environment",
+                "b. Agent, disease, and prevention",
+                "c. Environment, population, and treatment",
+                "d. Disease, patient, and doctor"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following public health functions is focused on ensuring that all populations have access to healthcare services?",
+            "options": [
+                "a. Assessment",
+                "b. Assurance",
+                "c. Policy development",
+                "d. Research"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a characteristic of a pandemic?",
+            "options": [
+                "a. A disease that occurs consistently in a specific region",
+                "b. A localized outbreak in one community",
+                "c. A sudden increase in disease cases across multiple continents",
+                "d. An ongoing disease present in a specific population"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following is a major focus of epidemiology?",
+            "options": [
+                "a. Identifying the individual patients who are sick",
+                "b. Studying the distribution and determinants of diseases in populations",
+                "c. Treating individuals with diseases based on population data",
+                "d. Focusing on the symptoms of diseases in individual patients"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "What is a key objective of public health assurance?",
+            "options": [
+                "a. Ensuring access to healthcare services for all populations",
+                "b. Identifying the causes of diseases in a population",
+                "c. Monitoring health data to detect trends",
+                "d. Developing vaccines for new diseases"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following modes of transmission involves the indirect spread of disease through an insect or animal?",
+            "options": [
+                "a. Airborne transmission",
+                "b. Vehicle-borne transmission",
+                "c. Direct contact transmission",
+                "d. Vector-borne transmission"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "What is the definition of endemic disease?",
+            "options": [
+                "a. A disease that is present at a constant level in a specific geographic area",
+                "b. A disease that causes outbreaks in multiple countries simultaneously",
+                "c. A disease that suddenly spreads to large populations within a community",
+                "d. A disease that has been eradicated worldwide"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Which of the following public health activities is an example of disease surveillance?",
+            "options": [
+                "a. Developing a new treatment for heart disease",
+                "b. Monitoring the spread of influenza in a community over time",
+                "c. Conducting a clinical trial for a new vaccine",
+                "d. Educating the public about healthy lifestyle choices"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a key characteristic of analytic epidemiology?",
+            "options": [
+                "a. It focuses on describing the frequency of disease",
+                "b. It seeks to identify the causes and risk factors of diseases",
+                "c. It primarily involves healthcare delivery to individuals",
+                "d. It assesses the economic impact of diseases on populations"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is an example of vehicle-borne transmission?",
+            "options": [
+                "a. Transmission through coughing or sneezing",
+                "b. Disease spread by mosquitoes",
+                "c. Transmission through contaminated food or water",
+                "d. Direct person-to-person contact"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "What is the primary goal of public health surveillance?",
+            "options": [
+                "a. To detect early signs of disease outbreaks and monitor ongoing health issues",
+                "b. To diagnose diseases in individual patients",
+                "c. To provide medical care for the elderly",
+                "d. To conduct clinical trials for new medications"
+            ],
+            "answer": "a"
+        },
+        {
+            "question": "Which type of study is typically used in analytic epidemiology to investigate the causes of disease?",
+            "options": [
+                "a. Cross-sectional study",
+                "b. Case-control study",
+                "c. Ecological study",
+                "d. Descriptive study"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "The term 'pandemic' is used to describe:",
+            "options": [
+                "a. A disease that occurs only in a specific region",
+                "b. A disease that suddenly spreads to large numbers of people worldwide",
+                "c. A disease that remains constant in a population over time",
+                "d. A localized disease outbreak within a single community"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is NOT part of the core functions of public health?",
+            "options": [
+                "a. Assessment",
+                "b. Assurance",
+                "c. Policy Development",
+                "d. Disease Treatment"
+            ],
+            "answer": "d"
+        },
+        {
+            "question": "What type of epidemiology focuses on describing the 'who,' 'what,' 'where,' and 'when' of health-related events?",
+            "options": [
+                "a. Analytical epidemiology",
+                "b. Descriptive epidemiology",
+                "c. Experimental epidemiology",
+                "d. Clinical epidemiology"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is an example of indirect disease transmission?",
+            "options": [
+                "a. Direct physical contact between people",
+                "b. Transmission through a shared contaminated surface",
+                "c. Transmission through coughing or sneezing",
+                "d. Transmission via blood transfusion"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "What does the term 'epidemic' specifically refer to?",
+            "options": [
+                "a. A disease consistently present in a population",
+                "b. A sudden increase in the number of cases of a disease above what is normally expected",
+                "c. A global outbreak of a disease",
+                "d. A disease that has been eliminated in a specific region"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following statements about public health is true?",
+            "options": [
+                "a. Public health focuses primarily on treating individuals with diseases",
+                "b. Public health aims to prevent disease and promote health at the population level",
+                "c. Public health only addresses infectious diseases",
+                "d. Public health's main goal is to conduct clinical research"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a key function of public health policy development?",
+            "options": [
+                "a. Monitoring the health status of populations",
+                "b. Enforcing laws and regulations to protect health",
+                "c. Formulating policies to address identified health issues",
+                "d. Providing direct medical care to individuals"
+            ],
+            "answer": "c"
+        },
+        {
+            "question": "Which of the following best describes the 'natural history of disease'?",
+            "options": [
+                "a. The study of how diseases evolve in the human population",
+                "b. The progression of a disease in an individual over time, in the absence of treatment",
+                "c. The changes in disease patterns due to environmental factors",
+                "d. The effect of medical interventions on disease progression"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "What type of transmission involves pathogens being carried by dust particles or small droplets that remain suspended in the air?",
+            "options": [
+                "a. Direct contact transmission",
+                "b. Airborne transmission",
+                "c. Vector-borne transmission",
+                "d. Vehicle-borne transmission"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is a characteristic of endemic diseases?",
+            "options": [
+                "a. They occur sporadically with no predictable pattern",
+                "b. They are consistently present in a specific geographic area or population",
+                "c. They spread rapidly across countries and continents",
+                "d. They are newly emerging diseases in populations"
+            ],
+            "answer": "b"
+        },
+        {
+            "question": "Which of the following is NOT considered a public health approach?",
+            "options": [
+                "a. Preventing illness by promoting healthy behaviors",
+                "b. Monitoring community health status",
+                "c. Treating patients in emergency rooms",
+                "d. Investigating disease outbreaks"
+            ],
+            "answer": "c"
+        }
+    ]
+}
