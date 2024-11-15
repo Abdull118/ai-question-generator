@@ -1,11 +1,39 @@
+
+
+@keyframes fadeInSlide {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.title{
+  margin-top: 20px;
+  margin-bottom: -77px;
+  padding: 10px 20px;
+  text-align: center;
+  background-color: rgb(204, 148, 117);
+  box-shadow: 0px 5px 5px rgba(16, 24, 40, 0.5);
+  color: #fff; 
+  border-radius: 5px; 
+  font-size: 2em;
+}
+
+.optionsContainer {
+  animation: fadeInSlide 0.5s forwards;
+}
+
 .card {
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 10px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  width: 350px;
   margin: auto;
   text-align: center;
+  background: antiquewhite;
 }
 
 .options {
@@ -19,6 +47,21 @@
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+.optionsContainer {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transform: translateY(-20px); /* Start slightly above */
+  transition: max-height 0.5s ease, opacity 0.5s ease, transform 0.5s ease;
+}
+
+.optionsContainer.show {
+  max-height: 500px; /* Adjust based on content size */
+  opacity: 1;
+  transform: translateY(0); /* Slide to original position */
+}
+
 
 .optionButton {
   background-color: #f0f0f0;
@@ -44,6 +87,8 @@
   border-color: #0070f3;
 }
 
+
+
 .lectureSelection{
   display: flex;
   flex-direction: column;
@@ -52,10 +97,11 @@
   align-items: center;
 }
 
-.submitButton, .nextButton, .lectureButton {
+.submitButton, .nextButton, .lectureButton, .explainButton {
   margin-top: 20px;
   padding: 10px 20px;
-  background-color: #0070f3;
+  background-color: rgb(204, 148, 117);
+  box-shadow: 0px 5px 5px rgba(16, 24, 40, 0.5);
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -63,29 +109,74 @@
   font-size: 1em;
 }
 
+.explainButton{
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.navigation{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center; 
+  margin-bottom: -20px;
+}
+
+.navigation img{
+  width: 40px;
+  height: 40px;
+}
+
 .submitButton:hover {
   background-color: #005bb5;
 }
 
 .container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 50px auto;
-  width: 300px;
-  text-align: center;
+ width: 100%;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ gap: 10px;
+ align-items: center;
+ margin: auto;
+ height: 100vh;
+ align-content: center;
+
 }
 
 .modButton {
-  padding: 30px 45px;
-  background-color: #0070f3;
+  padding: 30px 45px;  
+  background-color: rgb(204, 148, 117);
+  box-shadow: 0px 5px 5px rgba(16, 24, 40, 0.5);
+  color: #fff;
   color: #fff;
   font-weight: bold;
   border: none;
   border-radius: 8px;
   cursor: pointer;
   transition: background-color 0.3s;
-  font-size: 2em;
+  font-size: 2em; 
+  text-align: center;
+}
+
+.activeButton {
+  background-color: #005bb5;
+}
+
+
+.container > div:nth-child(4){
+  padding: 30px 41px;
+  font-size: 1.98em;
+}
+
+.container img{
+  width: 8%;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: #005bb5;
+  border-radius: 50%;
+  padding: 10px;
 }
 
 .modButton:hover {
@@ -99,13 +190,17 @@
 
 .option {
   padding: 15px;
-  background-color: #f0f0f0;
-  margin: 15px 0;
+  background-color: rgb(204, 148, 117);
+  box-shadow: 0px 5px 5px rgba(16, 24, 40, 0.5);
+  margin: 15px auto;
   border-radius: 8px;
   cursor: pointer;
   font: 1.5em sans-serif;
   transition: background-color 0.3s, transform 0.2s;
   border: 1px solid black;
+  text-align: center; 
+  width: 70vw;
+  color: #FFF;
 }
 
 .option:hover {
@@ -139,7 +234,8 @@
  margin: 0 auto;
   font-size: 1em;
  padding: 10px 20px;
- background-color: #0070f3;
+ background-color: rgb(204, 148, 117);
+ box-shadow: 0px 5px 5px rgba(16, 24, 40, 0.5);
  color: #fff;
  border: none;
  border-radius: 5px;
@@ -150,7 +246,8 @@
  margin: 20px auto;
   font-size: 1em;
  padding: 10px 20px;
- background-color: #0070f3;
+ background-color: rgb(204, 148, 117);
+ box-shadow: 0px 5px 5px rgba(16, 24, 40, 0.5);
  color: #fff;
  border: none;
  border-radius: 5px;
@@ -181,4 +278,13 @@
   border-radius: 10px;
   margin-bottom: 10px;
   font-size: 20px;
+}
+
+.header{
+  background-color: antiquewhite;
+  padding: 20px;
+  border-radius: 50px;
+  border: solid 0.5px gray;
+  box-shadow: 0px 5px 5px rgba(16, 24, 40, 0.5);
+
 }
