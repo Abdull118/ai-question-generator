@@ -377,6 +377,291 @@
               "D. Flexion lesions in the lumbar spine"
             ],
             "answer": "B"
+          },
+          {
+            "question": "A 50-year-old female presents with complaints of dyspnea, persistent wheezing, and chest tightness. Which of the following findings would indicate sympathetic overactivity in this patient?",
+            "options": [
+              "A. Increased production of ciliated columnar epithelial cells",
+              "B. Thick and tenacious mucus production",
+              "C. Decreased secretion of goblet cells",
+              "D. Increased diaphragmatic excursion during inhalation",
+              "E. Predominant use of parasympathetic innervation"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 40-year-old male patient with a history of chronic sinusitis reports worsening facial pressure and congestion. On examination, the physician notes decreased ciliary activity and swollen nasal turbinates. Which OMT approach would most effectively aid sinus drainage?",
+            "options": [
+              "A. Rib raising technique",
+              "B. Cervical muscle energy treatment",
+              "C. Sinus drainage technique using effleurage",
+              "D. Myofascial release of the thoracic inlet",
+              "E. Diaphragmatic doming"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 70-year-old male patient with a long history of COPD presents with pursed-lip breathing and elevated first ribs. Which of the following best explains his breathing strategy?",
+            "options": [
+              "A. To reduce the work of inspiration by lowering diaphragm pressure",
+              "B. To facilitate air trapping and maintain thoracic rigidity",
+              "C. To create positive airway pressure during exhalation",
+              "D. To increase ciliary clearance and remove mucus efficiently",
+              "E. To enhance diaphragmatic contraction for deeper breaths"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 55-year-old female with asthma reports experiencing difficulty breathing, especially during exhalation. Physical examination reveals rigidity in the thoracic spine. Which of the following muscle groups is likely involved in maintaining this rigidity?",
+            "options": [
+              "A. Scalene and sternocleidomastoid muscles",
+              "B. Internal and external intercostal muscles",
+              "C. Rectus abdominus and oblique muscles",
+              "D. Pectoralis major and minor muscles",
+              "E. Trapezius and latissimus dorsi muscles"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "An 18-year-old male athlete presents for a pre-participation exam and mentions experiencing mild shortness of breath during vigorous training. He has a history of childhood asthma. What is the most appropriate OMT treatment to increase thoracic compliance and improve ventilation?",
+            "options": [
+              "A. Suboccipital release to reset parasympathetics",
+              "B. Rib raising to reduce sympathetic tone",
+              "C. Thoracic pump to enhance lymphatic drainage",
+              "D. Effleurage over the chest to reduce congestion",
+              "E. Cervical stretching to increase lung compliance"
+            ],
+            "answer": "B"
           }
-    ]
+    ],
+
+    "12a" : [
+      {
+        "question": "A 45-year-old patient presents with left-sided abdominal pain that radiates to the left groin. The pain began abruptly after intense physical activity. Physical examination reveals hypertonicity from T11 to L2 and mild fever. What is the most likely cause of his pain?",
+        "options": [
+          "A. Kidney infection spreading to surrounding muscles.",
+          "B. Ureteric stone causing spasms and referred pain.",
+          "C. Left-sided SI joint dysfunction due to trauma.",
+          "D. Inflammation of the quadratus lumborum from muscle overuse.",
+          "E. Psoas syndrome contributing to iliolumbar ligament pain."
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "A 50-year-old woman complains of chronic right flank pain that is exacerbated when she stands for long periods. She reports relief when lying down. Physical exam shows no signs of infection but a notable decrease in tissue mobility around the right kidney. What is the possible explanation for her symptoms?",
+        "options": [
+          "A. Chronic nephrolithiasis.",
+          "B. Renal ptosis affecting the ureter.",
+          "C. Costovertebral dysfunction causing muscle strain.",
+          "D. Psoas syndrome leading to ureteral compression.",
+          "E. Generalized muscle fatigue and spasm."
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "A patient reports dull, aching pain in the lower back that started after a significant loss of weight over a short period. He mentions that the pain worsens with standing and feels less severe when sitting. On examination, there is tenderness at the T12-L1 level and hypermobility of the lower ribs. What could be contributing to this pain?",
+        "options": [
+          "A. Lumbar disc herniation.",
+          "B. Nephroptosis due to lack of supporting perirenal fat.",
+          "C. SI joint inflammation from poor posture.",
+          "D. Spinal stenosis at the lumbar level.",
+          "E. Chronic infection of the kidney."
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "A 32-year-old runner complains of right-sided back pain radiating to the lower abdomen and anterior thigh. The pain began after a long-distance run and worsens with hip flexion. Palpation reveals tightness in the psoas muscle. Which of the following is the most plausible cause of the pain?",
+        "options": [
+          "A. Psoas spasm resulting in ureteric irritation.",
+          "B. Sacroiliac joint dysfunction radiating to the anterior thigh.",
+          "C. Lumbar facet syndrome involving T11-L1.",
+          "D. Piriformis syndrome mimicking ureteral pain.",
+          "E. Chronic appendicitis radiating to the back."
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "A 29-year-old athlete experiences sudden, sharp pain in the left lower back after a weightlifting session. The pain is accompanied by nausea and radiates to the left groin. Physical examination shows tenderness over T11-L2 and positive Lloyd’s sign. What is the most likely mechanism of this pain?",
+        "options": [
+          "A. Acute disc herniation.",
+          "B. Renal colic due to left ureteral stone.",
+          "C. Iliopsoas strain from improper form.",
+          "D. Quadratus lumborum strain due to lifting.",
+          "E. Sacroiliac joint sprain."
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "A 40-year-old patient presents with left-sided flank pain radiating to the lower abdomen, nausea, and hematuria. Physical examination shows hypertonicity from T11-L1 and costovertebral tenderness. What is the most likely mechanism of the pain?",
+        "options": [
+          "A. Renal infection causing referred muscle pain.",
+          "B. Lumbar strain from lifting.",
+          "C. Ureteral stone with associated ureterospasm.",
+          "D. Quadratus lumborum strain from poor posture.",
+          "E. Psoas syndrome affecting the left flank."
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "A 28-year-old woman reports right-sided flank pain that worsens when she moves or stands for long periods and improves when lying down. On examination, there is no sign of infection, but the kidney is palpable on deep inspiration. What is the most likely cause of her symptoms?",
+        "options": [
+          "A. Right-sided kidney infection.",
+          "B. Ureteral stone in the lower ureter.",
+          "C. Nephroptosis due to a \"dropped kidney.\"",
+          "D. Psoas muscle strain causing kidney displacement.",
+          "E. Herniated disc impinging on nerve roots."
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "A 35-year-old runner presents with dull pain in the lower back that radiates to the anterior thigh and worsens with hip flexion. Physical examination reveals tightness in the psoas muscle and positive Thomas test. What is the most plausible cause of this pain?",
+        "options": [
+          "A. Quadratus lumborum strain.",
+          "B. Psoas spasm creating ureteral compression.",
+          "C. Sacroiliac joint dysfunction.",
+          "D. Kidney infection affecting the lower back.",
+          "E. Ureteral stone in the middle ureter."
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "A patient comes to the clinic with sudden, sharp pain in the left lower back that radiates to the groin, accompanied by nausea and vomiting. Lloyd’s sign is positive, and examination shows tenderness along T12-L1. What is the most likely cause of these symptoms?",
+        "options": [
+          "A. Acute disc herniation at L1-L2.",
+          "B. Renal colic due to left ureteral stone.",
+          "C. Psoas muscle strain with nerve impingement.",
+          "D. Left-sided quadratus lumborum spasm.",
+          "E. Lumbar sprain from heavy lifting."
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "A 42-year-old man complains of lower abdominal pain and suprapubic discomfort that started after a period of dehydration. He reports pain radiating to the scrotum and frequent urination. Physical examination reveals hypertonicity at L1-L2. What could be causing these symptoms?",
+        "options": [
+          "A. Inguinal hernia.",
+          "B. Lower ureteral stone causing referred pain.",
+          "C. Chronic prostatitis.",
+          "D. Psoas syndrome affecting the lower abdomen.",
+          "E. SI joint dysfunction causing abdominal pain."
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "A 33-year-old patient presents with right-sided flank pain that radiates to the groin, along with nausea and intermittent chills. Physical examination reveals tenderness at the costovertebral angle and hypertonicity at T11-L2. What is the most likely cause of these symptoms?",
+        "options": [
+          "A. Appendicitis",
+          "B. Right kidney infection",
+          "C. Ureteral stone in the upper ureter",
+          "D. Psoas muscle strain",
+          "E. Sacroiliac joint dysfunction"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "A patient complains of left lower back pain that started after heavy lifting and radiates to the anterior thigh. The pain worsens with hip flexion and is accompanied by a positive Thomas test. What is the most likely underlying issue?",
+        "options": [
+          "A. Quadratus lumborum spasm",
+          "B. Nephrolithiasis causing referred pain",
+          "C. Psoas syndrome with potential ureteral irritation",
+          "D. Disc herniation at L4-L5",
+          "E. Costovertebral joint dysfunction"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "A 46-year-old man has persistent suprapubic pain that worsens with urination and radiates to the scrotum. He has experienced mild fever and reports being dehydrated recently. On physical examination, hypertonicity is noted at L1-L2. What is the most likely explanation for his symptoms?",
+        "options": [
+          "A. Urinary tract infection",
+          "B. Lower ureteral stone with referred pain",
+          "C. Psoas muscle strain",
+          "D. Inguinal hernia",
+          "E. Prostatitis"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "A patient reports pain in the left lower quadrant of the abdomen that radiates to the groin and is associated with nausea and vomiting. Examination reveals tenderness at T11-L2 and a positive Lloyd’s sign. What is the most plausible diagnosis?",
+        "options": [
+          "A. Diverticulitis",
+          "B. Renal colic due to a left ureteral stone",
+          "C. Iliopsoas muscle spasm",
+          "D. SI joint dysfunction",
+          "E. Chronic constipation"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "A 25-year-old athlete presents with low back pain that radiates to the right anterior thigh after a soccer game. He also reports pain during hip flexion and tightness in the lower back. Physical exam shows boggy tissue texture changes at T11-L1. What could be the underlying issue?",
+        "options": [
+          "A. Ureteral stone in the middle ureter",
+          "B. Psoas spasm causing referred pain",
+          "C. Quadratus lumborum strain",
+          "D. SI joint inflammation",
+          "E. Renal infection"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "What organ does the kidney connect to by the hepatorenal ligament?",
+        "options": [
+          "A. Spleen",
+          "B. Liver",
+          "C. Stomach",
+          "D. Pancreas",
+          "E. Jejunum"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "Where would pain from the upper ureters typically refer to?",
+        "options": [
+          "A. The groin area",
+          "B. The suprapubic region",
+          "C. The ASIS anteriorly to the border of rectus abdominis",
+          "D. The posterior iliac crest",
+          "E. Below the inguinal ligament"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "Which spinal levels are associated with sympathetic innervation to the kidneys?",
+        "options": [
+          "A. T5-T9",
+          "B. T10-T12",
+          "C. T11-L1",
+          "D. T12-L2",
+          "E. L1-L2"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "What effect does increased sympathetic tone have on the kidneys?",
+        "options": [
+          "A. Increases glomerular filtration rate",
+          "B. Reduces renal activity and decreases urine output",
+          "C. Enhances blood flow to the kidneys",
+          "D. Maintains ureter peristalsis",
+          "E. Decreases blood pressure"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "A patient with nephroptosis might experience relief from symptoms by:",
+        "options": [
+          "A. Performing deep inhalation exercises",
+          "B. Lying down",
+          "C. Increasing intraabdominal pressure",
+          "D. Drinking more fluids",
+          "E. Moving frequently"
+        ],
+        "answer": "B"
+      }
+    ],
+    "12b" : [
+
+    ],
+    "13a" : [],
+    "13b" : [],
+    "13c" : [],
+    "13d" : []
 }
