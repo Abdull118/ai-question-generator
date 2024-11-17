@@ -1,21 +1,4 @@
-import { MongoClient } from 'mongodb';
-
-const uri = process.env.MONGODB_URI;
-
-let cachedClient = null;
-
-async function connectToDatabase() {
-  if (cachedClient) {
-    return cachedClient;
-  }
-
-  const client = new MongoClient(uri, {
-    useNewUrlParser: true,
-  });
-
-  cachedClient = await client.connect();
-  return cachedClient;
-}
+import { connectToDatabase } from '../../../utils/mongodb'
 
 export default async function handler(req, res) {
   if (req.method !== 'POST') {
@@ -23,8 +6,7 @@ export default async function handler(req, res) {
   }
 
   try {
-    const client = await connectToDatabase();
-    const db = client.db('Questions');
+    const { client, db } = await connectToDatabase();
     const collection = db.collection('IP Addresses');
 
     // Store the IP address and timestamp
