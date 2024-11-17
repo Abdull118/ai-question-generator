@@ -122,7 +122,7 @@ const Home = () => {
         
         {showOMMOptions && (
     <div className={`${styles.optionsContainer} ${showOMMOptions ? styles.show : ''}`}>
-      <div onClick={() => handleRoute('/omm/exam2')} className={styles.option}>
+      <div onClick={() => handleRoute('/omm')} className={styles.option}>
         Exam 2
       </div>
     </div>
