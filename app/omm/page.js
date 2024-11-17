@@ -94,7 +94,10 @@ const Page = () => {
     }
   }, [selectedLecture]);
   
-  const storeIpAddress = async () => {
+ 
+  useEffect(() => {
+    // Call the API to store the user's IP address and timestamp
+     const storeIpAddress = async () => {
         try {
           const response = await fetch('/api/storeIp', {
             method: 'POST',
@@ -111,9 +114,6 @@ const Page = () => {
           console.error('Error storing IP address:', error);
         }
       };
-  useEffect(() => {
-    // Call the API to store the user's IP address and timestamp
-    
 
     const getIp = async () => {
       try {
