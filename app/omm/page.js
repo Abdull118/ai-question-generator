@@ -245,7 +245,7 @@ const Page = () => {
       {!selectedLecture && (
         <div className={styles.lectureSelection}>
           <h2 className={styles.header}>Please select:</h2>
-          {['9a', '9b', '10a', '10b', '11', '12', '13a', '13b', '13c', '13d'].map((lecture) => (
+          {['9a', '9b', '10a', '10b', '11', '12a', '12b', '13a', '13b', '13c', '13d'].map((lecture) => (
             <button
               key={lecture}
               className={styles.lectureButton}
