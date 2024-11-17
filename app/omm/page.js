@@ -3,6 +3,7 @@
 import React, { useState, useEffect } from 'react';
 import styles from '../page.module.css'; // Assuming you have a CSS module for styling
 import { useRouter } from 'next/navigation';
+import questionsData from './questions.json'; // Importing the questions JSON
 
 const Page = () => {
   const [questions, setQuestions] = useState([]);
@@ -19,51 +20,79 @@ const Page = () => {
 
   const router = useRouter();
 
+  // useEffect(() => {
+  //   const fetchQuestions = async () => {
+  //     if (!selectedLecture) return;
+  
+  //     try {
+  //       const response = await fetch('/api/getQuestions', {
+  //         method: 'POST',
+  //         headers: {
+  //           'Content-Type': 'application/json',
+  //         },
+  //         body: JSON.stringify({ collectionName: `OMM` }), // Pass the collection name dynamically
+  //       });
+  
+  //       if (!response.ok) {
+  //         throw new Error('Failed to fetch data');
+  //       }
+  
+  //       const data = await response.json();
+  //       console.log(data[0]); // Debug: check how data is being structured
+  
+  //       // Set questions based on the selected lecture
+  //       if (selectedLecture && selectedLecture !== 'all') {
+  //         setQuestions(data[0][selectedLecture] || []); // Set the questions from the selected lecture
+  //       } else if (selectedLecture === 'all') {
+  //         // Flatten all lecture arrays into one array for "all" selection
+  //         const allQuestions = Object.keys(data[0])
+  //           .filter(key => key !== '_id') // Exclude the `_id` field
+  //           .reduce((acc, key) => acc.concat(data[0][key]), []);
+  //         setQuestions(allQuestions);
+  //       }
+  //     } catch (error) {
+  //       console.error('Error fetching questions:', error);
+  //     }
+  //   };
+  
+  //   if (selectedLecture !== null) {
+  //     fetchQuestions();
+  //     console.log(`Selected Lecture: ${selectedLecture}`);
+  //     const storedIncorrect = JSON.parse(localStorage.getItem('incorrectQuestions')) || [];
+  //     const storedCorrect = JSON.parse(localStorage.getItem('correctQuestions')) || [];
+  //     setIncorrectQuestions(storedIncorrect);
+  //     setCorrectQuestions(storedCorrect);
+  //   }
+  // }, [selectedLecture]);
+  
   useEffect(() => {
-    const fetchQuestions = async () => {
-      if (!selectedLecture) return;
-  
-      try {
-        const response = await fetch('/api/getQuestions', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify({ collectionName: `OMM` }), // Pass the collection name dynamically
-        });
-  
-        if (!response.ok) {
-          throw new Error('Failed to fetch data');
-        }
-  
-        const data = await response.json();
-        console.log(data[0]); // Debug: check how data is being structured
-  
-        // Set questions based on the selected lecture
-        if (selectedLecture && selectedLecture !== 'all') {
-          setQuestions(data[0][selectedLecture] || []); // Set the questions from the selected lecture
-        } else if (selectedLecture === 'all') {
-          // Flatten all lecture arrays into one array for "all" selection
-          const allQuestions = Object.keys(data[0])
-            .filter(key => key !== '_id') // Exclude the `_id` field
-            .reduce((acc, key) => acc.concat(data[0][key]), []);
-          setQuestions(allQuestions);
-        }
-      } catch (error) {
-        console.error('Error fetching questions:', error);
-      }
-    };
-  
     if (selectedLecture !== null) {
-      fetchQuestions();
+      // Load incorrect and correct questions from localStorage if available
       console.log(`Selected Lecture: ${selectedLecture}`);
+    console.log('Questions Data:', questionsData[selectedLecture]);
       const storedIncorrect = JSON.parse(localStorage.getItem('incorrectQuestions')) || [];
       const storedCorrect = JSON.parse(localStorage.getItem('correctQuestions')) || [];
       setIncorrectQuestions(storedIncorrect);
       setCorrectQuestions(storedCorrect);
+  
+      // Filter questions based on selected lecture (number as key)
+      const filteredLectureQuestions =
+        selectedLecture === "all"
+          ? Object.values(questionsData).flat() // Select all questions if "all" is selected
+          : questionsData[selectedLecture] || []; // Select questions under the numerical key or return an empty array if undefined
+  
+      // Ensure filteredLectureQuestions is an array before filtering
+      const filteredQuestions = Array.isArray(filteredLectureQuestions)
+        ? filteredLectureQuestions.filter(
+            (question) =>
+              !storedCorrect.some((correct) => correct.question === question.question) &&
+              !storedIncorrect.some((incorrect) => incorrect.question === question.question)
+          )
+        : [];
+  
+      setQuestions(filteredQuestions);
     }
   }, [selectedLecture]);
-  
 
   const handleLectureSelect = (lecture) => {
     setSelectedLecture(lecture);

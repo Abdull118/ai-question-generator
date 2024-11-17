@@ -1,0 +1,382 @@
+{
+    "9a": [
+        {
+            "question": "A 54-year-old male with a history of GERD presents with upper abdominal pain radiating to the back. On exam, there is a warm, boggy spasm at T6 on the left. Which of the following statements is most accurate?",
+            "options": [
+              "A. The T6 segment indicates a viscerosomatic reflex from the stomach.",
+              "B. The finding suggests a facilitated segment due to cardiac issues.",
+              "C. T6 involvement rules out any gastrointestinal causes.",
+              "D. The T6 lesion must be treated with HVLA before any other techniques.",
+              "E. This presentation is most consistent with musculoskeletal strain."
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "Which of the following statements is most accurate regarding the role of the diaphragm in lymphatic drainage?",
+            "options": [
+              "A. It has no effect on the lymphatic system.",
+              "B. Dysfunction of the diaphragm can impede lymphatic flow and contribute to edema.",
+              "C. The diaphragm enhances sympathetic nerve activity.",
+              "D. Lymphatic drainage is independent of diaphragmatic motion.",
+              "E. The diaphragm only affects venous drainage, not lymphatic."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A patient with chronic obstructive pulmonary disease (COPD) is being evaluated. Which osteopathic consideration is most relevant in enhancing their respiratory efficiency?",
+            "options": [
+              "A. Correcting upper thoracic type II dysfunctions.",
+              "B. Treating the diaphragm and ribcage to improve respiratory-circulatory function.",
+              "C. Reducing sympathetic tone at T10-T12.",
+              "D. Focusing solely on lumbar spine adjustments.",
+              "E. Using counterstrain on the lower extremity muscles."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "What is the most appropriate osteopathic treatment strategy for a 70-year-old patient with osteoporosis and a recent vertebral compression fracture at T8?",
+            "options": [
+              "A. Employing HVLA on T8 to restore motion.",
+              "B. Using gentle counterstrain and myofascial release techniques to manage pain and improve mobility.",
+              "C. Prescribing only pharmacological treatment without osteopathic manipulative treatment.",
+              "D. Ignoring the thoracic spine and treating only the lumbar region.",
+              "E. Applying muscle energy to induce high-stress adjustments."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which statement best describes the concept of segmental facilitation?",
+            "options": [
+              "A. It refers to the inability of spinal segments to respond to autonomic input.",
+              "B. It is a chronic condition where viscerosomatic reflexes amplify somatic dysfunction, leading to heightened and persistent spinal sensitivity.",
+              "C. It results in immediate resolution of pain upon the initiation of counterstrain.",
+              "D. Segmental facilitation is unrelated to any changes in autonomic function.",
+              "E. It is a phenomenon exclusively associated with cranial manipulation."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 60-year-old patient presents with left-sided chest pain and palpatory findings of a warm, boggy spasm at T3. Which of the following is the most likely explanation for these findings?",
+            "options": [
+              "A. A musculoskeletal injury involving the thoracic spine.",
+              "B. A viscerosomatic reflex due to cardiac involvement.",
+              "C. A chronic type I dysfunction at T3.",
+              "D. An acute type II dysfunction at T7 on the left.",
+              "E. A herniated thoracic disc at T3."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which of the following best describes the mechanism of a Type II somatic dysfunction?",
+            "options": [
+              "A. It occurs in a neutral spine and is maintained by long restrictor muscles.",
+              "B. It involves rotation and sidebending to the same side, maintained by short restrictor muscles.",
+              "C. It presents as a group curve affecting multiple segments.",
+              "D. It only occurs during flexion of the spine.",
+              "E. It does not involve any rotation or sidebending."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 45-year-old patient with chronic low back pain is diagnosed with a Type I dysfunction in the lumbar region. Which of the following would be the most appropriate initial osteopathic approach?",
+            "options": [
+              "A. Use high-velocity, low-amplitude (HVLA) on the dysfunctional lumbar segments.",
+              "B. Address and treat any associated Type II dysfunctions before correcting the Type I group curve.",
+              "C. Apply counterstrain directly to the iliopsoas muscle.",
+              "D. Ignore the lumbar spine and focus on the thoracic region.",
+              "E. Only use passive range of motion exercises without osteopathic manipulation."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which statement is most accurate regarding the presentation of a thoracic herniated disc?",
+            "options": [
+              "A. It commonly presents with significant lower extremity weakness.",
+              "B. It rarely refers pain to the chest wall or abdominal area.",
+              "C. It is less common than lumbar disc herniation but may cause serious neurological symptoms.",
+              "D. It presents with a sharp pain limited to the lumbar region.",
+              "E. It does not cause any sensory disturbances in dermatomal patterns."
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A patient presents with thoracic kyphosis and reports progressive upper back pain. The curvature is measured at 80 degrees with tenderness over the apex. What is the most likely diagnosis?",
+            "options": [
+              "A. Postural kyphosis.",
+              "B. Scheuermann’s disease.",
+              "C. Type I somatic dysfunction.",
+              "D. Scoliosis with rotational component.",
+              "E. Simple muscle strain."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 75-year-old patient with a history of osteoporosis presents with mid-back pain. Imaging shows a compression fracture at T10. Based on the respiratory-circulatory model, which treatment would be most appropriate?",
+            "options": [
+              "A. High-velocity, low-amplitude (HVLA) at T10 to restore mobility.",
+              "B. Myofascial release of the thoracic cage to improve diaphragm function and circulation.",
+              "C. Rib raising to decrease sympathetic tone at T1-T4.",
+              "D. Muscle energy targeting the lumbar spine to stabilize the thoracic area.",
+              "E. Counterstrain focusing on the lower cervical region."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 62-year-old female presents with upper abdominal discomfort and bloating. She has tenderness and tissue texture changes at T5-T9 on the left side. What is the most likely explanation for this finding?",
+            "options": [
+              "A. Type I somatic dysfunction due to poor posture.",
+              "B. Viscerosomatic reflex associated with the stomach.",
+              "C. Segmental facilitation affecting the liver.",
+              "D. Muscular spasm unrelated to visceral organs.",
+              "E. Lumbar spine dysfunction radiating to the thoracic area."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which of the following best describes the role of the thoracic inlet in lymphatic drainage?",
+            "options": [
+              "A. It acts as the primary pump for lymphatic circulation.",
+              "B. Obstruction here can impede lymphatic drainage throughout the body.",
+              "C. It only affects lymphatic flow to the upper extremities.",
+              "D. Its role is limited to facilitating venous drainage.",
+              "E. It has no significant effect on lymphatic function."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A patient with COPD presents with restricted chest expansion and thoracic kyphosis. Which osteopathic treatment goal aligns with the biomechanical model in this case?",
+            "options": [
+              "A. Improving diaphragm mobility and reducing thoracic stiffness.",
+              "B. Increasing venous return to the thoracic inlet.",
+              "C. Reducing sympathetic tone in the upper thoracic region.",
+              "D. Enhancing lymphatic drainage at the thoracic outlet.",
+              "E. Encouraging lumbar spine flexibility."
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 48-year-old male complains of left-sided abdominal pain after meals. Physical exam reveals vertebral rotation with boggy tissue texture at T10-T11 on the left. This finding most likely indicates:",
+            "options": [
+              "A. A facilitated segment related to the kidneys.",
+              "B. Somatic dysfunction due to poor posture.",
+              "C. A viscerosomatic reflex from the lower gastrointestinal tract.",
+              "D. Type I dysfunction affecting a group of vertebrae.",
+              "E. Segmental facilitation related to a musculoskeletal injury."
+            ],
+            "answer": "C"
+          }
+
+    ],
+    "9b" : [
+
+    ],
+
+    "10a" : [
+        {
+            "question": "A 67-year-old female presents with a chronic cough and rib dysfunction. On examination, TART changes are noted in the upper thoracic region. Which level is most likely associated with the sympathetic innervation of the lungs?",
+            "options": [
+              "A. T8-T12",
+              "B. T1-T6",
+              "C. C1-C2",
+              "D. L1-L3"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A patient with pneumonia has restricted diaphragmatic motion. Which of the following consequences is most likely to occur due to this restriction?",
+            "options": [
+              "A. Increased goblet cell production",
+              "B. Reduced venous and lymphatic return",
+              "C. Hyperactivity in bronchial dilation",
+              "D. Improved lung compliance"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 60-year-old male with respiratory distress is noted to have somatic dysfunction at the OA/C2 level. Which autonomic response is most affected by this dysfunction?",
+            "options": [
+              "A. Increased sympathetic output",
+              "B. Reduced parasympathetic influence",
+              "C. Enhanced diaphragm contraction",
+              "D. Improved thoracic lymphatic drainage"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "During examination, a patient with pneumonia demonstrates muscle spasticity and impaired motion localized at T5-T6. What type of reflex is most likely involved here?",
+            "options": [
+              "A. Somatosomatic reflex",
+              "B. Viscerosomatic reflex",
+              "C. Myotatic reflex",
+              "D. Chapman’s reflex"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which of the following findings is most consistent with a diagnosis involving sympathetic hyperactivity in the lung tissues?",
+            "options": [
+              "A. Reduced muscle tone at the thoracic inlet",
+              "B. Low reflex thresholds at T1-T6",
+              "C. Increased parasympathetic tone",
+              "D. Improved bronchial circulation and expansion"
+            ],
+            "answer": "B"
+          }
+    ],
+    
+    "10b" : [
+        {
+            "question": "A patient with spinal pain. During the assessment, it is noted that the patient has difficulty maintaining spinal neutrality. What is the initial step in Facilitated Positional Release (FPR) for this condition?",
+            "options": [
+              "A. Apply torsion to the affected segment.",
+              "B. Position the spine in flexion.",
+              "C. Reduce the anterior-posterior spinal curves to achieve a neutral position.",
+              "D. Introduce rotation to the side of the dysfunction."
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 45-year-old female is being treated for hypertonicity in her thoracic spine. Which of the following mechanisms best explains the decrease in muscle tension when using FPR?",
+            "options": [
+              "A. Increased alpha motor neuron activity.",
+              "B. Compression leading to a \"quieting\" of gamma motor gain and reduced stretch stimuli.",
+              "C. Activation of muscle spindles resulting in enhanced reflex response.",
+              "D. Stretching the muscle to reset spindle afferent signaling."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which of the following is considered a relative contraindication for the use of Facilitated Positional Release?",
+            "options": [
+              "A. Local fracture of the vertebrae.",
+              "B. Severe joint instability.",
+              "C. Moderate foraminal stenosis with exacerbation risk.",
+              "D. History of hip prosthesis in lumbar discogenic FPR."
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "During FPR treatment of a patient with a posterior cervical issue, which facilitating force is most commonly applied to initiate the release?",
+            "options": [
+              "A. Traction.",
+              "B. Lateral flexion.",
+              "C. Torsion.",
+              "D. Compression."
+            ],
+            "answer": "D"
+          },
+          {
+            "question": "A physician performing FPR on a patient notes that the somatic dysfunction is Type II. Which type of muscle is primarily involved, and how is it targeted in treatment?",
+            "options": [
+              "A. Larger regional muscle groups; treated with flexion.",
+              "B. Intrinsic deep muscles; positioned for their specific somatic dysfunction.",
+              "C. Anterior superficial muscles; placed in extension.",
+              "D. Posterior muscles; treated with contralateral rotation."
+            ],
+            "answer": "B"
+          }
+    ],
+
+    "11" : [
+        {
+            "question": "A 35-year-old patient presents with symptoms of sinusitis, including congestion, headache, and facial pain. Which osteopathic technique would be most effective to enhance venous and lymphatic drainage in this patient?",
+            "options": [
+              "A. Rib raising",
+              "B. Suboccipital release",
+              "C. Galbreath technique",
+              "D. Myofascial release of the thoracic inlet"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "During an evaluation of a 50-year-old patient with asthma, which finding would indicate the involvement of secondary muscles of respiration due to chronic breathing difficulties?",
+            "options": [
+              "A. Barrel chest with prominent pectoral muscles",
+              "B. Limited diaphragmatic excursion on deep inspiration",
+              "C. Rigidity in the lower thoracic spine",
+              "D. Hypertrophy of the scalenes and sternocleidomastoid muscles"
+            ],
+            "answer": "D"
+          },
+          {
+            "question": "A patient with COPD shows increased dead space on imaging. What is the most likely physical finding associated with this condition?",
+            "options": [
+              "A. Elevated first ribs",
+              "B. Decreased thoracic kyphosis",
+              "C. Inhalation dysfunction of lower ribs",
+              "D. Decreased compliance of the diaphragm"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 45-year-old patient with chronic asthma presents with complaints of episodic dyspnea and chest tightness. According to osteopathic principles, which treatment approach would be best to address this patient's autonomic imbalance?",
+            "options": [
+              "A. CV4 hold to enhance CSF flow",
+              "B. Rib raising and upper thoracic inhibition",
+              "C. Effleurage of the intercostal muscles",
+              "D. Sinus drainage technique"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A patient reports persistent difficulty breathing following a recent respiratory infection. Osteopathic examination reveals somatic dysfunctions of the upper thoracic region and cervical spine. Which of the following is most consistent with viscerosomatic reflex findings in this patient?",
+            "options": [
+              "A. T2-T6 dysfunction and cervical muscle spasms",
+              "B. C1-C2 rotation with sacral tenderness",
+              "C. T10-T12 restriction with rib compression",
+              "D. Sacroiliac joint hypermobility"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 60-year-old female presents with chronic bronchitis and has been experiencing difficulty breathing. Which OMT technique would be most beneficial to assist with improving lymphatic drainage and reducing congestion?",
+            "options": [
+              "A. Cervical stretching",
+              "B. Thoracic lymphatic pump",
+              "C. Suboccipital release",
+              "D. Rib raising"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A patient is diagnosed with asthma and reports frequent nocturnal coughing. Which musculoskeletal finding is most commonly associated with this symptom?",
+            "options": [
+              "A. Elevated diaphragm",
+              "B. Decreased rib motion in the lower ribs",
+              "C. Spasms of the sternocleidomastoid and scalenes",
+              "D. Rigidity of the lumbar spine"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which of the following would be an expected finding in a patient with emphysema?",
+            "options": [
+              "A. Sunken chest and exhalation dysfunctions",
+              "B. Barrel chest with inhalation restrictions",
+              "C. Flattened diaphragm and pursed-lip breathing",
+              "D. Decreased lung compliance with increased inspiratory work"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 47-year-old patient presents with symptoms of sinusitis, including facial pain and congestion. Which Chapman’s point would be targeted for treatment to alleviate sinus issues?",
+            "options": [
+              "A. Second intercostal space near the sternum",
+              "B. Superior aspect of the clavicle",
+              "C. Lateral edge of the scapula",
+              "D. Medial to the lesser trochanter"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "In patients with obstructive lung disease, what thoracic dysfunction is most commonly observed due to prolonged use of accessory muscles?",
+            "options": [
+              "A. Locked-down lower ribs",
+              "B. Locked-up upper ribs",
+              "C. Decreased thoracic kyphosis",
+              "D. Flexion lesions in the lumbar spine"
+            ],
+            "answer": "B"
+          }
+    ]
+}
