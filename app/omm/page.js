@@ -93,6 +93,41 @@ const Page = () => {
       setQuestions(filteredQuestions);
     }
   }, [selectedLecture]);
+  
+  const storeIpAddress = async () => {
+        try {
+          const response = await fetch('/api/storeIp', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ ip: await getIp() }),
+          });
+
+          if (!response.ok) {
+            throw new Error('Failed to store IP address');
+          }
+        } catch (error) {
+          console.error('Error storing IP address:', error);
+        }
+      };
+  useEffect(() => {
+    // Call the API to store the user's IP address and timestamp
+    
+
+    const getIp = async () => {
+      try {
+        const res = await fetch('https://api.ipify.org?format=json');
+        const data = await res.json();
+        return data.ip;
+      } catch (error) {
+        console.error('Error fetching IP address:', error);
+        return 'Unknown IP';
+      }
+    };
+
+    storeIpAddress();
+  }, []);
 
   const handleLectureSelect = (lecture) => {
     setSelectedLecture(lecture);
