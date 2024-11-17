@@ -10,13 +10,11 @@ async function connectToDatabase() {
   }
 
   const client = new MongoClient(uri, {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
+    useNewUrlParser: true, // This option is fine to use
   });
 
-  await client.connect();
-  cachedClient = client;
-  return client;
+  cachedClient = await client.connect(); // Return directly from connect method
+  return cachedClient;
 }
 
 export default async function handler(req, res) {
@@ -41,7 +39,7 @@ export default async function handler(req, res) {
     // Return the data as a JSON response
     res.status(200).json(questions);
   } catch (error) {
-    console.log('Failed to fetch data:', error);
+    console.error('Failed to fetch data:', error);
     res.status(500).json({ error: 'Failed to fetch data from the database' });
   }
 }
