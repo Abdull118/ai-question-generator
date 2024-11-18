@@ -168,6 +168,171 @@
 
     ],
     "9b" : [
+      {
+        "question": "Which of the following best describes the parasympathetic innervation of the lower GI tract?",
+        "options": [
+          "A. CN III, VII, IX, X up to the splenic flexure",
+          "B. S2-S4 to the remaining GI and pelvic viscera",
+          "C. T5-T9 via the celiac plexus",
+          "D. T10-T12 for the descending colon",
+          "E. CN IX for the entire GI tract"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following is a sign of acute somatic dysfunction?",
+        "options": [
+          "A. Firm, ropy muscles upon palpation",
+          "B. Rapid fading of redness during an erythema test",
+          "C. Warm, moist skin with a positive erythema test",
+          "D. Cool, dry skin with pigment changes",
+          "E. Fibrotic texture in the affected area"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "What is the primary effect of sympathetic stimulation on the heart?",
+        "options": [
+          "A. Decreased heart rate and contractility",
+          "B. Bradyarrhythmias due to SA node inhibition",
+          "C. Increased heart rate and contractility with vasoconstriction",
+          "D. Stimulation of ciliated cell proliferation in the cardiac tissue",
+          "E. Blocking AV node conduction"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following statements about Chapman's reflex points is true?",
+        "options": [
+          "A. They are found only in the anterior part of the body.",
+          "B. They have no diagnostic or therapeutic value.",
+          "C. They are palpable as gangliform contractions deep in the fascia.",
+          "D. They are treated by applying heat to the area.",
+          "E. They are directly related to somatic motor reflexes."
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following best describes a physiologic effect of the parasympathetic nervous system on the lower respiratory tract?",
+        "options": [
+          "A. Goblet cell proliferation leads to thickening of secretions.",
+          "B. Bronchodilation with decreased secretory activity.",
+          "C. Bronchoconstriction and increased ciliated cell activity.",
+          "D. Increased smooth muscle relaxation.",
+          "E. Vasoconstriction and reduced lymphatic flow."
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following is true regarding the sympathetic effects on the gastrointestinal (GI) system?",
+        "options": [
+          "A. Sympathetic stimulation decreases the risk of ulcers in critically ill patients.",
+          "B. Sympathetic activity promotes vasodilation and enhanced drug delivery.",
+          "C. Increased sympathetic tone can lead to sphincter constriction and gallstones.",
+          "D. Sympathetic stimulation leads to increased mucosal secretion.",
+          "E. Visceral afferents from above the pain line follow the parasympathetics."
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "What is the role of primary afferent nociceptors (PANs) in reflex facilitation?",
+        "options": [
+          "A. They only respond to mechanical stimulation.",
+          "B. They have no effect on the dorsal horn of the spinal cord.",
+          "C. PANs can potentiate the dorsal horn response to nociception.",
+          "D. PANs are only involved in somatic reflexes.",
+          "E. PANs decrease the likelihood of neuron excitation."
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "Which statement best describes the relationship between the parasympathetic nervous system (PNS) and visceral afferents?",
+        "options": [
+          "A. Visceral afferents in the PNS are primarily nociceptive.",
+          "B. Parasympathetic visceral afferents mainly carry physiologic information.",
+          "C. The PNS has preganglionic cell bodies located in T1-L2.",
+          "D. Parasympathetic ganglia are located far from their target organs.",
+          "E. The PNS has no role in modulating cardiac function."
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following best describes the sympathetic innervation of the heart?",
+        "options": [
+          "A. It originates from T5-T9 and is associated with the celiac plexus.",
+          "B. It originates from T1-T5/6 and synapses in the cervical and paravertebral ganglia.",
+          "C. The right sympathetic supply influences the AV node, causing bradyarrhythmias.",
+          "D. The left sympathetic supply primarily affects the SA node.",
+          "E. It is only responsible for decreasing heart rate."
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following best describes the parasympathetic innervation of the lower GI tract?",
+        "options": [
+          "A. CN III, VII, IX, X up to the splenic flexure",
+          "B. S2-S4 to the remaining GI and pelvic viscera",
+          "C. T5-T9 via the celiac plexus",
+          "D. T10-T12 for the descending colon",
+          "E. CN IX for the entire GI tract"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following describes the sympathetic innervation to the kidneys?",
+        "options": [
+          "A. T1-T4 via the cervical ganglia",
+          "B. T5-T9 via the celiac plexus",
+          "C. T10-T12 via the superior mesenteric plexus",
+          "D. T12-L2 via the inferior mesenteric plexus",
+          "E. T2-T7 via the paravertebral ganglia"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following best describes a physiologic effect of parasympathetic stimulation on the heart?",
+        "options": [
+          "A. Increased heart rate and vasoconstriction",
+          "B. Increased contractility and output",
+          "C. Decreased heart rate and bradyarrhythmias due to SA node effects",
+          "D. Vasoconstriction leading to increased blood pressure",
+          "E. Enhanced AV node conduction"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "Which statement about facilitation is true?",
+        "options": [
+          "A. It only involves sensory afferents without affecting motor neurons.",
+          "B. It results in a decreased response to stimuli due to desensitization.",
+          "C. It maintains neurons in a subthreshold state, requiring less stimulation for response.",
+          "D. It has no impact on viscerosomatic reflexes.",
+          "E. It only occurs with chronic somatic dysfunction."
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "What is the effect of sympathetic stimulation on the lower respiratory tract?",
+        "options": [
+          "A. Bronchoconstriction and increased secretion production",
+          "B. Relaxation of smooth muscle and bronchiolar dilation",
+          "C. Increased ciliated cell activity",
+          "D. Decreased goblet cell proliferation",
+          "E. Enhanced lymphatic drainage"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following describes the function of primary afferent nociceptors (PANs)?",
+        "options": [
+          "A. They only respond to physiologic stimuli.",
+          "B. They convey pain signals to the dorsal horn of the spinal cord.",
+          "C. They are primarily involved in modulating blood pressure.",
+          "D. They inhibit interneurons to decrease pain perception.",
+          "E. They play no role in reflex facilitation."
+        ],
+        "answer": "B"
+      }
 
     ],
 
