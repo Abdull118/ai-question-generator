@@ -386,6 +386,106 @@
               "D. Improved bronchial circulation and expansion"
             ],
             "answer": "B"
+          },
+          {
+            "question": "A patient with pneumonia presents with reduced motion at the thoracic inlet. Which of the following is the most significant consequence of this finding?",
+            "options": [
+              "A. Enhanced sympathetic activity",
+              "B. Lymphatic obstruction",
+              "C. Decreased bronchial secretion",
+              "D. Increased thoracic compliance"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which of the following anatomical structures contributes to the primary movement of air into the lungs during respiration?",
+            "options": [
+              "A. Scalenes",
+              "B. Diaphragm",
+              "C. External intercostal muscles",
+              "D. Sternocleidomastoid"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A patient with acute lower lobe pneumonia exhibits TART changes in the thoracic spine. Which of the following levels would most likely correspond with these changes?",
+            "options": [
+              "A. T1-T2",
+              "B. T4-T5",
+              "C. T6-T7",
+              "D. T8-T9"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "During an osteopathic assessment, a physician finds tender points in the fourth intercostal space adjacent to the sternum. This finding is most consistent with which of the following?",
+            "options": [
+              "A. A trigger point in the accessory muscles of respiration",
+              "B. A Chapman’s reflex point for the lower lungs",
+              "C. A site of rib dysfunction related to a somatosomatic reflex",
+              "D. An area of diaphragm restriction"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "In treating an elderly patient with pneumonia using OMT, the physician considers the patient’s frailty. Which of the following best describes the treatment approach in this case?",
+            "options": [
+              "A. Treatment should be frequent and aggressive to achieve quick results.",
+              "B. Treatment should be less aggressive and tailored to the patient’s condition.",
+              "C. Avoid OMT and rely solely on pharmaceutical treatment.",
+              "D. Only treat once at the beginning of the hospital stay."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A patient with pneumonia is being treated with osteopathic manipulative treatment (OMT). Which of the following techniques is used to normalize the sympathetic innervation of the lungs and assist in the mobilization of bronchial secretions?",
+            "options": [
+              "A. Condylar decompression",
+              "B. Thoracic lymphatic pump",
+              "C. Rib raising",
+              "D. Cervical myofascial soft tissue"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which of the following statements best describes the role of the diaphragm in respiratory and circulatory function?",
+            "options": [
+              "A. It primarily assists with the movement of the cervical spine.",
+              "B. Dysfunction of the diaphragm has minimal impact on lymphatic flow.",
+              "C. The diaphragm's motion facilitates venous return and lymphatic drainage.",
+              "D. The diaphragm's function is solely for expanding the rib cage laterally."
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "During an OMT session, a physician treats a patient with pneumonia by applying pressure to relax paraspinal muscles. Which step of the standardized treatment protocol does this represent?",
+            "options": [
+              "A. Step 1",
+              "B. Step 3",
+              "C. Step 5",
+              "D. Step 6"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A physician treating a patient with chronic respiratory issues finds deep muscle hypertonia and reduced range of motion at the T1-T6 levels. Which aspect of the autonomic nervous system is most likely affected by this somatic dysfunction?",
+            "options": [
+              "A. Parasympathetic response from the vagus nerve",
+              "B. Sympathetic response from T1-T6 cord segments",
+              "C. Motor response from C3-5 nerve roots",
+              "D. Parasympathetic influence from the sacral region"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which of the following findings would most likely indicate a viscerosomatic reflex related to a pulmonary condition?",
+            "options": [
+              "A. Tender points in the cervical region only",
+              "B. T2-7 with deep muscle spasticity and impaired motion",
+              "C. Increased lumbar lordosis with no thoracic findings",
+              "D. Palpable hypertonia at the sacral base only"
+            ],
+            "answer": "B"
           }
     ],
     
@@ -437,6 +537,106 @@
               "B. Intrinsic deep muscles; positioned for their specific somatic dysfunction.",
               "C. Anterior superficial muscles; placed in extension.",
               "D. Posterior muscles; treated with contralateral rotation."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 62-year-old male is undergoing FPR treatment for thoracic spine hypertonicity. Which of the following positions should be used to treat the posterior superficial muscles in this patient?",
+            "options": [
+              "A. Flexion and contralateral rotation.",
+              "B. Extension and ipsilateral side bending.",
+              "C. Flexion and ipsilateral side bending.",
+              "D. Extension and contralateral rotation."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 50-year-old patient with chronic neck pain reports immediate relief following FPR. What is the primary physiological mechanism behind this relief?",
+            "options": [
+              "A. Increase in muscle spindle afferent signaling.",
+              "B. Decrease in gamma motor gain leading to reduced muscle tension.",
+              "C. Activation of alpha motor neurons to enhance muscle tone.",
+              "D. Increased sympathetic tone."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which of the following patients would be contraindicated for FPR due to an absolute contraindication?",
+            "options": [
+              "A. A 68-year-old with moderate joint instability.",
+              "B. A 55-year-old with a history of severe joint sprain.",
+              "C. A 45-year-old with mild vertebrobasilar insufficiency.",
+              "D. A 70-year-old with an acute vertebral fracture."
+            ],
+            "answer": "D"
+          },
+          {
+            "question": "When performing FPR on the lumbar spine, which component is typically applied to facilitate the release?",
+            "options": [
+              "A. Lateral flexion.",
+              "B. Extension.",
+              "C. Compression.",
+              "D. Rotation."
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A physician using FPR to treat a patient notes that the patient has Type II somatic dysfunction at T5. What specific positioning should be employed during treatment for this type of dysfunction?",
+            "options": [
+              "A. Flexion with contralateral side bending.",
+              "B. Neutral positioning with no motion engagement.",
+              "C. Extension with ipsilateral side bending and rotation.",
+              "D. Flexion with ipsilateral side bending and rotation."
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 63-year-old woman is being treated with FPR for cervical spine hypertonicity. Which of the following is an essential step in positioning her cervical spine for treatment?",
+            "options": [
+              "A. Placing the cervical spine in flexion.",
+              "B. Placing the cervical spine in extension.",
+              "C. Positioning the cervical spine in neutral to reduce the curve.",
+              "D. Applying rotation and lateral flexion simultaneously."
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "Which of the following statements best describes the outcome typically observed after a successful FPR treatment?",
+            "options": [
+              "A. Increase in joint stiffness.",
+              "B. Immediate increase in muscle tone.",
+              "C. Immediate decrease in pain and improved function.",
+              "D. Delayed onset of pain relief."
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 70-year-old male with moderate foraminal stenosis undergoes FPR treatment. Which modification should be made to avoid exacerbation of symptoms?",
+            "options": [
+              "A. Use traction instead of compression.",
+              "B. Increase the degree of compression.",
+              "C. Apply torsion as the primary facilitating force.",
+              "D. Position the spine in flexion only."
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "During the reassessment phase of FPR, what is the most appropriate next step if an articular restriction still persists?",
+            "options": [
+              "A. Repeat the FPR treatment without changes.",
+              "B. Apply a direct technique such as HVLA.",
+              "C. Use only passive stretching exercises.",
+              "D. Perform cranial osteopathy techniques."
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "Which of the following accurately lists the steps of FPR in the correct sequence?",
+            "options": [
+              "A. Apply activating force, position in neutral, engage the freedoms, reassess.",
+              "B. Position in neutral, apply activating force, engage the freedoms, reassess.",
+              "C. Engage the freedoms, apply activating force, position in neutral, reassess.",
+              "D. Reassess, position in neutral, apply activating force, engage the freedoms."
             ],
             "answer": "B"
           }
@@ -1255,7 +1455,173 @@
         "answer": "C"
       }
     ],
-    "13b" : [],
+    "13b" : [
+      {
+        "question": "Which of the following is most likely linked with hypersympathetic activity post-myocardial infarction?",
+        "options": [
+          "a. Increased collateral circulation",
+          "b. Vasodilation of coronary arteries",
+          "c. Coronary vasospasm",
+          "d. Reduced lymphatic flow",
+          "e. Hyperparasympathetic state"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "Research has shown that treating which somatic dysfunction could aid in reducing arrhythmias related to the vagal nerve after an inferior wall myocardial infarction?",
+        "options": [
+          "a. C1 and C2 dysfunction",
+          "b. T5 and T6 dysfunction",
+          "c. OA and AA dysfunction",
+          "d. Right rib 3 dysfunction",
+          "e. Left pectoralis major dysfunction"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "According to Irvin M. Korr's research, what is a primary effect of a facilitated sympathetic nervous system?",
+        "options": [
+          "a. Decreased heart rate",
+          "b. Enhanced myocardial contractility",
+          "c. Increased likelihood of post-MI complications",
+          "d. Increased blood pressure only",
+          "e. Improved cardiac lymphatic flow"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "Which treatment method is recommended to improve thoracic cage compliance in post-myocardial infarction patients?",
+        "options": [
+          "a. High-velocity low-amplitude (HVLA) techniques",
+          "b. Pectoral traction",
+          "c. Rib 1 dysfunction correction",
+          "d. Thoracic inlet release",
+          "e. Diaphragm release"
+        ],
+        "answer": "D"
+      },
+      {
+        "question": "What is a common somatic dysfunction location associated with myocardial infarction according to osteopathic research?",
+        "options": [
+          "a. T8-T12",
+          "b. C2-C4",
+          "c. T1-T4 on the left",
+          "d. Right pectoralis major",
+          "e. C7-T1"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "Which osteopathic treatment is best known for reducing sympathetic tone and aiding in fluid homeostasis in post-myocardial infarction patients?",
+        "options": [
+          "a. High-velocity, low-amplitude (HVLA)",
+          "b. Pectoral traction",
+          "c. Diaphragm release",
+          "d. CV4 technique",
+          "e. Rib raising"
+        ],
+        "answer": "D"
+      },
+      {
+        "question": "Which of the following is a known complication linked to increased sympathetic activity following a myocardial infarction?",
+        "options": [
+          "a. Bradyarrhythmias",
+          "b. Enhanced lymphatic drainage",
+          "c. Ventricular arrhythmias",
+          "d. Hypotension",
+          "e. AV block"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "What is a key feature of chronic myocardial lymphatic flow impairment?",
+        "options": [
+          "a. Immediate improvement of cardiac function",
+          "b. Formation of collateral circulation",
+          "c. Edema, hemorrhage, and deposition of fibrous tissue",
+          "d. Reduced sympathetic nerve activity",
+          "e. Decreased myocardial metabolism"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "According to research by Myron Beal, DO, which vertebral segment is commonly found with somatic dysfunction in patients with coronary artery disease?",
+        "options": [
+          "a. T5-T6 on the left",
+          "b. T1-T2 on the right",
+          "c. C2 on the left",
+          "d. C4-C5 on the right",
+          "e. T7-T8 on the left"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "What is the relationship between the right vagus nerve and cardiac function?",
+        "options": [
+          "a. It primarily innervates the AV node, predisposing to AV blocks.",
+          "b. It primarily innervates the SA node, predisposing to sinus bradyarrhythmias.",
+          "c. It innervates the myocardium directly, increasing heart rate.",
+          "d. It only affects sympathetic activity in the cardiac plexus.",
+          "e. It primarily affects the left cardiac plexus and ectopic foci."
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following best describes the common somatic dysfunction associated with post-MI bradyarrhythmias?",
+        "options": [
+          "a. C2 and C3 dysfunction",
+          "b. T1-T2 on the right",
+          "c. OA, AA, and C2 dysfunction",
+          "d. T5-T7 dysfunction",
+          "e. T8-T10 dysfunction"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "Which somatic region's dysfunction can contribute to impaired lymphatic drainage affecting the heart?",
+        "options": [
+          "a. Lower cervical spine",
+          "b. Lumbosacral junction",
+          "c. Thoracic inlet",
+          "d. Sternoclavicular joint",
+          "e. C5-C6 junction"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "In Louisa Burns' research, what was observed in the myocardium of rabbits with untreated somatic dysfunction at T3 and T4?",
+        "options": [
+          "a. Normal myocardium with minimal changes",
+          "b. Myocardium showing significant congestion, edema, and fibrosis",
+          "c. Enhanced myocardial function",
+          "d. Improved heart rate stability",
+          "e. Increased heart rate with no structural changes"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "Which osteopathic approach is suggested for reducing fascial strain and enhancing lymphatic flow in post-MI treatment?",
+        "options": [
+          "a. HVLA",
+          "b. Pectoral traction",
+          "c. OA decompression",
+          "d. Sacral release",
+          "e. Cervical myofascial release"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "According to the findings in osteopathic research, which type of nerve hyperactivity is associated with the development of tachyarrhythmias in post-MI patients?",
+        "options": [
+          "a. Vagal nerve hyperactivity",
+          "b. Hyperactivity of the left cardiac plexus",
+          "c. Hyperactivity of the right cardiac plexus",
+          "d. Sympathetic nervous system hyperactivity",
+          "e. Hypoactivity of the sympathetic nervous system"
+        ],
+        "answer": "D"
+      }
+    ],
     "13c" : [],
     "13d" : []
 }

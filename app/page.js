@@ -67,7 +67,7 @@ const Home = () => {
           zIndex: 1000,
           textAlign: 'center'
         }}>
-          New Questions Added to OMM 13A
+          New Questions Added to OMM 10A, 10B, 13A, 13B
         </div>
       )}
       <div className={styles.title}>
