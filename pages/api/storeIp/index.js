@@ -1,4 +1,4 @@
-import { connectToDatabase } from '../../../utils/mongodb'
+import { connectToDatabase } from '../../../utils/mongodb';
 
 export default async function handler(req, res) {
   if (req.method !== 'POST') {
@@ -9,15 +9,16 @@ export default async function handler(req, res) {
     const { client, db } = await connectToDatabase();
     const collection = db.collection('IP Addresses');
 
-    // Store the IP address and timestamp
-    const { ip } = req.body;
+    // Extract IP address and lecture from the request body
+    const { ip, lecture } = req.body;
     const timestamp = new Date();
 
-    await collection.insertOne({ ip, timestamp });
+    // Insert the data into the database
+    await collection.insertOne({ ip, lecture, timestamp });
 
-    res.status(200).json({ message: 'IP address stored successfully' });
+    res.status(200).json({ message: 'IP address and lecture stored successfully' });
   } catch (error) {
-    console.error('Failed to store IP address:', error);
-    res.status(500).json({ error: 'Failed to store IP address' });
+    console.error('Failed to store IP address and lecture:', error);
+    res.status(500).json({ error: 'Failed to store IP address and lecture' });
   }
 }
