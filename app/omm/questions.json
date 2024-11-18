@@ -1088,7 +1088,173 @@
         "answer": "C"
       }
     ],
-    "13a" : [],
+    "13a" : [
+      {
+        "question": "A 50-year-old male with a history of peptic ulcer disease presents with sharp epigastric pain radiating to the chest. An osteopathic exam shows T5-9 warm, boggy paraspinal muscles on the left. Which of the following is the most likely diagnosis?",
+        "options": [
+          "A. Acute myocardial infarction",
+          "B. GERD",
+          "C. Perforated viscus",
+          "D. Pulmonary embolism",
+          "E. Costochondritis"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "A 63-year-old female presents with tearing pain that radiates from her chest to her upper back. Physical examination reveals hypertonic paravertebral muscles at T1-5. Which of the following is the most likely diagnosis?",
+        "options": [
+          "A. Gallbladder colic",
+          "B. Gastroesophageal reflux",
+          "C. Aortic dissection",
+          "D. Anxiety",
+          "E. Intercostal neuralgia"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "A 47-year-old male with a history of anxiety presents with episodes of chest tightness and palpitations. Osteopathic structural examination shows hypertonic upper thoracic paraspinal muscles. What is the most likely underlying cause of his symptoms?",
+        "options": [
+          "A. Aortic aneurysm",
+          "B. Acute pericarditis",
+          "C. Anxiety-induced hypersympathotonia",
+          "D. Pulmonary embolism",
+          "E. Gastroesophageal reflux"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "A 45-year-old female presents with sharp, right upper quadrant pain radiating to her shoulder. Osteopathic examination shows T5-9 warm and boggy paraspinal muscles on the right. What is the most appropriate next step in the management of this patient?",
+        "options": [
+          "A. Proton-pump inhibitor",
+          "B. Cardiac enzymes and EKG",
+          "C. Cholecystectomy consultation",
+          "D. Indirect treatment of the left thoracic inlet",
+          "E. Muscle energy to treat C2"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "A 28-year-old male presents with left-sided chest pain after a viral illness. He points with one finger to an area of tenderness near his sternum. Osteopathic examination shows tender points along the 3rd to 5th costal cartilages on the left. What is the most likely diagnosis?",
+        "options": [
+          "A. Costochondritis",
+          "B. Tietze’s syndrome",
+          "C. Myocardial infarction",
+          "D. Gastroesophageal reflux",
+          "E. Pulmonary embolism"
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "A 49-year-old male with a history of hypertension presents to the clinic with vague chest discomfort described as a deep, dull ache. Physical examination reveals hypertonic paravertebral muscles at T1-4 on the left. Which of the following is the most likely organ involved?",
+        "options": [
+          "A. Gallbladder",
+          "B. Stomach",
+          "C. Heart",
+          "D. Esophagus",
+          "E. Lungs"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "A 60-year-old female reports episodes of burning chest pain that radiates from her epigastrum to the neck, especially after meals. An osteopathic exam shows T5-9 warm and boggy paraspinal muscles on the left. What is the most likely cause of her symptoms?",
+        "options": [
+          "A. Aortic dissection",
+          "B. Gastroesophageal reflux disease (GERD)",
+          "C. Acute myocardial infarction",
+          "D. Pulmonary embolism",
+          "E. Costochondritis"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "A 35-year-old male presents with sharp, right-sided anterior chest pain exacerbated by deep breathing and coughing. Osteopathic structural examination reveals rib 6-8 exhalation dysfunction on the right. Which treatment would be most appropriate for this patient?",
+        "options": [
+          "A. Rib raising at T1-4",
+          "B. Indirect treatment of the left thoracic inlet",
+          "C. Muscle energy for rib 6-8",
+          "D. OA decompression",
+          "E. Rib raising at T5-9 on the left"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "A patient with a history of gallbladder colic presents to the emergency department with right-sided pain radiating to the back. Physical exam shows warm paraspinal muscles at T5-9 on the right. What is the primary segmental level involved?",
+        "options": [
+          "A. T1-4",
+          "B. T5-9",
+          "C. T10-11",
+          "D. T12-L2",
+          "E. C1-C4"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "A 55-year-old female with anxiety presents with chest pain. Physical examination reveals a stooped posture and hypertonic pectoralis minor. Which of the following is the most likely non-cardiac diagnosis?",
+        "options": [
+          "A. Aortic aneurysm",
+          "B. Costochondritis",
+          "C. Tietze’s syndrome",
+          "D. Intercostal neuralgia",
+          "E. Pulmonary embolism"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "A 58-year-old male presents to the clinic with vague, non-radiating chest discomfort that worsens with exertion. Osteopathic exam reveals paraspinal hypertonicity and bogginess at T1-5 on the left. Which of the following is the most appropriate next step?",
+        "options": [
+          "A. Proton-pump inhibitor trial",
+          "B. EKG and cardiac enzymes",
+          "C. Muscle energy to treat T1-5",
+          "D. Referral for gastrointestinal evaluation",
+          "E. Indirect treatment of the thoracic inlet"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "A 40-year-old female reports right-sided chest pain that she can pinpoint with her finger, and it is exacerbated by deep breathing. The osteopathic structural exam finds tender points on the right 3rd to 5th costal cartilages. What is the most likely diagnosis?",
+        "options": [
+          "A. Acute pericarditis",
+          "B. Costochondritis",
+          "C. GERD",
+          "D. Pulmonary embolism",
+          "E. Tietze’s syndrome"
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "A 65-year-old male with a history of chronic lung disease presents with left-sided chest pain and shortness of breath. Physical examination reveals a decreased breath sound on the left side. Which osteopathic treatment would most benefit this patient’s condition?",
+        "options": [
+          "A. Rib raising for ribs 1-4",
+          "B. Muscle energy for T1-4",
+          "C. Diaphragmatic release",
+          "D. OA decompression",
+          "E. Rib raising for ribs 6-10"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "A 51-year-old female presents with intermittent midline chest pain and a vague burning sensation after meals. Osteopathic findings include T5-9 paraspinal muscle spasm on the left. What is the most likely cause of her symptoms?",
+        "options": [
+          "A. Aortic dissection",
+          "B. Acute myocardial infarction",
+          "C. GERD",
+          "D. Anxiety",
+          "E. Gallbladder colic"
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "A 30-year-old male who recently recovered from a viral infection complains of sharp left-sided chest pain that worsens with coughing. He points to the pain near his sternum, and the osteopathic exam reveals tender points at ribs 2-4 on the left. Which of the following somatic dysfunctions is most consistent with this presentation?",
+        "options": [
+          "A. Rib 1 inhalation dysfunction on the right",
+          "B. Rib 6-8 exhalation dysfunction on the left",
+          "C. Rib 2-4 exhalation dysfunction on the left",
+          "D. Rib 4-6 inhalation dysfunction on the right",
+          "E. Flattened thoracic diaphragm"
+        ],
+        "answer": "C"
+      }
+    ],
     "13b" : [],
     "13c" : [],
     "13d" : []

@@ -4,26 +4,23 @@ import React, { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import styles from './page.module.css'; // Assuming you create this CSS module
 
-
-
 const Home = () => {
   const [showMod4Options, setShowMod4Options] = useState(false);
   const [showMod5Options, setShowMod5Options] = useState(false);
   const [showOMMOptions, setShowOMMOptions] = useState(false);
   const [showPMPHOptions, setShowPMPHOptions] = useState(false);
+  const [showPopup, setShowPopup] = useState(true); // State to show/hide the popup
 
   const [activeButton, setActiveButton] = useState(null); // Track active button
   const router = useRouter();
 
   const handleRoute = (route) => {
- 
     router.push(route);
   };
 
   const handleButtonClick = (buttonName) => {
     setActiveButton(buttonName);
   };
-
 
   const handleSelectMod4 = () => {
     setShowMod4Options(!showMod4Options);
@@ -50,22 +47,39 @@ const Home = () => {
     setShowOMMOptions(false);
   };
 
+  useEffect(() => {
+    // Hide the popup after 5 seconds
+    const timer = setTimeout(() => setShowPopup(false), 5000);
+    return () => clearTimeout(timer);
+  }, []);
+
   return (
     <>
-    <div className={styles.title}>
+      {showPopup && (
+        <div style={{
+          position: 'absolute',
+          top: '30%', 
+          width: '90vw',
+          backgroundColor: 'lightgreen',
+          padding: '10px',
+          borderRadius: '5px',
+          boxShadow: '0 2px 5px rgba(0, 0, 0, 0.2)',
+          zIndex: 1000,
+          textAlign: 'center'
+        }}>
+          New Questions Added to OMM 13A
+        </div>
+      )}
+      <div className={styles.title}>
         Exam Questions App
       </div>
       <div className={styles.container}>
-        
-
-  <div
+        <div
           onClick={() => {handleButtonClick('Mod4'), handleSelectMod4()}}
           className={`${styles.modButton} ${activeButton === 'Mod4' ? styles.activeButton : ''}`}
         >
           Mod 4
         </div>
-
-        
 
         <div
           onClick={() => {handleButtonClick('Mod5'), handleSelectMod5()}}
@@ -73,8 +87,8 @@ const Home = () => {
         >
           Mod 5
         </div>
-  {showMod4Options && (
-    <div className={`${styles.optionsContainer} ${showMod4Options ? styles.show : ''}`}>
+        {showMod4Options && (
+          <div className={`${styles.optionsContainer} ${showMod4Options ? styles.show : ''}`}>
             <div onClick={() => handleRoute('/mod4/systemic-path')} className={styles.option}>
               Systemic Path
             </div>
@@ -90,7 +104,7 @@ const Home = () => {
           </div>
         )}
         {showMod5Options && (
-    <div className={`${styles.optionsContainer} ${showMod5Options ? styles.show : ''}`}>
+          <div className={`${styles.optionsContainer} ${showMod5Options ? styles.show : ''}`}>
             <div onClick={() => handleRoute('/mod5/systemic-path')} className={styles.option}>
               Systemic Path
             </div>
@@ -105,8 +119,7 @@ const Home = () => {
             </div>
           </div>
         )}
-
-  <div
+        <div
           onClick={() => {handleButtonClick('OMM'), handleSelectOMM()}}
           className={`${styles.modButton} ${activeButton === 'OMM' ? styles.activeButton : ''}`}
         >
@@ -119,17 +132,16 @@ const Home = () => {
         >
           PMPH
         </div>
-        
-        {showOMMOptions && (
-    <div className={`${styles.optionsContainer} ${showOMMOptions ? styles.show : ''}`}>
-      <div onClick={() => handleRoute('/omm')} className={styles.option}>
-        Exam 2
-      </div>
-    </div>
-  )}
 
+        {showOMMOptions && (
+          <div className={`${styles.optionsContainer} ${showOMMOptions ? styles.show : ''}`}>
+            <div onClick={() => handleRoute('/omm')} className={styles.option}>
+              Exam 2
+            </div>
+          </div>
+        )}
         {showPMPHOptions && (
-    <div className={`${styles.optionsContainer} ${showPMPHOptions ? styles.show : ''}`}>
+          <div className={`${styles.optionsContainer} ${showPMPHOptions ? styles.show : ''}`}>
             <div onClick={() => handleRoute('/pmph')} className={styles.option}>
               Final Exam
             </div>
