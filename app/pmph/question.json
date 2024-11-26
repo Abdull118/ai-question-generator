@@ -414,5 +414,1244 @@
             ],
             "answer": "c"
         }
+    ],
+    "2" :[
+        
+              {
+                "question": "The Centers for Disease Control and Prevention (CDC) is responsible for:",
+                "options": [
+                  "a. The surveillance of diseases that have only state-level implications",
+                  "b. Investigating all disease outbreaks across the U.S. without state approval",
+                  "c. Surveillance of most types of acute diseases, especially those with interstate implications",
+                  "d. Managing all public health efforts without state intervention"
+                ],
+                "answer": "C"
+              },
+              {
+                "question": "Which of the following best describes a propagated spread outbreak?",
+                "options": [
+                  "a. Many people are exposed to the same source over a short period of time",
+                  "b. An index case infects others, leading to secondary infections that cause the outbreak to grow in waves",
+                  "c. A single source of contamination persists over time, leading to prolonged exposure",
+                  "d. An outbreak is caused by a contaminated food or water source"
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "An attack rate is calculated as:",
+                "options": [
+                  "a. The number of new cases of a disease divided by the total population",
+                  "b. The number of new cases of a disease divided by the number of people exposed during an outbreak",
+                  "c. The proportion of deaths compared to the total number of cases",
+                  "d. The number of people exposed to a disease multiplied by 100"
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Which of the following is true about passive surveillance?",
+                "options": [
+                  "a. Health departments actively contact healthcare providers to gather data on diseases",
+                  "b. It is a simple system that requires fewer resources but may result in underreporting",
+                  "c. It provides more complete and accurate data than active surveillance",
+                  "d. It is mainly used when identifying all cases of a disease is critical for public health"
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Medicare Part A covers which of the following services?",
+                "options": [
+                  "a. Prescription drugs",
+                  "b. Outpatient hospital services",
+                  "c. Skilled nursing facility and home health care",
+                  "d. Doctor visits and laboratory tests"
+                ],
+                "answer": "C"
+              },
+              {
+                "question": "Which of the following best describes a common source outbreak?",
+                "options": [
+                  "a. It is characterized by an ongoing exposure to a single source over a long period.",
+                  "b. An index case infects multiple individuals, leading to a gradual rise in cases.",
+                  "c. Many individuals are exposed to the same contaminated source over a short period of time.",
+                  "d. The outbreak continues until all susceptible individuals have been infected."
+                ],
+                "answer": "C"
+              },
+              {
+                "question": "What is the primary advantage of passive surveillance systems?",
+                "options": [
+                  "a. They provide more accurate and complete data compared to active systems.",
+                  "b. They are simple and require fewer resources to implement.",
+                  "c. They allow for immediate detection of new cases and outbreaks.",
+                  "d. They ensure all cases of a disease are reported in a timely manner."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Medicaid differs from Medicare in that:",
+                "options": [
+                  "a. Medicaid primarily serves individuals over the age of 65.",
+                  "b. Medicaid is funded entirely by state governments.",
+                  "c. Medicaid is based on income and needs testing for low-income individuals.",
+                  "d. Medicaid provides coverage for prescription drugs through Part D."
+                ],
+                "answer": "C"
+              },
+              {
+                "question": "What is the key objective of an outbreak investigation?",
+                "options": [
+                  "a. To identify the incubation period of the disease.",
+                  "b. To identify the specific etiologic agent causing the disease.",
+                  "c. To calculate the attack rate of the population at risk.",
+                  "d. To determine the cost of medical treatment during the outbreak."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Which of the following is a characteristic of a continuing source outbreak?",
+                "options": [
+                  "a. A sudden increase in cases followed by a rapid decline.",
+                  "b. An ongoing exposure to a single source over a longer period, leading to prolonged infection rates.",
+                  "c. A single index case causes new cases after an incubation period.",
+                  "d. An outbreak that spreads through contaminated water over a short period of time."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Which of the following is true about active surveillance systems?",
+                "options": [
+                  "a. They require fewer resources compared to passive surveillance.",
+                  "b. They are less accurate in identifying cases compared to passive surveillance.",
+                  "c. Health departments actively contact healthcare providers or laboratories to gather data.",
+                  "d. They primarily rely on healthcare providers to voluntarily report cases of diseases."
+                ],
+                "answer": "C"
+              },
+              {
+                "question": "The epidemiologic time curve is used to:",
+                "options": [
+                  "a. Predict the future spread of disease.",
+                  "b. Identify the type of exposure and route of spread during an outbreak.",
+                  "c. Determine the attack rate of a disease.",
+                  "d. Identify the treatment method for an ongoing outbreak."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Which of the following factors is NOT typically considered during an outbreak investigation?",
+                "options": [
+                  "a. Person, place, and time of infection.",
+                  "b. Identification of the etiologic agent.",
+                  "c. Study of individual treatment outcomes.",
+                  "d. Formulation of recommendations to prevent further transmission."
+                ],
+                "answer": "C"
+              },
+              {
+                "question": "In the context of public health surveillance, the primary role of the Centers for Disease Control and Prevention (CDC) is:",
+                "options": [
+                  "a. To investigate all local outbreaks without state approval.",
+                  "b. To monitor and control disease outbreaks with interstate implications.",
+                  "c. To issue penalties to states for failing to report diseases.",
+                  "d. To handle all health insurance claims related to infectious diseases."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Which of the following is characteristic of a person-to-person spread outbreak?",
+                "options": [
+                  "a. It involves many people exposed to the same contaminated food source.",
+                  "b. Cases arise after an incubation period from an initial index case.",
+                  "c. It shows a rapid increase in cases, followed by a rapid decline.",
+                  "d. It occurs when individuals come into contact with a single environmental source over a long period."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Which of the following is a feature of passive surveillance?",
+                "options": [
+                  "a. Health departments actively gather information from providers.",
+                  "b. It usually results in complete and accurate case data.",
+                  "c. It relies on healthcare providers to report cases voluntarily.",
+                  "d. It is more resource-intensive than active surveillance."
+                ],
+                "answer": "C"
+              },
+              {
+                "question": "A continuing source outbreak is characterized by:",
+                "options": [
+                  "a. A single case that infects others through person-to-person contact.",
+                  "b. A sudden increase in cases followed by a rapid decline.",
+                  "c. Exposure to a contaminated source over an extended period.",
+                  "d. An initial infection that spreads through multiple waves of infection."
+                ],
+                "answer": "C"
+              },
+              {
+                "question": "The role of the United States Preventive Services Task Force (USPSTF) is to:",
+                "options": [
+                  "a. Investigate public health emergencies and issue rapid response guidelines.",
+                  "b. Make evidence-based recommendations for preventive services like screenings and counseling.",
+                  "c. Monitor disease outbreaks and issue quarantine recommendations.",
+                  "d. Provide financial aid for public health interventions."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Medicare Part B primarily covers:",
+                "options": [
+                  "a. Hospital inpatient services.",
+                  "b. Prescription drugs.",
+                  "c. Outpatient medical services and preventive care.",
+                  "d. Long-term nursing home care."
+                ],
+                "answer": "C"
+              },
+              {
+                "question": "An attack rate is commonly used to:",
+                "options": [
+                  "a. Predict future disease spread.",
+                  "b. Measure the frequency of disease during an outbreak investigation.",
+                  "c. Identify the incubation period of a disease.",
+                  "d. Determine the financial impact of an outbreak."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Medicare Part D is primarily concerned with:",
+                "options": [
+                  "a. Hospital inpatient services",
+                  "b. Prescription drug coverage",
+                  "c. Preventive care services",
+                  "d. Outpatient services and medical supplies"
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Which of the following is an example of a social insurance entitlement program?",
+                "options": [
+                  "a. Medicaid",
+                  "b. Food stamps",
+                  "c. Medicare",
+                  "d. Unemployment benefits"
+                ],
+                "answer": "C"
+              },
+              {
+                "question": "Which population is eligible for Medicare benefits?",
+                "options": [
+                  "a. Only individuals over the age of 65",
+                  "b. Individuals with permanent kidney failure",
+                  "c. Low-income individuals under the age of 65",
+                  "d. All citizens regardless of age or income"
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "The purpose of an epidemiologic time curve is to:",
+                "options": [
+                  "a. Track financial costs of disease outbreaks",
+                  "b. Visualize the number of incident cases in an outbreak over time",
+                  "c. Determine individual treatment success rates",
+                  "d. Identify the type of medical care required during an outbreak"
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Which of the following is a key difference between Medicare and Medicaid?",
+                "options": [
+                  "a. Medicare is funded entirely by the state governments, while Medicaid is federally funded.",
+                  "b. Medicare is based on age and employment history, while Medicaid is based on income and needs testing.",
+                  "c. Medicaid provides long-term care services, while Medicare only covers short-term hospital care.",
+                  "d. Medicaid only covers individuals over the age of 65, while Medicare covers low-income families."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "What is a key characteristic of social insurance programs like Medicare?",
+                "options": [
+                  "a. They are means-tested and provide benefits based on income levels.",
+                  "b. Eligibility is based on factors such as age or work history.",
+                  "c. They are only available to individuals below the poverty line.",
+                  "d. Benefits are limited to emergency services."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Medicaid primarily serves:",
+                "options": [
+                  "a. Individuals aged 65 and older",
+                  "b. Low-income individuals, including adults, children, pregnant women, and people with disabilities",
+                  "c. Military veterans and their families",
+                  "d. Individuals with private health insurance"
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Which of the following is the primary funding source for Medicare?",
+                "options": [
+                  "a. Payroll taxes, beneficiary premiums, and general revenues",
+                  "b. State-level taxes",
+                  "c. Employer contributions only",
+                  "d. Private health insurance premiums"
+                ],
+                "answer": "A"
+              },
+              {
+                "question": "The United States Preventive Services Task Force (USPSTF) was established to:",
+                "options": [
+                  "a. Investigate and respond to disease outbreaks",
+                  "b. Provide recommendations for preventive health services based on evidence-based research",
+                  "c. Offer health insurance to low-income individuals",
+                  "d. Fund public health initiatives across the U.S."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Which Medicare service is covered under Part A?",
+                "options": [
+                  "a. Prescription drug coverage",
+                  "b. Outpatient doctor visits",
+                  "c. Hospital inpatient services",
+                  "d. Wheelchairs and other medical supplies"
+                ],
+                "answer": "C"
+              },
+              {
+                "question": "Which of the following is a characteristic of an entitlement program?",
+                "options": [
+                  "a. It is based on income and only serves low-income individuals.",
+                  "b. Eligibility is determined by Congress and includes programs like Medicare and Social Security.",
+                  "c. It is exclusively funded by state governments.",
+                  "d. It provides benefits only in times of emergency."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Medicare Part C is:",
+                "options": [
+                  "a. A separate Medicare plan that covers only prescription drugs.",
+                  "b. A combination of hospital and outpatient services managed by private health insurance companies.",
+                  "c. A government program that exclusively funds nursing home care.",
+                  "d. A needs-based program that provides health coverage for low-income individuals."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Which statement best describes the USPSTF’s grading system for preventive services?",
+                "options": [
+                  "a. It uses a scale of 1-5 to rate the importance of various public health measures.",
+                  "b. It provides letter grades (A, B, C, D, I) based on the balance of benefits and harms of preventive services.",
+                  "c. It issues grades based on the popularity of each service among healthcare providers.",
+                  "d. It focuses only on services for patients with existing diseases or conditions."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "In outbreak investigations, attack rates are used to:",
+                "options": [
+                  "a. Measure the success of preventive measures.",
+                  "b. Identify the proportion of people who became ill after being exposed to the disease.",
+                  "c. Track the costs associated with treating individuals during an outbreak.",
+                  "d. Determine the genetic makeup of a virus causing the outbreak."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Medicaid is jointly funded by:",
+                "options": [
+                  "a. The federal government and private insurance companies.",
+                  "b. State governments and the CDC.",
+                  "c. The federal government and state governments.",
+                  "d. Only state governments."
+                ],
+                "answer": "C"
+              },
+              {
+                "question": "What is a key difference between Medicare Part A and Medicare Part B?",
+                "options": [
+                  "a. Part A covers outpatient services, while Part B covers hospital stays.",
+                  "b. Part A is primarily funded by private insurance, while Part B is fully government-funded.",
+                  "c. Part A covers hospital inpatient services, while Part B covers outpatient services like doctor visits.",
+                  "d. Part A covers prescription drugs, while Part B covers medical supplies."
+                ],
+                "answer": "C"
+              },
+              {
+                "question": "Which of the following is true about the Centers for Disease Control and Prevention (CDC) and its role in disease outbreaks?",
+                "options": [
+                  "a. The CDC investigates all local outbreaks regardless of state involvement.",
+                  "b. The CDC typically waits for a state request to assist in outbreaks with intrastate implications.",
+                  "c. The CDC directly handles health insurance claims for disease outbreaks.",
+                  "d. The CDC's jurisdiction is limited to non-infectious disease outbreaks."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Which population is eligible for Medicaid coverage?",
+                "options": [
+                  "a. Only individuals aged 65 or older.",
+                  "b. Only individuals who are employed full-time.",
+                  "c. Low-income individuals, including children, pregnant women, and people with disabilities.",
+                  "d. Individuals with private insurance coverage."
+                ],
+                "answer": "C"
+              },
+              {
+                "question": "Which of the following is a key goal of epidemiologic surveillance?",
+                "options": [
+                  "a. To reduce public health spending on preventive services.",
+                  "b. To track disease occurrence and support public health action to reduce morbidity and mortality.",
+                  "c. To determine individual treatment options for infected patients.",
+                  "d. To monitor healthcare provider performance in disease management."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "What is the purpose of the United States Preventive Services Task Force (USPSTF)?",
+                "options": [
+                  "a. To develop treatment protocols for patients with chronic diseases.",
+                  "b. To provide evidence-based recommendations for preventive services like screenings and counseling.",
+                  "c. To fund healthcare programs for low-income individuals.",
+                  "d. To monitor disease outbreaks and issue quarantine guidelines."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Which of the following is a key function of the Centers for Disease Control and Prevention (CDC) during an outbreak?",
+                "options": [
+                  "a. Providing funding for state health departments.",
+                  "b. Monitoring and reporting disease outbreaks with interstate implications.",
+                  "c. Offering private health insurance to affected individuals.",
+                  "d. Providing direct patient care to those affected by the outbreak."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Medicare Part D primarily provides coverage for:",
+                "options": [
+                  "a. Hospital stays.",
+                  "b. Prescription drugs.",
+                  "c. Outpatient services.",
+                  "d. Preventive screenings."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "What is the primary goal of an outbreak investigation?",
+                "options": [
+                  "a. To analyze individual treatment outcomes.",
+                  "b. To identify the etiologic agent and stop further transmission.",
+                  "c. To calculate the financial impact of the disease.",
+                  "d. To monitor long-term patient recovery."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Which of the following is true about the United States Preventive Services Task Force (USPSTF) recommendations?",
+                "options": [
+                  "a. They apply only to individuals who are already showing symptoms of a disease.",
+                  "b. They are designed for individuals who do not have signs or symptoms of the disease being evaluated.",
+                  "c. They focus only on services provided by specialist physicians.",
+                  "d. They are mandatory for all healthcare providers to follow."
+                ],
+                "answer": "B"
+              },
+              {
+                "question": "Medicaid is primarily funded by:",
+                "options": [
+                  "a. Only state governments.",
+                  "b. A combination of federal and state governments.",
+                  "c. Private insurance companies.",
+                  "d. Only federal government taxes."
+                ],
+                "answer": "B"
+              }
+            
+    ],
+    "3": [
+        {
+            "question": "A 45-year-old woman presents for a routine check-up. She is generally healthy, non-smoker, and denies any significant medical history. She has two children, ages 5 and 7. Which of the following USPSTF recommendations should be considered for this patient?",
+            "options": [
+              "A) Screening for breast cancer",
+              "B) Screening for cervical cancer",
+              "C) Screening for colon cancer",
+              "D) Screening for depression",
+              "E) Screening for hepatitis B"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 35-year-old man with a BMI of 30 presents for a general check-up. His family history is positive for diabetes and hypertension. He is concerned about his weight and overall health. Which of the following USPSTF recommendations should be prioritized for this patient?",
+            "options": [
+              "A) Screening for colorectal cancer",
+              "B) Screening for high blood pressure",
+              "C) Screening for lipid disorders",
+              "D) Intensive behavioral counseling for obesity",
+              "E) Screening for chlamydia"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 24-year-old sexually active woman comes to the clinic for her annual check-up. She is asymptomatic and has no significant past medical history. She has had two new sexual partners in the past year. What is the most appropriate screening recommendation according to the USPSTF?",
+            "options": [
+              "A) Screening for cervical cancer",
+              "B) Screening for breast cancer",
+              "C) Screening for chlamydia and gonorrhea",
+              "D) Screening for colorectal cancer",
+              "E) Screening for osteoporosis"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 50-year-old male smoker with a 20-pack-year history presents for a routine check-up. He has no complaints but is concerned about lung health. Which of the following services should the USPSTF recommend for this patient?",
+            "options": [
+              "A) Screening for lung cancer",
+              "B) Screening for abdominal aortic aneurysm",
+              "C) Screening for hepatitis C",
+              "D) Screening for diabetes",
+              "E) All of the above"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 28-year-old pregnant woman presents to the clinic for her prenatal visit. She has no significant medical history and is in her first trimester. According to the USPSTF, which of the following screenings should be recommended for her?",
+            "options": [
+              "A) Screening for depression",
+              "B) Screening for Rh incompatibility",
+              "C) Screening for gestational diabetes",
+              "D) Screening for cervical cancer",
+              "E) Screening for hypothyroidism"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 60-year-old postmenopausal woman with no significant medical history comes in for her annual check-up. She is concerned about her bone health as her mother was diagnosed with osteoporosis. Her BMI is 24, and she denies any fractures. Which screening is most appropriate for this patient according to USPSTF guidelines?",
+            "options": [
+              "A) DEXA Scan",
+              "B) Mammography",
+              "C) Colon cancer screening",
+              "D) Diabetes screening",
+              "E) Hepatitis C screening"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 40-year-old man with a BMI of 31 and a family history of coronary artery disease presents for a routine health examination. He leads a sedentary lifestyle and is concerned about his heart health. His blood pressure is 135/85. Which of the following USPSTF recommendations should be prioritized?",
+            "options": [
+              "A) Obesity counseling",
+              "B) Screening for diabetes",
+              "C) Screening for lung cancer",
+              "D) Screening for abdominal aortic aneurysm",
+              "E) PSA testing for prostate cancer"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 32-year-old sexually active woman with no significant medical history presents for her annual exam. She reports being in a monogamous relationship and denies any symptoms. What screening should be recommended based on USPSTF guidelines?",
+            "options": [
+              "A) Cervical cancer screening",
+              "B) BRCA genetic screening",
+              "C) Screening for osteoporosis",
+              "D) Screening for colon cancer",
+              "E) Depression screening"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 45-year-old woman presents for her annual physical exam. She has a history of gestational diabetes but has no current health concerns. Her BMI is 28, and her blood pressure is normal. Which screening should be recommended according to USPSTF guidelines?",
+            "options": [
+              "A) Lung cancer screening",
+              "B) Colorectal cancer screening",
+              "C) Diabetes screening",
+              "D) Mammography",
+              "E) Screening for chlamydia"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 70-year-old male presents for his routine follow-up. He has a 30 pack-year history of smoking but quit 10 years ago. His vitals are stable, and he has no current symptoms. According to USPSTF recommendations, which screening would be most appropriate for him?",
+            "options": [
+              "A) Lung cancer screening",
+              "B) Colon cancer screening",
+              "C) Screening for lipid disorders",
+              "D) Screening for depression",
+              "E) Osteoporosis screening"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 55-year-old male with no significant medical history comes in for a routine check-up. He has smoked 1 pack of cigarettes per day for the past 30 years and has not yet tried to quit. His vitals are normal. According to USPSTF guidelines, what is the most appropriate screening recommendation for this patient?",
+            "options": [
+              "A) Abdominal aortic aneurysm screening",
+              "B) Lung cancer screening",
+              "C) Colorectal cancer screening",
+              "D) Screening for prostate cancer",
+              "E) Depression screening"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 40-year-old woman presents to the clinic for her annual exam. She has no significant past medical history, her BMI is 22, and she has no current complaints. She denies any family history of breast cancer. According to USPSTF guidelines, which of the following screening recommendations should be offered to her?",
+            "options": [
+              "A) Screening for breast cancer",
+              "B) Screening for cervical cancer",
+              "C) Screening for colon cancer",
+              "D) Screening for osteoporosis",
+              "E) Screening for chlamydia and gonorrhea"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 65-year-old male with a history of hypertension presents for his routine check-up. He has no significant complaints and is not on any medications. He has never been screened for colon cancer. Which of the following USPSTF screening recommendations is appropriate for him?",
+            "options": [
+              "A) Abdominal aortic aneurysm screening",
+              "B) Colon cancer screening",
+              "C) Lung cancer screening",
+              "D) Diabetes screening",
+              "E) Hepatitis C screening"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 25-year-old woman who is 12 weeks pregnant comes in for a prenatal visit. She is generally healthy and has no significant medical history. Which of the following screenings should be recommended for her according to USPSTF guidelines?",
+            "options": [
+              "A) Screening for Rh incompatibility",
+              "B) Screening for breast cancer",
+              "C) Screening for colon cancer",
+              "D) Screening for depression",
+              "E) Screening for osteoporosis"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 45-year-old male with a BMI of 32 presents to your office for a routine check-up. He is concerned about his weight and asks if he is at risk for diabetes. Which of the following USPSTF recommendations is most appropriate for this patient?",
+            "options": [
+              "A) Screening for lipid disorders",
+              "B) Screening for diabetes",
+              "C) Screening for prostate cancer",
+              "D) Screening for colorectal cancer",
+              "E) Screening for abdominal aortic aneurysm"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 50-year-old man comes in for his annual check-up. He has a family history of colon cancer, and he has never had a colonoscopy. He is otherwise healthy and has no significant complaints. According to USPSTF guidelines, what is the most appropriate screening recommendation for him?",
+            "options": [
+              "A) Colon cancer screening",
+              "B) Lung cancer screening",
+              "C) Screening for lipid disorders",
+              "D) Depression screening",
+              "E) Screening for hepatitis C"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 32-year-old woman presents for a well-woman exam. She is sexually active, has had three sexual partners in the past year, and is currently asymptomatic. According to USPSTF guidelines, which of the following screening tests is most appropriate for her?",
+            "options": [
+              "A) Breast cancer screening",
+              "B) Screening for cervical cancer",
+              "C) Screening for chlamydia and gonorrhea",
+              "D) Colon cancer screening",
+              "E) Osteoporosis screening"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 70-year-old male presents for a routine visit. He has no significant medical history but has a history of smoking and quit 5 years ago. According to USPSTF guidelines, which screening would be most appropriate for him?",
+            "options": [
+              "A) Osteoporosis screening",
+              "B) Lung cancer screening",
+              "C) Screening for diabetes",
+              "D) Screening for prostate cancer",
+              "E) Screening for depression"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 25-year-old woman with no significant past medical history presents for her routine check-up. She has no symptoms and has never been pregnant. According to USPSTF guidelines, which screening test should be recommended?",
+            "options": [
+              "A) Screening for breast cancer",
+              "B) Screening for cervical cancer",
+              "C) Screening for colon cancer",
+              "D) Screening for depression",
+              "E) Screening for osteoporosis"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 65-year-old female presents to your office for her annual visit. She has a history of hypertension and hyperlipidemia but is otherwise healthy. According to USPSTF guidelines, what screening test is appropriate at this time?",
+            "options": [
+              "A) Screening for breast cancer",
+              "B) Screening for lung cancer",
+              "C) Screening for osteoporosis",
+              "D) Screening for colon cancer",
+              "E) Screening for diabetes"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 28-year-old pregnant woman is in her second trimester and presents for a routine prenatal visit. She has no significant medical history and no current complaints. According to USPSTF guidelines, which screening should be performed during this stage of her pregnancy?",
+            "options": [
+              "A) Screening for gestational diabetes",
+              "B) Screening for breast cancer",
+              "C) Screening for lung cancer",
+              "D) Screening for chlamydia and gonorrhea",
+              "E) Screening for colon cancer"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 40-year-old man with hypertension and a BMI of 28 presents for his routine check-up. He mentions that his father had a heart attack at age 55. What preventive recommendation should be made based on USPSTF guidelines?",
+            "options": [
+              "A) Daily aspirin use",
+              "B) Screening for prostate cancer",
+              "C) Lung cancer screening",
+              "D) Hepatitis B screening",
+              "E) Screening for visual acuity"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 12-year-old girl is brought in by her parents for a routine check-up. She has no medical history or symptoms but her parents are concerned about her mental health after noticing mood changes. According to USPSTF guidelines, which screening is appropriate for this patient?",
+            "options": [
+              "A) Depression screening",
+              "B) Osteoporosis screening",
+              "C) Breast cancer screening",
+              "D) Diabetes screening",
+              "E) Cholesterol screening"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 68-year-old woman comes in for her annual check-up. She has been generally healthy, but she is concerned about her risk for vision problems. She reports no symptoms, but her mother was diagnosed with cataracts in her 70s. According to USPSTF guidelines, which screening should be recommended?",
+            "options": [
+              "A) Screening for depression",
+              "B) Screening for osteoporosis",
+              "C) Screening for visual acuity",
+              "D) Screening for breast cancer",
+              "E) Screening for hypertension"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 35-year-old woman with a family history of breast cancer is worried about her risk. She has no symptoms and is otherwise healthy. Which of the following USPSTF recommendations should be offered to this patient?",
+            "options": [
+              "A) BRCA genetic counseling and testing",
+              "B) Screening for ovarian cancer",
+              "C) Screening for colon cancer",
+              "D) Screening for osteoporosis",
+              "E) Screening for lung cancer"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 50-year-old female comes in for her routine check-up. She has a family history of osteoporosis but no current symptoms or complaints. She is postmenopausal and concerned about her bone health. According to USPSTF guidelines, which of the following is the most appropriate screening recommendation for her?",
+            "options": [
+              "A) Screening for osteoporosis",
+              "B) Screening for lung cancer",
+              "C) Screening for depression",
+              "D) Screening for colon cancer",
+              "E) Screening for diabetes"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 22-year-old male with no significant medical history presents for his annual exam. He is sexually active with multiple partners but has no current symptoms. According to USPSTF guidelines, which of the following screenings should be recommended?",
+            "options": [
+              "A) Screening for colon cancer",
+              "B) Screening for gonorrhea and chlamydia",
+              "C) Screening for breast cancer",
+              "D) Screening for prostate cancer",
+              "E) Screening for lung cancer"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 65-year-old woman presents for her annual physical. She has a 20-pack-year history of smoking but quit smoking 10 years ago. She has no significant medical complaints. What is the most appropriate screening recommendation based on USPSTF guidelines?",
+            "options": [
+              "A) Screening for lung cancer",
+              "B) Screening for hepatitis C",
+              "C) Screening for breast cancer",
+              "D) Screening for visual acuity",
+              "E) Screening for osteoporosis"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 45-year-old woman with a history of high blood pressure and a BMI of 31 comes for her check-up. She is concerned about her heart health and wants to know if there are any preventive measures she should be taking. According to USPSTF guidelines, what is the most appropriate preventive recommendation?",
+            "options": [
+              "A) Screening for lung cancer",
+              "B) Aspirin use for prevention of cardiovascular disease",
+              "C) Screening for breast cancer",
+              "D) Screening for colon cancer",
+              "E) Screening for depression"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 65-year-old male presents for a routine check-up. He has a history of high cholesterol and hypertension but no other significant medical history. According to USPSTF guidelines, what screening test is most appropriate for him at this time?",
+            "options": [
+              "A) Screening for lung cancer",
+              "B) Screening for hepatitis C",
+              "C) Screening for abdominal aortic aneurysm",
+              "D) Screening for prostate cancer",
+              "E) Screening for colon cancer"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 25-year-old woman presents for her routine check-up. She is sexually active with one partner and has no significant past medical history. She is concerned about her reproductive health. According to USPSTF guidelines, what screening is most appropriate for her?",
+            "options": [
+              "A) Breast cancer screening",
+              "B) Cervical cancer screening",
+              "C) Screening for osteoporosis",
+              "D) Colon cancer screening",
+              "E) Screening for lung cancer"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 60-year-old man with a history of hypertension and a BMI of 30 presents for a check-up. His blood pressure is controlled with medication, and he has no current complaints. He quit smoking 20 years ago after a 25-pack-year history. Which of the following screenings should be recommended according to USPSTF guidelines?",
+            "options": [
+              "A) Lung cancer screening",
+              "B) Colon cancer screening",
+              "C) Hepatitis C screening",
+              "D) Screening for depression",
+              "E) Screening for diabetes"
+            ],
+            "answer": "E"
+          },
+          {
+            "question": "A 45-year-old female with a history of type 2 diabetes comes in for a routine visit. She is concerned about her cardiovascular risk. Which of the following preventive recommendations is appropriate according to USPSTF guidelines?",
+            "options": [
+              "A) Aspirin use for the prevention of cardiovascular disease",
+              "B) Breast cancer screening",
+              "C) Screening for lung cancer",
+              "D) Hepatitis C screening",
+              "E) Screening for osteoporosis"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 35-year-old man presents for a routine physical exam. He has no significant medical history but is worried about his risk of cancer, as his father died of prostate cancer at age 60. What is the most appropriate screening recommendation according to USPSTF guidelines?",
+            "options": [
+              "A) PSA screening for prostate cancer",
+              "B) Screening for colorectal cancer",
+              "C) BRCA genetic testing",
+              "D) Screening for lung cancer",
+              "E) No routine cancer screening is recommended at this time"
+            ],
+            "answer": "E"
+          },
+          {
+            "question": "A 50-year-old woman with a family history of breast cancer comes in for a routine check-up. She has no symptoms and is otherwise healthy. What is the most appropriate screening or preventive recommendation for her based on USPSTF guidelines?",
+            "options": [
+              "A) Mammography",
+              "B) Screening for cervical cancer",
+              "C) Screening for osteoporosis",
+              "D) Screening for depression",
+              "E) Colon cancer screening"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 45-year-old man with a history of obesity and hypertension comes for a check-up. He has a family history of diabetes but has never been screened for it. According to USPSTF guidelines, which screening is most appropriate for him?",
+            "options": [
+              "A) Screening for lung cancer",
+              "B) Screening for diabetes",
+              "C) Screening for prostate cancer",
+              "D) Screening for colorectal cancer",
+              "E) Screening for depression"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 50-year-old woman with a family history of breast cancer presents for a routine exam. She is concerned about her risk of breast cancer but has no symptoms. What is the most appropriate screening recommendation based on USPSTF guidelines?",
+            "options": [
+              "A) BRCA genetic testing",
+              "B) Mammography",
+              "C) Screening for cervical cancer",
+              "D) Screening for colon cancer",
+              "E) Screening for depression"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 60-year-old male with a 35-pack-year smoking history comes in for a check-up. He quit smoking 5 years ago and has no significant medical complaints. Which of the following screening recommendations is most appropriate according to USPSTF guidelines?",
+            "options": [
+              "A) Lung cancer screening",
+              "B) Prostate cancer screening",
+              "C) Hepatitis C screening",
+              "D) Colorectal cancer screening",
+              "E) Screening for depression"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 30-year-old sexually active woman presents for her annual exam. She has had multiple partners in the past year and has no symptoms. According to USPSTF guidelines, which screening is most appropriate for her?",
+            "options": [
+              "A) Screening for cervical cancer",
+              "B) Screening for chlamydia and gonorrhea",
+              "C) Screening for breast cancer",
+              "D) Screening for colon cancer",
+              "E) Screening for osteoporosis"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 65-year-old man with a history of smoking is concerned about his risk of abdominal aortic aneurysm (AAA). He has a 40-pack-year smoking history and quit 10 years ago. According to USPSTF guidelines, which screening is most appropriate for him?",
+            "options": [
+              "A) Abdominal ultrasound for AAA",
+              "B) Colonoscopy",
+              "C) PSA screening for prostate cancer",
+              "D) Screening for lung cancer",
+              "E) Screening for hepatitis C"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 55-year-old male with a 30-pack-year history of smoking, who quit 15 years ago, presents for a routine check-up. He has no significant medical history or symptoms. According to USPSTF guidelines, what is the most appropriate screening recommendation?",
+            "options": [
+              "A) Screening for lung cancer",
+              "B) Screening for prostate cancer",
+              "C) Screening for colon cancer",
+              "D) Screening for hepatitis C",
+              "E) Screening for osteoporosis"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 65-year-old woman presents for her annual exam. She has no significant medical history but is concerned about her bone health after a recent fall. According to USPSTF guidelines, what screening should be recommended for her?",
+            "options": [
+              "A) Mammography",
+              "B) Bone density testing (DEXA scan)",
+              "C) Screening for lung cancer",
+              "D) Screening for depression",
+              "E) Screening for colon cancer"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 40-year-old man presents for a routine physical exam. He has a BMI of 32 and is concerned about his risk for diabetes. According to USPSTF guidelines, what is the most appropriate screening for him?",
+            "options": [
+              "A) Screening for lung cancer",
+              "B) Screening for colon cancer",
+              "C) Screening for diabetes",
+              "D) Screening for hepatitis C",
+              "E) Screening for depression"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 25-year-old woman comes in for her routine gynecological exam. She has no symptoms and is sexually active with one partner. She is concerned about cervical cancer. According to USPSTF guidelines, what is the most appropriate screening recommendation for her?",
+            "options": [
+              "A) Pap smear",
+              "B) Mammography",
+              "C) Screening for osteoporosis",
+              "D) Screening for colon cancer",
+              "E) Screening for lung cancer"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 50-year-old man with a history of hypertension and hyperlipidemia presents for his annual check-up. He is concerned about his cardiovascular risk. According to USPSTF guidelines, what preventive measure should be considered for him?",
+            "options": [
+              "A) Aspirin for primary prevention of cardiovascular disease",
+              "B) Screening for lung cancer",
+              "C) Screening for prostate cancer",
+              "D) Screening for colon cancer",
+              "E) Screening for depression"
+            ],
+            "answer": "A"
+          }
+    ],
+    "4" : [
+        {
+            "question": "A 32-year-old woman presents for a routine check-up. She is generally healthy but has a strong family history of colon cancer, with her father being diagnosed at age 45. She asks about her need for colorectal cancer screening. Which of the following is the most appropriate recommendation?",
+            "options": [
+              "A. Begin colonoscopy screening at age 50",
+              "B. Begin colonoscopy screening at age 45",
+              "C. Begin colonoscopy screening at age 40",
+              "D. Begin colonoscopy screening immediately",
+              "E. Fecal immunochemical test (FIT) every year"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 55-year-old male smoker with a 35 pack-year history presents for his annual exam. He has no symptoms but is concerned about lung cancer due to his long smoking history. What is the most appropriate screening recommendation?",
+            "options": [
+              "A. Annual low-dose chest CT",
+              "B. Chest X-ray",
+              "C. Sputum cytology",
+              "D. No screening required",
+              "E. Spirometry to assess lung function"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 44-year-old postmenopausal woman with no significant past medical history presents for a preventive health visit. She is not on hormone replacement therapy. Which of the following is the most appropriate preventive measure?",
+            "options": [
+              "A. DEXA scan at age 50",
+              "B. Mammogram every 2 years",
+              "C. Pap smear every year",
+              "D. Bone densitometry annually",
+              "E. Cholesterol screening every 3 years"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 60-year-old man with a history of hypertension, hyperlipidemia, and type 2 diabetes is concerned about his risk for cardiovascular disease. Which of the following is most likely to improve his overall mortality?",
+            "options": [
+              "A. Starting aspirin therapy",
+              "B. Tobacco cessation",
+              "C. Annual prostate-specific antigen (PSA) screening",
+              "D. Starting statin therapy",
+              "E. Routine vitamin D supplementation"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 19-year-old sexually active woman presents to the clinic requesting the human papillomavirus (HPV) vaccine. She reports having had two sexual partners. Which of the following is the most appropriate recommendation?",
+            "options": [
+              "A. HPV vaccination is unnecessary due to sexual activity",
+              "B. Vaccinate with the 9-valent HPV vaccine",
+              "C. Vaccinate only if she has abnormal Pap smears",
+              "D. HPV vaccination is only recommended for women over 21",
+              "E. Pap smear before vaccination"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 50-year-old man with a 10-year history of type 2 diabetes presents for a routine health check. His hemoglobin A1c has been well controlled with metformin. He has no history of cardiovascular disease but reports a family history of myocardial infarction in his father at age 60. What is the most appropriate preventive measure for him?",
+            "options": [
+              "A. Start statin therapy",
+              "B. Perform coronary artery calcium scoring",
+              "C. Annual electrocardiogram (ECG)",
+              "D. Begin aspirin therapy",
+              "E. Screen for aortic aneurysm"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 30-year-old woman presents for her annual exam. She has a BMI of 36, smokes a pack of cigarettes per day, and has a family history of hypertension. She is currently asymptomatic and has no prior medical conditions. Which of the following preventive measures should be offered at this visit?",
+            "options": [
+              "A. Annual screening for hypertension",
+              "B. Smoking cessation counseling",
+              "C. Start statin therapy",
+              "D. Annual screening for diabetes",
+              "E. Perform spirometry"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 60-year-old postmenopausal woman with a history of osteopenia presents for her annual exam. She has never smoked, does not drink alcohol, and has no family history of osteoporosis or fractures. Which of the following is the most appropriate next step?",
+            "options": [
+              "A. Repeat DEXA scan in 5 years",
+              "B. Start bisphosphonate therapy",
+              "C. Increase calcium and vitamin D intake",
+              "D. Perform FRAX risk assessment",
+              "E. Start hormone replacement therapy"
+            ],
+            "answer": "D"
+          },
+          {
+            "question": "A 25-year-old man presents for a routine checkup. He has no significant medical history and is in generally good health. He is sexually active with multiple partners and does not use condoms consistently. He asks about screening for sexually transmitted infections (STIs). What is the most appropriate recommendation?",
+            "options": [
+              "A. Annual screening for syphilis",
+              "B. HIV screening every 3 years",
+              "C. Hepatitis B screening",
+              "D. Chlamydia and gonorrhea screening",
+              "E. No screening needed unless symptomatic"
+            ],
+            "answer": "D"
+          },
+          {
+            "question": "A 45-year-old woman with no significant past medical history presents for a routine checkup. She does not smoke or drink alcohol and has no family history of cancer. She is up to date with her mammograms, and her last Pap smear was 2 years ago. What is the most appropriate next step in preventive care for her?",
+            "options": [
+              "A. Repeat Pap smear in 1 year",
+              "B. Start screening for colorectal cancer",
+              "C. Begin low-dose aspirin for cardiovascular risk",
+              "D. Annual liver function tests",
+              "E. Repeat mammogram in 1 year"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 35-year-old male smoker with no significant past medical history presents for a routine health check. He asks for advice on how to reduce his long-term mortality risk. Which of the following is most likely to provide the greatest benefit?",
+            "options": [
+              "A. Annual prostate-specific antigen (PSA) screening",
+              "B. Multivitamin supplementation",
+              "C. Lipid screening every 5 years starting now",
+              "D. Tobacco cessation counseling",
+              "E. Routine exercise program"
+            ],
+            "answer": "D"
+          },
+          {
+            "question": "A 30-year-old woman presents to the clinic upset because she missed her last HPV vaccination. She has been sexually active with two lifetime partners. What is the most appropriate recommendation?",
+            "options": [
+              "A. She is too old for the HPV vaccine",
+              "B. Vaccinate her now, regardless of her sexual activity",
+              "C. Vaccinate only if she tests negative for HPV",
+              "D. HPV vaccine is unnecessary after age 21",
+              "E. Pap smear before HPV vaccination"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 60-year-old woman with a history of smoking presents for a routine health check. Her last low-dose CT scan for lung cancer screening was 2 years ago, and she has not had any significant changes in her health. What is the most appropriate next step in her preventive care?",
+            "options": [
+              "A. Repeat low-dose CT scan",
+              "B. Annual chest X-ray",
+              "C. Lung function testing",
+              "D. Colonoscopy",
+              "E. No further screening is needed"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 28-year-old nurse in employee health is concerned after being exposed to a patient diagnosed with hepatitis A. The source patient tested positive for IgM antibodies. What is the appropriate course of action for the nurse?",
+            "options": [
+              "A. No action needed",
+              "B. Administer the hepatitis A vaccine",
+              "C. Administer immune globulin",
+              "D. Perform serologic testing",
+              "E. Administer both the hepatitis A vaccine and immune globulin"
+            ],
+            "answer": "E"
+          },
+          {
+            "question": "A 45-year-old man with no significant past medical history presents for a routine check-up. He has a family history of colorectal cancer. At what age should colorectal cancer screening begin for this patient?",
+            "options": [
+              "A. Age 45",
+              "B. Age 50",
+              "C. Age 55",
+              "D. Age 40",
+              "E. No screening needed until symptoms develop"
+            ],
+            "answer": "D"
+          },
+          {
+            "question": "A 55-year-old man with a history of hypertension and hyperlipidemia presents for his routine check-up. He is currently on statin therapy and his blood pressure is well controlled with medication. He has no history of cardiovascular disease. What is the most appropriate next preventive step?",
+            "options": [
+              "A. Begin low-dose aspirin",
+              "B. Annual echocardiogram",
+              "C. Continue statin therapy without additional measures",
+              "D. Cardiac stress test",
+              "E. Coronary artery calcium (CAC) scoring"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 45-year-old woman presents for her annual physical exam. She is asymptomatic and has no significant medical history, but her family has a history of type 2 diabetes. Which of the following is the most appropriate preventive measure?",
+            "options": [
+              "A. Screen for diabetes",
+              "B. Begin statin therapy",
+              "C. Colonoscopy screening",
+              "D. Annual mammogram",
+              "E. DEXA scan"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 35-year-old man with a family history of melanoma presents for a skin check. He has no personal history of skin cancer but reports frequent sun exposure due to his job. What is the most appropriate preventive measure?",
+            "options": [
+              "A. Perform a skin biopsy of any suspicious lesions",
+              "B. Monthly self-skin exams",
+              "C. Use of sunscreen and regular dermatologic check-ups",
+              "D. Full-body CT scan",
+              "E. Genetic testing for melanoma"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 60-year-old woman with no significant medical history presents for her routine health check. She has never smoked and has a normal BMI. What is the most appropriate cancer screening for her at this time?",
+            "options": [
+              "A. Annual mammogram",
+              "B. Pap smear",
+              "C. Colonoscopy",
+              "D. Low-dose CT for lung cancer",
+              "E. Serum tumor markers"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 20-year-old man presents for a health check before starting college. He has no significant medical history and has never been vaccinated for meningitis. What is the most appropriate recommendation?",
+            "options": [
+              "A. Administer the MMR vaccine",
+              "B. Administer the meningococcal vaccine",
+              "C. Administer the Tdap booster",
+              "D. No vaccines are needed",
+              "E. Hepatitis A vaccine"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 52-year-old woman with a history of hypertension presents for her annual check-up. She has no significant family history of cardiovascular disease, and her blood pressure is well-controlled with medication. What is the most appropriate next preventive measure?",
+            "options": [
+              "A. Annual stress test",
+              "B. Begin statin therapy",
+              "C. Low-dose aspirin for primary prevention",
+              "D. Screen for diabetes",
+              "E. Annual electrocardiogram (ECG)"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 25-year-old woman presents for a routine check-up. She is sexually active and has had three lifetime partners. She is concerned about cervical cancer and asks about preventive measures. What is the most appropriate screening recommendation?",
+            "options": [
+              "A. Pap smear every year",
+              "B. HPV vaccination",
+              "C. Pap smear every 3 years",
+              "D. No need for screening until age 30",
+              "E. Begin HPV testing and Pap smear co-testing"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 70-year-old man with a 30-pack-year smoking history quit smoking 10 years ago. He is concerned about his lung health and asks about cancer screening. What is the most appropriate recommendation?",
+            "options": [
+              "A. Chest X-ray every year",
+              "B. Sputum cytology",
+              "C. Low-dose CT scan annually",
+              "D. No further screening needed",
+              "E. Annual spirometry testing"
+            ],
+            "answer": "C"
+          },
+          {
+            "question": "A 48-year-old man with no significant past medical history presents for his annual physical. His family history includes colorectal cancer in his father, diagnosed at age 55. The patient is asymptomatic and asks about cancer screening. What is the most appropriate recommendation?",
+            "options": [
+              "A. Begin colonoscopy screening immediately",
+              "B. Begin colonoscopy screening at age 55",
+              "C. Perform a fecal immunochemical test (FIT) annually",
+              "D. Begin colonoscopy screening at age 50",
+              "E. No screening needed until symptoms develop"
+            ],
+            "answer": "A"
+          },
+          {
+            "question": "A 35-year-old woman with a BMI of 32 presents for a routine check-up. She has no chronic conditions but reports a sedentary lifestyle and a family history of type 2 diabetes. What is the most appropriate next step in preventive care?",
+            "options": [
+              "A. Screen for hypertension",
+              "B. Screen for type 2 diabetes",
+              "C. Begin statin therapy",
+              "D. Screen for hyperlipidemia",
+              "E. No intervention is needed"
+            ],
+            "answer": "B"
+          },
+          {
+            "question": "A 40-year-old woman with no significant medical history presents for her routine check-up. She has never smoked and has no family history of lung disease. She asks if she should undergo any screening for lung cancer. What is the most appropriate recommendation?",
+            "options": [
+              "A. Annual low-dose CT scan",
+              "B. Chest X-ray every year",
+              "C. No screening is recommended",
+              "D. Pulmonary function tests",
+              "E. Sputum cytology"
+            ],
+            "answer": "C"
+          }
     ]
 }
