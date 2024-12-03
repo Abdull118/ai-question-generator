@@ -54,7 +54,7 @@ const Home = () => {
   }, []);
 
   useEffect(() => {
-    if (selectedLecture !== null) {
+    
       const storeIpAddressAndLecture = async () => {
         try {
           const ip = await getIp();
@@ -75,8 +75,8 @@ const Home = () => {
       };
   
       storeIpAddressAndLecture();
-    }
-  }, [selectedLecture]);
+    
+  }, []);
 
   return (
     <>
