@@ -63,6 +63,31 @@ const Page = () => {
       setCorrectQuestions(storedCorrect);
     }
   }, [selectedLecture]);
+
+  useEffect(() => {
+    if (selectedLecture !== null) {
+      const storeIpAddressAndLecture = async () => {
+        try {
+          const ip = await getIp();
+          const response = await fetch('/api/storeIp', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ ip, lecture: selectedLecture }), // Include lecture number
+          });
+  
+          if (!response.ok) {
+            throw new Error('Failed to store IP address and lecture');
+          }
+        } catch (error) {
+          console.error('Error storing IP address and lecture:', error);
+        }
+      };
+  
+      storeIpAddressAndLecture();
+    }
+  }, [selectedLecture]);
   
 
   const handleLectureSelect = (lecture) => {
