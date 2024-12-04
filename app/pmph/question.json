@@ -74,7 +74,7 @@
                 "c. To investigate the 'why' and 'how' of disease causes, typically through study designs and measures of association",
                 "d. To assess the clinical outcomes of individuals with specific diseases"
             ],
-            "answer": "c"
+            "answer": "C"
              
         },
         {
@@ -85,7 +85,7 @@
                 "c. Droplet transmission through coughing or sneezing",
                 "d. Transmission via bodily fluids"
             ],
-            "answer": "b"
+            "answer": "B"
              
         },
         {
@@ -96,7 +96,7 @@
                 "c. It describes how diseases spread in urban and rural populations",
                 "d. It focuses on the preventive measures taken to stop disease transmission"
             ],
-            "answer": "b"
+            "answer": "B"
              
         },
         {
@@ -107,7 +107,7 @@
                 "c. A rapid spread of influenza across multiple continents",
                 "d. The eradication of smallpox worldwide"
             ],
-            "answer": "b"
+            "answer": "B"
             
         },
         {
@@ -118,7 +118,7 @@
                 "c. Monitoring the health of populations to identify priorities",
                 "d. Ensuring the development of new pharmaceuticals"
             ],
-            "answer": "c"
+            "answer": "C"
              
         },
         {
@@ -129,7 +129,7 @@
                 "c. A disease that affects multiple countries across continents",
                 "d. The constant presence of a disease in a population"
             ],
-            "answer": "b"
+            "answer": "B"
              
         },
         {
@@ -140,7 +140,7 @@
                 "c. Providing advanced clinical care for specific diseases",
                 "d. Conducting research on rare diseases"
             ],
-            "answer": "b"
+            "answer": "B"
              
         },
         {
@@ -151,7 +151,7 @@
                 "c. Investigating causal relationships between risk factors and disease outcomes",
                 "d. Monitoring the distribution of health services in hospitals"
             ],
-            "answer": "c"
+            "answer": "C"
              
         },
         {
@@ -162,7 +162,7 @@
                 "c. Indirect spread of disease via a contaminated object, such as food or water",
                 "d. Disease transmission through animal or insect vectors"
             ],
-            "answer": "c"
+            "answer": "C"
         },
         {
             "question": "Which of the following describes the concept of 'health' according to the World Health Organization (WHO)?",
@@ -172,7 +172,7 @@
                 "c. A state of equilibrium between the individual and their environment",
                 "d. The ability to function normally without symptoms"
             ],
-            "answer": "b"
+            "answer": "B"
         },
         {
             "question": "What is the primary goal of descriptive epidemiology?",
@@ -182,7 +182,7 @@
                 "c. To implement prevention programs",
                 "d. To conduct clinical trials on new treatments"
             ],
-            "answer": "b"
+            "answer": "B"
         },
         {
             "question": "The epidemiologic triad is used to describe the relationship between which of the following elements?",
@@ -192,7 +192,7 @@
                 "c. Environment, population, and treatment",
                 "d. Disease, patient, and doctor"
             ],
-            "answer": "a"
+            "answer": "A"
         },
         {
             "question": "Which of the following public health functions is focused on ensuring that all populations have access to healthcare services?",
@@ -202,7 +202,7 @@
                 "c. Policy development",
                 "d. Research"
             ],
-            "answer": "b"
+            "answer": "B"
         },
         {
             "question": "Which of the following is a characteristic of a pandemic?",
@@ -212,7 +212,7 @@
                 "c. A sudden increase in disease cases across multiple continents",
                 "d. An ongoing disease present in a specific population"
             ],
-            "answer": "c"
+            "answer": "C"
         },
         {
             "question": "Which of the following is a major focus of epidemiology?",
@@ -222,7 +222,7 @@
                 "c. Treating individuals with diseases based on population data",
                 "d. Focusing on the symptoms of diseases in individual patients"
             ],
-            "answer": "b"
+            "answer": "B"
         },
         {
             "question": "What is a key objective of public health assurance?",
@@ -232,7 +232,7 @@
                 "c. Monitoring health data to detect trends",
                 "d. Developing vaccines for new diseases"
             ],
-            "answer": "a"
+            "answer": "A"
         },
         {
             "question": "Which of the following modes of transmission involves the indirect spread of disease through an insect or animal?",
@@ -242,7 +242,7 @@
                 "c. Direct contact transmission",
                 "d. Vector-borne transmission"
             ],
-            "answer": "d"
+            "answer": "D"
         },
         {
             "question": "What is the definition of endemic disease?",
@@ -252,7 +252,7 @@
                 "c. A disease that suddenly spreads to large populations within a community",
                 "d. A disease that has been eradicated worldwide"
             ],
-            "answer": "a"
+            "answer": "A"
         },
         {
             "question": "Which of the following public health activities is an example of disease surveillance?",
@@ -262,7 +262,7 @@
                 "c. Conducting a clinical trial for a new vaccine",
                 "d. Educating the public about healthy lifestyle choices"
             ],
-            "answer": "b"
+            "answer": "B"
         },
         {
             "question": "Which of the following is a key characteristic of analytic epidemiology?",
@@ -272,7 +272,7 @@
                 "c. It primarily involves healthcare delivery to individuals",
                 "d. It assesses the economic impact of diseases on populations"
             ],
-            "answer": "b"
+            "answer": "B"
         },
         {
             "question": "Which of the following is an example of vehicle-borne transmission?",
@@ -282,7 +282,7 @@
                 "c. Transmission through contaminated food or water",
                 "d. Direct person-to-person contact"
             ],
-            "answer": "c"
+            "answer": "C"
         },
         {
             "question": "What is the primary goal of public health surveillance?",
@@ -292,7 +292,7 @@
                 "c. To provide medical care for the elderly",
                 "d. To conduct clinical trials for new medications"
             ],
-            "answer": "a"
+            "answer": "A"
         },
         {
             "question": "Which type of study is typically used in analytic epidemiology to investigate the causes of disease?",
@@ -302,7 +302,7 @@
                 "c. Ecological study",
                 "d. Descriptive study"
             ],
-            "answer": "b"
+            "answer": "B"
         },
         {
             "question": "The term 'pandemic' is used to describe:",
@@ -312,7 +312,7 @@
                 "c. A disease that remains constant in a population over time",
                 "d. A localized disease outbreak within a single community"
             ],
-            "answer": "b"
+            "answer": "B"
         },
         {
             "question": "Which of the following is NOT part of the core functions of public health?",
@@ -322,7 +322,7 @@
                 "c. Policy Development",
                 "d. Disease Treatment"
             ],
-            "answer": "d"
+            "answer": "D"
         },
         {
             "question": "What type of epidemiology focuses on describing the 'who,' 'what,' 'where,' and 'when' of health-related events?",
@@ -332,7 +332,7 @@
                 "c. Experimental epidemiology",
                 "d. Clinical epidemiology"
             ],
-            "answer": "b"
+            "answer": "B"
         },
         {
             "question": "Which of the following is an example of indirect disease transmission?",
@@ -342,7 +342,7 @@
                 "c. Transmission through coughing or sneezing",
                 "d. Transmission via blood transfusion"
             ],
-            "answer": "b"
+            "answer": "B"
         },
         {
             "question": "What does the term 'epidemic' specifically refer to?",
@@ -352,7 +352,7 @@
                 "c. A global outbreak of a disease",
                 "d. A disease that has been eliminated in a specific region"
             ],
-            "answer": "b"
+            "answer": "B"
         },
         {
             "question": "Which of the following statements about public health is true?",
@@ -362,7 +362,7 @@
                 "c. Public health only addresses infectious diseases",
                 "d. Public health's main goal is to conduct clinical research"
             ],
-            "answer": "b"
+            "answer": "B"
         },
         {
             "question": "Which of the following is a key function of public health policy development?",
@@ -372,7 +372,7 @@
                 "c. Formulating policies to address identified health issues",
                 "d. Providing direct medical care to individuals"
             ],
-            "answer": "c"
+            "answer": "C"
         },
         {
             "question": "Which of the following best describes the 'natural history of disease'?",
@@ -382,7 +382,7 @@
                 "c. The changes in disease patterns due to environmental factors",
                 "d. The effect of medical interventions on disease progression"
             ],
-            "answer": "b"
+            "answer": "B"
         },
         {
             "question": "What type of transmission involves pathogens being carried by dust particles or small droplets that remain suspended in the air?",
@@ -392,7 +392,7 @@
                 "c. Vector-borne transmission",
                 "d. Vehicle-borne transmission"
             ],
-            "answer": "b"
+            "answer": "B"
         },
         {
             "question": "Which of the following is a characteristic of endemic diseases?",
@@ -402,7 +402,7 @@
                 "c. They spread rapidly across countries and continents",
                 "d. They are newly emerging diseases in populations"
             ],
-            "answer": "b"
+            "answer": "B"
         },
         {
             "question": "Which of the following is NOT considered a public health approach?",
@@ -412,7 +412,7 @@
                 "c. Treating patients in emergency rooms",
                 "d. Investigating disease outbreaks"
             ],
-            "answer": "c"
+            "answer": "C"
         }
     ],
     "2" :[
