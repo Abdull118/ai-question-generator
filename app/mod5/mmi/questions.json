@@ -1,0 +1,156 @@
+{
+    "1": [
+        {
+            "question": "A 5-year-old child presents to the ER with a 2-week history of fever, chest pain, and fatigue. Recent history includes a mild respiratory infection. Physical exam reveals tachycardia and a new murmur. Echocardiogram shows reduced left ventricular function. What is the most likely viral pathogen causing this condition?",
+            "options": ["A. Coxsackievirus B", "B. Parvovirus B19", "C. Human Herpes Virus 6", "D. Adenovirus", "E. Echovirus"],
+            "answer": "A. Coxsackievirus B"
+        },
+        {
+            "question": "A 28-year-old female is admitted with fever, chills, and severe muscle pain. She reports consuming poorly cooked pork two weeks ago. Lab findings show marked eosinophilia and elevated creatine kinase levels. Muscle biopsy reveals encysted larvae. What is the most likely causative pathogen?",
+            "options": ["A. Trypanosoma cruzi", "B. Toxoplasma gondii", "C. Trichinella spiralis", "D. Borrelia burgdorferi", "E. Rickettsia rickettsii"],
+            "answer": "C. Trichinella spiralis"
+        },
+        {
+            "question": "A 2-year-old child develops a high fever followed by a maculopapular rash that spreads from the trunk to the face, resolving within 48 hours. Subsequent cardiac evaluation reveals signs of myocarditis. Which pathogen is most likely responsible for these findings?",
+            "options": ["A. Adenovirus", "B. HHV-6", "C. Parvovirus B19", "D. Rickettsia rickettsii", "E. Toxoplasma gondii"],
+            "answer": "B. HHV-6"
+        },
+        {
+            "question": "A 36-year-old man presents with a febrile illness, chest pain, and a history of a tick bite 3 weeks ago. ECG shows evidence of AV heart block. He also has erythema migrans at the site of the tick bite. What is the most likely diagnosis?",
+            "options": ["A. Lyme carditis caused by Borrelia burgdorferi", "B. Myocarditis caused by Coxsackievirus B", "C. Myocarditis caused by Corynebacterium diphtheriae", "D. Myocarditis caused by Rickettsia rickettsii", "E. Endocarditis caused by Staphylococcus aureus"],
+            "answer": "A. Lyme carditis caused by Borrelia burgdorferi"
+        },
+        {
+            "question": "A 30-year-old unvaccinated traveler develops severe pharyngitis, neck swelling, and respiratory compromise. Physical examination reveals a thick gray membrane over the pharynx that bleeds when scraped. Which pathogen is most likely responsible for these findings?",
+            "options": ["A. Corynebacterium diphtheriae", "B. Neisseria meningitidis", "C. Borrelia burgdorferi", "D. Trypanosoma cruzi", "E. Rickettsia rickettsii"],
+            "answer": "A. Corynebacterium diphtheriae"
+        },
+        {
+            "question": "A 3-year-old child is brought to the ER with persistent fever, irritability, and a generalized maculopapular rash. The mother reports that the child had a high fever for three days prior to the rash. Cardiac workup reveals myocarditis. Which of the following pathogens is most likely responsible for the condition?",
+            "options": ["A. Parvovirus B19", "B. HHV-6", "C. Adenovirus", "D. Trypanosoma cruzi", "E. Rickettsia rickettsii"],
+            "answer": "B. HHV-6"
+        },
+        {
+            "question": "A 6-year-old boy presents with fever, sore throat, and difficulty swallowing. On examination, he has a thick grayish membrane over the tonsils and posterior pharynx, along with significant cervical lymphadenopathy and neck swelling. Laboratory testing confirms myocarditis. What is the most likely causative organism?",
+            "options": ["A. Borrelia burgdorferi", "B. Corynebacterium diphtheriae", "C. Coxsackievirus B", "D. Rickettsia rickettsii", "E. Toxoplasma gondii"],
+            "answer": "B. Corynebacterium diphtheriae"
+        },
+        {
+            "question": "A 40-year-old man presents with fever, muscle pain, periorbital swelling, and eosinophilia after eating undercooked pork two weeks ago. Muscle biopsy shows encysted larvae. What is the most likely cause of this condition?",
+            "options": ["A. Trypanosoma cruzi", "B. Trichinella spiralis", "C. Toxoplasma gondii", "D. Borrelia burgdorferi", "E. Parvovirus B19"],
+            "answer": "B. Trichinella spiralis"
+        },
+        {
+            "question": "A 10-year-old girl presents with a history of fever, chest pain, and shortness of breath after a recent flu-like illness. Physical examination reveals tachycardia and signs of congestive heart failure. Echocardiogram shows dilated cardiomyopathy, and troponins are elevated. What is the most likely viral cause of her condition?",
+            "options": ["A. Coxsackievirus B", "B. HHV-6", "C. Adenovirus", "D. Echovirus", "E. Parvovirus B19"],
+            "answer": "A. Coxsackievirus B"
+        },
+        {
+            "question": "A 50-year-old male presents with light-headedness, chest pain, and erythema migrans following a recent camping trip in a tick-endemic area. An ECG shows AV block. Which of the following is the most likely diagnosis?",
+            "options": ["A. Lyme carditis", "B. Myocarditis caused by Coxsackievirus B", "C. Myocarditis caused by Corynebacterium diphtheriae", "D. Myocarditis caused by Rickettsia rickettsii", "E. Endocarditis caused by Staphylococcus aureus"],
+            "answer": "A. Lyme carditis"
+        },
+        {
+            "question": "A 4-year-old child presents to the ER with a high fever, a generalized maculopapular rash, and tachycardia. The rash appeared after the fever resolved, and an echocardiogram reveals reduced left ventricular ejection fraction. Histopathology confirms myocarditis with infiltrating lymphocytes. What test would most reliably confirm the suspected viral etiology?",
+            "options": ["A. PCR for HHV-6 DNA", "B. Blood smear for trypomastigotes", "C. Muscle biopsy for encysted larvae", "D. Serology for anti-Coxsackievirus antibodies", "E. Gram stain for bacterial pathogens"],
+            "answer": "A. PCR for HHV-6 DNA"
+        },
+        {
+            "question": "A 32-year-old unvaccinated male presents with a sore throat, mild fever, and a grayish pharyngeal membrane that bleeds when scraped. He is treated with antitoxin, but develops AV block and heart failure two weeks later. What is the mechanism of the pathogen’s cardiac complications?",
+            "options": ["A. Inhibition of EF-2 via ADP ribosylation", "B. Myocardial invasion and toxin production", "C. Production of cytotoxic exotoxin A", "D. Formation of immune complexes", "E. Direct myocardial cell necrosis"],
+            "answer": "A. Inhibition of EF-2 via ADP ribosylation"
+        },
+        {
+            "question": "A patient presents with fever, muscle pain, and eosinophilia after consuming undercooked pork. The patient develops myocarditis and respiratory compromise. Which of the following findings would confirm the diagnosis of the causative agent?",
+            "options": ["A. Amastigotes on cardiac muscle biopsy", "B. Encysted larvae on muscle biopsy", "C. Trypomastigotes on blood smear", "D. Elevated serum IgM for T. gondii", "E. PCR for Borrelia burgdorferi DNA"],
+            "answer": "B. Encysted larvae on muscle biopsy"
+        },
+        {
+            "question": "A 7-year-old girl presents with fever, cough, and a diffuse maculopapular rash. Cardiac examination reveals a new murmur, and echocardiography confirms dilated cardiomyopathy. The Dallas criteria identify mononuclear infiltrates and myocyte necrosis. What is the most likely causative agent based on this histological finding?",
+            "options": ["A. Coxsackievirus B", "B. Parvovirus B19", "C. Corynebacterium diphtheriae", "D. Rickettsia rickettsii", "E. Trypanosoma cruzi"],
+            "answer": "A. Coxsackievirus B"
+        },
+        {
+            "question": "A 36-year-old male with a history of tick exposure presents with light-headedness, chest pain, and an erythematous rash with central clearing. ECG reveals a third-degree AV block. Which treatment would be most appropriate to address the underlying cause?",
+            "options": ["A. Ceftriaxone", "B. Antitoxin and penicillin", "C. Benznidazole", "D. Doxycycline", "E. Ganciclovir"],
+            "answer": "A. Ceftriaxone"
+        }
+    ],
+    "2" : [
+        {
+            "question": "A 45-year-old male presents with persistent fever, weight loss, and a new heart murmur. Blood cultures reveal gram-positive cocci that are catalase negative and bile insoluble. The patient has a history of recent dental surgery. What is the most likely causative organism?",
+            "options": ["A. Staphylococcus aureus", "B. Streptococcus pneumoniae", "C. Viridans group Streptococci", "D. Enterococcus faecalis", "E. Staphylococcus epidermidis"],
+            "answer": "C. Viridans group Streptococci"
+        },
+        {
+            "question": "A 60-year-old male with a prosthetic mitral valve presents with fever and signs of heart failure three months after valve replacement. Blood cultures grow gram-positive cocci that are catalase positive and coagulase negative. What is the most likely causative organism?",
+            "options": ["A. Staphylococcus aureus", "B. Staphylococcus epidermidis", "C. Enterococcus faecalis", "D. Candida albicans", "E. Streptococcus bovis"],
+            "answer": "B. Staphylococcus epidermidis"
+        },
+        {
+            "question": "A 32-year-old female presents with high fever, chills, and chest pain. She is an IV drug user. Echocardiography reveals vegetations on the tricuspid valve. Blood cultures grow gram-positive cocci that ferment mannitol and are coagulase positive. What is the most likely causative organism?",
+            "options": ["A. Staphylococcus aureus", "B. Staphylococcus epidermidis", "C. Streptococcus pyogenes", "D. Candida albicans", "E. Enterococcus faecalis"],
+            "answer": "A. Staphylococcus aureus"
+        },
+        {
+            "question": "A 58-year-old male presents with fever and fatigue. He has a history of colon cancer and recent weight loss. Blood cultures reveal gram-positive cocci in pairs and chains that are bile-esculin positive. What is the most likely causative organism?",
+            "options": ["A. Enterococcus faecalis", "B. Streptococcus pneumoniae", "C. Viridans group Streptococci", "D. Staphylococcus aureus", "E. Candida albicans"],
+            "answer": "A. Enterococcus faecalis"
+        },
+        {
+            "question": "A 40-year-old female with a history of rheumatic heart disease presents with low-grade fever, malaise, and splinter hemorrhages. Blood cultures reveal alpha-hemolytic gram-positive cocci that are optochin-resistant. Which of the following organisms is most likely?",
+            "options": ["A. Streptococcus pneumoniae", "B. Staphylococcus aureus", "C. Viridans group Streptococci", "D. Staphylococcus epidermidis", "E. Enterococcus faecalis"],
+            "answer": "C. Viridans group Streptococci"
+        },
+        {
+            "question": "A 42-year-old male presents to the ER with fever, weight loss, and fatigue. Blood cultures reveal gram-positive cocci that are catalase negative and alpha-hemolytic. History reveals poor dental hygiene and no other significant risk factors. Echocardiography confirms vegetations on the mitral valve. What is the most likely complication that could occur if the vegetations embolize?",
+            "options": ["A. Splenic infarction", "B. Right-sided heart failure", "C. Pulmonary embolism", "D. Liver abscess", "E. Septic arthritis"],
+            "answer": "A. Splenic infarction"
+        },
+        {
+            "question": "A 29-year-old female with a history of IV drug use presents with acute fever, chills, and dyspnea. Echocardiography reveals vegetations on the tricuspid valve. Blood cultures grow gram-positive cocci, catalase positive, and coagulase positive. Which virulence factor of the causative organism is most responsible for adherence to the endocardial surface?",
+            "options": ["A. Protein A", "B. MSCRAMMs", "C. Capsule", "D. Coagulase", "E. Fibronectin-binding protein"],
+            "answer": "B. MSCRAMMs"
+        },
+        {
+            "question": "A 64-year-old male with a prosthetic aortic valve presents with low-grade fever and malaise. Blood cultures reveal coagulase-negative staphylococci, resistant to methicillin. Despite aggressive antibiotic therapy, blood cultures remain positive. What is the most likely explanation for the persistence of the infection?",
+            "options": ["A. Biofilm formation on the prosthetic valve", "B. Incorrect antibiotic dosing", "C. Antibiotic resistance due to efflux pumps", "D. Rapid multiplication of planktonic bacteria", "E. Mutation in bacterial cell wall synthesis"],
+            "answer": "A. Biofilm formation on the prosthetic valve"
+        },
+        {
+            "question": "A 33-year-old male presents with fever, fatigue, and splinter hemorrhages. Echocardiography reveals vegetations on the mitral valve. Blood cultures grow gram-positive cocci that are optochin-resistant. Which finding on history would most strongly suggest the source of the infection?",
+            "options": ["A. Poor dental hygiene", "B. Recent GI surgery", "C. IV drug use", "D. Recent urinary tract infection", "E. Prosthetic valve placement"],
+            "answer": "A. Poor dental hygiene"
+        },
+        {
+            "question": "A 55-year-old male with a history of colon cancer presents with fever, anorexia, and a new systolic murmur. Blood cultures grow gram-positive cocci, catalase negative, and bile-esculin positive. What additional diagnostic test is most important to evaluate for complications of the underlying condition?",
+            "options": ["A. Colonoscopy", "B. Echocardiography", "C. Abdominal CT scan", "D. Chest X-ray", "E. Complete blood count"],
+            "answer": "A. Colonoscopy"
+        },
+        {
+            "question": "A 35-year-old male with a history of poor dental hygiene and recent dental abscess presents with two weeks of fever, malaise, and weight loss. Physical exam reveals a heart murmur, and echocardiography identifies mitral valve vegetations. Which of the following organisms is most likely responsible for this presentation?",
+            "options": ["A. Staphylococcus aureus", "B. Viridans group Streptococci", "C. Staphylococcus epidermidis", "D. Candida albicans", "E. Enterococcus faecalis"],
+            "answer": "B. Viridans group Streptococci"
+        },
+        {
+            "question": "A 28-year-old female presents to the ER with fever, chills, and chest pain. She has a history of IV drug use and no underlying heart defects. Echocardiography reveals vegetations on the tricuspid valve. Blood cultures grow gram-positive cocci, catalase positive, and coagulase positive. What is the most likely pathogen?",
+            "options": ["A. Enterococcus faecalis", "B. Staphylococcus aureus", "C. Staphylococcus epidermidis", "D. Streptococcus mutans", "E. Candida albicans"],
+            "answer": "B. Staphylococcus aureus"
+        },
+        {
+            "question": "A 70-year-old male with a prosthetic aortic valve presents with low-grade fever and malaise for three weeks. Blood cultures grow coagulase-negative staphylococci, resistant to methicillin. Which of the following is the most likely pathogen?",
+            "options": ["A. Staphylococcus aureus", "B. Staphylococcus epidermidis", "C. Enterococcus faecalis", "D. Candida albicans", "E. Streptococcus pneumoniae"],
+            "answer": "B. Staphylococcus epidermidis"
+        },
+        {
+            "question": "A 24-year-old male presents with fever, chills, and chest pain after undergoing a colonoscopy two weeks ago. Blood cultures grow gram-positive cocci, catalase negative, and bile-esculin positive. Which of the following is the most likely causative agent?",
+            "options": ["A. Viridans group Streptococci", "B. Enterococcus faecalis", "C. Staphylococcus aureus", "D. Streptococcus pneumoniae", "E. Candida albicans"],
+            "answer": "B. Enterococcus faecalis"
+        },
+        {
+            "question": "A 50-year-old male presents with fever, weight loss, and splinter hemorrhages under the nails. Echocardiography identifies mitral valve vegetations. Blood cultures grow gram-positive cocci that are alpha-hemolytic and resistant to optochin. What is the most likely etiology?",
+            "options": ["A. Streptococcus pneumoniae", "B. Staphylococcus aureus", "C. Streptococcus bovis", "D. Viridans group Streptococci", "E. Candida albicans"],
+            "answer": "D. Viridans group Streptococci"
+        }
+    ]
+}
