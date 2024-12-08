@@ -11,6 +11,23 @@
             "src": "/favicon192.ico",  
             "sizes": "192x192",
             "type": "image/x-icon"
+          },
+        {
+            "src": "/favicon16x16.ico",  
+            "sizes": "16x16",
+            "type": "image/x-icon"
+          }
+          ,
+        {
+            "src": "/favicon32.ico",  
+            "sizes": "32x32",
+            "type": "image/x-icon"
+          }
+          ,
+        {
+            "src": "/favicon64.ico",  
+            "sizes": "64x64",
+            "type": "image/x-icon"
           }
     ]
   }
