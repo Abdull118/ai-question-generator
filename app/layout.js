@@ -21,12 +21,12 @@ export default function RootLayout({ children }) {
         <link rel="manifest" href="/manifest.json" />
         <meta name="theme-color" content="#ffffff" />
         {/* Favicon and PWA icons */}
-        <link rel="icon" href="/favicon192.ico" type="image/png" sizes="192x192" />
-        <link rel="icon" href="/favicon.ico" type="image/png" sizes="256x256" />
-        <link rel="icon" href="/favicon512.ico" type="image/png" sizes="512x512" />
+        <link rel="icon" href="/favicon192.ico" type="image/x-icon" sizes="192x192" />
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="256x256" />
+        <link rel="icon" href="/favicon512.ico" type="image/x-icon" sizes="512x512" />
         <meta name="apple-mobile-web-app-title" content="Next.js PWA" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-        <link rel="apple-touch-icon" href="/icon-192x192.png" />
+        <link rel="apple-touch-icon" href="/favicon192.ico" />
       </head>
       <body>{children}</body>
     </html>
