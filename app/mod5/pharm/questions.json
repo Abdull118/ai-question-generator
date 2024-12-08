@@ -1,0 +1,335 @@
+{
+    "Page 6-8":[
+        {
+            "question": "A 45-year-old female presents with fatigue and dizziness. Her BP is 180/100 mmHg, and she is 12 weeks pregnant. Lab work is normal. Which drug is best suited to manage her condition?",
+            "options": [
+              "A. Clonidine",
+              "B. Methyldopa",
+              "C. Hydralazine",
+              "D. Atenolol",
+              "E. Propranolol"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 55-year-old male presents with a BP of 200/110 mmHg in a hypertensive emergency. He has a history of angina and chronic kidney disease. Which drug combination is most appropriate for immediate BP control?",
+            "options": [
+              "A. Sodium nitroprusside and propranolol",
+              "B. Nicardipine and metoprolol",
+              "C. Hydralazine and labetalol",
+              "D. Fenoldopam and esmolol",
+              "E. Nitroprusside and prazosin"
+            ],
+            "correct_answer": "E"
+          },
+          {
+            "question": "A 70-year-old male presents to the ER with dizziness and shortness of breath. He has a history of hypertension and has been noncompliant with medications. ECG reveals sinus bradycardia. Which drug is most appropriate to manage his symptoms?",
+            "options": [
+              "A. Timolol",
+              "B. Carvedilol",
+              "C. Pindolol",
+              "D. Labetalol",
+              "E. Clonidine"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 60-year-old male presents with exertional chest pain. He has a history of hypertension and requires a drug that reduces both heart rate and myocardial contractility without causing reflex tachycardia. Which drug should be prescribed?",
+            "options": [
+              "A. Nifedipine",
+              "B. Verapamil",
+              "C. Amlodipine",
+              "D. Carvedilol",
+              "E. Metoprolol"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 35-year-old patient with asthma and type 1 diabetes presents for hypertension management. Which beta-blocker would be the safest option for this patient?",
+            "options": [
+              "A. Propranolol",
+              "B. Labetalol",
+              "C. Esmolol",
+              "D. Metoprolol",
+              "E. Carvedilol"
+            ],
+            "correct_answer": "D"
+          },
+          {
+            "question": "A 68-year-old male presents with a hypertensive emergency and signs of acute heart failure. His BP is 210/120 mmHg. Which drug is most appropriate for immediate treatment?",
+            "options": [
+              "A. Hydralazine",
+              "B. Nitroprusside",
+              "C. Labetalol",
+              "D. Fenoldopam",
+              "E. Nicardipine"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 40-year-old male presents with chronic stable angina. He has a history of hypertension and requires a drug to reduce afterload and prevent reflex tachycardia. Which drug is most appropriate?",
+            "options": [
+              "A. Amlodipine",
+              "B. Verapamil",
+              "C. Hydralazine",
+              "D. Carvedilol",
+              "E. Fenoldopam"
+            ],
+            "correct_answer": "D"
+          },
+          {
+            "question": "A 50-year-old female with a history of migraine headaches presents with hypertension. She needs a drug to manage both conditions. Which of the following is most appropriate?",
+            "options": [
+              "A. Propranolol",
+              "B. Nifedipine",
+              "C. Clonidine",
+              "D. Hydralazine",
+              "E. Nitroprusside"
+            ],
+            "correct_answer": "A"
+          },
+          {
+            "question": "A 30-year-old female with gestational hypertension presents for management at 28 weeks of pregnancy. Her BP is 160/95 mmHg. Which drug is the best choice for her condition?",
+            "options": [
+              "A. Methyldopa",
+              "B. Propranolol",
+              "C. Clonidine",
+              "D. Labetalol",
+              "E. Hydralazine"
+            ],
+            "correct_answer": "D"
+          },
+          {
+            "question": "A 75-year-old male presents with a hypertensive emergency and cyanide toxicity after inappropriate nitroprusside administration. Which drug is most appropriate for managing his blood pressure now?",
+            "options": [
+              "A. Fenoldopam",
+              "B. Hydralazine",
+              "C. Labetalol",
+              "D. Nicardipine",
+              "E. Clonidine"
+            ],
+            "correct_answer": "A"
+          },
+          {
+            "question": "A 52-year-old male with a history of heart failure presents with worsening dyspnea and fatigue. His BP is 150/95 mmHg, and he is found to have left ventricular hypertrophy on ECG. His lab values reveal elevated catecholamines. Which drug is most appropriate to manage his symptoms while protecting the heart?",
+            "options": [
+              "A. Metoprolol",
+              "B. Carvedilol",
+              "C. Clonidine",
+              "D. Pindolol",
+              "E. Fenoldopam"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 35-year-old female presents with severe chest pain, sweating, and a BP of 210/140 mmHg. She is diagnosed with pheochromocytoma. Which drug should be administered first to control her symptoms before surgery?",
+            "options": [
+              "A. Labetalol",
+              "B. Metoprolol",
+              "C. Propranolol",
+              "D. Prazosin",
+              "E. Esmolol"
+            ],
+            "correct_answer": "D"
+          },
+          {
+            "question": "A 65-year-old male with a history of coronary artery disease presents with worsening exertional angina. He has no history of asthma or diabetes. His BP is 145/90 mmHg, and he requires a drug to reduce myocardial oxygen demand and control his anginal symptoms. Which drug is most appropriate?",
+            "options": [
+              "A. Amlodipine",
+              "B. Atenolol",
+              "C. Hydralazine",
+              "D. Clonidine",
+              "E. Carvedilol"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 45-year-old male presents with hypertensive urgency. His BP is 200/120 mmHg, and his symptoms include headache and blurred vision. He has no history of heart failure, kidney disease, or diabetes. Which drug is best for rapidly lowering his blood pressure in a controlled manner?",
+            "options": [
+              "A. Nitroprusside",
+              "B. Nicardipine",
+              "C. Hydralazine",
+              "D. Methyldopa",
+              "E. Fenoldopam"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 58-year-old female presents with hypertension and chronic kidney disease. Her BP is 175/110 mmHg, and she requires a drug to protect her kidneys while effectively managing her blood pressure. Which drug is most suitable?",
+            "options": [
+              "A. Labetalol",
+              "B. Clonidine",
+              "C. Prazosin",
+              "D. Verapamil",
+              "E. Fenoldopam"
+            ],
+            "correct_answer": "E"
+          },
+          {
+            "question": "A 55-year-old male with a history of chronic stable angina presents with worsening chest pain during exertion. His BP is 150/90 mmHg. He has no history of asthma or diabetes. Which drug is most appropriate to control his symptoms by reducing myocardial oxygen demand and heart rate?",
+            "options": [
+              "A. Amlodipine",
+              "B. Atenolol",
+              "C. Clonidine",
+              "D. Hydralazine",
+              "E. Nitroprusside"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 48-year-old female with a history of essential hypertension presents with worsening fatigue and a butterfly-shaped rash on her face. She has been taking a vasodilator for her hypertension. Which drug is most likely responsible for her symptoms?",
+            "options": [
+              "A. Hydralazine",
+              "B. Verapamil",
+              "C. Nitroprusside",
+              "D. Fenoldopam",
+              "E. Methyldopa"
+            ],
+            "correct_answer": "A"
+          },
+          {
+            "question": "A 35-year-old pregnant woman at 24 weeks gestation presents with new-onset hypertension (160/100 mmHg). She has no signs of preeclampsia. Which drug is most appropriate for managing her blood pressure?",
+            "options": [
+              "A. Methyldopa",
+              "B. Clonidine",
+              "C. Atenolol",
+              "D. Nitroprusside",
+              "E. Verapamil"
+            ],
+            "correct_answer": "A"
+          },
+          {
+            "question": "A 70-year-old male presents with hypertensive emergency (BP 220/130 mmHg) and acute kidney injury. His symptoms include nausea, confusion, and blurred vision. Which drug is the best choice to rapidly reduce his blood pressure while preserving renal perfusion?",
+            "options": [
+              "A. Fenoldopam",
+              "B. Nicardipine",
+              "C. Labetalol",
+              "D. Nitroprusside",
+              "E. Hydralazine"
+            ],
+            "correct_answer": "A"
+          },
+          {
+            "question": "A 62-year-old male with a history of coronary artery disease presents with recurrent episodes of severe hypertension and palpitations. He has elevated plasma catecholamines. What is the most appropriate first-line drug to control his symptoms before definitive treatment?",
+            "options": [
+              "A. Prazosin",
+              "B. Labetalol",
+              "C. Metoprolol",
+              "D. Esmolol",
+              "E. Verapamil"
+            ],
+            "correct_answer": "A"
+          },
+          {
+            "question": "A 60-year-old male presents with chronic hypertension and complaints of frequent migraines. His BP is 155/95 mmHg. Which drug would be the best choice to manage both his hypertension and migraines?",
+            "options": [
+              "A. Propranolol",
+              "B. Amlodipine",
+              "C. Clonidine",
+              "D. Hydralazine",
+              "E. Fenoldopam"
+            ],
+            "correct_answer": "A"
+          },
+          {
+            "question": "A 72-year-old male presents to the ER with sudden-onset chest pain and severe hypertension (BP 200/130 mmHg). He is diagnosed with an aortic dissection. Which drug is the most appropriate for immediate blood pressure control?",
+            "options": [
+              "A. Nitroprusside",
+              "B. Nicardipine",
+              "C. Labetalol",
+              "D. Methyldopa",
+              "E. Esmolol"
+            ],
+            "correct_answer": "E"
+          },
+          {
+            "question": "A 45-year-old male with a history of heart failure presents with worsening dyspnea and edema. His BP is 160/100 mmHg. Which beta-blocker is most appropriate to reduce afterload and provide cardioprotective effects?",
+            "options": [
+              "A. Atenolol",
+              "B. Propranolol",
+              "C. Carvedilol",
+              "D. Clonidine",
+              "E. Timolol"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 30-year-old pregnant woman at 32 weeks gestation presents with severe hypertension (BP 180/110 mmHg). She is admitted to the hospital. Which drug is the best option for managing her condition?",
+            "options": [
+              "A. Methyldopa",
+              "B. Hydralazine",
+              "C. Labetalol",
+              "D. Nicardipine",
+              "E. Nitroprusside"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 58-year-old female with diabetes presents with hypertension. She complains of occasional hypoglycemia. Which beta-blocker would be the safest option for managing her blood pressure without masking hypoglycemia symptoms?",
+            "options": [
+              "A. Propranolol",
+              "B. Labetalol",
+              "C. Metoprolol",
+              "D. Esmolol",
+              "E. Carvedilol"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 34-year-old pregnant woman at 30 weeks gestation presents with a blood pressure of 170/110 mmHg. She reports no headache, vision changes, or proteinuria. Which drug is the best choice to control her blood pressure in this scenario?",
+            "options": [
+              "A. Methyldopa",
+              "B. Labetalol",
+              "C. Hydralazine",
+              "D. Nicardipine",
+              "E. Nitroprusside"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 60-year-old male with a history of coronary artery disease and stable angina presents with worsening chest pain during exertion. His BP is 150/95 mmHg, and his heart rate is 85 bpm. Which drug is most appropriate to reduce his heart rate and myocardial oxygen demand?",
+            "options": [
+              "A. Nifedipine",
+              "B. Verapamil",
+              "C. Atenolol",
+              "D. Clonidine",
+              "E. Hydralazine"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 70-year-old male presents to the ER with hypertensive emergency (BP 220/140 mmHg) and acute kidney injury (GFR: 25 mL/min). He complains of headache and blurry vision. Which drug is most appropriate to control his blood pressure while preserving renal perfusion?",
+            "options": [
+              "A. Nitroprusside",
+              "B. Fenoldopam",
+              "C. Nicardipine",
+              "D. Labetalol",
+              "E. Methyldopa"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 48-year-old female with a history of chronic hypertension and recent use of a vasodilator presents with fatigue, joint pain, and a butterfly-shaped rash on her face. Lab results show positive antinuclear antibodies (ANA). Which drug is most likely causing her symptoms?",
+            "options": [
+              "A. Nitroprusside",
+              "B. Hydralazine",
+              "C. Methyldopa",
+              "D. Nicardipine",
+              "E. Labetalol"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 55-year-old male with a history of heart failure presents with fatigue, dyspnea, and lower extremity edema. His BP is 145/90 mmHg, and his heart rate is 78 bpm. Which drug is most appropriate to reduce his afterload and improve cardiac function?",
+            "options": [
+              "A. Carvedilol",
+              "B. Atenolol",
+              "C. Propranolol",
+              "D. Hydralazine",
+              "E. Metoprolol"
+            ],
+            "correct_answer": "A"
+          }
+
+    ]
+}
