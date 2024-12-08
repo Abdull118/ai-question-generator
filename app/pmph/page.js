@@ -74,7 +74,7 @@ const Page = () => {
             headers: {
               'Content-Type': 'application/json',
             },
-            body: JSON.stringify({ ip, lecture: selectedLecture }), // Include lecture number
+            body: JSON.stringify({ ip, lecture: "PMPH + " + selectedLecture }), // Include lecture number
           });
   
           if (!response.ok) {
