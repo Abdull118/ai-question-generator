@@ -51,7 +51,41 @@ const Home = () => {
     localStorage.removeItem('incorrectQuestions'); // Clear the stored incorrect questions
     alert('Incorrect questions have been cleared!');
   };
+  useEffect(() => {
+    if (selectedLecture !== null) {
+      const storeIpAddressAndLecture = async () => {
+        try {
+          const ip = await getIp();
+          const response = await fetch('/api/storeIp', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ ip, lecture: "home page"}), // Include lecture number
+          });
+  
+          if (!response.ok) {
+            throw new Error('Failed to store IP address and lecture');
+          }
+        } catch (error) {
+          console.error('Error storing IP address and lecture:', error);
+        }
+      };
+  
+      storeIpAddressAndLecture();
+    }
+  }, [selectedLecture]);
 
+  const getIp = async () => {
+    try {
+      const res = await fetch('https://api.ipify.org?format=json');
+      const data = await res.json();
+      return data.ip;
+    } catch (error) {
+      console.error('Error fetching IP address:', error);
+      return 'Unknown IP';
+    }
+  };
 
   return (
     <>
