@@ -1,0 +1,615 @@
+{
+    "1" : [
+        {
+            "question": "A 45-year-old man with a history of type 2 diabetes mellitus and smoking presents with triglyceride levels of 1800 mg/dL and an episode of severe abdominal pain. Physical examination reveals xanthomas on the buttocks. Which of the following is the most likely diagnosis?",
+            "options": [
+              "A. Familial Combined Hyperlipidemia",
+              "B. Chylomicronemia Syndrome",
+              "C. Dysbetalipoproteinemia",
+              "D. Familial Hypercholesterolemia",
+              "E. Diabetic Dyslipidemia"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 32-year-old woman with no significant medical history presents with arcus cornealis and tendon xanthomas. Her LDL levels are measured at 260 mg/dL. Genetic testing reveals an autosomal dominant condition. Which of the following is the most likely underlying cause?",
+            "options": [
+              "A. Mutation in ApoE",
+              "B. Deficiency of lipoprotein lipase",
+              "C. Defective LDL receptors",
+              "D. Primary overproduction of triglycerides",
+              "E. Decreased activity of lecithin-cholesterol acyltransferase"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 58-year-old man with poorly controlled diabetes and hypertension presents with triglyceride levels of 2200 mg/dL. Laboratory studies show an elevation of ApoC-II. What is the next best step in management for this patient?",
+            "options": [
+              "A. Start statin therapy",
+              "B. Initiate fibrate treatment",
+              "C. Administer PCSK9 inhibitors",
+              "D. Perform LDL apheresis",
+              "E. Increase dietary cholesterol"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 40-year-old woman with a history of obesity and sedentary lifestyle presents with LDL levels of 120 mg/dL, HDL levels of 35 mg/dL, and triglycerides of 450 mg/dL. Which of the following best characterizes her lipid disorder?",
+            "options": [
+              "A. Diabetic Dyslipidemia",
+              "B. Dysbetalipoproteinemia",
+              "C. Familial Combined Hyperlipidemia",
+              "D. Secondary Hyperlipidemia",
+              "E. Familial Hypercholesterolemia"
+            ],
+            "correct_answer": "A"
+          },
+          {
+            "question": "A 52-year-old man with a history of hypertension and smoking is started on atorvastatin. Which of the following is the most likely adverse effect of this medication?",
+            "options": [
+              "A. Hepatotoxicity",
+              "B. Flushing",
+              "C. Severe hypoglycemia",
+              "D. Hyperuricemia",
+              "E. Tendon rupture"
+            ],
+            "correct_answer": "A"
+          },
+          {
+            "question": "A 35-year-old man with obesity and type 2 diabetes presents with triglyceride levels of 700 mg/dL and LDL levels of 160 mg/dL. He has no family history of cardiovascular disease. Physical examination shows no xanthomas. Which of the following is the most likely diagnosis?",
+            "options": [
+              "A. Dysbetalipoproteinemia",
+              "B. Familial Hypercholesterolemia",
+              "C. Diabetic Dyslipidemia",
+              "D. Familial Combined Hyperlipidemia",
+              "E. Chylomicronemia Syndrome"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 47-year-old woman with hypothyroidism presents for evaluation of her lipid profile. Her LDL cholesterol is 180 mg/dL, triglycerides are 210 mg/dL, and HDL is 35 mg/dL. She is started on levothyroxine therapy. What is the most likely effect of treating her hypothyroidism?",
+            "options": [
+              "A. Triglycerides and LDL levels will normalize",
+              "B. Only LDL levels will normalize",
+              "C. HDL levels will increase significantly",
+              "D. No changes in the lipid profile will occur",
+              "E. HDL and triglycerides will normalize, but LDL will remain elevated"
+            ],
+            "correct_answer": "A"
+          },
+          {
+            "question": "A 28-year-old man presents with yellow plaques on his eyelids and thickened Achilles tendons. His LDL is 320 mg/dL, and triglycerides are normal. His father died of a heart attack at the age of 35. What is the first-line treatment for this patient?",
+            "options": [
+              "A. Fibrate therapy",
+              "B. PCSK9 inhibitor",
+              "C. High-intensity statin therapy",
+              "D. Ezetimibe",
+              "E. Omega-3 fatty acids"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 50-year-old man with a history of hypertension and coronary artery disease is found to have LDL cholesterol of 190 mg/dL on routine lab work. His 10-year ASCVD risk is calculated at 25%. Which of the following is the most appropriate next step?",
+            "options": [
+              "A. Start low-intensity statin therapy",
+              "B. Lifestyle modifications only",
+              "C. Start high-intensity statin therapy",
+              "D. Add PCSK9 inhibitor therapy immediately",
+              "E. Recheck lipid profile in six months"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 40-year-old woman with no prior medical history is found to have triglycerides of 2500 mg/dL. Physical exam reveals eruptive xanthomas, and she is diagnosed with chylomicronemia syndrome. Which of the following complications is most likely if this condition is not treated?",
+            "options": [
+              "A. Stroke",
+              "B. Pancreatitis",
+              "C. Myocardial infarction",
+              "D. Peripheral neuropathy",
+              "E. Kidney failure"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 42-year-old woman presents with xanthelasma and a family history of coronary artery disease. Her LDL is 340 mg/dL, triglycerides are normal, and HDL is 50 mg/dL. What is the most likely diagnosis?",
+            "options": [
+              "A. Dysbetalipoproteinemia",
+              "B. Familial Hypercholesterolemia",
+              "C. Diabetic Dyslipidemia",
+              "D. Familial Combined Hyperlipidemia",
+              "E. Chylomicronemia Syndrome"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 50-year-old man presents with severe abdominal pain and a triglyceride level of 2500 mg/dL. Fundoscopic examination reveals lipemia retinalis. What is the most likely complication if untreated?",
+            "options": [
+              "A. Myocardial infarction",
+              "B. Pancreatitis",
+              "C. Stroke",
+              "D. Peripheral vascular disease",
+              "E. Aortic dissection"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 35-year-old man with a history of hypothyroidism presents with triglycerides of 450 mg/dL, LDL of 310 mg/dL, and HDL of 35 mg/dL. Palmar xanthomas are observed on physical examination. What is the most likely diagnosis?",
+            "options": [
+              "A. Familial Hypertriglyceridemia",
+              "B. Dysbetalipoproteinemia",
+              "C. Chylomicronemia Syndrome",
+              "D. Familial Combined Hyperlipidemia",
+              "E. Diabetic Dyslipidemia"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 60-year-old man with diabetes and obesity presents with triglycerides of 1500 mg/dL, LDL of 180 mg/dL, and HDL of 30 mg/dL. Which of the following is the most likely diagnosis?",
+            "options": [
+              "A. Familial Combined Hyperlipidemia",
+              "B. Dysbetalipoproteinemia",
+              "C. Diabetic Dyslipidemia",
+              "D. Familial Hypercholesterolemia",
+              "E. Familial Hypertriglyceridemia"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 48-year-old woman is found to have elevated LDL (220 mg/dL), normal triglycerides, and normal HDL during routine screening. She has a history of Achilles tendon thickening. What is the most appropriate treatment?",
+            "options": [
+              "A. PCSK9 inhibitors",
+              "B. High-intensity statins",
+              "C. Fibrate therapy",
+              "D. Dietary fat restriction",
+              "E. Omega-3 fatty acids"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 38-year-old man with no known medical history is found to have triglycerides of 2100 mg/dL during routine testing. He reports memory loss and abdominal pain. Which physical examination finding would most likely confirm your suspected diagnosis?",
+            "options": [
+              "A. Tendon xanthomas",
+              "B. Palmar xanthomas",
+              "C. Lipemia retinalis",
+              "D. Corneal arcus",
+              "E. Hepatosplenomegaly"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 45-year-old woman with diabetes presents with a lipid profile showing triglycerides of 600 mg/dL, LDL of 180 mg/dL, and HDL of 30 mg/dL. She has no family history of lipid disorders. What is the most likely mechanism for her dyslipidemia?",
+            "options": [
+              "A. Mutation in LDL receptor",
+              "B. Overproduction of ApoB",
+              "C. Insulin resistance affecting lipoprotein metabolism",
+              "D. ApoE mutation causing chylomicron retention",
+              "E. Lipoprotein lipase deficiency"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 25-year-old woman presents with yellow plaques on her palms and equal elevations in LDL and triglycerides (both 350 mg/dL). What additional condition would increase her likelihood of developing this lipid disorder?",
+            "options": [
+              "A. Hypothyroidism",
+              "B. Diabetes",
+              "C. Smoking",
+              "D. Obesity",
+              "E. Chronic kidney disease"
+            ],
+            "correct_answer": "A"
+          },
+          {
+            "question": "A 58-year-old man with obesity is found to have triglycerides of 1200 mg/dL, LDL of 150 mg/dL, and HDL of 28 mg/dL. He denies chest pain or family history of lipid disorders. What is the most appropriate first-line treatment?",
+            "options": [
+              "A. Statin therapy",
+              "B. PCSK9 inhibitors",
+              "C. Fibrate therapy",
+              "D. Omega-3 fatty acids",
+              "E. Lifestyle modifications"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 40-year-old man with a BMI of 32 presents for evaluation of his lipid profile. Lab results show triglycerides of 1600 mg/dL, LDL of 100 mg/dL, and HDL of 40 mg/dL. He denies alcohol use and has no history of pancreatitis. Which of the following best describes his condition?",
+            "options": [
+              "A. Familial Hypercholesterolemia",
+              "B. Familial Hypertriglyceridemia",
+              "C. Chylomicronemia Syndrome",
+              "D. Dysbetalipoproteinemia",
+              "E. Diabetic Dyslipidemia"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 62-year-old man with a history of hypertension and smoking presents with LDL levels of 280 mg/dL, triglycerides of 140 mg/dL, and HDL of 50 mg/dL. Physical examination reveals corneal arcus and tendon xanthomas. What is the most likely diagnosis?",
+            "options": [
+              "A. Familial Hypertriglyceridemia",
+              "B. Dysbetalipoproteinemia",
+              "C. Familial Hypercholesterolemia",
+              "D. Diabetic Dyslipidemia",
+              "E. Chylomicronemia Syndrome"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 29-year-old woman presents with yellow plaques on her eyelids and triglycerides of 1800 mg/dL. Laboratory tests reveal normal ApoB levels and lipoprotein lipase deficiency. Which of the following complications is she most at risk for?",
+            "options": [
+              "A. Myocardial infarction",
+              "B. Aortic dissection",
+              "C. Pancreatitis",
+              "D. Peripheral artery disease",
+              "E. Stroke"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 40-year-old man is found to have LDL levels of 250 mg/dL and triglycerides of 450 mg/dL on routine screening. HDL is 32 mg/dL. He denies a family history of lipid disorders but has a history of premature coronary artery disease. What is the most likely diagnosis?",
+            "options": [
+              "A. Dysbetalipoproteinemia",
+              "B. Familial Combined Hyperlipidemia",
+              "C. Chylomicronemia Syndrome",
+              "D. Familial Hypertriglyceridemia",
+              "E. Familial Hypercholesterolemia"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 55-year-old woman with hypothyroidism presents with triglycerides of 500 mg/dL, LDL of 180 mg/dL, and HDL of 35 mg/dL. She also has palmar xanthomas. What is the most likely cause of her lipid abnormality?",
+            "options": [
+              "A. Lipoprotein lipase deficiency",
+              "B. ApoE mutation",
+              "C. Insulin resistance",
+              "D. LDL receptor defect",
+              "E. Increased ApoB production"
+            ],
+            "correct_answer": "E"
+          },
+          {
+            "question": "A 45-year-old man with diabetes and central obesity has a lipid profile showing triglycerides of 600 mg/dL, LDL of 200 mg/dL, and HDL of 28 mg/dL. What is the most appropriate first-line treatment?",
+            "options": [
+              "A. PCSK9 inhibitors",
+              "B. Statin therapy",
+              "C. Fibrate therapy",
+              "D. Omega-3 fatty acids",
+              "E. Lifestyle modifications"
+            ],
+            "correct_answer": "B"
+          }
+    ],
+    "2":[
+        {
+            "question": "A 45-year-old woman presents with a one-month history of low-grade fever, fatigue, and night sweats. She reports a recent dental procedure three weeks ago. Physical examination reveals a new heart murmur. Laboratory findings show elevated ESR and CRP levels. Echocardiography demonstrates vegetations on the mitral valve. Which of the following organisms is most likely responsible for this patient’s condition?",
+            "options": [
+              "A. Staphylococcus aureus",
+              "B. Viridans streptococci",
+              "C. Enterococcus faecalis",
+              "D. Pseudomonas aeruginosa",
+              "E. Candida albicans"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 60-year-old man is brought to the emergency department with confusion and shortness of breath. He has a history of hypertension and atrial fibrillation. Blood pressure is 90/60 mmHg, and pulse is irregular at 130/min. Physical examination reveals elevated jugular venous pressure and muffled heart sounds. Echocardiography shows a large pericardial effusion. Which of the following is the most likely diagnosis?",
+            "options": [
+              "A. Myocardial infarction",
+              "B. Cardiac tamponade",
+              "C. Acute pericarditis",
+              "D. Constrictive pericarditis",
+              "E. Pulmonary embolism"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 25-year-old man presents with chest pain that worsens with inspiration and improves when sitting forward. He recently recovered from a viral upper respiratory infection. On auscultation, a high-pitched scratchy sound is heard at the left lower sternal border. Which of the following is the most appropriate initial treatment for this patient?",
+            "options": [
+              "A. Colchicine and NSAIDs",
+              "B. Corticosteroids",
+              "C. Broad-spectrum antibiotics",
+              "D. Thrombolytics",
+              "E. Anticoagulation"
+            ],
+            "correct_answer": "A"
+          },
+          {
+            "question": "A 32-year-old woman presents with progressive dyspnea and fatigue over the last two months. She reports no significant medical history. Cardiac MRI reveals impaired systolic function with inflammatory infiltrates in the myocardium. Laboratory findings show elevated troponin levels. Which of the following is the most likely cause of her condition?",
+            "options": [
+              "A. Bacterial endocarditis",
+              "B. Viral myocarditis",
+              "C. Giant cell myocarditis",
+              "D. Lyme carditis",
+              "E. Sarcoidosis"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 50-year-old man presents with sudden onset chest pain and shortness of breath. He has a history of mitral valve prolapse and recently completed dental surgery. Blood cultures reveal Streptococcus gallolyticus. Which of the following diagnostic studies should be considered next?",
+            "options": [
+              "A. Colonoscopy",
+              "B. Coronary angiography",
+              "C. Transthoracic echocardiography",
+              "D. Pulmonary function testing",
+              "E. MRI of the chest"
+            ],
+            "correct_answer": "A"
+          },
+          {
+            "question": "A 58-year-old woman with a history of systemic lupus erythematosus presents with progressive fatigue, dyspnea, and chest pain. Physical examination reveals a pericardial friction rub. Laboratory studies show elevated ESR and CRP levels. Echocardiography demonstrates a moderate pericardial effusion without signs of tamponade. Which of the following is the most likely underlying cause of her condition?",
+            "options": [
+              "A. Tuberculosis",
+              "B. Viral infection",
+              "C. Autoimmune disease",
+              "D. Bacterial infection",
+              "E. Malignancy"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 45-year-old man presents with fever, malaise, and a new-onset heart murmur. He has a history of mitral valve prolapse. Blood cultures reveal methicillin-resistant Staphylococcus aureus (MRSA). Which of the following is the best initial treatment for this patient?",
+            "options": [
+              "A. Vancomycin",
+              "B. Ceftriaxone",
+              "C. Azithromycin",
+              "D. Ciprofloxacin",
+              "E. Amoxicillin"
+            ],
+            "correct_answer": "A"
+          },
+          {
+            "question": "A 25-year-old woman presents with sudden onset shortness of breath and pleuritic chest pain. She recently completed a course of high-dose steroids for an autoimmune condition. Chest X-ray shows clear lung fields, and echocardiography reveals a small pericardial effusion. Which of the following is the most likely diagnosis?",
+            "options": [
+              "A. Pulmonary embolism",
+              "B. Viral myocarditis",
+              "C. Autoimmune pericarditis",
+              "D. Bacterial pneumonia",
+              "E. Acute coronary syndrome"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 63-year-old man presents with progressive fatigue, weight loss, and night sweats. He has a history of a prosthetic mitral valve replacement 2 years ago. Blood cultures grow coagulase-negative Staphylococcus epidermidis. Which of the following is the most likely diagnosis?",
+            "options": [
+              "A. Subacute infective endocarditis",
+              "B. Acute bacterial endocarditis",
+              "C. Prosthetic valve thrombosis",
+              "D. Viral myocarditis",
+              "E. Giant cell myocarditis"
+            ],
+            "correct_answer": "A"
+          },
+          {
+            "question": "A 40-year-old man presents with fever, cough, and hemoptysis. He is an intravenous drug user with a history of endocarditis. Physical examination reveals a systolic murmur best heard at the lower left sternal border. Blood cultures grow Staphylococcus aureus. Chest CT shows peripheral wedge-shaped opacities. Which of the following is the most likely diagnosis?",
+            "options": [
+              "A. Bacterial pneumonia",
+              "B. Septic pulmonary embolism",
+              "C. Pulmonary tuberculosis",
+              "D. Lung abscess",
+              "E. Bronchiectasis"
+            ],
+            "correct_answer": "B"
+          }
+    ],
+    "3" : [
+        {
+            "question": "A 65-year-old male presents with claudication, calf pain after walking short distances, and relief with rest. Physical examination reveals diminished femoral and dorsalis pedis pulses. His ankle-brachial index (ABI) is measured at 0.75. Which of the following is the most likely cause of his symptoms?",
+            "options": [
+              "A. Thromboangiitis obliterans",
+              "B. Atherosclerosis",
+              "C. Chronic venous insufficiency",
+              "D. Compartment syndrome",
+              "E. Monckeberg medial calcific sclerosis"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 40-year-old smoker reports intermittent pain and numbness in his toes and fingers. Physical examination shows absent peripheral pulses and digital ulcerations. An Allen test reveals abnormal findings. Which of the following is most likely elevated in this patient?",
+            "options": [
+              "A. Ankle-brachial index",
+              "B. C-reactive protein",
+              "C. Tobacco-related inflammatory markers",
+              "D. Serum glucose",
+              "E. Serum homocysteine"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 58-year-old female complains of pain in her calf after walking three blocks, which resolves with rest. She denies any resting pain. Physical examination reveals a vascular bruit in the femoral region. Duplex ultrasonography shows narrowing in the superficial femoral artery. What is the most appropriate next step in management?",
+            "options": [
+              "A. Endovascular revascularization",
+              "B. Supervised exercise therapy",
+              "C. Amputation",
+              "D. Fasciotomy",
+              "E. Anticoagulation"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 52-year-old male with a history of diabetes and chronic kidney disease presents with leg pain and difficulty walking. Plain x-rays reveal extensive calcifications in the tunica media of large arteries without narrowing of the lumen. Which of the following is the most likely diagnosis?",
+            "options": [
+              "A. Acute limb ischemia",
+              "B. Atheroembolization",
+              "C. Monckeberg medial calcific sclerosis",
+              "D. Thromboangiitis obliterans",
+              "E. Critical limb ischemia"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 45-year-old male is admitted for sudden onset of coldness and pain in the left leg. On examination, the leg is pale, pulseless, and has significant sensory loss. The ankle-brachial index is 0.20. What is the most appropriate initial step in management?",
+            "options": [
+              "A. Begin exercise therapy",
+              "B. Administer cilostazol",
+              "C. Perform urgent angiography",
+              "D. Initiate compression therapy",
+              "E. Administer antibiotics"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 62-year-old male with a history of diabetes presents with a non-healing ulcer on his right foot. Physical examination reveals absent posterior tibial and dorsalis pedis pulses. His ankle-brachial index (ABI) is measured at 0.65. What is the most appropriate next step in management?",
+            "options": [
+              "A. Supervised exercise therapy",
+              "B. Anticoagulation therapy",
+              "C. Revascularization",
+              "D. Compression therapy",
+              "E. Smoking cessation"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 50-year-old female complains of cramping and fatigue in her calves after walking half a mile, relieved by rest. Examination reveals diminished femoral pulses and a systolic bruit over the iliac arteries. What is the most likely anatomical site of arterial narrowing causing her symptoms?",
+            "options": [
+              "A. Popliteal artery",
+              "B. Superficial femoral artery",
+              "C. Aortoiliac artery",
+              "D. Posterior tibial artery",
+              "E. Peroneal artery"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 70-year-old male with a history of peripheral arterial disease presents with sudden onset of severe leg pain, pallor, and coldness. Examination reveals no palpable pulses in the affected leg. What is the most likely cause of his symptoms?",
+            "options": [
+              "A. Acute limb ischemia due to thrombosis",
+              "B. Chronic limb ischemia",
+              "C. Venous thromboembolism",
+              "D. Monckeberg sclerosis",
+              "E. Thromboangiitis obliterans"
+            ],
+            "correct_answer": "A"
+          },
+          {
+            "question": "A 55-year-old male smoker reports pain and cramping in his calves during exercise, relieved by rest. Examination reveals a diminished ABI of 0.8 and a femoral bruit. What is the first-line pharmacological treatment to improve his symptoms?",
+            "options": [
+              "A. Aspirin",
+              "B. Clopidogrel",
+              "C. Cilostazol",
+              "D. Warfarin",
+              "E. Statins"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 45-year-old male with poorly controlled diabetes and hypertension presents with pain at rest in his right foot and multiple small ulcers on his toes. Examination reveals absent distal pulses. Ankle pressures are measured at 45 mmHg. What is the most appropriate next step in management?",
+            "options": [
+              "A. Supervised exercise therapy",
+              "B. Endovascular revascularization",
+              "C. Compression stockings",
+              "D. Smoking cessation",
+              "E. Amputation"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 65-year-old male with a history of diabetes and hypertension presents with a painful, cold, and pale left foot that developed suddenly. On examination, there is a loss of sensation and motor weakness in the affected foot. No pulses are palpable distal to the femoral artery. What is the most likely diagnosis?",
+            "options": [
+              "A. Chronic limb ischemia",
+              "B. Acute limb ischemia",
+              "C. Deep vein thrombosis",
+              "D. Monckeberg sclerosis",
+              "E. Thromboangiitis obliterans"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 55-year-old female presents with calf pain after walking one block, which resolves with rest. She has a history of smoking and hypertension. Her ABI is 0.85. What lifestyle modification would most effectively reduce her risk of disease progression?",
+            "options": [
+              "A. Reducing salt intake",
+              "B. Regular exercise",
+              "C. Smoking cessation",
+              "D. Weight loss",
+              "E. Tight glucose control"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 40-year-old male smoker presents with rest pain in his toes and recurrent ulcers on his fingers and toes. Physical examination reveals absent distal pulses and a positive Allen test. What is the most effective treatment to improve his symptoms?",
+            "options": [
+              "A. Aspirin therapy",
+              "B. Smoking cessation",
+              "C. Endovascular revascularization",
+              "D. Compression therapy",
+              "E. Statin therapy"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 70-year-old male with poorly controlled diabetes presents with a non-healing ulcer on the dorsum of his foot. Examination reveals diminished dorsalis pedis and posterior tibial pulses. ABI is 0.60. Which imaging modality is considered the gold standard for identifying the site of arterial occlusion?",
+            "options": [
+              "A. Duplex ultrasonography",
+              "B. CT angiography",
+              "C. MR angiography",
+              "D. Digital subtraction angiography",
+              "E. Plain radiography"
+            ],
+            "correct_answer": "D"
+          },
+          {
+            "question": "A 52-year-old female with a history of hyperlipidemia and peripheral artery disease presents with calf pain during exercise, relieved by rest. Examination reveals diminished posterior tibial pulses and an ABI of 0.72. What is the most appropriate pharmacological intervention for symptom relief?",
+            "options": [
+              "A. Aspirin",
+              "B. Clopidogrel",
+              "C. Cilostazol",
+              "D. Warfarin",
+              "E. Statins"
+            ],
+            "correct_answer": "C"
+          }
+    ],
+    "4" : [
+        {
+            "question": "A 68-year-old man presents with severe chest and back pain described as “tearing” in nature. He has a history of hypertension and smokes 1 pack of cigarettes daily. On physical examination, there is a significant systolic blood pressure difference between the arms, and a new diastolic murmur is heard. Imaging reveals a widened mediastinum. Which of the following is the most likely diagnosis?",
+            "options": [
+              "A. Myocardial infarction",
+              "B. Pulmonary embolism",
+              "C. Aortic dissection",
+              "D. Pneumothorax",
+              "E. Esophageal rupture"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 70-year-old woman presents for evaluation of pulsatile abdominal mass detected on routine physical examination. She denies pain or other symptoms. Her medical history includes hypertension and a family history of aneurysms. Abdominal ultrasound confirms a mass measuring 4.5 cm. What is the most appropriate next step in management?",
+            "options": [
+              "A. Immediate surgical intervention",
+              "B. Endovascular stent placement",
+              "C. Periodic ultrasound surveillance",
+              "D. Initiate thrombolytic therapy",
+              "E. Perform a CT angiography"
+            ],
+            "correct_answer": "C"
+          },
+          {
+            "question": "A 50-year-old man with Marfan syndrome is undergoing routine evaluation. Imaging reveals a 5.2 cm thoracic aortic aneurysm. He is asymptomatic and currently on beta-blocker therapy. What is the recommended management for this patient?",
+            "options": [
+              "A. Continue current therapy and repeat imaging in 12 months",
+              "B. Surgical repair of the aneurysm",
+              "C. Initiate anticoagulation therapy",
+              "D. Prescribe high-intensity statin therapy",
+              "E. Immediate stent graft placement"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 60-year-old man presents with severe abdominal pain radiating to the back, hypotension, and a pulsatile abdominal mass on examination. He has a history of hypertension and a 40-year smoking history. Which of the following is the most likely diagnosis?",
+            "options": [
+              "A. Renal artery stenosis",
+              "B. Abdominal aortic aneurysm rupture",
+              "C. Acute pancreatitis",
+              "D. Mesenteric ischemia",
+              "E. Diverticulitis"
+            ],
+            "correct_answer": "B"
+          },
+          {
+            "question": "A 45-year-old woman presents with intermittent claudication and pain in her right leg. Physical examination reveals diminished pulses in the popliteal region and an ultrasound confirms a 2.3 cm popliteal artery aneurysm. What is the next step in management?",
+            "options": [
+              "A. Observation and lifestyle modifications",
+              "B. Start anticoagulation therapy",
+              "C. Perform endovascular or surgical repair",
+              "D. Initiate thrombolytic therapy",
+              "E. Prescribe calcium channel blockers"
+            ],
+            "correct_answer": "C"
+          }
+    ]
+}
