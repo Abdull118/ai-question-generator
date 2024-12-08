@@ -47,65 +47,14 @@ const Home = () => {
     setShowOMMOptions(false);
   };
 
-  useEffect(() => {
-    // Hide the popup after 5 seconds
-    const timer = setTimeout(() => setShowPopup(false), 5000);
-    return () => clearTimeout(timer);
-  }, []);
-
-  useEffect(() => {
-    
-      const storeIpAddressAndLecture = async () => {
-        try {
-          const ip = await getIp();
-          const response = await fetch('/api/storeIp', {
-            method: 'POST',
-            headers: {
-              'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({ ip, lecture: "home page" }), // Include lecture number
-          });
-  
-          if (!response.ok) {
-            throw new Error('Failed to store IP address and lecture');
-          }
-        } catch (error) {
-          console.error('Error storing IP address and lecture:', error);
-        }
-      };
-  
-      storeIpAddressAndLecture();
-    
-  }, []);
-
-  const getIp = async () => {
-    try {
-      const res = await fetch('https://api.ipify.org?format=json');
-      const data = await res.json();
-      return data.ip;
-    } catch (error) {
-      console.error('Error fetching IP address:', error);
-      return 'Unknown IP';
-    }
+  const handleClearIncorrect = () => {
+    localStorage.removeItem('incorrectQuestions'); // Clear the stored incorrect questions
+    alert('Incorrect questions have been cleared!');
   };
+
 
   return (
     <>
-      {showPopup && (
-        <div style={{
-          position: 'absolute',
-          top: '30%', 
-          width: '90vw',
-          backgroundColor: 'lightgreen',
-          padding: '10px',
-          borderRadius: '5px',
-          boxShadow: '0 2px 5px rgba(0, 0, 0, 0.2)',
-          zIndex: 1000,
-          textAlign: 'center'
-        }}>
-          New Questions Added to OMM 10A, 10B, 13A, 13B
-        </div>
-      )}
       <div className={styles.title}>
         Exam Questions App
       </div>
@@ -183,6 +132,22 @@ const Home = () => {
             </div>
           </div>
         )}
+
+        {/* Clear Incorrect Questions Button */}
+        <button 
+          onClick={handleClearIncorrect}
+          style={{
+            backgroundColor: 'red',
+            color: 'white',
+            padding: '10px 20px',
+            border: 'none',
+            borderRadius: '5px',
+            cursor: 'pointer',
+            marginTop: '20px'
+          }}
+        >
+          Clear Incorrect Questions
+        </button>
       </div>
     </>
   );

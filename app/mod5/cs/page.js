@@ -97,7 +97,12 @@ const Page = () => {
           localStorage.setItem('incorrectQuestions', JSON.stringify(filteredIncorrectQuestions));
         }
       } else {
-        const updatedIncorrectQuestions = [...incorrectQuestions, currentQuestion];
+        const incorrectQuestionWithSubject = {
+          ...currentQuestion,
+          subject: 'mod5cs',  // Add the subject field here
+        };
+        
+        const updatedIncorrectQuestions = [...incorrectQuestions, incorrectQuestionWithSubject];
         const uniqueIncorrectQuestions = updatedIncorrectQuestions.filter(
           (item, index, self) =>
             index === self.findIndex((q) => q.question === item.question)
@@ -174,7 +179,13 @@ const Page = () => {
     router.push('/'); // Navigate to the home route
   };
 
-  const totalQuestions = reviewMode ? incorrectQuestions.length : questions.length;
+  const totalQuestions = reviewMode 
+    ? incorrectQuestions.filter(q => q.subject === 'mod5cs').length // Filter incorrect questions based on subject
+    : questions.length;
+
+  const filteredIncorrectQuestions = reviewMode
+    ? incorrectQuestions.filter(q => q.subject === 'mod5cs') // Only include questions with subject 'mod5cs'
+    : [];
 
   return (
     <>
@@ -271,17 +282,15 @@ const Page = () => {
                   dangerouslySetInnerHTML={{ __html: explanation.replace(/\n/g, '<br/>') }}
                 />
               )}
-
-
-            {reviewMode && incorrectQuestions.length > 0 && incorrectQuestions[currentQuestionIndex] && (
+            {reviewMode && filteredIncorrectQuestions.length > 0 && filteredIncorrectQuestions[currentQuestionIndex] && (
               <>
                 <h2>Review Mode</h2>
                 <span className={styles.questionTracker}>
                   Question {currentQuestionIndex + 1} of {totalQuestions}
                 </span>
-                <h3>{incorrectQuestions[currentQuestionIndex].question}</h3>
+                <h3>{filteredIncorrectQuestions[currentQuestionIndex].question}</h3>
                 <div className={styles.options}>
-                  {incorrectQuestions[currentQuestionIndex].options.map((option, index) => (
+                  {filteredIncorrectQuestions[currentQuestionIndex].options.map((option, index) => (
                     <div key={index} className={styles.optionText}>
                       {option}
                     </div>
@@ -309,7 +318,7 @@ const Page = () => {
                     Submit
                   </button>
                 )}
-                {submitted && currentQuestionIndex < incorrectQuestions.length - 1 && (
+                {submitted && currentQuestionIndex < filteredIncorrectQuestions.length - 1 && (
                   <>
                   <button className={styles.explainButton} onClick={handleExplain}>
                   Explain
@@ -319,7 +328,7 @@ const Page = () => {
                   </button>
                   </>
                 )}
-                {submitted && currentQuestionIndex === incorrectQuestions.length - 1 && <p>End of review</p>}
+                {submitted && currentQuestionIndex === filteredIncorrectQuestions.length - 1 && <p>End of review</p>}
                 {loading && (
                     <div className={styles.loadingSpinner}>
                       <p>Generating an explanation from Chat GPT... (this usually takes a sec)</p> {/* You can replace this with a styled spinner */}
@@ -336,7 +345,7 @@ const Page = () => {
               </>
               
             )}
-            {reviewMode && incorrectQuestions.length === 0 && <p>No incorrect questions to review.</p>}
+            {reviewMode && filteredIncorrectQuestions.length === 0 && <p>No incorrect questions to review.</p>}
           </div>
           <div className={styles.buttons}>
             <button className={styles.reviewButton} onClick={handleReviewToggle}>
