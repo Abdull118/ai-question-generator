@@ -216,12 +216,13 @@ const Page = () => {
       {selectedLecture && (
         <>
           <div className={styles.card}>
-            {!reviewMode && questions.length > 0 && (
-              <>
-              <div className={styles.navigation}>
+            <div className={styles.navigation}>
                 <img src='/images/chevronBack.svg' onClick={()=>setSelectedLecture(null)}/>
                 <img src='/images/home.svg' onClick={handleReturnHome}/>
               </div>
+              {!reviewMode && questions.length > 0 && (
+              <>
+              
                 <span className={styles.questionTracker}>
                   <strong>{selectedLecture !== 'all' ? `Lecture ${selectedLecture}` : null}</strong><br/>
                   Question {currentQuestionIndex + 1} of {totalQuestions}
