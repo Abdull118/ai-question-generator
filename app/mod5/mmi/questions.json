@@ -253,5 +253,414 @@
             "answer": "C"
         }
     
+    ],
+    "3": [
+        {
+            "question": "A 45-year-old male presents with fever, myalgia, weight loss, and hypertension. A biopsy of the affected small artery shows segmental fibrinoid necrosis. Laboratory findings reveal chronic hepatitis B infection. What is the most likely immunopathologic mechanism underlying his condition?",
+            "options": ["A. Type I hypersensitivity reaction", "B. Type II hypersensitivity reaction", "C. Type III hypersensitivity reaction", "D. T-cell-mediated hypersensitivity", "E. Drug-induced vasculitis"],
+            "answer": "C"
+        },
+        {
+            "question": "A 10-year-old boy develops palpable purpura on the lower extremities, abdominal pain, and hematuria. Laboratory findings reveal elevated IgA and C3 deposition in small blood vessels. Which condition best explains the pathophysiology?",
+            "options": ["A. Kawasaki disease", "B. Giant cell arteritis", "C. Henoch-Schonlein purpura", "D. Microscopic polyangiitis", "E. Polyarteritis nodosa"],
+            "answer": "C"
+        },
+        {
+            "question": "A patient with systemic lupus erythematosus presents with glomerulonephritis. Which autoantibody is most diagnostic for this condition?",
+            "options": ["A. Anti-histone antibodies", "B. Anti-centromere antibodies", "C. Anti-dsDNA antibodies", "D. Anti-topoisomerase antibodies", "E. Anti-citrullinated protein antibodies"],
+            "answer": "C"
+        },
+        {
+            "question": "A 32-year-old female presents with joint pain, a malar rash, and a history of recurrent miscarriages. Laboratory findings reveal low complement levels and positive anti-nuclear and anti-dsDNA antibodies. What is the most likely cause of the recurrent miscarriages?",
+            "options": ["A. Immune complex deposition in the endometrium", "B. Thrombotic microangiopathy due to antiphospholipid antibodies", "C. Chronic infection causing uterine inflammation", "D. Direct cytotoxicity mediated by T cells", "E. Drug-induced vasculitis"],
+            "answer": "B"
+        },
+        {
+            "question": "A 5-year-old boy presents with high fever, conjunctivitis, strawberry tongue, and a desquamating rash on the hands and feet. Laboratory findings show elevated acute phase reactants. Which is the most likely complication of this condition?",
+            "options": ["A. Pulmonary hypertension", "B. Renal failure", "C. Coronary artery aneurysm", "D. Hepatic necrosis", "E. Cerebral vasculitis"],
+            "answer": "C"
+        },
+        {
+            "question": "A 56-year-old male presents with fever, fatigue, and hemoptysis. A biopsy reveals necrotizing granulomatous inflammation of the small vessels. Laboratory findings show elevated c-ANCA levels. What is the most likely diagnosis?",
+            "options": ["A. Microscopic polyangiitis", "B. Churg-Strauss syndrome", "C. Granulomatosis with polyangiitis", "D. Takayasu arteritis", "E. Polyarteritis nodosa"],
+            "answer": "C"
+        },
+        {
+            "question": "A 12-year-old boy develops hematuria, proteinuria, and a purpuric rash on his legs following a respiratory infection. Biopsy reveals IgA and C3 deposits in small dermal vessels. Which complement pathway is activated in this condition?",
+            "options": ["A. Classical pathway", "B. Alternative pathway", "C. Lectin pathway", "D. C4-independent pathway", "E. Terminal complement pathway"],
+            "answer": "B"
+        },
+        {
+            "question": "A 35-year-old female with chronic hepatitis C presents with purpura, arthralgias, and fatigue. Serum studies reveal cryoglobulins and low C4 levels. What is the most likely immunopathological mechanism for her condition?",
+            "options": ["A. Type I hypersensitivity reaction", "B. Type II hypersensitivity reaction", "C. Type III hypersensitivity reaction", "D. Cell-mediated cytotoxicity", "E. Immune evasion by viral antigens"],
+            "answer": "C"
+        },
+        {
+            "question": "A 30-year-old male presents with a history of chronic sinusitis, hematuria, and fatigue. Renal biopsy shows crescentic glomerulonephritis without immune complex deposition. Which laboratory finding is most likely associated with this condition?",
+            "options": ["A. Positive anti-dsDNA antibodies", "B. Elevated p-ANCA levels", "C. Elevated c-ANCA levels", "D. Positive rheumatoid factor", "E. Low complement levels"],
+            "answer": "C"
+        },
+        {
+            "question": "A 40-year-old woman presents with headaches, jaw claudication, and visual disturbances. Physical exam reveals diminished temporal artery pulsations. What is the most likely histological finding in this patient’s temporal artery biopsy?",
+            "options": ["A. Granulomatous inflammation of large vessels", "B. Necrotizing inflammation of small vessels", "C. Fibrinoid necrosis of medium-sized arteries", "D. IgA and C3 deposition in vessel walls", "E. Anti-neutrophil cytoplasmic antibodies"],
+            "answer": "A"
+        },
+        {
+            "question": "A 32-year-old woman presents with a butterfly rash, joint pain, and proteinuria. Laboratory studies show low complement levels and positive anti-dsDNA antibodies. Which mechanism is most responsible for the patient’s symptoms?",
+            "options": ["A. Type I hypersensitivity reaction", "B. Type II hypersensitivity reaction", "C. Type III hypersensitivity reaction", "D. Cell-mediated cytotoxicity", "E. T-cell superantigen activation"],
+            "answer": "C"
+        },
+        {
+            "question": "A 10-year-old boy develops abdominal pain, arthralgia, and palpable purpura. Biopsy of the affected vessel reveals IgA deposition with C3 activation. Which treatment is most appropriate for severe cases of this condition?",
+            "options": ["A. Cyclophosphamide", "B. Glucocorticoids", "C. Intravenous immunoglobulin (IVIG)", "D. Plasmapheresis", "E. Antibiotics"],
+            "answer": "B"
+        },
+        {
+            "question": "A 50-year-old male with chronic hepatitis B infection presents with hypertension, abdominal pain, and myalgias. A biopsy of a medium-sized artery reveals segmental fibrinoid necrosis. Which treatment is most appropriate for this condition?",
+            "options": ["A. Anti-TNF therapy", "B. Antiviral therapy and glucocorticoids", "C. IVIG and cyclophosphamide", "D. Methotrexate and rituximab", "E. Corticosteroids and antibiotics"],
+            "answer": "B"
+        },
+        {
+            "question": "A 35-year-old male with hepatitis C presents with purpura, arthralgias, and fatigue. Laboratory findings reveal cryoglobulinemia and low C4 levels. What is the most likely finding on biopsy?",
+            "options": ["A. IgA deposition in small vessels", "B. Necrotizing granulomas in medium-sized vessels", "C. Mixed IgG and IgM immune complex deposition", "D. Giant cell infiltration in large vessels", "E. Fibrinoid necrosis in arterioles"],
+            "answer": "C"
+        },
+        {
+            "question": "A 25-year-old woman presents with fever, malaise, and a history of recurrent miscarriages. Laboratory findings reveal low complement levels and positive antiphospholipid antibodies. What is the most appropriate initial treatment for this condition?",
+            "options": ["A. Warfarin", "B. Glucocorticoids", "C. Heparin and aspirin", "D. Cyclophosphamide", "E. Intravenous immunoglobulin (IVIG)"],
+            "answer": "C"
+        },
+        {
+            "question": "A 45-year-old patient with a history of chronic hepatitis B presents with fever, weight loss, hypertension, and abdominal pain. Biopsy reveals segmental fibrinoid necrosis in medium-sized arteries. What is the most likely treatment for severe cases of this condition?",
+            "options": ["A. Corticosteroids alone", "B. Antiviral therapy", "C. Combination of cyclophosphamide and glucocorticoids", "D. IVIG"],
+            "answer": "C"
+        },
+        {
+            "question": "A 10-year-old boy develops palpable purpura, abdominal pain, and arthralgia following a respiratory infection. Biopsy shows IgA and C3 deposition in small dermal vessels. Which complement pathway is primarily involved in this disease?",
+            "options": ["A. Classical pathway", "B. Alternative pathway", "C. Lectin pathway", "D. Terminal pathway"],
+            "answer": "B"
+        },
+        {
+            "question": "Cryoglobulinemia is classified into three types based on the immunoglobulins involved. What characteristic differentiates type II cryoglobulinemia?",
+            "options": ["A. Presence of monoclonal IgM with specificity for the Fc portion of IgG", "B. Polyclonal antibodies recognizing nuclear antigens", "C. Immune complexes containing C3 and IgA", "D. IgG and IgM complex deposition without rheumatoid factor activity"],
+            "answer": "A"
+        },
+        {
+            "question": "A patient with systemic lupus erythematosus presents with glomerulonephritis. Which autoantibody is most likely responsible for the immune complex deposition observed in this disease?",
+            "options": ["A. Anti-topoisomerase antibodies", "B. Anti-histone antibodies", "C. Anti-dsDNA antibodies", "D. Anti-ribonucleoprotein antibodies"],
+            "answer": "C"
+        },
+        {
+            "question": "A 30-year-old female with chronic hepatitis C presents with fatigue, arthralgia, and purpura. Laboratory findings reveal cryoglobulinemia with low C4 levels. What is the most appropriate initial treatment?",
+            "options": ["A. Corticosteroids alone", "B. Treat underlying hepatitis C with antiviral therapy", "C. Cyclophosphamide", "D. IVIG"],
+            "answer": "B"
+        },
+        {
+            "question": "A 60-year-old female presents with fever, malaise, and hematuria. Biopsy reveals immune complex-mediated vasculitis characterized by fibrinoid necrosis and intense neutrophilic infiltration. Which hypersensitivity reaction best explains her condition?",
+            "options": ["A. Type I hypersensitivity", "B. Type II hypersensitivity", "C. Type III hypersensitivity", "D. Type IV hypersensitivity"],
+            "answer": "C"
+        },
+        {
+            "question": "A patient with systemic lupus erythematosus (SLE) experiences a flare involving active nephritis. What happens to the complement levels during this active phase?",
+            "options": ["A. Complement levels remain unchanged", "B. Complement levels increase due to immune activation", "C. Complement levels decrease due to consumption", "D. Complement levels fluctuate randomly"],
+            "answer": "C"
+        },
+        {
+            "question": "A child presents with palpable purpura, arthralgia, and abdominal pain. Biopsy reveals IgA deposition in small vessels. What histological finding is most characteristic of this disease?",
+            "options": ["A. Necrotizing granulomas", "B. Eosinophilic deposits", "C. Granular IgA staining in vessel walls", "D. Lymphocytic infiltration"],
+            "answer": "C"
+        },
+        {
+            "question": "A 50-year-old male presents with systemic symptoms, including fever, weight loss, hypertension, and abdominal pain. Biopsy reveals segmental fibrinoid necrosis in medium-sized arteries without granulomatous inflammation. What underlying condition is most likely associated with his vasculitis?",
+            "options": ["A. Chronic hepatitis B infection", "B. Chronic hepatitis C infection", "C. Rheumatoid arthritis", "D. Drug hypersensitivity"],
+            "answer": "A"
+        },
+        {
+            "question": "A patient with cryoglobulinemia presents with purpura, arthralgia, and fatigue. Laboratory studies reveal low C4 levels and cryoglobulins. Which treatment targets the primary underlying cause of type II cryoglobulinemia?",
+            "options": ["A. Corticosteroids alone", "B. Treatment of hepatitis C", "C. Plasmapheresis", "D. Cyclophosphamide"],
+            "answer": "B"
+        },
+        {
+            "question": "A 45-year-old male with systemic lupus erythematosus (SLE) presents with fatigue, edema, and hematuria. Laboratory findings show low complement levels, proteinuria, and positive anti-dsDNA antibodies. Which of the following is the most likely pathological finding in this patient's kidneys?",
+            "options": ["A. Granulomatous inflammation", "B. Fibrinoid necrosis of medium-sized arteries", "C. Immune complex deposition in the glomerular capillaries", "D. IgA deposition in the mesangium"],
+            "answer": "C"
+        },
+        {
+            "question": "A 10-year-old boy develops palpable purpura, abdominal pain, and hematuria following a recent respiratory infection. Biopsy shows IgA and C3 deposition in dermal vessels. What laboratory finding would best confirm the activation pathway involved in this disease?",
+            "options": ["A. Low levels of C1q and C4", "B. Normal levels of C4 and low C3", "C. Elevated IgE and eosinophil count", "D. Presence of anti-neutrophil cytoplasmic antibodies (ANCA)"],
+            "answer": "B"
+        },
+        {
+            "question": "Cryoglobulinemia is classified into three types based on the immunoglobulins involved. What characteristic differentiates type II cryoglobulinemia?",
+            "options": ["A. Presence of monoclonal IgM with specificity for the Fc portion of IgG", "B. Polyclonal antibodies recognizing nuclear antigens", "C. Immune complexes containing C3 and IgA", "D. IgG and IgM complex deposition without rheumatoid factor activity"],
+            "answer": "A"
+        },
+        {
+            "question": "A patient with systemic lupus erythematosus presents with glomerulonephritis. Which autoantibody is most likely responsible for the immune complex deposition observed in this disease?",
+            "options": ["A. Anti-topoisomerase antibodies", "B. Anti-histone antibodies", "C. Anti-dsDNA antibodies", "D. Anti-ribonucleoprotein antibodies"],
+            "answer": "C"
+        },
+        {
+            "question": "A 30-year-old female with chronic hepatitis C presents with fatigue, arthralgia, and purpura. Laboratory findings reveal cryoglobulinemia with low C4 levels. What is the most appropriate initial treatment?",
+            "options": ["A. Corticosteroids alone", "B. Treat underlying hepatitis C with antiviral therapy", "C. Cyclophosphamide", "D. IVIG"],
+            "answer": "B"
+        },
+        {
+            "question": "A 35-year-old female with systemic lupus erythematosus (SLE) presents with joint pain, a malar rash, and worsening kidney function. Her laboratory findings include proteinuria, hematuria, and decreased complement levels (C3, C4). Renal biopsy shows immune complex deposition. What is the next best step in confirming the specific cause of her renal dysfunction?",
+            "options": ["A. Serum anti-dsDNA antibody levels", "B. Measurement of anti-histone antibodies", "C. ANCA testing for glomerulonephritis", "D. Serum cryoglobulin levels"],
+            "answer": "A"
+        },
+        {
+            "question": "A 42-year-old male presents with fatigue, arthralgia, and palpable purpura on his legs. He has a history of chronic hepatitis C. Laboratory studies reveal cryoglobulinemia and low C4 levels. Which of the following findings is most indicative of a severe systemic complication of this condition?",
+            "options": ["A. Increased serum IgE levels", "B. Renal dysfunction with proteinuria and hematuria", "C. Elevated erythrocyte sedimentation rate (ESR)", "D. Hepatic transaminase elevation"],
+            "answer": "B"
+        },
+        {
+            "question": "A 10-year-old boy presents with abdominal pain, palpable purpura, and hematuria following a respiratory infection. Biopsy reveals IgA deposition in small vessels with C3 activation. If left untreated, what is the most likely long-term complication of this condition?",
+            "options": ["A. Neuropathy", "B. Coronary artery aneurysm", "C. Chronic kidney disease", "D. Pulmonary fibrosis"],
+            "answer": "C"
+        },
+        {
+            "question": "A 45-year-old male presents with fever, weight loss, hypertension, and abdominal pain. Biopsy of a medium-sized artery reveals segmental fibrinoid necrosis without granulomas. He tests positive for hepatitis B surface antigen. Which pathophysiological mechanism best explains his condition?",
+            "options": ["A. Anti-neutrophil cytoplasmic antibody-mediated injury", "B. Direct viral invasion of endothelial cells", "C. Immune complex deposition triggering vasculitis", "D. T-cell mediated cytotoxicity"],
+            "answer": "C"
+        },
+        {
+            "question": "A 30-year-old female with a history of systemic lupus erythematosus presents with recurrent miscarriages. Laboratory testing confirms the presence of antiphospholipid antibodies. Despite treatment with aspirin and low molecular weight heparin, she experiences another miscarriage. What additional therapy is most appropriate to improve pregnancy outcomes?",
+            "options": ["A. Increase aspirin dosage", "B. Cyclophosphamide", "C. Intravenous immunoglobulin (IVIG)", "D. Methotrexate"],
+            "answer": "C"
+        }
+        
+    ],
+    "4": [
+        {
+            "question": "A 50-year-old male presents with persistent pneumonitis, chronic sinusitis, and evidence of renal disease. Laboratory tests reveal PR3-cANCA positivity. What is the most likely diagnosis?",
+            "options": ["A. Microscopic polyangiitis", "B. Granulomatosis with polyangiitis", "C. Churg-Strauss syndrome", "D. Henoch-Schönlein purpura"],
+            "answer": "B"
+        },
+        {
+            "question": "A 30-year-old woman presents with asthma, allergic rhinitis, and peripheral eosinophilia. Skin biopsy reveals necrotizing granulomas. Which ANCA-associated condition is most consistent with these findings?",
+            "options": ["A. Giant cell arteritis", "B. Kawasaki disease", "C. Eosinophilic granulomatosis with polyangiitis (Churg-Strauss syndrome)", "D. Microscopic polyangiitis"],
+            "answer": "C"
+        },
+        {
+            "question": "A neonate develops pulmonary hemorrhage and nephritis shortly after birth. Maternal testing reveals MPO-pANCA positivity. What is the likely mechanism for the neonate’s condition?",
+            "options": ["A. Superantigen stimulation", "B. Transplacental antibody transfer", "C. Immune complex deposition", "D. Cytokine overproduction"],
+            "answer": "B"
+        },
+        {
+            "question": "A 45-year-old smoker presents with vascular insufficiency in the extremities. Imaging reveals inflammation of the tibial and radial arteries. What is the most likely diagnosis?",
+            "options": ["A. Takayasu arteritis", "B. Buerger disease", "C. Polyarteritis nodosa", "D. Henoch-Schönlein purpura"],
+            "answer": "B"
+        },
+        {
+            "question": "Which condition is characterized by necrotizing granulomas of the upper and lower respiratory tract, systemic small to medium vessel vasculitis, and glomerulonephritis?",
+            "options": ["A. Kawasaki disease", "B. Granulomatosis with polyangiitis", "C. Microscopic polyangiitis", "D. Churg-Strauss syndrome"],
+            "answer": "B"
+        },
+        {
+            "question": "A 65-year-old woman presents with a new headache, jaw claudication, and vision changes. Temporal artery biopsy shows granulomatous inflammation. What is the most likely diagnosis?",
+            "options": ["A. Takayasu arteritis", "B. Giant cell arteritis", "C. Kawasaki disease", "D. Polyarteritis nodosa"],
+            "answer": "B"
+        },
+        {
+            "question": "A 6-year-old child presents with fever, conjunctivitis, rash, and desquamation of the palms and soles. Laboratory findings reveal elevated inflammatory markers. Which vasculitic disease is most likely?",
+            "options": ["A. Henoch-Schönlein purpura", "B. Kawasaki disease", "C. Granulomatosis with polyangiitis", "D. Churg-Strauss syndrome"],
+            "answer": "B"
+        },
+        {
+            "question": "A 40-year-old male presents with hematuria, proteinuria, and hemoptysis. Laboratory findings reveal MPO-pANCA positivity. What is the most likely diagnosis?",
+            "options": ["A. Granulomatosis with polyangiitis", "B. Microscopic polyangiitis", "C. Churg-Strauss syndrome", "D. Cryoglobulinemia"],
+            "answer": "B"
+        },
+        {
+            "question": "A 12-year-old boy develops palpable purpura on the lower extremities, abdominal pain, and hematuria. Laboratory studies show IgA immune complex deposition. What is the most likely diagnosis?",
+            "options": ["A. Henoch-Schönlein purpura", "B. Giant cell arteritis", "C. Buerger disease", "D. Takayasu arteritis"],
+            "answer": "A"
+        },
+        {
+            "question": "A 45-year-old man presents with painful oral and genital ulcers and uveitis. Laboratory testing reveals HLA-B51 positivity. What is the most likely diagnosis?",
+            "options": ["A. Buerger disease", "B. Behçet disease", "C. Kawasaki disease", "D. Takayasu arteritis"],
+            "answer": "B"
+        },
+        {
+            "question": "A 5-year-old child presents with a high fever, conjunctival injection, and desquamation of the palms and soles. Days later, an echocardiogram reveals coronary artery aneurysms. What is the pathophysiological mechanism underlying this vasculitis?",
+            "options": ["A. Immune complex-mediated inflammation", "B. T-cell activation by superantigens", "C. MPO-pANCA-induced neutrophil activation", "D. Direct granulomatous inflammation"],
+            "answer": "B"
+        },
+        {
+            "question": "A 60-year-old male presents with hematuria, proteinuria, and respiratory distress. He is positive for PR3-cANCA. Which finding would help distinguish this condition from microscopic polyangiitis?",
+            "options": ["A. Presence of granulomas on biopsy", "B. Elevated MPO-pANCA titers", "C. IgA immune complex deposition", "D. Association with asthma and eosinophilia"],
+            "answer": "A"
+        },
+        {
+            "question": "A 45-year-old man with a 30-year history of smoking develops claudication and ischemic ulcers in his lower extremities. Imaging shows inflammation in the tibial and radial arteries. Which histological finding is most likely present?",
+            "options": ["A. Granulomatous inflammation", "B. Necrotizing arteritis without immune complexes", "C. Segmental thrombosing inflammation", "D. Eosinophilic infiltration with granulomas"],
+            "answer": "C"
+        },
+        {
+            "question": "A child presents with palpable purpura, abdominal pain, and hematuria. Biopsy reveals IgA deposition in vessel walls. Which of the following is a likely associated trigger for this condition?",
+            "options": ["A. Superantigen stimulation by bacterial toxins", "B. Upper respiratory tract infection", "C. MPO-pANCA formation", "D. Smoking-induced vascular damage"],
+            "answer": "B"
+        },
+        {
+            "question": "A 70-year-old woman presents with sudden onset blindness and jaw claudication. Temporal artery biopsy shows granulomatous inflammation. What is the principal immune mechanism involved in this condition?",
+            "options": ["A. IgA immune complex deposition", "B. Autoantibody formation against endothelial antigens", "C. CD4 T-cell mediated autoreactive response", "D. Superantigen-induced cytokine storm"],
+            "answer": "C"
+        },
+        {
+            "question": "A 7-year-old boy presents with fever, abdominal pain, and a rash on his lower extremities. Biopsy reveals IgA deposition in the vessel walls. Which of the following complications is most likely associated with this condition?",
+            "options": ["A. Coronary artery aneurysm", "B. Glomerulonephritis", "C. Pulmonary hemorrhage", "D. Myocarditis"],
+            "answer": "B"
+        },
+        {
+            "question": "A 35-year-old woman presents with hematuria, respiratory symptoms, and a positive MPO-pANCA. What feature distinguishes microscopic polyangiitis from granulomatosis with polyangiitis?",
+            "options": ["A. Necrotizing glomerulonephritis", "B. Pulmonary capillaritis", "C. Lack of granulomatous inflammation", "D. Presence of PR3-cANCA"],
+            "answer": "C"
+        },
+        {
+            "question": "A 50-year-old man with a history of asthma presents with peripheral eosinophilia, sinusitis, and mononeuritis multiplex. Biopsy reveals necrotizing granulomas and p-ANCA positivity. Which cytokine is most likely elevated in this patient?",
+            "options": ["A. IL-4", "B. IL-5", "C. IL-6", "D. IL-12"],
+            "answer": "B"
+        },
+        {
+            "question": "A 70-year-old man presents with persistent headaches, jaw claudication, and visual disturbances. Temporal artery biopsy shows granulomatous inflammation. What is the primary treatment for this condition?",
+            "options": ["A. Methotrexate", "B. High-dose corticosteroids", "C. IVIG", "D. TNF inhibitors"],
+            "answer": "B"
+        },
+        {
+            "question": "A 45-year-old woman presents with oral ulcers, genital ulcers, and uveitis. She is positive for HLA-B51. Which type of immune cell is primarily responsible for the inflammation seen in this condition?",
+            "options": ["A. Neutrophils", "B. CD4 T-cells", "C. Plasma cells", "D. Mast cells"],
+            "answer": "A"
+        },
+        {
+            "question": "A 65-year-old man presents with respiratory symptoms, hemoptysis, and renal dysfunction. PR3-cANCA is positive, and granulomas are noted on biopsy. What is the primary immune mechanism underlying this condition?",
+            "options": ["A. IgA immune complex deposition", "B. Antibody-mediated complement activation", "C. Neutrophil activation by anti-proteinase 3 antibodies", "D. T-cell mediated direct endothelial damage"],
+            "answer": "C"
+        },
+        {
+            "question": "A child presents with fever, conjunctival injection, and desquamation of the palms and soles. Echocardiography reveals coronary artery aneurysms. What is the primary therapeutic intervention to reduce complications in this condition?",
+            "options": ["A. High-dose corticosteroids", "B. IV immunoglobulin (IVIG) and aspirin", "C. Methotrexate and TNF inhibitors", "D. Plasmapheresis"],
+            "answer": "B"
+        },
+        {
+            "question": "A 50-year-old male smoker presents with ischemic ulcers and pain in his extremities. Imaging shows inflammation in the tibial arteries. Which environmental factor is most directly linked to the pathogenesis of this condition?",
+            "options": ["A. Chronic exposure to silica", "B. Heavy tobacco use", "C. Recurrent bacterial infections", "D. Airborne allergens"],
+            "answer": "B"
+        },
+        {
+            "question": "A 12-year-old boy presents with palpable purpura, abdominal pain, and hematuria. Biopsy reveals IgA deposition. What is the most likely explanation for the pathogenesis of his condition?",
+            "options": ["A. Cross-reactivity of IgA with microbial antigens", "B. T-cell activation by superantigens", "C. Neutrophil activation via ANCAs", "D. Direct autoantibody attack on vascular endothelium"],
+            "answer": "A"
+        },
+        {
+            "question": "A 70-year-old woman presents with sudden vision loss, headache, and jaw claudication. Biopsy of the temporal artery reveals granulomatous inflammation. What additional test is most useful to confirm the extent of systemic involvement?",
+            "options": ["A. Erythrocyte sedimentation rate (ESR)", "B. CT angiography of the aorta", "C. Serum complement levels", "D. Anti-neutrophil cytoplasmic antibody (ANCA) testing"],
+            "answer": "A"
+        }
+    ],
+    "5": [
+        {
+            "question": "A 45-year-old male presents with exertional chest pain. Imaging reveals the presence of fibrofatty plaques in the coronary arteries. Histological analysis shows macrophages, lymphocytes, and lipid-laden foam cells. Which of the following is most likely the first step in the pathogenesis of this condition?",
+            "options": ["A. Activation of smooth muscle cells", "B. Endothelial injury leading to increased permeability", "C. Deposition of calcium in the media", "D. Formation of fibrous caps", "E. Decreased production of C-reactive protein"],
+            "answer": "B"
+        },
+        {
+            "question": "A researcher is studying the role of Th1 cells in atherosclerosis. In a mouse model, they observe increased fatty streaks in the aortic root after administering a cytokine. Which cytokine is most likely responsible for promoting this pro-inflammatory response?",
+            "options": ["A. Interleukin-10 (IL-10)", "B. Tumor necrosis factor-alpha (TNF-α)", "C. Interleukin-4 (IL-4)", "D. Interferon-gamma (IFN-γ)", "E. Transforming growth factor-beta (TGF-β)"],
+            "answer": "D"
+        },
+        {
+            "question": "A 60-year-old female with obesity and type 2 diabetes has elevated levels of CRP and IL-6. These markers suggest chronic low-grade inflammation. Which cell type is primarily responsible for releasing these pro-inflammatory cytokines in obese individuals?",
+            "options": ["A. Smooth muscle cells", "B. Adipose tissue cells", "C. Hepatocytes", "D. Endothelial cells", "E. Dendritic cells"],
+            "answer": "B"
+        },
+        {
+            "question": "A patient is prescribed statins to manage hypercholesterolemia. Beyond lowering LDL cholesterol, which of the following describes another benefit of statins in reducing atherosclerosis risk?",
+            "options": ["A. Increasing CRP production", "B. Enhancing smooth muscle proliferation", "C. Downregulating MHC class II expression", "D. Promoting foam cell formation", "E. Reducing lipoprotein oxidation"],
+            "answer": "C"
+        },
+        {
+            "question": "A 52-year-old male presents with acute coronary syndrome. Laboratory findings show elevated CRP and IL-6 levels. These findings are most consistent with which of the following mechanisms?",
+            "options": ["A. Increased collagen production by macrophages", "B. Activation of smooth muscle proliferation", "C. Recruitment of monocytes via MCP-1", "D. Downregulation of adhesion molecules in the endothelium", "E. Inhibition of foam cell formation"],
+            "answer": "C"
+        },
+        {
+            "question": "A 50-year-old male presents with chest pain and shortness of breath. Histology of an atherosclerotic plaque reveals a fibrous cap and central necrotic core containing foam cells and cholesterol crystals. Which inflammatory cytokine is most likely contributing to plaque instability?",
+            "options": ["A. Interleukin-10 (IL-10)", "B. Interleukin-4 (IL-4)", "C. Interferon-gamma (IFN-γ)", "D. Tumor necrosis factor-alpha (TNF-α)", "E. Transforming growth factor-beta (TGF-β)"],
+            "answer": "C"
+        },
+        {
+            "question": "A researcher is investigating the role of scavenger receptors in atherosclerosis. Which of the following is the primary role of scavenger receptors in the disease process?",
+            "options": ["A. Secreting inflammatory cytokines like TNF-α and IL-1", "B. Mediating the uptake of oxidized LDL by macrophages", "C. Promoting smooth muscle cell proliferation", "D. Stimulating the differentiation of monocytes into macrophages", "E. Inducing adhesion molecule expression on endothelial cells"],
+            "answer": "B"
+        },
+        {
+            "question": "Atherosclerosis is thought to begin with endothelial injury. Which of the following factors is not considered a common mediator of endothelial injury?",
+            "options": ["A. Smoking", "B. Hypertension", "C. Elevated HDL levels", "D. Elevated LDL levels", "E. Chronic immune reactions"],
+            "answer": "C"
+        },
+        {
+            "question": "A mouse model with a disrupted T-reg function shows accelerated atherosclerosis development. This is most likely due to a lack of which anti-inflammatory cytokine?",
+            "options": ["A. IL-12", "B. IL-18", "C. IL-10", "D. IL-1", "E. TNF-α"],
+            "answer": "C"
+        },
+        {
+            "question": "In an experimental model, the introduction of a high cholesterol diet to mice predisposed to Th1 immune responses results in significant fatty streak development. What is the most likely mechanism for this observation?",
+            "options": ["A. Th1 cells secrete cytokines such as IFN-γ that promote macrophage activation.", "B. Th1 cells secrete IL-10 and TGF-β, reducing plaque inflammation.", "C. Th2 responses recruit monocytes and macrophages to the lesion site.", "D. Regulatory T cells suppress macrophage activation in the fatty streak.", "E. Th1 cytokines reduce LDL oxidation, preventing further inflammation."],
+            "answer": "A"
+        }
+    ],
+    "6" : [
+        {
+            "question": "A 32-year-old woman presents with fever, chest pain, and shortness of breath one week after recovering from an upper respiratory infection. Echocardiography reveals global hypokinesis and a pericardial effusion. Which of the following is the most likely cause of her condition?",
+            "options": ["A. Viral myocarditis", "B. Rheumatic fever", "C. Hypersensitivity myocarditis", "D. Libman-Sacks endocarditis", "E. Acute bacterial endocarditis"],
+            "answer": "A"
+        },
+        {
+            "question": "A 15-year-old boy presents with fever, involuntary jerking movements, and a new heart murmur. History reveals a sore throat several weeks ago that was not treated. Which of the following is the most likely mechanism underlying his condition?",
+            "options": ["A. Immune complex deposition in the joints and heart", "B. Cross-reactivity of streptococcal antibodies with host tissues", "C. Direct invasion of cardiac tissue by bacteria", "D. Viral-mediated autoimmune response against the myocardium", "E. Drug-induced hypersensitivity reaction"],
+            "answer": "B"
+        },
+        {
+            "question": "A 65-year-old heart transplant recipient presents with symptoms of acute heart failure. Biopsy of the myocardial tissue shows an increase in MHC expression and a dense infiltrate of activated lymphocytes. What is the most likely cause of these findings?",
+            "options": ["A. Acute bacterial endocarditis", "B. Chronic vascular rejection", "C. Acute transplant rejection", "D. Drug-induced hypersensitivity myocarditis", "E. Viral myocarditis"],
+            "answer": "C"
+        },
+        {
+            "question": "A 47-year-old man from Brazil presents with progressive heart failure and arrhythmias. Physical examination shows signs of dilated cardiomyopathy. A serologic test confirms Trypanosoma cruzi infection. What is the most likely underlying mechanism of his cardiac symptoms?",
+            "options": ["A. Direct invasion of myocardial cells and chronic inflammation", "B. Immune complex deposition in cardiac vessels", "C. Viral infection leading to myocardial damage", "D. Hypersensitivity reaction to parasitic antigens", "E. Autoantibody-mediated myocardial injury"],
+            "answer": "A"
+        },
+        {
+            "question": "A 22-year-old woman with systemic lupus erythematosus (SLE) presents with fatigue and chest pain. Echocardiography reveals small, sterile vegetations on the mitral valve. What is the most likely explanation for her findings?",
+            "options": ["A. Libman-Sacks endocarditis", "B. Rheumatic fever", "C. Acute bacterial endocarditis", "D. Viral myocarditis", "E. Drug-induced hypersensitivity myocarditis"],
+            "answer": "A"
+        },
+        {
+            "question": "A 6-year-old girl presents with fever, migratory joint pain, and a new heart murmur. Physical examination reveals subcutaneous nodules and erythema marginatum. History is significant for a sore throat three weeks ago. Which of the following best describes the immunologic mechanism of the suspected disease?",
+            "options": ["A. Immune complex deposition causing vascular injury", "B. Cross-reactivity of antibodies with cardiac glycoproteins", "C. Direct invasion of cardiac tissue by pathogens", "D. Drug-induced hypersensitivity reaction", "E. Autoantibody-mediated destruction of heart valves"],
+            "answer": "B"
+        },
+        {
+            "question": "A patient who underwent cardiac surgery two weeks ago presents with chest pain and fever. Blood tests reveal the presence of antibodies targeting cardiac tissue. Which condition is most likely responsible for these findings?",
+            "options": ["A. Acute bacterial endocarditis", "B. Postmyocardial infarction syndrome (Dressler’s syndrome)", "C. Rheumatic fever", "D. Chronic Chagas disease", "E. Viral myocarditis"],
+            "answer": "B"
+        },
+        {
+            "question": "A 45-year-old male with a history of scleroderma presents with progressive dyspnea and fatigue. Echocardiography shows myocardial fibrosis and thickening of intramyocardial arterioles. Which immune mechanism is most likely involved in this condition?",
+            "options": ["A. Hypersensitivity reaction mediated by eosinophils", "B. Antibody cross-reactivity with myocardial proteins", "C. Th2-mediated activation of fibroblasts and vascular damage", "D. Immune complex deposition in coronary vessels", "E. Direct infection of myocardial cells by a pathogen"],
+            "answer": "C"
+        },
+        {
+            "question": "A young adult presents to the ER with fever, a maculopapular rash, and acute congestive heart failure. He reports starting a new medication one week ago. Which of the following pathological findings is most likely associated with this condition?",
+            "options": ["A. Infiltration of neutrophils into the myocardium", "B. Diffuse eosinophilic infiltrates across the myocardium", "C. Caseating granulomas in the myocardium", "D. Fibrotic plaques in the endocardium", "E. Viral inclusion bodies in cardiac cells"],
+            "answer": "B"
+        },
+        {
+            "question": "A 10-year-old boy from a rural area in South America presents with chronic heart failure. History reveals an episode of acute febrile illness years ago with generalized lymphadenopathy. Echocardiography shows dilated cardiomyopathy. What is the most likely pathogenesis of his condition?",
+            "options": ["A. Antibody-mediated destruction of heart valves", "B. Persistent inflammation from residual Trypanosoma cruzi", "C. Direct invasion of cardiac tissue by bacteria", "D. Deposition of immune complexes in cardiac vessels", "E. Drug-induced hypersensitivity myocarditis"],
+            "answer": "B"
+        }
     ]
 }
