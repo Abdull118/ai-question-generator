@@ -52,7 +52,6 @@ const Home = () => {
     alert('Incorrect questions have been cleared!');
   };
   useEffect(() => {
-    if (selectedLecture !== null) {
       const storeIpAddressAndLecture = async () => {
         try {
           const ip = await getIp();
@@ -73,8 +72,8 @@ const Home = () => {
       };
   
       storeIpAddressAndLecture();
-    }
-  }, [selectedLecture]);
+    
+  }, []);
 
   const getIp = async () => {
     try {
