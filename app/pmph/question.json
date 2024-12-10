@@ -1653,5 +1653,1235 @@
             ],
             "answer": "C"
           }
+    ],
+    "5A":[
+      {
+        "question": "Which of the following is the correct sequence in the process of practicing Evidence-Based Medicine (EBM)?",
+        "options": [
+          "A. Formulate a clinical question, appraise the evidence, acquire the evidence, apply the evidence",
+          "B. Assess the patient, acquire the evidence, apply the evidence, appraise the evidence",
+          "C. Assess the patient, ask the question, acquire the evidence, appraise the evidence",
+          "D. Appraise the evidence, ask the question, acquire the evidence, assess the patient"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "A clinician is deciding between two diagnostic tests for a patient. He wants to know which test will yield more accurate results for detecting a specific disease. Which element of the PICO framework does this scenario primarily involve?",
+        "options": [
+          "A. Patient Problem",
+          "B. Intervention",
+          "C. Comparison",
+          "D. Outcome"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "A patient with type 2 diabetes and obesity asks if bariatric surgery is more effective than standard medical care at improving diabetes outcomes. What type of clinical question is being asked?",
+        "options": [
+          "A. Diagnosis",
+          "B. Therapy",
+          "C. Prognosis",
+          "D. Harm/Etiology"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "A randomized controlled trial (RCT) is considered the best study design to answer which type of clinical question?",
+        "options": [
+          "A. Diagnosis",
+          "B. Harm/Etiology",
+          "C. Therapy",
+          "D. Prognosis"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "In a study assessing the effectiveness of a new diabetes medication, the p-value is less than 0.05, indicating that the results are statistically significant. What further evaluation is needed to determine if the results are useful for clinical practice?",
+        "options": [
+          "A. Comparison to placebo",
+          "B. Clinical significance",
+          "C. Randomization method",
+          "D. Study design hierarchy"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "In the PICO framework, which of the following best describes the 'O' (Outcome) component?",
+        "options": [
+          "A. The primary problem or disease affecting the patient",
+          "B. The treatment or intervention being considered",
+          "C. The desired effect or result you hope to achieve for the patient",
+          "D. The control group for comparison in the study"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "What is the next step after appraising the evidence in the Evidence-Based Medicine (EBM) process?",
+        "options": [
+          "A. Apply the evidence to patient care",
+          "B. Assess the patient again",
+          "C. Conduct a randomized controlled trial",
+          "D. Acquire additional evidence if needed"
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "question": "Which study design is best suited for answering a harm/etiology question, such as identifying the cause of a disease?",
+        "options": [
+          "A. Cross-sectional study",
+          "B. Randomized controlled trial",
+          "C. Cohort study",
+          "D. Case series"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "Which of the following databases is most appropriate for searching systematic reviews in Evidence-Based Medicine?",
+        "options": [
+          "A. PubMed",
+          "B. Cochrane Library",
+          "C. UpToDate",
+          "D. BMJ Clinical Evidence"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "A clinician is looking at the results of a study comparing two treatments for hypertension. The p-value is 0.03, but the effect size shows only a 1 mmHg reduction in blood pressure. What conclusion can be drawn?",
+        "options": [
+          "A. The result is both statistically and clinically significant.",
+          "B. The result is statistically significant but not clinically significant.",
+          "C. The result is clinically significant but not statistically significant.",
+          "D. The result is neither statistically nor clinically significant."
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "Which of the following is a disadvantage of case-control studies?",
+        "options": [
+          "A. They are expensive and time-consuming.",
+          "B. They are less reliable due to recall bias and reliance on medical records.",
+          "C. They require large sample sizes to show statistical significance.",
+          "D. They require long follow-up periods to observe outcomes."
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "In Evidence-Based Medicine, which of the following is considered the highest level of evidence in the hierarchy of study designs?",
+        "options": [
+          "A. Case series",
+          "B. Cohort study",
+          "C. Randomized controlled trial (RCT)",
+          "D. Systematic review of RCTs"
+        ],
+        "correct_answer": "D"
+      },
+      {
+        "question": "A study compares a group of smokers to a group of non-smokers to determine the incidence of lung cancer over 10 years. This is an example of which type of study?",
+        "options": [
+          "A. Case-control study",
+          "B. Cohort study",
+          "C. Cross-sectional study",
+          "D. Clinical trial"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "A clinician conducts a systematic review to determine the best treatment for chronic back pain. Which of the following resources is the most appropriate for finding systematic reviews?",
+        "options": [
+          "A. PubMed",
+          "B. Cochrane Library",
+          "C. UpToDate",
+          "D. BMJ Clinical Evidence"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "In an Evidence-Based Medicine study, the results show a statistically significant reduction in symptoms with a p-value of 0.01. Which of the following is the best interpretation of this result?",
+        "options": [
+          "A. The reduction in symptoms is due to the treatment.",
+          "B. The reduction in symptoms is likely not due to chance.",
+          "C. The study has clinical significance but not statistical significance.",
+          "D. The result is clinically significant but not practical."
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "Which of the following best describes the difference between statistical significance and clinical significance in Evidence-Based Medicine?",
+        "options": [
+          "A. Statistical significance means the results are meaningful to the patient, while clinical significance is based on p-values.",
+          "B. Statistical significance indicates the results are not likely due to chance, while clinical significance shows the practical relevance of the results to patient care.",
+          "C. Statistical significance is more important than clinical significance for treatment decisions.",
+          "D. Clinical significance refers to the size of the study, while statistical significance refers to its design."
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "When constructing a well-built clinical question using the PICO framework, which element would describe the 'I' (Intervention) component?",
+        "options": [
+          "A. The main alternative to the treatment being considered",
+          "B. The primary health issue affecting the patient",
+          "C. The treatment, test, or exposure being considered for the patient",
+          "D. The desired outcome for the patient"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "Which type of question is best answered by a prospective cohort study, rather than a randomized controlled trial (RCT)?",
+        "options": [
+          "A. Diagnosis",
+          "B. Prognosis",
+          "C. Therapy",
+          "D. Etiology"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "In Evidence-Based Medicine, which of the following resources is considered a secondary source, often used to synthesize multiple studies?",
+        "options": [
+          "A. Randomized controlled trial",
+          "B. Case series",
+          "C. Systematic review",
+          "D. Cross-sectional study"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "Which of the following is an essential step in applying Evidence-Based Medicine after gathering evidence?",
+        "options": [
+          "A. Discarding any conflicting evidence",
+          "B. Relying solely on clinical expertise",
+          "C. Integrating evidence with clinical expertise and patient preferences",
+          "D. Conducting additional research to confirm findings"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "A researcher wants to examine whether a specific diet in the past has contributed to heart disease today. They choose a group of patients with heart disease and a group without it, and they look back at their diet history. What type of study design is this?",
+        "options": [
+          "A. Cohort study",
+          "B. Randomized controlled trial",
+          "C. Case-control study",
+          "D. Cross-sectional study"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "Which of the following is true about a randomized controlled trial (RCT)?",
+        "options": [
+          "A. Participants are randomly assigned to either the treatment or control group.",
+          "B. It looks back at data collected from the past to find outcomes.",
+          "C. It only involves qualitative data collection methods like interviews.",
+          "D. It follows groups of individuals with similar exposures over time."
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "question": "Which study design involves collecting data from participants at a single point in time to assess the relationship between variables?",
+        "options": [
+          "A. Meta-analysis",
+          "B. Systematic review",
+          "C. Cross-sectional study",
+          "D. Cohort study"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "A study combines the results of multiple RCTs to determine the overall effect of a new medication. What type of study is this?",
+        "options": [
+          "A. Case-control study",
+          "B. Cohort study",
+          "C. Meta-analysis",
+          "D. Cross-sectional study"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "Which of the following best describes qualitative research?",
+        "options": [
+          "A. It uses statistical techniques to analyze numeric data.",
+          "B. It involves comparing individuals with a condition to those without it.",
+          "C. It collects non-numeric data, such as opinions and experiences, often through interviews or focus groups.",
+          "D. It always requires large sample sizes for statistical significance."
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "In a retrospective cohort study, which of the following is true?",
+        "options": [
+          "A. Patients are randomly assigned to treatment or control groups.",
+          "B. Researchers look back at data from past exposures and follow the outcomes over time.",
+          "C. The study is conducted entirely at a single point in time.",
+          "D. The study focuses on qualitative data such as interviews and personal experiences."
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "Which of the following best defines a systematic review?",
+        "options": [
+          "A. A study that reviews the results of multiple RCTs but does not combine their data.",
+          "B. A review that uses statistical techniques to combine results from different studies.",
+          "C. A detailed analysis of a single patient's treatment and outcome.",
+          "D. A study that provides a structured and comprehensive summary of all research on a particular topic."
+        ],
+        "correct_answer": "D"
+      },
+      {
+        "question": "Which type of study design is least likely to establish a cause-and-effect relationship between an exposure and an outcome?",
+        "options": [
+          "A. Randomized controlled trial",
+          "B. Cohort study",
+          "C. Case-control study",
+          "D. Cross-sectional study"
+        ],
+        "correct_answer": "D"
+      },
+      {
+        "question": "In which study design are participants randomly assigned to different groups to compare the outcomes of different treatments or interventions?",
+        "options": [
+          "A. Cross-sectional study",
+          "B. Case-control study",
+          "C. Randomized controlled trial",
+          "D. Cohort study"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "A study is conducted to compare the prevalence of diabetes between different age groups at one point in time. Which type of study design is being used?",
+        "options": [
+          "A. Cross-sectional study",
+          "B. Case-control study",
+          "C. Randomized controlled trial",
+          "D. Cohort study"
+        ],
+        "correct_answer": "A"
+      }
+    ],
+    "5B" : [
+      {
+        "question": "Which type of study is considered the most appropriate for determining the cause of a rare disease?",
+        "options": [
+          "A. Cohort study",
+          "B. Case-control study",
+          "C. Cross-sectional study",
+          "D. Randomized controlled trial",
+          "E. Case series"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "A study assigns participants to receive either a new surgical procedure or the standard treatment. Patients are followed for 12 months to measure recovery time and complications. This study is best described as:",
+        "options": [
+          "A. Case-control study",
+          "B. Randomized controlled trial",
+          "C. Cohort study",
+          "D. Cross-sectional study",
+          "E. Case series"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "In which type of study are participants assigned based on exposure status and followed to determine the outcome of interest?",
+        "options": [
+          "A. Cross-sectional study",
+          "B. Case-control study",
+          "C. Cohort study",
+          "D. Case series",
+          "E. Randomized controlled trial"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "Which of the following study designs is most suitable for studying the effectiveness of a new drug in preventing disease recurrence?",
+        "options": [
+          "A. Cohort study",
+          "B. Cross-sectional study",
+          "C. Case-control study",
+          "D. Randomized controlled trial",
+          "E. Case series"
+        ],
+        "correct_answer": "D"
+      },
+      {
+        "question": "A research team is investigating whether a specific lifestyle factor is linked to an increased risk of heart disease. They enroll patients based on their current health status and retrospectively determine exposure to the lifestyle factor. What type of study is this?",
+        "options": [
+          "A. Cohort study",
+          "B. Case-control study",
+          "C. Cross-sectional study",
+          "D. Randomized controlled trial",
+          "E. Case series"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "A study aims to determine whether a new vaccine is effective in preventing a viral infection. The participants are divided into two groups, one receiving the vaccine and the other a placebo, and are monitored for six months to see who contracts the infection. What type of study design is this?",
+        "options": [
+          "A. Cohort study",
+          "B. Case-control study",
+          "C. Cross-sectional study",
+          "D. Randomized controlled trial",
+          "E. Case series"
+        ],
+        "correct_answer": "D"
+      },
+      {
+        "question": "Researchers want to investigate the link between smoking and lung cancer by enrolling patients with lung cancer and a group without lung cancer. They look back at whether the patients were smokers or non-smokers. This type of study is best described as:",
+        "options": [
+          "A. Cohort study",
+          "B. Randomized controlled trial",
+          "C. Case-control study",
+          "D. Cross-sectional study",
+          "E. Case series"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "Which type of study involves collecting data at a single point in time to assess the prevalence of a disease or exposure in a population?",
+        "options": [
+          "A. Cohort study",
+          "B. Cross-sectional study",
+          "C. Case-control study",
+          "D. Randomized controlled trial",
+          "E. Case series"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "A researcher conducts a study where they follow a group of individuals over time, with some individuals exposed to a certain environmental factor and others not. The study's goal is to see if the exposed group has a higher rate of a particular disease compared to the non-exposed group. This study is best described as:",
+        "options": [
+          "A. Cross-sectional study",
+          "B. Case-control study",
+          "C. Cohort study",
+          "D. Randomized controlled trial",
+          "E. Case series"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "A medical team reviews patient records to determine the effectiveness of a new treatment for heart failure, comparing outcomes between patients who received the treatment and those who did not. The study looks back at past records to draw conclusions. What is the best description of this study?",
+        "options": [
+          "A. Case-control study",
+          "B. Cohort study",
+          "C. Cross-sectional study",
+          "D. Randomized controlled trial",
+          "E. Historical cohort study"
+        ],
+        "correct_answer": "E"
+      },
+      {
+        "question": "A study follows a group of people who were exposed to a particular chemical in their workplace and another group who were not exposed. Over the next 10 years, the researchers track which individuals develop cancer. What is the best description of this study?",
+        "options": [
+          "A. Case-control study",
+          "B. Randomized controlled trial",
+          "C. Cohort study",
+          "D. Cross-sectional study",
+          "E. Case series"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "A group of patients with a rare neurological disease and a group without the disease are identified. Researchers then assess whether these patients were exposed to a certain toxin in the past. This study design is best classified as:",
+        "options": [
+          "A. Cross-sectional study",
+          "B. Case-control study",
+          "C. Cohort study",
+          "D. Randomized controlled trial",
+          "E. Historical cohort study"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "Which of the following is the primary feature of a cohort study?",
+        "options": [
+          "A. Comparing individuals with and without a disease",
+          "B. Following individuals forward in time from exposure to outcome",
+          "C. Randomly assigning participants to treatment groups",
+          "D. Assessing the prevalence of a disease at a single point in time",
+          "E. Identifying rare diseases retrospectively"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "Researchers examine hospital records from 1985 to 2000 to study the outcomes of patients who received a particular treatment compared to those who did not. What is the best description of this study?",
+        "options": [
+          "A. Cohort study",
+          "B. Cross-sectional study",
+          "C. Randomized controlled trial",
+          "D. Historical cohort study",
+          "E. Case-control study"
+        ],
+        "correct_answer": "D"
+      },
+      {
+        "question": "A researcher selects a group of patients currently living with diabetes and a group of patients without diabetes. They then examine whether these individuals had exposure to a high-sugar diet in the past. Which study design does this represent?",
+        "options": [
+          "A. Cross-sectional study",
+          "B. Cohort study",
+          "C. Case-control study",
+          "D. Historical cohort study",
+          "E. Randomized controlled trial"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "A study is conducted where participants are selected based on their smoking status (smokers vs. non-smokers) and are followed for 15 years to observe whether they develop lung disease. What is this type of study?",
+        "options": [
+          "A. Case-control study",
+          "B. Cross-sectional study",
+          "C. Cohort study",
+          "D. Historical cohort study",
+          "E. Randomized controlled trial"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "Researchers are investigating the relationship between obesity and heart disease by selecting individuals who currently have heart disease and those who don’t. They then examine past data to determine if the individuals were obese. What is the design of this study?",
+        "options": [
+          "A. Case-control study",
+          "B. Cohort study",
+          "C. Cross-sectional study",
+          "D. Historical cohort study",
+          "E. Randomized controlled trial"
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "question": "Which type of study provides a snapshot of a population’s health status at a single point in time, allowing for assessment of the prevalence of a disease?",
+        "options": [
+          "A. Cross-sectional study",
+          "B. Case-control study",
+          "C. Cohort study",
+          "D. Historical cohort study",
+          "E. Randomized controlled trial"
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "question": "A research team wants to assess the long-term effects of a drug by reviewing patient records from 2000 to 2010. They compare the health outcomes of patients who received the drug with those who did not. What type of study is this?",
+        "options": [
+          "A. Cross-sectional study",
+          "B. Case-control study",
+          "C. Historical cohort study",
+          "D. Cohort study",
+          "E. Randomized controlled trial"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "A group of people are assigned randomly to either receive a new medication or a placebo. The researchers monitor the groups over time to compare the effects of the medication on blood pressure. This is an example of:",
+        "options": [
+          "A. Cohort study",
+          "B. Case-control study",
+          "C. Cross-sectional study",
+          "D. Historical cohort study",
+          "E. Randomized controlled trial"
+        ],
+        "correct_answer": "E"
+      }
+    ],
+    "6":[
+      {
+        "question": "A diagnostic test is used to screen for a rare genetic disorder in a population of 1,000 individuals. Out of 80 individuals who have the disorder, the test correctly identifies 64 as positive. There are 920 individuals without the disorder, and the test correctly identifies 890 as negative. What is the sensitivity of the diagnostic test?",
+        "options": [
+          "A. 80%",
+          "B. 90%",
+          "C. 95%",
+          "D. 70%"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "A novel test is developed to detect early-stage lung cancer. The test was given to 500 people, 100 of whom had lung cancer. Of the 400 who were healthy, the test correctly identified 380. However, the test also gave positive results to 20 healthy individuals. What is the specificity of the test?",
+        "options": [
+          "A. 80%",
+          "B. 95%",
+          "C. 90%",
+          "D. 85%"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "A new rapid diagnostic test for influenza was used on 300 patients during flu season. The results showed 120 positive tests, but only 90 of those patients actually had the flu. There were 30 false positives. What is the positive predictive value (PPV) of this rapid influenza test?",
+        "options": [
+          "A. 75%",
+          "B. 60%",
+          "C. 90%",
+          "D. 85%"
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "question": "A screening test for colorectal cancer was administered to 400 individuals, 50 of whom had biopsy-confirmed cancer. The test correctly identified 45 of these patients. Out of 350 patients without cancer, 300 tested negative. What is the negative predictive value (NPV) of the test?",
+        "options": [
+          "A. 86%",
+          "B. 95%",
+          "C. 90%",
+          "D. 82%"
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "question": "A research study tests a new method for diagnosing liver disease. The study includes 1,000 patients, 150 of whom are confirmed to have liver disease. The test gives a positive result for 100 patients with liver disease and 50 without it. What is the specificity of this new diagnostic method?",
+        "options": [
+          "A. 94%",
+          "B. 87%",
+          "C. 76%",
+          "D. 67%"
+        ],
+        "correct_answer": "A"
+      }
+    ],
+    "7" : [
+      {
+        "question": "A cohort study was conducted to assess the association between high cholesterol levels and heart disease. Among 1,000 individuals with high cholesterol, 300 developed heart disease. Among 2,000 individuals with normal cholesterol levels, 150 developed heart disease. What is the relative risk of heart disease in individuals with high cholesterol compared to those with normal cholesterol levels?",
+        "options": [
+          "A. 2.0",
+          "B. 1.5",
+          "C. 4.0",
+          "D. 0.75",
+          "E. 3.0"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "In a case-control study investigating the relationship between alcohol consumption and liver cancer, 80 out of 100 liver cancer patients reported heavy alcohol consumption, while 30 out of 100 healthy controls reported heavy alcohol consumption. What is the odds ratio for developing liver cancer due to heavy alcohol consumption?",
+        "options": [
+          "A. 7.0",
+          "B. 12.0",
+          "C. 2.3",
+          "D. 2.5",
+          "E. 6.0"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "A study looks at the link between physical inactivity and obesity. Of the 500 people who are physically inactive, 150 are obese. Of the 1,500 who are physically active, 100 are obese. What is the attributable risk (risk difference) for obesity between the inactive and active groups?",
+        "options": [
+          "A. 0.1",
+          "B. 0.05",
+          "C. 0.25",
+          "D. 0.15",
+          "E. 0.2"
+        ],
+        "correct_answer": "D"
+      },
+      {
+        "question": "A population health study found the overall incidence of Type 2 diabetes in a community was 80 per 10,000 people. Among individuals who followed a regular exercise routine, the incidence was 30 per 10,000 people. Calculate the population attributable risk (PAR) for Type 2 diabetes due to lack of exercise.",
+        "options": [
+          "A. 30 per 10,000",
+          "B. 50 per 10,000",
+          "C. 80 per 10,000",
+          "D. 60 per 10,000",
+          "E. 40 per 10,000"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "In a study of the effects of smoking on lung cancer, the incidence of lung cancer in smokers was 120 per 1,000 people, while in non-smokers, it was 30 per 1,000 people. What is the attributable risk percent (AR%) for lung cancer due to smoking?",
+        "options": [
+          "A. 66.7%",
+          "B. 75%",
+          "C. 50%",
+          "D. 80%",
+          "E. 60%"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "A cohort study was conducted to assess the impact of high salt intake on the development of hypertension. In a group of 1,200 individuals with high salt intake, 240 developed hypertension. In a group of 800 individuals with low salt intake, 80 developed hypertension. What is the Relative Risk (RR) of developing hypertension in individuals with high salt intake compared to those with low salt intake?",
+        "options": [
+          "A. 2.0",
+          "B. 1.5",
+          "C. 3.0",
+          "D. 1.8",
+          "E. 2.5"
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "question": "In a case-control study investigating the relationship between smoking and lung cancer, 300 out of 400 lung cancer patients were smokers, while 100 out of 500 healthy controls were smokers. What is the Odds Ratio (OR) for developing lung cancer due to smoking?",
+        "options": [
+          "A. 5.0",
+          "B. 3.75",
+          "C. 4.5",
+          "D. 6.0",
+          "E. 7.0"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "A clinical trial was conducted to evaluate the effectiveness of a new vaccine. Among 1,000 vaccinated individuals, 50 developed the disease. In a control group of 1,000 unvaccinated individuals, 150 developed the disease. What is the Absolute Risk Reduction (ARR) for the disease due to the vaccine?",
+        "options": [
+          "A. 10%",
+          "B. 5%",
+          "C. 7.5%",
+          "D. 15%",
+          "E. 20%"
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "question": "A study examined the relationship between physical inactivity and obesity. Of the 500 physically inactive participants, 150 were obese. Of the 1,000 physically active participants, 100 were obese. What is the Attributable Risk Percent (AR%) for obesity due to physical inactivity?",
+        "options": [
+          "A. 25%",
+          "B. 50%",
+          "C. 33.3%",
+          "D. 66.7%",
+          "E. 75%"
+        ],
+        "correct_answer": "D"
+      },
+      {
+        "question": "A trial assessed the side effects of a new medication. Out of 400 individuals who took the medication, 80 experienced severe headaches. In the control group of 400 individuals who did not take the medication, 40 experienced severe headaches. What is the Number Needed to Harm (NNH) for severe headaches due to the medication?",
+        "options": [
+          "A. 10",
+          "B. 15",
+          "C. 25",
+          "D. 20",
+          "E. 5"
+        ],
+        "correct_answer": "D"
+      },
+      {
+        "question": "A cohort study was conducted to investigate the relationship between alcohol consumption and liver disease. In the group of 600 individuals who regularly consumed alcohol, 90 developed liver disease. In the group of 400 individuals who did not consume alcohol, 20 developed liver disease. What is the Relative Risk (RR) of developing liver disease for alcohol consumers compared to non-consumers?",
+        "options": [
+          "A. 2.5",
+          "B. 3.0",
+          "C. 1.5",
+          "D. 4.5",
+          "E. 2.0"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "In a case-control study on the link between high-fat diets and obesity, 180 of 240 obese individuals were found to follow a high-fat diet, while 120 of 360 non-obese individuals followed a high-fat diet. What is the Odds Ratio (OR) for obesity due to a high-fat diet?",
+        "options": [
+          "A. 3.5",
+          "B. 2.25",
+          "C. 6.0",
+          "D. 2.7",
+          "E. 3.0"
+        ],
+        "correct_answer": "E"
+      },
+      {
+        "question": "A randomized controlled trial was conducted to assess the effectiveness of a new treatment for reducing blood pressure. Among 500 individuals who received the treatment, 50 developed high blood pressure. Among 500 individuals who received a placebo, 150 developed high blood pressure. What is the Absolute Risk Reduction (ARR) for high blood pressure due to the treatment?",
+        "options": [
+          "A. 15%",
+          "B. 10%",
+          "C. 20%",
+          "D. 5%",
+          "E. 25%"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "A study explored the impact of physical inactivity on diabetes. In a group of 1,200 inactive individuals, 240 developed diabetes. In a group of 800 physically active individuals, 80 developed diabetes. What is the Attributable Risk (AR) for diabetes due to physical inactivity?",
+        "options": [
+          "A. 5%",
+          "B. 10%",
+          "C. 15%",
+          "D. 7.5%",
+          "E. 20%"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "A clinical trial was conducted to assess the risk of severe nausea from a new drug. Out of 1,000 individuals who received the drug, 200 experienced severe nausea. In the control group of 1,000 individuals who did not receive the drug, 50 experienced severe nausea. What is the Number Needed to Harm (NNH) for severe nausea due to the new drug?",
+        "options": [
+          "A. 7",
+          "B. 6",
+          "C. 10",
+          "D. 12",
+          "E. 5"
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "question": "A cohort study was conducted to assess the association between a new pesticide and the development of lung disease. Out of 800 individuals exposed to the pesticide, 40 developed lung disease. Out of 1,200 individuals not exposed to the pesticide, 20 developed lung disease. What is the Attributable Risk Percent (AR%) for lung disease due to pesticide exposure?",
+        "options": [
+          "A. 50%",
+          "B. 75%",
+          "C. 33%",
+          "D. 25%",
+          "E. 67%"
+        ],
+        "correct_answer": "E"
+      },
+      {
+        "question": "A population health study examined the impact of a high-fat diet on cardiovascular disease (CVD). In a population of 15,000 people, the overall incidence of CVD was 500 per 100,000. Among people with a high-fat diet, the incidence was 900 per 100,000. What is the Population Attributable Risk (PAR) for CVD due to a high-fat diet?",
+        "options": [
+          "A. 400 per 100,000",
+          "B. 300 per 100,000",
+          "C. 500 per 100,000",
+          "D. 200 per 100,000",
+          "E. 450 per 100,000"
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "question": "A clinical trial investigated the effect of a new drug on reducing blood sugar levels. In a group of 800 people treated with the drug, 40 experienced hypoglycemia. In a control group of 1,200 people who did not receive the drug, 10 experienced hypoglycemia. What is the Number Needed to Harm (NNH) for hypoglycemia due to the drug?",
+        "options": [
+          "A. 50",
+          "B. 40",
+          "C. 60",
+          "D. 30",
+          "E. 24"
+        ],
+        "correct_answer": "E"
+      },
+      {
+        "question": "In a study examining the relationship between air pollution and asthma, the incidence of asthma in areas with high pollution was 120 per 1,000 individuals. In areas with low pollution, the incidence was 60 per 1,000 individuals. What is the Risk Difference (Attributable Risk) for asthma due to air pollution?",
+        "options": [
+          "A. 10 per 1,000",
+          "B. 20 per 1,000",
+          "C. 40 per 1,000",
+          "D. 60 per 1,000",
+          "E. 50 per 1,000"
+        ],
+        "correct_answer": "D"
+      },
+      {
+        "question": "A case-control study investigated the association between asbestos exposure and lung cancer. Out of 300 lung cancer patients, 210 had been exposed to asbestos. Out of 400 healthy controls, 120 had been exposed to asbestos. What is the Odds Ratio (OR) for lung cancer due to asbestos exposure?",
+        "options": [
+          "A. 4.67",
+          "B. 6.5",
+          "C. 3.75",
+          "D. 2.8",
+          "E. 5.25"
+        ],
+        "correct_answer": "E"
+      },
+      {
+        "question": "A cohort study was conducted to evaluate the relationship between secondhand smoke exposure and the development of respiratory infections. Among 1,000 individuals exposed to secondhand smoke, 150 developed respiratory infections. Among 2,000 individuals not exposed to secondhand smoke, 100 developed respiratory infections. What is the Relative Risk (RR) of respiratory infections in individuals exposed to secondhand smoke compared to those not exposed?",
+        "options": [
+          "A. 3.0",
+          "B. 1.5",
+          "C. 2.0",
+          "D. 1.25",
+          "E. 0.75"
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "question": "A study on the effects of regular physical activity on mental health found that in a group of 1,000 physically active individuals, 40 reported depression. In a group of 500 physically inactive individuals, 60 reported depression. What is the Risk Difference (Attributable Risk) for depression due to physical inactivity?",
+        "options": [
+          "A. 4%",
+          "B. 6%",
+          "C. 8%",
+          "D. 10%",
+          "E. 12%"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "A randomized trial tested the effectiveness of a new cholesterol-lowering drug. In the treatment group of 600 individuals, 60 experienced a significant reduction in cholesterol levels. In the placebo group of 600 individuals, 20 experienced the same reduction. What is the Absolute Risk Reduction (ARR) for the new drug?",
+        "options": [
+          "A. 6.7%",
+          "B. 8%",
+          "C. 10%",
+          "D. 5%",
+          "E. 13.3%"
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "question": "A population health study was conducted to examine the impact of poor diet on obesity rates. The overall incidence of obesity in the population was 200 per 10,000 people. In individuals with a poor diet, the incidence was 300 per 10,000 people. What is the Population Attributable Risk (PAR) for obesity due to a poor diet?",
+        "options": [
+          "A. 100 per 10,000",
+          "B. 50 per 10,000",
+          "C. 150 per 10,000",
+          "D. 200 per 10,000",
+          "E. 75 per 10,000"
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "question": "A case-control study investigated the relationship between exposure to pesticides and the development of neurological diseases. Among 150 neurological disease patients, 90 had been exposed to pesticides. Among 300 healthy controls, 60 had been exposed to pesticides. What is the Odds Ratio (OR) for neurological diseases due to pesticide exposure?",
+        "options": [
+          "A. 6.0",
+          "B. 3.0",
+          "C. 2.75",
+          "D. 2.0",
+          "E. 1.5"
+        ],
+        "correct_answer": "A"
+      }
+    ],
+    "8" : [
+      {
+        "question": "A study is conducted to evaluate the impact of a new dietary supplement on weight loss. Participants are selected from a population that frequently visits health clubs, while the control group is randomly chosen from the general population. Researchers find that the treatment group lost significantly more weight than the control group. What type of bias could most likely affect the validity of this study's results?",
+        "options": [
+          "A. Lead-time bias",
+          "B. Selection bias",
+          "C. Recall bias",
+          "D. Pygmalion effect",
+          "E. Confounding"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "Researchers are studying the association between alcohol consumption and liver cancer. They find a strong association between heavy alcohol consumption and increased risk of liver cancer. However, smoking, which is more prevalent in heavy drinkers, is also known to increase liver cancer risk. What type of bias is most likely affecting the study, and how can this be controlled?",
+        "options": [
+          "A. Selection bias; randomization",
+          "B. Confounding; stratification",
+          "C. Measurement bias; double-blinding",
+          "D. Recall bias; placebo control",
+          "E. Observer bias; randomization"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "A trial on a new cholesterol-lowering drug is conducted. All participants in the treatment group receive intensive counseling from their healthcare providers, while the control group does not. At the end of the study, the treatment group shows greater reductions in cholesterol levels than the control group. The researchers attribute this difference to the drug's efficacy. Which type of bias might be influencing these results?",
+        "options": [
+          "A. Recall bias",
+          "B. Observer bias",
+          "C. Pygmalion effect",
+          "D. Information bias",
+          "E. Lead-time bias"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "A case-control study investigates the link between air pollution and respiratory diseases. Participants with respiratory diseases are more likely to remember specific exposures to air pollutants compared to healthy controls. What kind of bias does this most likely represent?",
+        "options": [
+          "A. Selection bias",
+          "B. Information bias",
+          "C. Recall bias",
+          "D. Measurement bias",
+          "E. Late-look bias"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "A five-year prospective cohort study examines the association between physical activity and heart disease. The participants who regularly exercise are found to have significantly lower rates of heart disease. However, those who engage in regular physical activity are also more likely to adhere to a healthy diet, which is also protective against heart disease. What type of bias is likely present, and how could it be addressed?",
+        "options": [
+          "A. Confounding; multivariate analysis",
+          "B. Lead-time bias; randomization",
+          "C. Measurement bias; placebo control",
+          "D. Selection bias; matching",
+          "E. Observer bias; blinding"
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "question": "A study is conducted to investigate the relationship between smoking and lung cancer. The researchers recruit patients from a cancer treatment center and assign them to a treatment group. However, patients with more advanced stages of lung cancer are excluded from the study because they are unable to participate in follow-ups. What type of bias could this most likely introduce?",
+        "options": [
+          "A. Recall bias",
+          "B. Selection bias",
+          "C. Lead-time bias",
+          "D. Late-look bias",
+          "E. Confounding"
+        ],
+        "correct_answer": "D"
+      },
+      {
+        "question": "A new medication is tested to reduce the incidence of heart disease. Participants in the treatment group receive monthly check-ins from healthcare professionals, while the control group does not. The treatment group shows significantly better outcomes, but researchers are unsure if this is due to the medication or the additional attention given to the participants. What type of bias might be affecting the results?",
+        "options": [
+          "A. Measurement bias",
+          "B. Observer bias",
+          "C. Confounding",
+          "D. Hawthorne effect",
+          "E. Lead-time bias"
+        ],
+        "correct_answer": "D"
+      },
+      {
+        "question": "A study on the effects of a high-protein diet on muscle gain compares participants who volunteered from a fitness club to a randomly selected group of people from the general population. Researchers report that the fitness club participants gained more muscle. Which type of bias might explain these results?",
+        "options": [
+          "A. Selection bias",
+          "B. Lead-time bias",
+          "C. Recall bias",
+          "D. Confounding",
+          "E. Pygmalion effect"
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "question": "A cohort study investigates the association between a sedentary lifestyle and the development of diabetes. The study recruits individuals between the ages of 20 and 40 and follows them for 5 years. Some participants are lost to follow-up, and the final analysis only includes those who remained in the study until the end. What type of bias could this introduce?",
+        "options": [
+          "A. Lead-time bias",
+          "B. Recall bias",
+          "C. Attrition bias",
+          "D. Measurement bias",
+          "E. Confounding"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "A prospective study examines the relationship between a new type of workout routine and reduced body fat. The participants in the treatment group are aware that they are being monitored closely, and they may exercise more intensely because of this awareness. What kind of bias could this lead to?",
+        "options": [
+          "A. Lead-time bias",
+          "B. Selection bias",
+          "C. Pygmalion effect",
+          "D. Hawthorne effect",
+          "E. Confounding"
+        ],
+        "correct_answer": "D"
+      },
+      [
+  {
+    "question": "A new study is investigating the effects of a high-sugar diet on the development of diabetes. Participants are asked to self-report their daily sugar intake. After analyzing the results, researchers observe that many participants under-reported their sugar consumption. What type of bias is most likely affecting the results of this study?",
+    "options": [
+      "A. Selection bias",
+      "B. Recall bias",
+      "C. Measurement bias",
+      "D. Lead-time bias",
+      "E. Attrition bias"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "A randomized controlled trial investigates a new drug for treating high blood pressure. The researchers are unaware of which participants are receiving the drug or the placebo, but the participants know which group they are in. At the end of the study, the treatment group shows better blood pressure control. What type of bias could explain this result?",
+    "options": [
+      "A. Measurement bias",
+      "B. Observer bias",
+      "C. Recall bias",
+      "D. Performance bias",
+      "E. Confounding"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "A study investigates the link between exposure to pesticides and the risk of developing Parkinson’s disease. Participants with Parkinson’s disease are asked to recall their past exposure to pesticides, but those without the disease are less likely to remember such exposures. What type of bias is this most likely to introduce?",
+    "options": [
+      "A. Selection bias",
+      "B. Recall bias",
+      "C. Measurement bias",
+      "D. Observer bias",
+      "E. Lead-time bias"
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "In a study examining the effectiveness of a new diet pill, participants in the treatment group lose significantly more weight than the control group. However, many participants in the treatment group were also more likely to engage in regular physical activity than those in the control group. What kind of bias is this, and how could it be addressed?",
+    "options": [
+      "A. Confounding; stratification",
+      "B. Selection bias; randomization",
+      "C. Measurement bias; blinding",
+      "D. Lead-time bias; multivariate analysis",
+      "E. Recall bias; matching"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "A five-year study on the relationship between alcohol consumption and liver disease recruits participants between the ages of 18 and 25. At the end of the study, researchers find no significant association between alcohol consumption and liver disease. What is the most likely explanation for these findings?",
+    "options": [
+      "A. Selection bias",
+      "B. Recall bias",
+      "C. Measurement bias",
+      "D. Latency period",
+      "E. Confounding"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "A study investigates the effect of a new drug on reducing cholesterol levels. Participants in the treatment group are required to attend monthly check-ups, while participants in the control group receive standard care with no additional monitoring. The treatment group shows a significant reduction in cholesterol levels. What type of bias might be influencing these results?",
+    "options": [
+      "A. Recall bias",
+      "B. Confounding",
+      "C. Selection bias",
+      "D. Performance bias",
+      "E. Hawthorne effect"
+    ],
+    "correct_answer": "E"
+  },
+  {
+    "question": "A study examining the relationship between alcohol consumption and liver cirrhosis excludes participants who already have liver disease at the start of the study. By the end of the study, researchers find that alcohol consumption does not significantly increase the risk of liver cirrhosis. What type of bias is most likely affecting the results?",
+    "options": [
+      "A. Attrition bias",
+      "B. Lead-time bias",
+      "C. Selection bias",
+      "D. Latency period",
+      "E. Measurement bias"
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "Researchers conduct a case-control study investigating the relationship between air pollution and asthma. Asthma patients are more likely to report exposure to pollution than control participants without asthma, possibly due to heightened awareness of their condition. What type of bias is this most likely to introduce?",
+    "options": [
+      "A. Recall bias",
+      "B. Selection bias",
+      "C. Observer bias",
+      "D. Lead-time bias",
+      "E. Confounding"
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "In a clinical trial for a new weight loss supplement, participants in the control group are significantly less motivated than those in the treatment group. As a result, the control group shows little change in weight. What type of bias could this introduce into the study?",
+    "options": [
+      "A. Confounding",
+      "B. Selection bias",
+      "C. Performance bias",
+      "D. Pygmalion effect",
+      "E. Attrition bias"
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "A study is designed to measure the effects of exercise on cardiovascular health. Participants in the study are asked to report how much they exercise each week. Researchers notice that those who are healthier tend to overestimate their exercise levels, while those with poor health tend to underestimate their exercise. What type of bias is most likely affecting the study results?",
+    "options": [
+      "A. Measurement bias",
+      "B. Recall bias",
+      "C. Selection bias",
+      "D. Confounding",
+      "E. Observer bias"
+    ],
+    "correct_answer": "A"
+  }
+]
+
+    ],
+    "9" : [
+      {
+        "question": "In a city with a population of 1.2 million people, 60,000 individuals were reported to have hypertension, either old or new cases. What is the point prevalence of hypertension in this population?",
+        "options": [
+          "A. 2%",
+          "B. 3%",
+          "C. 4%",
+          "D. 5%"
+        ],
+        "correct_answer": "D"
+      },
+      {
+        "question": "A study is conducted on a population of 250,000 individuals, and 500 new cases of tuberculosis are diagnosed over a period of one year. What is the incidence rate of tuberculosis per 100,000 people per year?",
+        "options": [
+          "A. 150 cases per 100,000",
+          "B. 200 cases per 100,000",
+          "C. 250 cases per 100,000",
+          "D. 300 cases per 100,000"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "In a cohort study of 10,000 participants, 800 people developed lung disease over a follow-up period of five years. What is the cumulative incidence of lung disease over the five-year period?",
+        "options": [
+          "A. 5%",
+          "B. 6%",
+          "C. 7%",
+          "D. 8%"
+        ],
+        "correct_answer": "D"
+      },
+      {
+        "question": "In 2023, a country with a mid-year population of 80 million recorded 480,000 deaths from all causes. What is the crude mortality rate per 100,000 people for 2023?",
+        "options": [
+          "A. 500 deaths per 100,000",
+          "B. 600 deaths per 100,000",
+          "C. 700 deaths per 100,000",
+          "D. 800 deaths per 100,000"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "An outbreak of a viral infection affected 1,200 people, and 90 of them died as a result. What is the case fatality rate for this viral outbreak?",
+        "options": [
+          "A. 5%",
+          "B. 7.5%",
+          "C. 10%",
+          "D. 12%"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "In a population of 400,000 people, 20,000 are diagnosed with asthma. What is the prevalence of asthma in this population?",
+        "options": [
+          "A. 4%",
+          "B. 5%",
+          "C. 6%",
+          "D. 7%"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "A cohort study followed 1,000 individuals over a period of 10 years. During this time, 250 individuals developed heart disease. What is the cumulative incidence of heart disease in this cohort?",
+        "options": [
+          "A. 15%",
+          "B. 20%",
+          "C. 25%",
+          "D. 30%"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "In 2022, a country reported 2,000 new cases of HIV in a population of 10 million people. What is the incidence rate of HIV per 100,000 people for that year?",
+        "options": [
+          "A. 15 cases per 100,000",
+          "B. 20 cases per 100,000",
+          "C. 25 cases per 100,000",
+          "D. 30 cases per 100,000"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "In a community of 500,000 people, there were 3,500 deaths from all causes in 2021. What is the crude mortality rate per 100,000 people for that year?",
+        "options": [
+          "A. 600 deaths per 100,000",
+          "B. 650 deaths per 100,000",
+          "C. 700 deaths per 100,000",
+          "D. 750 deaths per 100,000"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "A total of 1,000 people were exposed to contaminated food at a restaurant. Of these, 250 developed food poisoning. What is the attack rate of food poisoning in this population?",
+        "options": [
+          "A. 20%",
+          "B. 25%",
+          "C. 30%",
+          "D. 35%"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "In a community with a population of 750,000 people, 150,000 individuals are currently living with diabetes, either old or newly diagnosed cases. What is the point prevalence of diabetes in this population?",
+        "options": [
+          "A. 15%",
+          "B. 20%",
+          "C. 25%",
+          "D. 30%"
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question": "In a study following 5,000 participants over 2 years, 300 individuals developed cardiovascular disease. What is the cumulative incidence of cardiovascular disease over the two-year period?",
+        "options": [
+          "A. 4%",
+          "B. 5%",
+          "C. 6%",
+          "D. 7%"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "A population of 900,000 people experiences 4,500 deaths over one year. What is the crude mortality rate per 100,000 people for that year?",
+        "options": [
+          "A. 400 deaths per 100,000",
+          "B. 450 deaths per 100,000",
+          "C. 500 deaths per 100,000",
+          "D. 550 deaths per 100,000"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "In a village of 5,000 people, 500 individuals were exposed to a contaminated water source. Of those exposed, 100 people developed a gastrointestinal illness. What is the attack rate of the illness?",
+        "options": [
+          "A. 10%",
+          "B. 15%",
+          "C. 20%",
+          "D. 25%"
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question": "In 2023, a population of 2 million people reported 200 new cases of a rare disease. What is the incidence rate of the disease per 100,000 people?",
+        "options": [
+          "A. 5 cases per 100,000",
+          "B. 10 cases per 100,000",
+          "C. 15 cases per 100,000",
+          "D. 20 cases per 100,000"
+        ],
+        "correct_answer": "B"
+      }
     ]
 }
