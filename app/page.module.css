@@ -48,8 +48,7 @@
   margin-bottom: 20px;
 }
 
-.optionsContainer {
-  max-height: 0;
+.optionsContainer { 
   overflow: hidden;
   opacity: 0;
   transform: translateY(-20px); /* Start slightly above */
@@ -140,6 +139,7 @@
  align-items: center;
  margin: auto;
  height: 100vh;
+ flex-direction: column;
  align-content: center;
 
 }
@@ -184,8 +184,13 @@
 }
 
 .optionsContainer {
-  margin-top: 20px;
-  width: 100%;
+  margin-top: 20px; 
+}
+
+.nestedContainer{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
 }
 
 .option {
@@ -199,10 +204,13 @@
   transition: background-color 0.3s, transform 0.2s;
   border: 1px solid black;
   text-align: center; 
-  width: 70vw;
   color: #FFF;
 }
 
+.row1{
+  display: flex;
+  gap: 5px;
+}
 .option:hover {
   background-color: #e0e0e0;
   transform: scale(1.05);
