@@ -1,7 +1,7 @@
 "use client"; // Ensure the component runs on the client side
 
 import React, { useState, useEffect } from 'react';
-import styles from '../../page.module.css'; // Assuming you have a CSS module for styling
+import styles from '../../../page.module.css'; // Assuming you have a CSS module for styling
 import questionsData from './questions.json'; // Importing the questions JSON
 import { useRouter } from 'next/navigation';
 
