@@ -1,0 +1,58 @@
+Tumors of the PancreasElizabeth Williams, DOClinical SystemsGastroenterology ModuleTouro COM, Middletown, NY
+
+Objectives•Review the genetics and pathophysiology of pancreatic cancer.•Recognize and identify risk factors for pancreatic cancer.•Discuss screening, clinical presentation, and physical exam findings in patients with pancreatic cancer.•Describe appropriate diagnostic workup of patients with pancreatic masses.•Recognize treatment options for patients with pancreatic cancer.•Review prognosis of patients diagnosed with pancreatic cancer.
+
+Reading•Goldman-Cecil Textbook of Medicine, Goldman, 26th e, Chapter 186
+
+Pancreatic Adenocarcinoma:Epidemiology•4th leading cause of death•6% of all cancer•Rising incidence•Difficult to diagnose in early stages•1-year survival is 24%•5-year survival is 5%
+
+Pancreatic Cancer: Pathophysiology•Can arise from both the exocrine and endocrine portion–75% are in the head of the pancreas•Obstructive jaundice that is PAINLESS is hallmark sign!–12- 20% in the body–5-10% in the tail•Mets to the lymph nodes → liver
+
+Pancreatic Cancer:Risk Factors•Tobacco•Alcohol •Obesity•Diabetes mellitus•Chronic pancreatitis•Genetics•Family history
+
+Pancreatic Cancer: Genetics•Hereditary pancreatitis •Multiple endocrine neoplasia (MEN) •Hereditary nonpolyposis rectal cancer (HNPCC), •Familial adenomatous polyposis (FAP) •Gardner syndrome •Familial atypical multiple mole melanoma (FAMMM) syndrome •Von Hippel-Lindau syndrome (VHL), •Germline mutations in the BRCA1 and BRCA2 genes
+
+Pancreatic Cancer: Genetics
+Goldman-Cecil Medicine.Laheru, Daniel. Published December 31, 2015. Pages 1332-1334.e2. © 2016. FIGURE194-1Genetic progression model of pancreatic adenocarcinoma. Molecular changes in the development of pancreatic ductal adenocarcinoma begin with early changes that include telomere shortening and development of mutations in KRAS ; these are followed by loss of p16 function and expression of cyclin D1. Late changes include expression of p53 and loss of SMAD4/DPC4. PanIN = pancreatic intraepithelial neoplasia.
+
+Screening for Pancreatic CancerClinicians should NOT screen average-risk individuals for pancreas cancer
+
+
+Who should be screened for Pancreatic Cancer?•PATIENTS AT HIGH RISK FOR PANCREATIC CANCER–Patients are considered high risk if they•Are a first-degree relative of a patient with pancreas cancer with at least two affected genetically related relatives•Have a genetic syndromes associated with an increased risk of pancreas cancer:–Peutz–Jegher syndrome–hereditary pancreatitis–CDKN2A gene mutation–Have one or more first-degree relatives with pancreas cancer with Lynch syndrome–Have mutations in BRCA1, BRCA2, PALB2, and ATM genesConsider genetic testing & counseling for familial pancreatic cancer relative and referral to a registry or pancreas “Center of Excellence”
+
+When to Start Screening for Pancreatic Cancer•Potential risks of screening should be discussed with patients before initiating a screening program•Screening in high-risk individuals should begin at age 50 years, or 10 years younger than the initial age of familial onset OR–at age 40 years in CKDN2A & PRSS1 mutation carriers with hereditary pancreatitis–at age 35 years in the setting of Peutz–Jegher syndrome.
+
+How do you screen for Pancreatic Cancer?•MRI & endoscopic ultrasonography (EUS) should be used in combination (preferred) •What is the interval?–Every 12 months should be considered when there are no concerning lesions found–More frequent screening depends on the types of lesions found and decided upon by a multidisciplinary team–New-onset diabetes in a high-risk individual should lead to additional diagnostic studies or change in the interval–Discontinue screening in high-risk individuals when they are more likely to die from non-pancreatic cancer related causes or are not candidates for surgical resection
+
+What to do if you find something on screening?•Shared decision making!–Decisions regarding therapy directed towards abnormal findings detected during screening should be made by a dedicated multidisciplinary team together with the high-risk individual & their family•Surgical resection should be performed at high-volume centers
+
+Clinical Findings: History•Nonspecific symptoms–anorexia, malaise, nausea, fatigue •Weight loss•Pain–mid-epigastric, radiating to back, postprandial•Diabetes new onset at advanced age•Painless jaundice•Depression•Migratory thrombophlebitis (Trousseau sign)•Marantic endocarditis
+
+Clinical Findings: Physical Exam•Weight loss•Abdominal pain•Jaundice (painless)•Ascites•Palpable abdominal massOther Findings:•Sister Mary Joseph nodule–paraumbilical•Blumer’s shelf–rectal mass•Virchow’s Node–node in the medial end of the left clavicle
+
+
+Rectovesical metastases or “drop
+metastases” causing rectal shelf of
+Blumer in the pouch of Douglas found
+on per rectal examination
+
+
+
+Work Up for Suspected Pancreatic Cancer•General labs–E.g., CMP , CBC, thyroid, etc.–Results will reflect co-morbid complication of jaundice, metastases or malnutrition•Tumor markers–Ca 19-9–CEA
+
+Imaging Studies for Pancreatic Cancer•Spiral/Helical Computed tomography (CT) scanner•Endoscopic Ultrasound–More sensitive for small, early-stage tumors•Endoscopic Retrograde Cholangio-pancreatography (ERCP)•Magnetic Resonance Imaging (MRI)•Positron Emission Tomography (PET)
+
+dilated
+Pancreatic
+- duct
+
+
+
+For you to review and use during clinical rotations.Remember to always check current clinical guidelines as things change rapidly.
+
+Treatment Pancreatic Cancer•Surgical Resection–only potentially curative treatment•Chemotherapy–5- fluorouracil–Gemcitabine–Erlotinib–Capecitabine
+
+
+Palliative Therapy•Pain management–Narcotics–Neurolysis of the celiac ganglion–Radiation therapy•Jaundice–ERCP stenting of obstructing biliary ducts•Duodenal obstruction–Gastrojejunostomy or duodenal stent
+
+Thank You!•https://www.uptodate.com/contents/clinical-manifestations-diagnosis-and-staging-of-exocrine-pancreatic-cancer?search=pancreatic%20cancer%20diagnosis&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1•https://www.uptodate.com/contents/familial-risk-factors-for-pancreatic-cancer-and-screening-of-high-risk-patients?search=pancreatic%20cancer%20diagnosis&source=search_result&selectedTitle=2~150&usage_type=default&display_rank=2•https://www.uptodate.com/contents/epidemiology-and-nonfamilial-risk-factors-for-exocrine-pancreatic-cancer?search=pancreatic%20cancer%20diagnosis&source=search_result&selectedTitle=4~150&usage_type=default&display_rank=4 

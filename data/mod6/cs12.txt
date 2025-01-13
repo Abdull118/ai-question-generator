@@ -1,0 +1,82 @@
+Diverticular Disease
+Sonu Sahni, M.D.
+
+Objectives•Define diverticulosis and diverticulitis •Identify the risk factors for each•Review the pathogenesis and pathophysiology  •Discuss the clinical presentation•Indicate key elements in the history •Discuss the appropriate physical exam and interpret clinical findings •Identify and describe appropriate tests to screen and diagnose each •Identify and discuss the complications of each •Discuss the treatment and prevention including diet, lifestyle modifications, pharmacologic management and indications for surgery 
+
+Reading •Cecil Medicine 25th Edition–Chapter 142•Lange Pathophysiology of Disease 7th Edition–Chapter 13•Bates’ Guide to Physical Examination, 10th edition, chapter 11 pp. 505, Tables 11-3, 11-4,11-5, 15-2
+
+Diverticular Disease Overview•Spectrum of diverticular diseases (diverticulosis à diverticulitis)•Physiological basis for diverticular formation •Diverticulitis: presentation and complications •Treatment algorithm for diverticulitis 
+
+Terminology•Diverticulosis -- presence of one or more diverticula. Does not imply a pathogenic state. Does not distinguish between asymptomatic or symptomatic cases. •Diverticulitis -- erosion of the diverticular wall due to incremental pressure or inspissated food particles. Inflammation and focal necrosis ensues. Essentially inflammation of a diverticula
+
+Diverticulosis 
+
+
+.*
+
+
+
+Diverticular Disease – Epidemiology•Diverticulosis affects the majority of adults >80 years age. It may affect middle aged adults.•Obesity is a risk factor in young males•A disease of industrialized populations•Western populations more commonly develop diverticula on the left•Asian populations more commonly on the right•Up to ¼ of diverticula may develop into diverticulitis. 
+
+Pathophysiology•Diverticuli develop in ‘weak’ regions of the colon. Specifically, local hernias develop where the vasa recta penetrate the bowel wall
+
+
+Pathogenesis of Diverticula•Diverticulosis -- only the mucosa and the submucosa herniate through the muscular layer covered only by serosa.  Technically this is what “diverticulosis” actually is •Outer longitudinal muscle fibers form teniae. Diverticula develop at four well-defined points around the circumference of the colon; where vasa recta (VR) penetrate the circular muscle layer. 
+MucosaSubmucosaMuscularisSerosaVasa recta
+
+Pathogenesis•Causes: –increased luminal pressure –lack of dietary fiber –weakening of the bowel wall –hypersegmentation 
+
+Pathophysiology of Diverticular Disease
+
+
+Pathophysiology 
+Segmentation
+
+Natural History of Diverticulosis 
+Schoetz DJ. Dis Colon Rectum. 1999 Jun;42(6):703-9.
+
+Complications of Diverticular Disease
+
+
+Diverticular Bleeding•Due to erosion of mucosa exposing vasa recta.•Most common cause of major bleeding in the elderly .•Most common presentation is painless rectal bleeding •Massive bleeding in only 5% of patients. 
+
+
+Diverticulitis 
+
+
+Diverticulitis•Diverticulitis = inflammation of diverticuli•Most common complication of diverticulosis•Occurs in 10-25% of patients with diverticulosis 
+
+Pathophysiology of Diverticulitis•Micro or macroscopic perforation of the diverticulum à subclinical inflammation to generalized peritonitis•Previously thought to be due to fecaliths causing increased diverticular pressure; this is really rare
+
+Pathophysiology of Diverticulitis•Erosion of diverticular wall from increased intraluminal pressure à inflammation à focal necrosis à perforation•Usually inflammation is mild and microperforation is walled off by pericolonic fat and mesentery
+
+Clinical Presentations•LLQ pain, fever, leukocytosis most frequent•Diarrhea, Dysuria, frequency, urgency •Physical exam: LLQ tenderness. Tender mass may represent a phlegmon.  Localized peritoneal inflammation with involuntary guarding and percussion tenderness. Rebound tenderness suggests perforation 
+
+Diagnosis of Diverticulitis•Classic history: increasing, constant, LLQ abdominal pain over several days prior to presentation with fever–Crescendo quality – each day is worse–Constant – not colicky–Fever occurs in more than ½ of cases•In one study, less than 17% of pts with diverticulitis had symptoms for less than 24 hours 
+
+Diagnosis of Diverticulitis•Previous episodes of similar pain •Associated symptoms–Nausea/vomiting 20-62%–Constipation  50%–Diarrhea  25-35%–Urinary symptoms (dysuria, urgency, frequency)  10-15%
+
+Diagnosis of Diverticulitis•Right sided diverticulitis tends to cause RLQ abdominal pain; can be difficult to distinguish from appendicitis
+
+
+Diagnosis of Diverticulitis•Physical examination–Low grade fever–LLQ abdominal tenderness•Usually moderate with no peritoneal signs•Painful pseudo-mass in 20% of cases•Rebound tenderness suggests free perforation and peritonitis•Labs : Mild leukocytosis –45% of patients may have a normal WBC 
+
+Diagnosis of Diverticulitis•Clinically, diagnosis can be made with typical history and examination•Radiographic confirmation is often performed –Rules out other causes of an acute abdomen–Determines severity of the diverticulitis 
+
+Radiological Findings•Barium enema most often establishes the diagnosis •Determines the extent and severity of diverticulosis •May miss concomitant lesions by 50% 
+Touzios et al. Gastro Clin N Amer. 2009; 38:513-525
+
+•Computerized Tomography (CT) is the exam of choice.
+
+
+Natural History of Diverticulitis 
+
+
+Treatment – General Guidelines •Immunocompromised pts require inpatient care•Inflammation, admit for bowel rest and IV antibiotics -- Fever/WBC -- CT •Meperidine -- decreases intracolonic pressure •Surgery seldom for the first episode of uncomplicated diverticulitis •Low risk readmission does not warrant elective surgery for first presentation. •Clear liquid diet
+
+Medical Treatment of Diverticular DiseasePainful Diverticulosis Diverticulitis DietIncrease fiber Reduce fiber (NPO) Bulk LaxativesProbably EffectiveNot indicated Analgesics Avoid Morphine, Meperidine best Avoid Morphine, Meperidine best Antispasmodics Propantheline bromide, Dicyclomine hydrochloride Hyscocyamine sulfateNot indicated Antibiotics Not indicated Colon Flora & Bacteroides
+
+Antibiotics•Oral–Ciprofloxacin + Metronidazole–Amoxicillin-clavulanic acid–Levofloxacin + Metronidazole•Parenteral–Ertapenem–Imipenem-cilastatin–Meropenem–Doripenem–Piperacillin-tazobactam–Cephalosporin/Cipro + Metronidazole–Levofloxacin + MetronidazoleCoverage for gram (-) rods, anaerobes +/-nosocomial
+
+Indications for Surgery Absolute Relative Complications of diverticulitis Symptomatic stricture Peritonitis Immunosuppression Abscess (failed percutaneous drainage) Right-sided diverticulitis Fistula Younger patient Obstruction -Clinical deterioration/failure to improve -Recurrent episodes -Intractable symptoms -Inability to exclude carcinoma 
+

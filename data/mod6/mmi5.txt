@@ -1,0 +1,252 @@
+Intestinal Immunity/Immunopathology of Celiac Disease
+Medical Microbiology and Immunology
+
+Learning Objectives:1.Describe the innate immune components of the intestinal epithelial barrier.2.Appraise the significance of the distribution of pattern recognition receptors along the intestinal mucosa.    3.Describe the gut-associated lymphoid tissues (GALT) and differentiate between immune induction sites and effector sites.4.Describe the factors that determine the outcome (protective immunity vs oral tolerance) of immunological priming in the GALT.5.Appraise the role of dendritic cell activation in the establishment of oral tolerance vs protective immunity.6.Describe the function of CTLA-4.7.Describe the significance of CCR9 and a4b7 in the circulation of GALT-activated lymphocytes.8.Describe the constituent cells of GALT effector sites, the lamina propria and intestinal epithelium.9.Describe the etiology, pathogenesis, diagnosis, and treatment of celiac disease.
+
+Suggested Reading:Essentials of Clinical Immunology, Chapter 14
+
+ 
+The mucosal immune system forms the largest part of the body’s immune tissues.  It contains-ㆍ3/4 of all the body’s lymphocytesㆍthe majority of the body’s immunoglobulin 
+The Mucosal Immune System
+
+Why such a measure of protection at the mucosal surfaces?The vast majority of infectious agents invade the human body via a mucosal surface, and a strong immune response is required to protect this tissue.
+
+
+•At the same time the mucosal immune system must be tolerant.–Foreign, non-pathogenic entities, such as food or environmental antigens that enter the GI or respiratory tract–The 1000+ species of microorganisms that colonize healthy mucosal tissuesThe Mucosal Immune System
+
+The microbiota/gut interplay serves many functions
+
+•The beneficial properties of commensals on host physiology underlie the requirement for immune hypo-responsiveness to these microbial communities.•But, the host/microbial relationship is dependent on the ever-present immune system in limiting the penetration of commensal bacteria.–Increased penetration of commensal bacteria into the tissues of individuals with IgA deficiency–Association of infections with commensal bacteria, during viral infections•Influenzaà bacterial pneumonia
+
+Scalp
+
+As for skin
+
+Oral cavity
+
+Viridans streptococci
+
+Anaerobic Gram-positive bacilli
+
+(including Actinomyces spp.)
+
+Anaerobic Gram-negative bacilli
+Prevotella spp.
+Fusobacterium spp.
+
+Candida spp.
+
+Skin
+
+Coagulase-negative staphylococci
+Staph. aureus
+
+Corynebacterium spp.
+Propionibacterium spp.
+Malassezia spp.
+
+Hands
+Resident: as for skin
+Transient: skin flora (including
+meticillin-resistant and other
+Staph. aureus), bowel flora
+(including Clostridium difficile,
+Candida spp. and Enterobacteriaceae)
+
+Vagina
+
+Lactobacillus spp.
+Staph. aureus
+Candida spp.
+Enterobacteriaceae
+
+Perineum
+As for skin
+As for large bowel
+
+Nares
+Staph. aureus
+Coagulase-negative staphylococci
+
+Pharynx
+
+Haemophilus spp.
+Moraxella catarrhalis
+Neisseria spp. (including N. meningitidis)
+
+Staph, aureus
+
+Strep. pneumoniae
+
+Strep. pyogenes (group A)
+Viridans streptococci
+
+Small bowel
+
+of large bowel bacteria
+Candida spp.
+
+Large bowel
+Enterobacteriaceae
+Escherichia coli
+Klebsiella spp.
+Enterobacter spp.
+Proteus spp.
+Enterococci
+E. faecalis
+E. faecium
+Milleri group streptococci
+Strep. anginosus
+Strep. intermedius
+Strep. constellatus
+Anaerobic Gram-positive bacilli
+Clostridium spp.
+Anaerobic Gram-negative bacilli
+Bacteroides spp.
+Prevotella spp.
+Candida spp.
+
+Distally, progressively increasing numbers
+
+
+Therefore, the major challenge is to make immune responses that eliminate pathogenic organisms, limit the growth and spread of commensal organisms, and do not attack food antigens. PathogensCommensalsFood
+
+
+Lets get oriented!
+
+The first line of defense is the intestinal epithelium!
+
+
+Innate Protective Mechanisms of the Mucosal Epithelial BarrierTight junctions: formed between the cells of the intestinal epithelium forms a barrier against the penetration of microorganisms.2 layers of mucus: Outer layer is colonized by bacteria, which becomes trapped in the mucus and is pushed out by intestinal peristalsis.  Inner layer contains high concentrations of antimicrobial proteins (produced by IECs), making it resistant to bacterial growth, thus, keeping bacteria away from epithelial surface.IgA: essential in maintaining luminal compartmentalization of intestinal bacteria, as shown by the fact that IgA deficiency can lead to increased penetration of symbiotic bacteria into the host tissues.
+
+Remainingbound fragmentof poly-Igreceptorprotects secretedIgAfrom beingbroken down/degradedin the intestinal lumen. 
+
+epithelial
+cell
+
+Lamina propria
+
+Figure 11-15 Immunobiology, 7ed. (© Garland Science 2008)
+
+
+γδ TCR-bearing intraepithelial lymphocytes (IELs): contribute to epithelial repair by secreting epithelial growth factors, and produce a number of pro-inflammatory and antimicrobial factors. Macrophages: quickly phagocytose bacteria that pass across the mucosal barrier.Innate protective mechanisms of the Mucosal Epithelial Barrier
+
+Review: What are gd T cells?
+•γδT cells do not recognize MHC-associated peptide antigens and are not MHC restricted. •Limited diversity suggesting the ligands for these receptors may be invariant and conserved
+
+anti-microbial proteinsSimilar to the epithelial cells in the lung, IECs express an array of PRRs, with some adaptations
+*IECs express little or no cell surface TLRs, thus minimizing the recognition of ubiquitous microbes.
+
+•The small intestine also contains specialized epithelial cells called Paneth cells, which are located at the base of the small intestinal crypts. •In contrast to the intestinal lumen, the crypt lumen is maintained sterile in order to prevent injury to nearby epithelial stem cells.•Bacteria in an infected crypt will stimulate the release of anti-microbial proteins by bacterial engagement of PRRs, principally cell surface TLR 2, TLR 4, NOD -1 and NOD -2.•In response, panethcell produce various anti-microbial proteins, such as the defensins, which lyse gram positive and gram negative bacterial  membranes.
+
+
+Mucosa-associated lymphoid tissues (MALT)
+
+
+GALT can be divided into induction sites and effector sites
+
+Peyer’s Patches
+
+
+•Unlike enterocytes, M cells do not secrete digestive enzymes or mucus, and lack the thick surface glycocalyx.  •This enables M cells to take up intact microorganisms and particulate antigens from the gut lumen. M cells
+
+
+
+Resident Dendritic Cells
+•DCs can extend processes between the cells of the epithelium.•Activated DCs traffic to the T cell areas and/or B cell follicles of the mLN, where they interact with naïve lymphocytes.
+
+
+The outcome of immunological priming in the GALT by intestinal antigens can result in two very different outcomes depending upon the nature of the antigen.
+
+
+Oral Tolerance
+
+How does GALT differentiate between antigens derived from pathogens and those derived from harmless commensal bacteria and food?
+
+The key is the activation (or not) of the innate immune system!•Pathogenic bacteria possess mechanisms that allow them to invade the intestinal mucosa, leading to tissue damage and the activation of the innate immune system, and the production of inflammatory cytokines.•In contrast, commensal bacteria (or food antigens) lack the ability to penetrate the intact intestinal epithelium. Together with a lack of TLR on the luminal surface of the intestinal epithelial cells, this means that commensal bacteria and food antigens induce much less inflammation that their pathogenic counterparts.       
+
+Examples!
+
+Salmonellae can use either M cells or dendriticcells as portals to infect the intestinal epithelium.   
+
+It is the ability of pathogenic bacteria to invade intact intestinal epithelium that differentiates them from commensal bacterial, and which results in activated inflammatory pathways.  How does this influence the development of an adaptive immune response? 
+
+Inflammation induced by pathogenic organisms inducescomplete dendritic cell activation.
+
+
+In contrast, commensal bacteria fail to penetrate host tissues and as a result, induce minimal inflammation.
+
+
+What is CTLA-4?
+
+
+Now what?
+
+
+Naïve T cells circulate through peripheral lymphoid organs
+
+Activated T cells home to mucosal effector sites
+Activation in the GALT changes adhesion molecule expression.  Cells lose L-selectin, and gain the integrin a4b7and the chemokine receptor CCR9. 
+
+Only lymphocytes that first encounter antigen in a gut-associated secondary lymphoid organ are induced to express gut-specific homing receptors and integrins.Presentation of Ag by GALT DC in PP or mLNT cell activationExpression of a4b7 and CCR9Trafficking to GALT effector sites (lamina propria or intestinal epithelium)In contrast, activation by DCs from non-mucosal tissue induce a different set of adhesion molecules (i.e. a4b1integrin, CLA, CCR4)
+
+Priming of lymphocytes in one mucosal tissue can induce protective immunity at other mucosal surfacesMAdCAM-1 expression is not restricted to the blood vessels of the intestine. It is also found in the vasculature in other mucosal surfaces
+
+The lymphocytes that enter the mucosa redistribute into distinct compartments: 
+IgA-producing plasma cells remain in the lamina propriaCD4 T cells are distributed throughout the lamina propriaCD8 T cells migrate preferentially to the epithelium
+
+Features of lymphocytes found in the intestinal mucosa Most of the T cells of the lamina propria have a memory phenotype•CD4 T cells: produce large amounts of cytokines including IFNg, IL-4 and IL-10. Many may provide help for B cell production of IgA•CD8 T cells: exhibit potent cytotoxic activity•B cells/plasma cells: secrete IgA which acts to prevent luminal antigens from penetrating the intestinal surface and can neutralize toxins.
+
+2. FLEA SNOBBERY Andrés Diplotti
+
+WELL, SON, WHAT HAVE WE
+LEARNED FROM TODAY'S READ?
+
+ys:
+
+@ Sore rights reserved fleasnobbery. blogspot.com
+
+
+
+Immunologically-Mediated Diseases of the GI Tract•Celiac Disease•Autoimmune Gastritis/ Pernicious Anemia•Autoimmune Enteropathy•Inflammatory Bowel Disease–Crohn’s Disease–Ulcerative Colitis•Eosinophilic Gastroenteritis•Autoimmune Hepatitis•Primary Biliary Cirrhosis
+
+Celiac Disease•Also known as celiac sprue or gluten-sensitive enteropathy•Immunological hypersensitivity to ingested gluten in genetically predisposed individuals–HLA-DQ2–HLA-DQ8•Association with other autoimmune disorders–Type 1 diabetes–Thyroiditis–Sjogren syndrome
+
+Celiac DiseaseClinical Features:•Onset and symptoms varyIn adults:Anemia, chronic diarrhea, bloating, chronic fatigueIn children:Irritability, abdominal distention, chronic diarrhea, failure to thrive, weight loss, muscle wasting
+
+Celiac DiseaseMorphology:•The major site of tissue injury is the proximal small intestine
+NormalCeliac Disease•Increased intraepithelial lymphocytes•Blunting of mucosal surface•Elongated crypts•Inflammatory infiltrate in lamina propria
+
+Celiac DiseaseAdditional Clinical Features:•Dermatitis herpetiformisis present in as many as 10% of patients.–Characterized by itchy, blistering skin lesions–Result of deposition of IgA-containing immune complexes originating in the intestinal mucosa–Deposition of IgA and C3 can be detected below the epithelial basement in involved skin•Selective IgA deficiency  is more prevalent in celiac patients.
+
+Celiac DiseaseEtiology and Pathogenesis:1.Gluten contains a 33-amino acid α-gliadin peptide that is resistant to degradation by digestive enzymes.2.Gliadin undergoes deamination in the small intestine by the enzyme tissue transglutaminase (tTG) that is processed by APCs into 3 epitopes that preferentially bind HLA-DQ2 and HLA-DQ8.3.These antigen/MHC complexes are recognized by and activate CD4+ T cells.4.These activated CD4 T cells produce IFNγ and other cytokines that cause the villous atrophy and crypt hyperplasia characteristic of this disease.Celiac disease is primarily mediated by CD4+ Th1 cells.
+
+J Clin Invest.2007;117(1):41-49
+
+Celiac DiseaseEtiology and Pathogenesis:1.Gliadin peptides induce epithelial cells to express IL-15 which triggers activation and proliferation of CD8+ IEL.2.CD8+ IELs express NKG2D (a marker common to NK Cells).3.These lymphocytes become cytotoxic and kill enterocytes that express MIC-A, an MHC class-I like protein expressed in response to stress and recognized by NKG2D.4.The resulting epithelial damage allows more gliadin peptides to cross the epithelium.IL-15 and CD8+ intraepithelial lymphocytes provide an additional component to the pathogenesis of celiac disease.
+
+Gluten
+Ne Gliadin
+
+Tissue transglut-
+aminase (tTG)
+
+HLA T cell Anti-gliadin
+(DQ2 or DQ8) receptor Anti-endomysium
+Anti-tTG
+
+Cryp
+elongation
+
+
+Celiac DiseaseEtiology and Pathogenesis:•IgA to tissue transglutaminase•IgA to endomysium•IgA to gliadin•IgG to gliadinAutoantibodies are also present in celiac disease.Proposed effects of autoantibodies in celiac disease•Augmented epithelial cell proliferation•Inhibited epithelial cell differentiation•Increased epithelial permeability•Increased blood vessel permeability•Defective angiogenesis
+
+Cellular & Molecular Immunology(2011)8,103–109
+
+Immunity Volume 36, Issue 6, p907–919, 29 June 2012
+
+Nature Reviews Immunology13,294-302(April 2013)
+
+Celiac DiseaseDiagnosis and Treatment:•A jejunal biopsy is the essential diagnostic test.•Noninvasive serologic tests are generally performed prior to biopsy.•The most sensitive tests IgA to tTGor IgA or IgG to deamidatedgliadin. •Anti-endomysial antibodies are highly specific but less sensitive than other antibodies. •In cases with negative IgA tests, IgA deficiency, which is more common in celiac patients, should be ruled out. •The absence of HLA-DQ2 or HLA-DQ8 is useful for its high negative predictive value, but the presence of these alleles is not helpful in confirming the diagnosis. Treatment: life-long elimination of gluten from wheat, rye and barley from the diet.
+
+Learning Objectives:1.Describe the innate immune components of the intestinal epithelial barrier.2.Appraise the significance of the distribution of pattern recognition receptors along the intestinal mucosa.    3.Describe the gut-associated lymphoid tissues (GALT) and differentiate between immune induction sites and effector sites.4.Describe the factors that determine the outcome (protective immunity vs oral tolerance) of immunological priming in the GALT.5.Appraise the role of dendritic cell activation in the establishment of oral tolerance vs protective immunity.6.Describe the function of CTLA-4.7.Describe the significance of CCR9 and a4b7 in the circulation of GALT-activated lymphocytes.8.Describe the constituent cells of GALT effector sites, the lamina propria and intestinal epithelium.9.Describe the etiology, pathogenesis, diagnosis, and treatment of celiac disease.

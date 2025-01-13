@@ -1,0 +1,135 @@
+Infections of the Liver and Biliary SystemMMI 2GI ModuleDavid Manna Ph.D.david.manna@touro.edu
+
+Objectives•For the following pathogens:•Hepatitis viruses, Schistosoma, Entamoeba, Echinococcus, Leishmania, Fasciola, Clonorchis, Ascaris:•Describe the relationship between the infective properties of the organism to the characteristics of disease pathologies•Describe the diagnostic properties and treatment of each organism•Identify the common etiologies and clinical symptoms of bacterial cholangitis
+
+Hepatitis Viruses: Same Tropism, Different Viruses•Hepatitis A•Picornavirus, fecal oral•Hepatitis B•Hepadnavirus, blood borne•Hepatitis C•Flavivirus, blood borne•Hepatitis D•Helper virus (to B), blood borne•Hepatitis E•Hepevirus, fecal oral•Hepatitis G•Flavivirus, blood borne, pathogen??
+
+Ahoy, Mate-E
+HAV & HEVWaterborneFecal-Oral
+
+Hepatitis A Virus (HAV)
+•Picornaviridae•(+) sense ssRNA, non-enveloped•Fecal-oral•Endemic in countries with sewage treatment problems•U.S. patients: check for travel history, associated w/ shellfish, water•Acute onset, no chronic infections•Infections more common in children, but less likely to be symptomatic•In adults: jaundice in ~70%•In children: jaundice in ~5-10%
+
+HAV Infection•2-4 week incubation period•Initial replication in oropharynx, GI, spreads to liver, shed in bile and feces•Pathogenesis appears to be mediated by T cell or NK cell responses and inflammation, not cell lysis due to virus replication•Single serotype, lifelong immunity after clearance•Diagnosis: detect serum IgM (acute)•Vaccine available: inactivated, live attenuated•Passive Ig injections also
+Patrick R. Murray PhD, Ken S. Rosenthal PhD and Michael A. Pfaller MD. Medical Microbiology, Chapter 55, 546-560.e1
+
+Hepatitis B Virus (HBV)•Hepadnaviridae•dsDNAcircular*, enveloped•*Genome is partly ssDNA(gapped)•Encodes a Reverse Transcriptase and replicates through RNA intermediate•Infective form: Dane particle, has RT packaged in virus•HBV surface antigen empty particles•Can be filamentous or smaller spheres•Released into the serum and outnumber infective virus
+Patrick R. Murray PhD, Ken S. Rosenthal PhD and Michael A. Pfaller MD. Medical Microbiology, Chapter 55, 546-560.e1
+
+HBV Morphology
+
+
+HBV Epidemiology•In the US, estimated 850,000 – 2,000,000 chronic carriers•~250 million worldwide•Many chronic carriers are asymptomatic, have virus in blood and other body secretions that foster spread of the virus•Blood borne, sexual contact •Association with primary hepatocellular carcinoma (HCC)•Hepatitis – Cirrhosis – HCC 
+
+HBV TermsAbbreviationName & DescriptionHBsAgSurface antigen, + acute disease, + carrier state,  > 6 months = chronic HBsAbAntibody to HBsAg, + immunityHBcAgCore antigen, Viral nucleocapsid, not detectable in serumHBcAbAntibody to HBcAg, 1st Ab to appear, + IgM indicates recent disease, + window periodHBeAgSimilar to core antigen, secreted into serum, important indicator of transmissibility, no self assemblyHBeAbAntibody to HBeAg, indicates low transmissibility
+
+HBV Pathogenesis•Virus replication (incubation period up to ~75 days or longer)•Intracellular build-up of filamentous forms of HBsAg- ground-glass hepatocyte cytopathology.•Immunopathology causes symptoms by eliminating infected hepatocytes•Cell mediated and inflammation - Insufficient T-cell response can result in mild symptoms, an inability to resolve infection, and chronic hepatitis.•Antibody (vaccination) can neutralize, but large amounts of HBsAg in serum can block this•Immune complexes can lead to type III hypersensitivity reactions- vasculitis, arthralgia, rash and renal damage
+
+www.pathology.med.ohio-state.edu
+
+HBV Clinical•Symptomatic in ~25% of infections•Long incubation and insidious onset•Children less likely to be symptomatic•Acute:•Fever, malaise, anorexia followed by nausea, vomiting, abdominal pain, chills•Icteric symptoms: jaundice, dark urine, pale stools•Fulminant: in ~1% of icteric cases and may be fatal•Chronic: in ~5-10% of infections•Hepatitis –Cirrhosis –HCC•Often detected by elevated liver enzymes•Risk for HDV co-infection or super-infection
+
+Fulminant hepatitis
+
+50%
+
+Resolution| | s/etomatic) | Chronic persistent
+carrier state hepatitis
+
+Murray et al: Medical Microbiology, 6th Edition.
+Copyright © 2009 by Mosby, an imprint of Elsevier, Inc. All rights reserved.
+
+
+
+HBV Diagnosis and Treatment•Clinical symptoms, history, elevated ALT/AST•Serology for HBV antigens or anti-HBV antibodies•HBsAg → HBeAg → IgM anti-HBcAg → IgG’s•RT-PCR available but usually only useful only during acute phase•Vaccine: HBsAgsubunit vaccine, passive Ig also available (for at-risk newborns)•Treatment in chronic cases: pegylated interferon or nucleos(t)ide analogs•Entecavir, tenofovir, lamivudine, adefovir, telbivudine •Acute generally not treated
+
+Serology events w/ HBV disease
+•http://www.cdc.gov/hepatitis/resources/professionals/training/serology/training.htm 
+
+
+HBV Serology Example•Profile reads:•HBsAg +•HBsAb –•HbcAb +•HBeAg +•HBeAb –•What is the patient status?•Acute infection
+
+HBsAgAnti-HBsHBeAgAnti-HBeIgM anti-HBcIgG anti-HBcAcute+-+-+-Cleared-+-+-+Chronic, high risk+-+--+Chronic, low risk+--+-+Vaccinated-+----
+
+HBV Vaccine Mutant Escape Variants
+•HBV genomes have mutated like any other virus•Either naturally in infected patients or due to evolutionary pressure from antiviral treatment•The HBsAg gene overlaps with the viral polymerase gene•Antiviral drugs can increase the mutation rate in the HBsAg gene•HBsAgis a major antigen for the immune system•226 amino acids, however only 1 antigenic site•Escape mutants are steadily increasing based on sequencing of clinical samples•This escape mutant also affects diagnostic assaysS Locarnini et al. Seminars in Cancer Biology, 2013-12-01, Volume 23, Issue 6, Pages 561-575, Copyright © 2013
+
+Hepatitis Delta Virus  (HDV)•(-) ssRNAcircular genome, very small (~ 1.7 kb), enveloped•Encodes one protein w/ small & large isoforms (HDAg)•RNA genome is a ribozyme (RNA enzyme)•Requires co-infection with HBV to complete virus assembly and secretion•‘Satellite virus’, ‘defective virus’, ‘helper virus’•Usually suppresses HBV replication in patients•Exacerbates HBV symptoms•Membrane proteins in viral envelope originate from HBsAg genes•Lipid envelope provided by HBV•Detection of HDAg antibodies
+
+
+Hepatitis C Virus (HCV)•Flaviviridae•(+) strand ssRNA, enveloped•6 genotypes•2 envelope glycoproteins, important site for mutations and antigenic drift•Binds CD81 (tetraspanin) for entry, expressed on hepatocytes•Viral particle coated w/ LDL or VLDL, secreted out via that pathway, can use lipoprotein receptor to aid uptake
+
+HCV Epidemiology•Estimated 150-200 million carriers•More prone to cause chronic disease than HBV•High incidence of chronic asymptomatic infections•Especially in parts of Europe, Asia, Middle East•Historically the major cause of post-transfusion hepatitis•Risk groups: IVDU, transfusion (years ago), organ transplant•Majority of HIV+ IVDU patients are also HCV+
+
+HCV Clinical•Viremia for 4-6 months in acute infections, over 10 years in chronic•Cell mediated immune responses and inflammation mediate tissue damage•Damage may be exacerbated by alcohol, certain meds, other hepatitis viruses•Hepatitis – Cirrhosis – HCC •Establishes chronic infections in ~70-80% of patients•Only ~25% of infected patients will show acute phase symptoms
+
+HCV Infection Outcomes
+
+
+HCV Diagnosis and Treatment
+•ELISA for anti-HCV antibody•Follow with PCR test for viral RNA•Can combine in high risk patients•ALT/AST will decrease with increases in IgG production and will fluctuate•Treatment is evolving rapidly; regimen dependent on virus genotype, patient treatment status, liver damage•New antivirals: available singly and in combo pills•grazoprevir + elbasvir (Zepatier), ledipasvir + sofosbuvir (Harvoni)…•Goal: undetectable RNA 12 weeks after therapy end (SVR)•Traditional Tx: pegylated interferon and ribavirinhttp://www.hcvguidelines.org/ 
+
+Hepatitis G Virus (HGV)•Flaviviridae, blood borne•HGV coinfectionis observed in 6% of chronic HBV infections and in 10% of chronic HCV infection•Multiple genotypes, geographic trends•Appears to replicate primarily in lymphocytes, and poorly in hepatocytes•Whether HGV is actually pathogenic in humans remains unclear•Pathogenesis is not fully understood
+
+Hepatitis E Virus (HEV)
+•(+) strand ssRNA, non-enveloped•Member of new Hepevirdaefamily, previously grouped with Caliciviridae•Has closely related viruses in pigs, monkeys, rodents, chickens•4 genotypes•Leading cause of waterborne hepatitis•Fecal-Oral transmission•Person to person spread is uncommon•Symptoms and transmission similar to HAV (but less prevalent and transmissible)
+
+HEV Clinical•Not associated w/ chronic infection except in immunocompromised•2-8 week incubation period•Selectively high morbidity in pregnant women, especially 3rdtrimester•Vaccines under development•Diagnosis:•Patient history, serology for IgM & IgG, RT-PCR in serum or stool•EIA’s commercially available, not FDA approved•PCR in research labs, not commercially available
+
+Overview: Basic Features of Hepatitis VirusesHAVHBVHCVHDVHEVIncubation Period15-50 days60-180 days15-180 days15-60 days15-60 daysTransmissionFecal-OralBlood borneBlood borneBlood borneFecal-OralChronic InfectionNoVariable by ageYesVariable by co-infection statusRareVirus Details(+) ssRNA, nakeddsDNA circular (gapped), enveloped(+) ssRNA, enveloped(-) ssRNA circular, enveloped(+) ssRNA, nakedCommentsVaccine AvailableVaccine AvailableAntivirals AvailableRequires HBV Co-infectionWater-borne outbreaks, rare in U.S. 
+
+Liver Parasitology Section
+
+Schistosoma mansoni
+•Fluke, widespread in tropical and sub-tropical regions•Reservoir: cats, dogs, cattle•Cercariae from snails penetrate skin, enter blood, develop in intrahepatic portal circulation•Adult worms mate and release eggs•Worms: coat themselves with ‘self antigens’ to avoid immune response•Acute: fever, chills, liver/spleen enlargement, malaise, diarrhea, cough, chest pain, pericarditis•Chronic: abdominal pain, irregular bowel, blood in stool•Inflammatory response to trapped eggs in liver-hepatomegaly, fibrosis, varices•ID: eggs in feces, eosinophilia•Tx: PraziquantelEgg in feces
+
+
+Entamoeba histolytica: Clinical Syndromes
+•Intestinal Amebiasis:•Infective cyst in environment- shed in feces, excyst into trophozoite in body•May be asymptomatic, but still pass organisms•Symptoms reflect the localized tissue destruction in the large intestine.•Abdominal pain, cramping, colitis with diarrhea•Severe:  numerous bloody stools per day•Extraintestinalamebiasiscan occur in liver:•hepatomegaly and abscess formation-trophozoitesin the blood are removed by the liver•Abscess is necrotic tissue, no pus•ID cyst in stool, trophozoite in tissue•Metronidazole followed by iodoquinol
+
+
+Echinococcus granulosus
+•Hydatidosis, or hydatid disease•Cestodes (tapeworms)•Reservoirs•Adult stage in intestines of canines•Cyst stage is present in the viscera of herbivores•Humans accidentally ingest eggs, hatch into oncosperesin human intestine,oncosphere penetrates the human intestinal wall and enters the circulation to be carried to various tissue sites, primarily the liver and lungs
+
+Life cycle of echinococcosis
+
+ake Scolex attaches en @)
+to intestine & — ga;
+
+Adult in small intestine —
+
+Definitive host
+lcci & other canidae)
+
+Intermediate host
+(sheep, goats, swine, etc)
+
+Sa” arcane hatches; | d| Diagnostic stage
+
+Hydatid cyst in liver, lungs, etc penetrates intestinal wall
+
+
+Human Echinococcosis (hydatidosis, or hydatid disease)•Larvae form a unilocularhydatid cyst, which is a slow-growing, tumor-like, and space-occupying structure enclosed by a laminated germinative membrane.•Cysts and daughter cysts accumulate fluid as they grow. This fluid is potentially toxic; if spilled into body cavities, anaphylactic shock and death can result•5 to 20 years may pass before any symptoms appear.
+
+Human Echinococcosis (hydatidosis, or hydatid disease)•The pressure of the expanding cyst in an organ is usually the first sign of infection•cyst may exert pressure on both bile ducts and blood vessels and create pain and biliary rupture•Diagnosis is difficult•Imaging and serology•Biopsy is risky because of potential for anaphylactic shock•Surgical resection of the cyst•Albendazoleor praziquantel
+
+
+Visceral Leishmaniasis, “Kala Azar”
+•Protozoa:  Leishmania donovani•Transmitted by sandfly•Parts of India, Bangladesh, Nepal, Sudan, and Brazil•Protozoa engulfed by macrophages, replicate inside•Obligate intracellular•Division eventually destroys infected cell•Spread through reticuloendothelialsystem (takes months)
+
+
+Visceral Leishmaniasis, “Kala Azar”•Damage to spleen, liver, bone marrow, lymph nodes•Wide range incubation times•Fever, weight loss, malaise, and an enlarged spleen and liver (more pronounced in spleen), thrombocytopenia, anemia•Can lead to edema, hepatic dysfunction, spontaneous bleeding•Also causes cutaneous form of disease•Diagnosis•Biospyor smear-look for non-flagellated protozoan within macrophages, serology•Culture in bone marrow or spleen tissue•Tx: Stibogluconate
+Amastigotes inside Macrophage
+Promastigote in sandfly saliva
+
+Worm parasites of the biliary tract
+•Fasciola hepatica (liver fluke)•Clonorchis (liver fluke)•Ascaris (roundworm)•Gallstones•Clonorchis•Ascaris•E.coli
+
+
+ParasiteEpidemiologySpreadClinical ManifestationsDiagnosisTreatmentFasciola hepatica (Trematode)Latin America, Europe, Africa, Asia, AustraliaWatercress, alfalfa juice, waterRight upper abdominal pain, nausea, vomiting, jaundice, urticariaEosinophila, hepatic abscesses, ↑ AST/ALT.  Eggs in feces. SerologyPraziquantel or TriclabendazoleClonorchis(Chinese liver fluke)Southeast AsiaEating undercooked fishAsymptomatic, fever, right upper quadrant pain, cholelithiasis, obstructive jaundice, cholangiocarcinomaEggs is feces, eosinophila, imagingPraziquantelAscarisEndemic in tropical countriesFecal oralJaundice, upper right quadrant pain, biliary obstructionEggs in fecesMebendazole
+
+
+Bacterial Cholangitis
+•Fever, jaundice, abdominal pain from stasis and infection of biliary tract (Charcot’s triad)•Confusion and septic shock also possible (Reynold’s pentad)•Organisms typically ascend from the duodenum•Major etiologies are colonic flora•Gram negative enterics: E. coli (25-50%), Klebsiella (15-20%), Enterobacter (5-10%)•Gram positive enteric: Enterococcus (10-20%)•Anaerobes possible with mixed infections
+
+Objectives•For the following pathogens:•Hepatitis viruses, Schistosoma, Entamoeba, Echinococcus, Leishmania, Fasciola, Clonorchis, Ascaris:•Describe the relationship between the infective properties of the organism to the characteristics of disease pathologies•Describe the diagnostic properties and treatment of each organism•Identify the common etiologies and clinical symptoms of bacterial cholangitis

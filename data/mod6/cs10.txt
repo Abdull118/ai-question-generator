@@ -1,0 +1,70 @@
+Approach to the Patient with Abdominal Pain and Surgical Gastrointestinal IssuesCheryl Rosenfeld, DO, FACE, FACP, ECNUAngela Cavanna, DO, FAOASM
+
+Objectives•Discuss the differential diagnosis of abdominal pain based on location: RUQ, LUQ, RLQ, LLQ; age and other risk factors •Explain the importance of identifying information about onset, duration, severity, and quality•Identify the appropriate workup•Discuss the clinical presentation and evaluation of various types of abdominal pain and abdominal surgical issues based upon age, presentation and associated history and physical exam findings  •Review the clinical presentation and evaluation of diverticulosis, diverticulitis and hemorrhoids•Identify and discuss types of hernias•Describe abdominal wall defects in the newborn•Discuss pyloric stenosis and duodenal atresia•Discuss common disorders of the intestine: intussusception, volvulus•Describe Hirschsprung’s disease•Describe Meckel’s diverticulum•Describe the classic presentation of appendicitis•Discuss cholecystitis
+
+Reading Assignments•Cecil Medicine•Supplemental:–Nelson’s Textbook of Pediatrics–Sabiston Textbook of Surgery
+
+Abdominal Quadrants & Associated Internal Organs
+* Pancreas & 2/3rd portions of duodenum retroperitoneal
+
+
+Appendicitis•Begins as diffuse periumbilical pain, then migrates to RLQ•Rebound tenderness, pain on percussion, rigidity and guarding – most specific finding•Rovsing’s sign: RLQ pain with palpation of LLQ•Obturator sign: RLQ pain with internal and external rotation of the flexed R hip•Psoas sign: RLQ pain with extension of the R hip or flexion of the R hip against resistance•Tenderness to palpation McBurney’s point: 1/3 distance from R anterior superior iliac spine to umbilicus
+
+Appendicitis•Tests: hCGin women of childbearing age to rule out ectopic pregnancy, CBC with differential, ultrasound to confirm, CT if unsure of Dx•Surgical treatment: appendectomy
+http://emedicine.medscape.com/article/773895-overview
+
+Cholecystitis – Signs and Symptoms•RUQ or epigastric pain often radiating to the back and right scapula–Persisting >24 hours–Duration distinguishes from biliary colic (1-5 hours)•Nausea and vomiting•Fever•Jaundice•Exam: Murphy’s sign, Boas’ sign (pain radiating to tip of scapula with tender, hyperesthetic skin just below scapula)
+
+Cholecystitis•Diagnosis–Lab: WBC count12,000-             15,000, elevated liver enzymes–Imaging•Transabdominal ultrasound: sensitivity 85%, specificity 95%•Cholescintigraphy(HIDA scan): 95% sensitivity and specificity•Abdominal CT•Other: MRI, endoscopic             ultrasound•Treatment: 75->90% undergo laparoscopic cholecystectomy
+
+
+Diverticulosis•Small outpouchings of the colon (0.5-1.0 cm diameter)•True diverticula involve all layers of bowel wall•Most common site: sigmoid•Most common cause of lower GI bleed
+
+
+Diverticulitis•Inflammation of diverticula•LLQ pain and tenderness on exam, fever•CT with contrast to diagnose•Surgery if recurrent infection in diverticulitis or unable to control bleeding in diverticulosis
+
+
+Hernias•Inguinal–Indirect: most common, protrude at internal inguinal ring, lateral to inferior epigastric artery–Direct: weakness in floor of inguinal canal, medial to inferior epigastric vessels, within Hesselbach’striangle (inguinal ligament inferiorly, inferior epigastric vessels laterally and rectus abdominis medially)•Femoral: medial to femoral vein, lateral to lymphatics
+
+
+Hernias•Umbilical: congenital (common)•Ventral: abdominal  wall defect•Spigelian: lateral  border of rectus muscle through linea semilunaris
+
+
+Hernias –Congenital Diaphragmatic•Bochdalek•Incidence 1/2000-1/5000•Females>Males•More common on the LEFT•Includes: pulmonary hypoplasia and                 malrotationof intestine•Associated anomalies: CNS lesions, esophageal atresia, omphalocele and cardiovascular lesions•Chromosomal syndromes: Trisomy 21, 13, 18 and Turner syndrome
+
+
+Hemorrhoids•Internal–Proximal to dentate line–Main symptoms: painless bleeding and protrusion•External–Distal to dentate line–Main symptoms: burning, itching,  swelling and pain–May become thrombosed
+
+
+Hemorrhoids•Diagnosis: anoscopy, proctoscopy, flexible sigmoidoscopy•Treatment: Fiber, increased water intake, stool softeners, Sitz baths, topical creams, ligation, sclerotherapy, hemorrhoidectomy
+
+Volvulus•Air filled segment of colon twists about its mesentery•Sigmoid in 66-90% of adult cases–Clinically: sudden onset severe abdominal pain, vomiting and obstipation with distended, tympanitic abdomen–Diagnosis: abdominal xray(bent inner tube or coffee bean appearance), contrast enema (birds beak), CT–Treatment: rectal tube or flexible sigmoidoscopy decompression, resection of sigmoid •Midgut more common in pediatrics
+
+Sigmoid Volvulus with radiographic “bird’s beak deformity”http://accessmedicine.mhmedical.com/content.aspx?bookid=980&sectionid=59610871
+Sigmoid volvulus with bent inner tube or coffee bean appearance on plain xrayhttps://www.clinicalkey.com/#!/content/book/3-s2.0-B9781437715606000524?scrollTo=%23hl0001794
+
+Intussusception•Telescoping of part of intestine into an adjacent distal portion•Clinically: severe colicky pain, inconsolable crying, child draws legs up (2-3 times/hr), vomiting,currant jelly stool•Contrast enema is diagnostic and therapeutic–Surgery only if radiologic reduction is not achieved
+
+
+Hirschsprung’s Disease•Congenital abnormality–Mutations in RET gene–Reduced colon motility–Lack of ganglion cells: prevents bowel from transmitting peristaltic      waves needed to move    fecal material•Clinically: no meconium in first 24 hrs, constipation, abdominal distention•Diagnosis: rectal biopsy•Treatment: removal of aganglionic portion of colon
+
+
+Meckel’s Diverticulum•Failed obliteration of omphalomesenteric (vitelline) duct•Rules of 2: 2% of population, within 2 feet of ileocecal valve, most symptoms before age 2, most approximately 2 inches long•50% contain ectopic tissue: most common gastric mucosa (others: pancreatic tissue, colonic, duodenal, jejunal, hepatic endometrial)•Present with intestinal obstruction, GI bleeding, intussusception•Diagnosis: Meckel’s scan (99m Tc-pertechnetate)
+
+
+Pyloric Stenosis•3rd to 8th week of life•Non bilious projectile vomiting•Palpable hard mass in epigastrium•Evaluation: Ultrasound–“target sign” >12 mm on    transverse view•Surgical treatment: Pyloromyotomy
+
+
+Duodenal Atresia•"Green vomiting" in a newborn•Infants will pass meconium•History of maternal polyhydramnios •"Double bubble" sign on xray–large air fluid level in stomach and smaller one    to the right (1st part of duodenum)–"double-bubble" can also   be seen with annular pancreas & malrotation
+
+
+Omphalocoele•During normal embryo development–Midgut herniates outward through the umbilical ring and continues to grow–By 11th week of gestation, midgut returns to coelomic cavity and undergoes proper rotation and fixation, along with closure of the umbilical ring•If intestine fails to return, infant is born with abdominal contents protruding directly through umbilical ring, with        intact sac covering the abdominal viscera, an omphalocele
+
+
+Gastroschisis•In contrast, gastroschisis is an abdominal wall defect, which is always to the right of an intact umbilical cord, without sac covering the abdominal viscera 
+
+
+Now we need to operate…
+
+
+References•Cecil Medicine•Kleigman RM, et al. Nelson Textbook of Pediatrics, 20th edition, 2016 •Townsend CM, et al. Sabiston Textbook of Surgery, 20th edition, 2017•Garden OJ, et al. Principles and Practice of Surgery, 6th edition (2012)

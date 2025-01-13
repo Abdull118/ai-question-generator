@@ -1,0 +1,83 @@
+Maysa Azzeh, Ph.D
+GI Infectious Diseases, Part 2Food poisoning
+
+Objectives•Identify	organisms	associated	with	different	types	of	food	poisoningStaphylococcus	aureus,	C.	botulinum,	C.	perfringens,	Bacillus	cereus•Identify	the	most	commonly	associated	foods	with	pathogens	causing	food	poisoning•Describe	virulence	factors	and	their	mechanisms,	including	toxins,	associated	with	organisms	that	cause	food	poisoning	•Appraise	the	role	of	the	physician	in	patient	education	and	communication	regarding	food	poisoning	
+
+Staphylococcus aureus •Enterotoxigenic	strains	ofStaph.	Aureus•>20	distinct	enterotoxin	and	enterotoxin-like	molecules•Enterotoxins	A–E:Øheat	stableØresistant	to	destruction	by	stomach	&	small	intestine	enzymesØMechanism	of	action:	similar	to	the	TSST-1	toxin	Øsuperantigens:	binding	to	MHCII			T-cell	stimulation		production	of	proinflammatory	mediators•effect	on	CNS:	Severe	vomiting	within	3–6h	of	consumption•NO	Diarrhea	•Recovery	within	24h
+
+
+Staphylococcus aureus •Food:	processed	meats•Carried	by	~50%	of	healthy	people	on	skin	&	nose!•Grows	at	RT	and	release	toxin•Heating	kills	bacteria,	not	the	toxin	•nanogram	quantities	of	toxin:	sufficient	to	cause	illness•viable	organisms	are	rarely	detectable	in	the	foodDiagnosis•Detection	of	enterotoxin:	latex	agglutination	&	immunoassays
+
+Pathogenic	Clostridia•Clostridia	aregram	Positive	bacilli•ubiquitousin	soil,	water,	and	sewage•normal	microbial	population	in	GI	of	animals	and	humans•harmless	saprophytes•human	pathogens:	food	poisoning/botulism	(C.	perfringens,	C	botulinum)			diarrheaandcolitis	(Clostridium	difficile)			tetanus	(Clostridium	tetani)			gas	gangrene)	(C.	perfringens)Biological	Characteristics	enabling	disease:1-ability	to	survive	harsh	environmental	conditions	through	spore	formation2-	rapid	growth	in	a	nutritionally	enriched,	oxygen-deprived	environment3-production	of	numerous	histolytic	toxins,	enterotoxins,	and	neurotoxins
+
+C. botulinum•widely	spread	in	the	environment•mesophilic:		can	grow	by	12°C	and	37°C	•	spores:		can	be	isolated	from	soil		&	animals	(fish	included)•Contaminated	food:	often	canned	or	reheated	Toxins•seven	major	botulinum	neurotoxin:	A–G•A,	B,	E	&	less	frequently	F:	associated	with	human	disease•Resistant	to	digestive	enzymes•Can	be	inactivated?	30min	at	80°C•30–100	nanograms	of	neurotoxin	to	develop	botulism•Disease:	-toxin	ingested	in	food		-produced	in	the	gut	(bacterial	ingestion)•absorbed	from	the	gut	into	the	bloodstream•Reach	the	peripheral	nerve	synapses•action	of	the	toxin	is	to	block	neurotransmission	
+
+Botulism	•symmetrical	descending	flaccid	muscle	paralysis•starts	with	the	cranial	nerves	causing	blurred	vision•swallowing	difficulty	and	slurred	speech•respiratory	&	cardiac	muscles	are	affected*•The	action	of	the	toxin	is	to	block	neurotransmission•Infants:	-Poor	feeding,	Diminished	suckling	&	crying																				-Neck	and	peripheral	weakness	(“floppy	baby”)																				-Constipation,	Respiratory	failureForms	of	botulism:1.	food-borne	botulism:	home	canned	foods**2.	infant	botulism:	most	common,	organism	ingestedfeeding	babies	honey	contaminated	withC.	b.spores	3.	wound	botulism:	organism	implanted	in	wound	4.	Inhalation	botulism:	rapid	onset	of	symptoms	
+
+Disease:	Life	threatening•flaccid	paralysis:Øprogressive	muscle	weakness	+	respiratory	arrestØRecovery	may	take	many	monthsClinical	Diagnosis:•Brain	scan•Spinal	fluid	examination•Nerve	and	muscle	function	tests	(nerve	conduction	study	[NCS]	and	electromyography	[EMG])•Tensilon	test	for	myasthenia	gravisBotulism	
+
+Treatment, Diagnosis and PreventionTreatment:•antitoxin	•supportive	care:	mechanical	ventilation				intravenous	&	nasogastric				nutritional	support•Antibiotics:	ONLY	in	case	of	secondary	infectionsLab	Diagnosis:•Toxin	detection	in	clinical	specimens	(feces,	wound	exudate)	or	food:	PCR,	ELISA•	Bacterial	detection:	culture•Prevention:•maintaining	food	at	an	acid	pH•storing	food	at	<4°C•inactivating	spores	by	heating	(121°C,	3	min	before	storage)•inactivating	toxin	by	heating	(80°C,	5	min)	
+
+•Food poisoning by Ingesting “pre-cooked” food: prepared in large quantities and kept warm for a long time before serving•C. Perfringens: B. cereus:Ønon specific antibacterial TreatmentC. Perfringens and B. cereus
+
+C. perfringens-Food associated infection•Ingesting	“pre-cooked”	food*:	beef,	poultry,	gravy•beta-toxin-producing	strains	multiply	in	small	intestine•	produce	acute	necrotizing	disease:	“Pig-bel”	•50%	Mortality:	due	to	intestinal	perforationSymptoms:		abdominal	pain	and	diarrhea,	no	fever	or	vomitingRisk	group**:	people	unaccustomed	to	a	high-protein	dietØ	insufficient	intestinal	trypsin	to	destroy	the	toxin	Diagnosis:latex	agglutination,	culture	from	foodToxin	detection	in	fecal	material:	ELISA	,	PCR	Treatment:	supportive,		(Antibacterial:	rare	treatment)Prevention:		reheating	of	food	before	servingavoiding	cooking	food	too	long	before	consumption***
+
+
+Bacillus cereus•Motile,	spore	forming	Gram	positive	rods•Ingesting	“pre-cooked”	food:	rice,	meat,	vegetables,	sauces•Widely	distributed	in	the	environment•Spores	and	vegetative	cells	can	contaminate	food•Diarrhea:	due	to	enterotoxin	production	in	the	gut•Vomiting:	due	to	the	ingestion	of	enterotoxin	in	food•Two	different	toxins:	cause	exoenzymes	that	destroy	tissuepathogenicity:	“emphasize	the	differences”1-Spore	ingesting:	Vegetative	cells	secrete	enterotoxin	in	small	intestine:	Diarrhea2-	Emetic	toxin	ingesting:	plasmid	encoded	toxin	in	food	products:	VomitingDiseases:	meningitis,	brain	abscesses,	endophthalmitis,	pneumonia	Laboratory	Diagnosis:Culture	&	detection	of	Emetic	toxin	in	incriminated	food!
+Bacillus cereus: unstained region pointed to by arrows are spores
+
+o}<> fol
+
+@ ncbi.nim.nih.gov oO}
+
+CASE REPORT
+
+Meningitis due to Bacillus cereus: A case report
+and review of the literature
+
+Michael P Stevens MD, Kara Elam MPH, Gonzalo Bearman MD MPH
+
+MP Stevens, K Elam, G Bearman. Meningitis due to Bacillus
+cereus: A case report and review of the literature. Can J Infect
+Dis Med Microbiol 2012;23(1):e16-e19.
+
+Bacillus cereus is infrequently associated with invasive central nervous
+system (CNS) disease. Infection is associated with conditions that
+lead to reduced host immunity and provide direct access to the CNS,
+such as spinal anesthesia and ventricular tubes and shunts. A case of
+ventriculitis secondary to B cereus in a patient receiving intrathecal
+chemotherapy is reported, along with a review of the current lit-
+erature. B cereus can colonize medical devices, thus posing a risk for
+invasive disease. Despite aggressive treatment with broad-spectrum
+anti-infectives, the mortality of CNS invasive B cereus is high.
+Clinicians should not dismiss Gram-positive rods resembling Bacillus
+species from normally sterile sites as contaminants in critically ill
+patients. Appropriate antibiotic therapy should be promptly initiated
+to limit morbidity and mortality.
+
+Key Words: Bacillus cereus meningitis
+
+La méningite attribuable au Bacillus cereus :
+un rapport de cas et une analyse
+bibliographique
+
+Le Bacillus cereus s’associe rarement & une maladie invasive du systéme
+nerveux central (SNC). Linfection est liée 4 des pathologies qui réduisent
+Pimmunité de ’héte et procurent un accés direct au SNC, telles qu’une
+rachianesthésie et des tubes et dérivations ventriculaires. Les auteurs
+rendent compte d’un cas de ventriculite secondaire 4 un B cereus chez un
+patient sous chimiothérapie intratéchale et présentent une analyse des
+publications A jour. Le B cereus peut coloniser les dispositifs médicaux,
+posant ainsi un risque de maladie invasive. Malgré un traitement énergique
+au moyen d’anti-infectieux A large spectre, la mortalité attribuable au
+B cereus invasif du SNC est élevée. Les cliniciens ne devraient pas rejeter
+la possibilité que des bacilles Gram positif évocateurs d’espéces de Bacillus
+dans les foyers normalement stériles soient des contaminants chez les
+patients gravement malades. Il faudrait amorcer rapidement une
+antibiothérapie pertinente pour limiter la morbidité et la mortalité.
+
+
+
+Listeria monocytogenes*& Listerioses•Gram-positive	coccobacillus•Oxidase	neg,	catalase	pos,	lactose	fermentation:	variable•uncooked	foods:	pâté,	soft	cheeses,	coleslaw•Grows	in	refrigerated	food:	produce	Infectious	dose•Infectious	dose	:	<1000	organisms	•Toxin:	ListeriolysinO	(see	next	slide)Risk	population:•pregnant	women	(mild),	fetus/newborn	(severe),	>65y•immunocompromised	individuals•Symptoms:	mild	influenza-like,	acute	self-limited	gastroenteritis													watery	diarrhea,	fever,	nausea,	headache,	arthralgiasDisease:	manifests	as	meningitisDiagnosis:	growth	at	4°C,	PCR	Treatment:	penicillin	or	ampicillin
+
+Listeriolysin	O:	LLO•Toxin•cholesterol-dependent	cytolysin	(CDC)	family	•plays	a	central	role	in	the	cell-to-cell	spread•Causes	small	membrane	perforations	in	cells•“Swiss	army	knife”	action•induces	many	membrane	alterations•&	cellular	responses•promotes	LM	dissemination	during	infection•Note:	membrane	repair	pathways	of	host	cells																	limits	membrane	damage	by	LLO

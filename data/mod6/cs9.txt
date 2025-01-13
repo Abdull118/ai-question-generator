@@ -1,0 +1,115 @@
+Inflammatory Bowel DiseaseElizabeth Williams, DOClinical SystemsGastroenterology ModuleTouro COM, Middletown, NY
+
+Objectives•Define Inflammatory Bowel Disease (IBD).•Discuss the etiology & clinical manifestations of IBD.•Discuss relevant history & physical findings of IBD.•Explain the diagnostic workup & treatment of IBD.•Identify complications of IBD.•Differentiate Crohn’s Disease and Ulcerative Colitis.•Review general treatment options for IBD and indications for surgery.
+
+Reading•Goldman-Cecil Medicine, 26th e, Chapter 132•Pathophysiology, Damjanov, chapter 7
+
+Inflammatory Bowel Disease (IBD)Refers to two chronic idiopathic inflammatory disorders1.Ulcerative colitis2.Crohn diseaseDO NOT CONFUSE WITH IRRITABLE BOWEL SYNDROME (IBS)
+
+Inflammatory Bowel Disease (IBD)•Incidence¹•North America•Ulcerative colitis: 19.3 per 100,000•Crohn disease: 20.2 per 1000,000•Prevalence: 285 per 100,000 in North America and 500 per 100,000 in Europe•Europe•Ulcerative colitis: 24.3 per 100,000•Crohn disease: 12.7 per 100,000•Prevalence 320 per 100,000 in both North America and Europe•Bimodal age presentation 20’s-40’s then 60’s•Genetic and environmental factors•Caucasians, Jewish > Hispanic or Asian•Females = males•Causes largely unknown•Inappropriate, overactive mucosal immune response to commensal intestinal bacteria in genetically susceptible individuals¹Data from Goldman Cecil Textbook of Internal Medicine, 26th e. chapter 132, pages 898-907, e2
+
+IBD: Genetic Factors •5-20% of patient with IBD have 1st degree family members with the disease•Greater than 200 gene susceptibility loci have been linked to IBD, with at least 30 specific for Crohn disease & more than 20 specific for ulcerative colitis•NOD2 gene (CARD -15) on chromosome 16 •First gene discovered for Crohn disease •15-25% Crohn with fibro-stenotic terminal ileal disease  •IL-23R on chromosome 1•Crohn disease•May be seen with ulcerative colitis, psoriasis & ankylosing spondylitis •Others: IBD5, ATG16L1
+
+Immunologic & Environmental Factors•Immunologic factors•Over activation of the immune system•Environmental factors•Smoking is protective in UC•Smoking in Crohn leads to more aggressive disease
+https://jamanetwork.com/journals/jamapediatrics/fullarticle/2649295 
+
+Clinical Feature of IBD•Diarrhea with blood or mucus•Crampy abdominal pain•Fever•Tenesmus (feeling of incomplete defecation or evacuation)•Weight loss•Anemia•Nutritional deficiencies
+
+
+Clinical Feature of IBD:Extra Intestinal ManifestationsMusculoskeletal(most common)•Seronegative arthritis (Parallels bowel disease)•Ankylosing spondylitis•Independent of bowel disease•SacroiliitisSkin•Pyoderma gangrenosum (Parallels bowel disease, more common in UC)•Erythema nodosum•Sweet syndromeHepatobiliary•Primary sclerosing cholangitis (more common in UC)•Cholelithiasis•Autoimmune hepatitisRenal•Renal calculi due to fat malabsorption (calcium oxalate stones) or severe dehydration (uric acid stones)Ocular•Uveitis•EpiscleritisMiscellaneous•Hypercoagulable state•Autoimmune hemolytic anemia•Amyloidosis
+
+Pyoderma Gangrenosum
+Pyoderma GangrenosumClinical Feature of IBD:Extra Intestinal Manifestations
+
+Differential Diagnosis•Infectious colitis•Salmonella, Shigella, campylobacter jejuni, e coli, C, diff, Yersinia enterocolitica, mycobacterium tuberculosis, strongyloidiasis, amebias•Ischemic colitis•Radiation colitis•Enterocolitis from NSAIDs•Diverticulitis•Appendicitis•Gastrointestinal malignancies•Irritable bowel syndrome
+
+Diagnosis of IBD•Good history and physical exam!•Extra-intestinal manifestations•Laboratory testing•CBC, BMP , ESR •Serology•Perinuclear antineutrophil cytoplasmic antibody (p-ANCA) 70% in ulcerative colitis•Anti-Saccharomyces cerevisiae (ASCA)•Crohn Anti-Cbir-1•Anti-Omp-C •Fecal calprotectin•Location of disease•Colonoscopy with biopsy of colon & terminal ileum•EGD•MRE or CTE of small bowel
+
+
+Ulcerative Colitis
+
+Clinical Features of UC•Symptoms:•Diarrhea, abdominal pain, urgency, rectal bleed, mucus•Chronic intermittent exacerbation followed by periods of remission•Markers of severity:•Abdominal pain•Dehydration, diarrhea•Fever•Tachycardia•Anemia•Elevated sedimentation rate or c-reactive protein
+
+
+Clinical Features of UC & Diagnosis•Disease limited to colon/large intestine•40-50% for proctitis or proctosigmoiditis•30-40% left sided colitis extending past the splenic flexure•20-25% pan colitis•15% may extend from proctitis to entire colon•Definitive diagnosis•based on endoscopic findings &  histopathology
+FIGURE 132-3 Endoscopic appearance of ulcerative colitis. Goldman-Cecil Medicine, 26th e
+
+Ulcerative Colitis:Colonoscopy Findings•Granular mucosa•Decreased vascular markings•Decreased mucosal reflection•Superficial ulcerations•Mucosal is friable with deeper ulceration & exudate•Pseudo polyps
+
+Diffuse ColitisUlcerative colitis:Colonoscopy Findings
+
+Severe Diffuse ColitisUlcerative colitis:Colonoscopy Findings
+
+Ulcerative  ColitisUlcerative colitis:Colonoscopy Findings
+
+Ulcerative  Colitis with PseudopolypsUlcerative colitis:Colonoscopy Findings
+
+
+Pseudo-polypsUlcerative Colitis:Colonoscopy Findings
+
+Histology of UCUlcerative Colitis•Inflammation limited to the mucosa of the colon•Neutrophilic infiltrates•Crypt Abscesses•Crypt Distortion
+FIGURE 132-2 In ulcerative colitis, histopathology from colonic biopsies reveals features of crypt distortion and lymphocytic infiltration in the mucosa. Modified from AGA Institute GastroSlides 2010. Goldman Cecil Medicine, 26e.
+
+Ulcerative Colitis:Major Complications1.Toxic Megacolon•Gross dilation of the large bowel, fever, abdominal pain, dehydration, tachycardia, bloody diarrhea2.Perforation•Increased incidence  in face of toxic megacolon active colitis especially on steroids3.GI bleed - anemia4.Colonic adenocarcinoma
+
+
+UC Major Complication:Adenocarcinoma of the Colon•Increased 10 to 20-fold, in left & pancolitis after 8-10 years of disease•Colonoscopy with surveillance every 1-2 years after 8-10 years of diagnosis in pancolitis and 12-15 years in left side colitis, yearly exams after 20-years of disease•Proctitis is not associated increased risk•Primary sclerosing cholangitis (PSC) increased risk and need annual colon surveillance biopsies•Chromoendoscopy•Colectomy in flat high-grade dysplasia, multifocal flat low-grade dysplasia, unifocal flat low-grade dysplasia or any evidence of colorectal cancer
+
+
+Crohn Disease
+
+Crohn Disease Clinical Features•Common:•Weight loss, diarrhea, abdominal pain, fatigue distention, nausea, vomiting•Bloody diarrhea uncommon compared to UC•Ileocecal Crohn mimics acute appendicitis•Right lower quadrant pain, fever•In chronic Crohn inflammation•Fistula formation•Fibrosis•Stricture•Partial or complete obstruction•Palpable inflammatory mass, abdominal pain, distention•Malabsorption •Vitamin deficiency B12, fat-soluble vitamin A, D, E, K 
+
+
+Crohn Disease: Distribution•“Mouth to anus”•Esophagus, stomach, & duodenum 5%•Small intestine 30% •Ileocecal & proximal large bowel 40%•Colon 25% •Usually, rectum sparing•Perianal involvement•fissure, fistulas & abscesses
+
+
+Crohn Disease:Colonoscopy/EGD Findings•Entire gastrointestinal tract can be affected•Skip lesions•Mucosal surface is cobblestoned related to edema with linear ulcerations•Deep fissures •Fistulous tracts•Mesentery infiltrated with creeping fat•Transmural bowel wall can be thickened, fibrotic & have strictures
+FIGURE 132-1 Endoscopic appearance of Crohn disease with cobblestoning. Goldman-Cecil Medicine 26th e.
+
+Crohns Disease:Colonoscopy Findings
+•Aphthoid ulceration•Deep linear & stellate ulcers•Edema•Erythema•Exudate•Friability•Skip lesions
+
+
+Crohns Disease:Colonoscopy Findings
+
+
+Crohns Disease:Colonoscopy Findings
+
+
+Histology of IBDCrohns Disease•Inflammation  may reach the whole GI tract •Inflammation extends beyond the mucosa- transmural•Formation of granulomas 
+https://image.slidesharecdn.com/crohnsdisease-140217132708-phpapp02/95/crohns-disease-signssymptomsmorphology-13-638.jpg?cb=1392643737 
+
+Complications of Crohn Disease•Stenosis & strictures•Fistulas•Due to transmural inflammation•Abscess•Malabsorption•Nephrolithiasis•Urinary calcium oxalate stone•Due to fat malabsorption•Malignancy•Colon cancer in those with colonic disease•Small bowel cancers & lymphomas
+
+
+Complications of Crohn Disease:Fistulas•Enteroenteric•small bowel to small bowel•Enterocolonic•small bowel to colon•Enterocutaneous•small bowel to skin•Enterovesicular•small bowel to bladder•Rectovaginal:•rectum to vagina
+
+
+Crohn Disease:Radiographic Findings•Small ulcerations•Fistulas•Strictures•“string sign”•Linear ulcers•Cobble stoning
+String Sign
+
+Entero-enteric FistulaCrohn Disease:Radiographic Findings
+
+Treatment of IBD
+
+Treatment of IBDGOAL is to reduce inflammation and subsequently induce and maintain clinical remission while simultaneously healing the mucosaAmino salicylates•Sulfasalazine + folic acid•5 ASA: Oral or topicalAntibiotics•Ciprofloxacin, MetronidazoleSteroids•Topical, Oral, and/or Intravenous Prednisone•BudesonideImmunomodulators•Azathioprine• 6-MP•Methotrexate•CyclosporineBiologics•Infliximab, Adalimumab, Certolizumab, Natalizumab, Vedolizumab Others•JAK Janus Kinase inhibitors: tofacitinib•SLP Modulators: Ozanimod•IL 12 and IL 23 blocker: UstekinumabSupportive •Vitamins B12, D, Calcium, Multivitamin, folic acid•Antidiarrheal, bile salt resins•Diet 
+
+Treatment of IBD: SurgeryIndications for Surgery•Obstruction•Perforation •Toxic megacolon•Dysplasia or CancerProceduresUlcerative colitis•Total proctocolectomy with ileostomy•Ileal pouch-anal anastomosis (complications: pouchitis, fecal incontinence, reduced fertility)Crohn Disease•Segmental resection•Stricturoplasty•Fistulectomy•Abscess drainage
+
+
+Treatment of IBD
+FIGURE 132-5  Crohn disease treatment algorithm.  NPO = nothing by mouth; TNF-α = tumor necrosis factor-α; TPN = total parenteral nutrition; UGI = upper gastrointestinal. Goldman-Cecil Medicine 26e.This is a simplified treatment algorithm. Always check current standards of care and individualize treatment for your patient!
+
+Quick QuestionWhich one of the following features is most characteristic for patients who have ulcerative colitis?A.Aphthous ileal ulcerationB.Gastroduodenal ulcerationsC.Ileal stricturingD.Mesenteric abscess with fistula formationE.Continuous colonic inflammation
+
+Quick QuestionWhich one of the following features is most characteristic for patients who have ulcerative colitis?A.Aphthous ileal ulcerationB.Gastroduodenal ulcerationsC.Ileal stricturingD.Mesenteric abscess with fistula formationE.Continuous colonic inflammation
+
+Take Home Points!•Inflammatory bowel disease (IBD) refers to two chronic idiopathic inflammatory disorders1.Ulcerative colitis2.Crohn disease•Do not confuse IBD with IRRITABLE BOWEL SYNDROME (IBS)!•Diagnosis starts with good history & physical exam.•Look for extraintestinal manifestations of IBD!•Definitive diagnosis of either UC or Crohn Disease made with endoscopy and tissue samples.•Treatment based on severity of symptoms and complications.
+
+CROHN DISEASEULCERATIVE COLITISPossible CauseInfectiousAutoimmuneLocation•May involve any portion of the GI tract (mouth to anus)•Usually terminal ileum & colon•Skip lesions with rectal sparing•Colitis only occurs in the large intestine•Continuous lesions always with rectal involvementGross morphology•Transmuralinflammation•Cobblestone-like mucosa•Creeping fat•Bowel wall thickening (“string sign” on barium swallow)•Linear ulcers, fissures, fistulas•Mucosal & submucosal inflammation only•Friable mucosal pseudo-polyps with freely hanging mesenteryMicroscopic morphology•Noncaseating granulomas & lymphoid aggregates•Crypt abscesses & ulcers, bleeding, no granulomasComplications•Strictures, fistulas, perianal disease, malabsorption, nutritional depletion•Severe stenosis, toxic megacolon, colorectal carcinomaExtraintestinal Manifestations•Migratory polyarthritis, erythema nodosum, ankylosing spondylitis, uveitis, immunologic disorders•Pyodermagangrenosum, primary sclerosing cholangitisTreatment•Corticosteroids, azathioprine, antibiotics (e.g. ciprofloxin, metronidazole), infliximab, adalimunab•5-aminosalicylic preparations (e.g. mesalamine), 6-mercaptopurine, infliximabChart adapted from First Aid for USLME
+
+Helpful Mnemonics•Crohn Disease:•“A FAT granny and an old crone skipping down a cobblestone road away from a wreck (rectal sparring)”•Ulcerative Colitis: (ULCCCERS)•Ulcers•Large intestine•Continuous, Colorectal carcinoma, Crypt abscesses•Extends proximally•Red diarrhea•Sclerosing cholangitis
+
+
+References•http://www.emedicine.com•https://www.uptodate.com/contents/medical-management-of-low-risk-adult-patients-with-mild-to-moderate-ulcerative-colitis?search=ibd%20treatment&source=search_result&selectedTitle=2~150&usage_type=default&display_rank=2 •https://www.uptodate.com/contents/overview-of-the-medical-management-of-mild-low-risk-crohn-disease-in-adults?search=ibd%20treatment&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1•https://www.uptodate.com/contents/overview-of-medical-management-of-high-risk-adult-patients-with-moderate-to-severe-crohn-disease?search=ibd%20treatment&source=search_result&selectedTitle=3~150&usage_type=default&display_rank=3

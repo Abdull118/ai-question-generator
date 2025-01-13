@@ -1,0 +1,76 @@
+Jaundice & diagnostic testsTipsuda Bahri, MD
+
+Learning  Objectives 1.Define jaundice/icterus (scleral and general types) and cholestasis •Recognize their physical signs and histologic features, respectively 2.Identify causes of pre-hepatic, hepatic, and post-hepatic jaundice •Pre-hepatic: Hemolysis•Hepatic: Liver injury, Cirrhosis•Post-hepatic: Obstruction, includes Gallstones and conditions affecting the biliary tract and/or pancreas3.Recognize and evaluate certain laboratory tests that aid with hepatobiliary dysfunction:•Enzymes: AST, ALT, GGT, Alkaline phosphatase, 5’Nucelotidase•Serum markers: Bilirubin (direct, indirect), albumin, prothrombin (PT), ammonia•Urine: bilirubin, urobilinogen
+
+Scleral icterus/ General jaundice: Yellowing of the eyes & skin; Bilirubin > 2.0 mg/dL
+http://www.sciencephoto.com/media/81015/enlargeObj#1
+
+Cholestasis•Impaired bile flow within the liver•Retention of  bilirubin, bile salts, and cholesterol within hepatocytes, bile canaliculi, or bile ducts•Due to liver dysfunction or intra- or extra-hepatic biliary obstructionObj#1
+
+CholestasisSigns & Symptoms: •Pruritis (itching) - common•Xanthomas, Xanthalesma -Cholesterol elevation due to decreased bile salt formation; accumulation within dermis•Decreased fat soluble Vit E,D,K, A absorption (in this order):üVit E: Periph neuropathy, hemolysisüVit D: Osteomalacia, ricketsüVit K: CoagulopathyüVit A: Vision loss; Epithelial metaplasia; Not commonly presentObj#1
+
+Gen Path review: Accumulations: Cholestasis  Intracellular bilirubin; gold-brown-yellow 
+Obj#1
+
+Accumulations: Cholestasis within bile canaliculi
+Obj#1
+
+In contrast: Lipofuscin (right); golden brown pigment; age-related
+Obj#1
+
+Causes of jaundice•Pre-hepatic: Hemolysis•Hepatic: Liver injury, Cirrhosis•Post-hepatic: Obstructive: üGallstonesüConditions affecting the biliary tract and/or pancreas (i.e. PBC, PSC, Cholangitis, Acute cholecystitis)Obj#2
+
+Obj#2
+
+AST, ALT•AST and ALT are the primary enzyme (transaminase) markers of diffuse liver cell injury/necrosis- Usuallynotincreased with focal liver cell necrosis (e.g., metastasis, granulomas)•ALT is more specific for liver than AST•AST is primarily located in hepatocyte mitochondriaüAlcohol is a toxin and disrupts mitochondrial function•AST is also present in red blood cellsüCan be elevated with red cell hemolysisObj#3
+
+Goljan & Slojka  Table 9-17. Summary of Liver Function TestsTestSignificanceLiver cell necrosisSerum alanine aminotransferase (ALT)•Specific enzyme for liver cell necrosis•Present in the cytosol•ALT > AST: viral hepatitisSerum aspartate aminotransferase (AST)•Reflects mitochondria damage•AST > ALT indicates alcoholic hepatitis {ratio > 2:1}Obj#3
+
+Goljan & Slojka  Table 16-2. Laboratory Evaluation of Liver DiseaseTest CategoryCommon Serum TestsBiliary excretory functionSerum bilirubin•Total: unconjugated plus conjugated•Direct: conjugated only; • Indirect: unconjugated (calculation)Urine bilirubin, urobilinogenPlasma membrane enzymes (from damage to bile canaliculus)•Serum alkaline phosphatase•Serum γ-glutamyl transpeptidase (GGT)•Serum 5'-nucleotidaseObj#3
+
+Goljan & Slojka  Table 9-17. Summary of Liver Function TestsTestSignificanceBilirubin excretionCB < 20%Unconjugated hyperbilirubinemia: e.g., extravascular hemolytic anemias, Gilbert's syndromeCB 20-50%Mixed hyperbilirubinemia (e.g., viral hepatitis)CB > 50%Conjugated hyperbilirubinemia (e.g., liver cholestasis, obstruction)CB, conjugated bilirubin; UBG, urobilinogen; UCB, unconjugated bilirubin Obj#3
+
+Wait!How does conjugated bilirubin get into the bloodstream?Isn’t it excreted from bile canaliculi/ducts into the GI tract?
+
+Recall this image from the review lecture:
+Obj#3
+
+This is what happens with obstructive jaundice:
+Tight junctionObj#3Passive reflux:•Obstruction  (intra- or extra-hepatic) would cause increased pressure•This would overcome the resistance of tight junctions between hepatocytes•No basement membrane to divide hepatocytes from endothelial cells•Conjugated bilirubin would “flow back” into the blood stream
+
+Serum GGT•Source: Hepatocyte smooth ER (same location as cytochrome p450)•Causes for increased GGT level:•Obstructive jaundice (intra- and extrahepatic types) •Excellent marker of obstruction similar to ALP (Alk Phos)•Drug ("induction") of the cytochrome P-450 system •Excellent marker of alcohol ingestion Obj#3
+
+Serum GGT•Useful in differentiating source of increased ALP •Both enzymes (Alk phos & GGT) are increased in intrahepatic and extrahepatic obstruction•Normal GGT with increased ALP indicates that ALP is not of liver originObj#3
+
+Goljan & Slojka  Table 9-17. Summary of Liver Function TestsTestSignificanceCholestasisSerum γ-glutamyl-transferase (GGT)Intra- or extrahepatic obstruction to bile flowInduction of cytochrome P-450 system (e.g., alcohol): increases GGTSerum alkaline phosphatase (ALP)Normal GGT and increased ALP: source of ALP other than liver (e.g., osteoblastic activity in bone)Increased GGT and ALP: liver cholestasisObj#3
+
+Goljan & Slojka  Table 9-15. Causes of Increased Serum Alkaline PhosphataseCausesDiscussionNormal childDue to bone growth and increased osteoblastic activityPregnancyDerived from the placentaElderlyDue to reactive bone formation at the margin of weight-bearing joints in osteoarthritis (degenerative arthritis)Obstructive jaundiceExcellent marker of intrahepatic and extrahepatic jaundiceIncreased pressure on bile duct epithelium leads to increased synthesis of ALP (not released from damaged tissue)Bone fractureDue to increased osteoblastic activityOsteoblastic metastasisTumors secrete factors that enhance osteoblastic activity leading to increased density in boneOccurs with prostate cancer (most common) and breast cancerObj#3
+
+Goljan & Slojka  Table 9-17. Summary of Liver Function TestsTestSignificanceHepatocyte functionSerum albuminAlbumin is synthesized by the liverHypoalbuminemia: severe liver disease (e.g., cirrhosis, nephrotic syndrome)Prothrombin time (PT)Majority of coagulation factors are synthesized in the liverIncreased PT: severe liver diseaseBlood urea nitrogen (BUN)Urea cycle is present in the liverDecreased serum BUN: cirrhosis, fulminant liver failureSerum ammoniaAmmonia is metabolized in the urea cycleIncreased serum ammonia: cirrhosis, Reye's syndrome, fulminant liver failureImmune functionSerum IgMIncreased in primary biliary cirrhosisAnti-mitochondrial antibodyPrimary biliary cirrhosisAnti-smooth muscle antibodyAutoimmune hepatitisAnti-nuclear antibodyTumor markerα-Fetoprotein (AFP)Hepatocellular carcinoma; Yolk sac tumorCB, conjugated bilirubin; UBG, urobilinogen; UCB, unconjugated bilirubin Obj#3
+
+Select the row that is most closely associated with the presented vignette
+% CBUrine BilirubinUrine UBGASTALTALPGGTA.<20negative↑↑↑normalnormalnormalB.>50↑↑negative↑↑↑↑↑↑↑↑C.20-50↑↑↑↑↑↑↑↑↑↑↑D.20-50↑↑↑↑↑↑↑↑↑↑E.<20negativenormalnormalnormalnormalnormalQ1. A 25 year old woman with jaundice and a history of hereditary spherocytosis
+
+Select the row that is most closely associated with the presented vignette
+% CBUrine BilirubinUrine UBGASTALTALPGGTA.<20negative↑↑↑normalnormalnormalB.>50↑↑negative↑↑↑↑↑↑↑↑C.20-50↑↑↑↑↑↑↑↑↑↑↑D.20-50↑↑↑↑↑↑↑↑↑↑E.<20negativenormalnormalnormalnormalnormalQ1. A 25 year old woman with jaundice and a history of hereditary spherocytosisANSWER:   •High AST & Unconj bilirubin due to hemolysis•High urine UBG due to relative increased release of conj bilirubin into intestines from incr hepatocyte conjugation•Normal ALT, ALP , GGT since no hepatocyte o biliary tract pathology•Serum conj bilirubin is low; Would have Incr serum unconj bilirubin
+
+Select the row that is most closely associated with the presented vignette% ConjBiliUrine BilirubinUrine UBGASTALTALPGGTA.<20negative↑↑↑normalnormalnormalB.>50↑↑negative↑↑↑↑↑↑↑↑C.20-50↑↑↑↑↑↑↑↑↑↑↑D.20-50↑↑↑↑↑↑↑↑↑↑E.<20negativenormalnormalnormalnormalnormalQ2. A 28 year old medical student who develops jaundice during finals week. He has been up all night studying. History of prior episodes of jaundice. Physical examination is normal. Hepatitis serology panel is negative.
+
+Select the row that is most closely associated with the presented vignette
+% CBUrine BilirubinUrine UBGASTALTALPGGTA.<20negative↑↑↑normalnormalnormalB.>50↑↑negative↑↑↑↑↑↑↑↑C.20-50↑↑↑↑↑↑↑↑↑↑↑D.20-50↑↑↑↑↑↑↑↑↑↑E.<20negativenormalnormalnormalnormalnormalQ2. A 28 year old medical student who develops jaundice during finals week. He has been up all night studying. History of prior episodes of jaundice. Physical examination is normal. Hepatitis serology panel is negative.ANSWER:   •High Unconj bilirubin due to deficiency of UGT enzyme •Other parameters are normal
+
+Select the row that is most closely associated with the presented vignette
+% CBUrine BilirubinUrine UBGASTALTALPGGTA.<20negative↑↑↑normalnormalnormalB.>50↑↑negative↑↑↑↑↑↑↑↑C.20-50↑↑↑↑↑↑↑↑↑↑↑D.20-50↑↑↑↑↑↑↑↑↑↑E.<20negativenormalnormalnormalnormalnormalQ3. A 35 year old chronic alcoholic who presents with fever, jaundice, and tender hepatomegaly. A liver biopsy shows steatosis, Mallory bodies, and neutrophilic infiltrate
+
+Select the row that is most closely associated with the presented vignette
+% CBUrine BilirubinUrine UBGASTALTALPGGTA.<20negative↑↑↑normalnormalnormalB.>50↑↑negative↑↑↑↑↑↑↑↑C.20-50↑↑↑↑↑↑↑↑↑↑↑D.20-50↑↑↑↑↑↑↑↑↑↑E.>20negativenormalnormalnormalnormalnormalQ3. A 35 year old chronic alcoholic who presents with fever, jaundice, and tender hepatomegaly. A liver biopsy shows steatosis, Mallory bodies, and neutrophilic infiltrateANSWER:   •High ALT & AST; ALT > AST due to cytoplasmic injury (rather than mitochondrial- AST); ALP & GGT due to biliary duct injury•High urine bilirubin & UBG due to relative increased serum levels and relative release of conj bilirubin into intestines from incr hepatocyte conjugation•Mixed serum conj & unconj hyperbilirubinemia is seen
+
+Select the row that is most closely associated with the presented vignette
+% CBUrine BilirubinUrine UBGASTALTALPGGTA.<20negative↑↑↑normalnormalnormalB.>50↑↑negative↑↑↑↑↑↑↑↑C.20-50↑↑↑↑↑↑↑↑↑↑↑D.20-50↑↑↑↑↑↑↑↑↑↑E.>20negativenormalnormalnormal↑↑↑normalQ4. 55 year old male who presents with lower back pain and occasional decreased urinary stream. Digital rectal exam yields an enlarged prostate gland. Few firm, nontender, palpable nodules in the left posterior prostatic lobe.
+
+Select the row that is most closely associated with the presented vignette
+% CBUrine BilirubinUrine UBGASTALTALPGGTA.<20negative↑↑↑normalnormalnormalB.>50↑↑negative↑↑↑↑↑↑↑↑C.20-50↑↑↑↑↑↑↑↑↑↑↑D.20-50↑↑↑↑↑↑↑↑↑↑E.>20negativenormalnormalnormal↑↑↑normalQ4. 55 year old male who presents with lower back pain and occasional decreased urinary stream. Digital rectal exam yields an enlarged prostate gland. Few firm, nontender, palpable nodules in the left posterior prostatic lobe.ANSWER:   •High ALP due to bone metastases and osteoblastic lesion of prostate cancer•Other parameters are normal
+
+Learning  Objectives 1.Define jaundice/icterus (scleral and general types) and cholestasis •Recognize their physical signs and histologic features, respectively 2.Identify causes of pre-hepatic, hepatic, and post-hepatic jaundice •Pre-hepatic: Hemolysis•Hepatic: Liver injury, Cirrhosis•Post-hepatic: Obstruction, includes Gallstones and conditions affecting the biliary tract and/or pancreas3.Recognize and evaluate certain laboratory tests that aid with hepatobiliary dysfunction:•Enzymes: AST, ALT, GGT, Alkaline phosphatase, 5’Nucelotidase•Serum markers: Bilirubin (direct, indirect), albumin, prothrombin (PT), ammonia•Urine: bilirubin, urobilinogen
+
+Thank youPlease feel free to reach out to myself via email with any questions.

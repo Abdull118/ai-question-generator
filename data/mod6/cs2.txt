@@ -1,0 +1,196 @@
+Approach to the Patient with Viral HepatitisElizabeth Williams, DOClinical SystemsTouroCOM NYSome slides modified from lecture given by:Lisa Ganjhu, DO AGAF, FACG
+
+Learning Objectives•Discuss the pathogenesis and pathophysiology, clinical presentation, diagnostic work up, management, vaccination, complications, risk factors for:•Hepatitis A virus•Hepatitis B virus•Hepatitis C virus•Hepatitis D virus•Hepatitis E virus•Epstein-Barr virus (EBV), cytomegalovirus (CMV), herpes simplex virus (HSV), adenovirus
+
+Reading•Goldman-Cecil Medicine, 25th e, chapters 147-149, 2016
+
+
+Basics of Viral Hepatitis•Do comprehensive history & physical. •Identify clinical signs and symptoms of hepatitis. •Identify “at risk” patients for viral hepatitis.•Do appropriate screening serology.•Imaging such as Ultrasound, CT scan, or MRI of abdomen helpful to rule out other causes of liver disease.•Liver biopsy when indicated as this may determine treatment options.
+
+Viral HepatitisHepatitisABCDEVirusHAVHBVHCVHDVHEVFamilyPicornavirusHepadnavirusFlavivirusSatelliteCalicivirusGenomessRNAdsDNAssRNAssRNAssRNASpreadFecal-oralParenteral, sexual, perinatalParenteral,?sexualParenteral,?sexualFecal-oralAntigensHAV-AgHbsAg, HBcAg, HBeAgHCV-AgHDV-AgHEV-AgAntibodiesAnti-HAVAnti-HBs, Anti-HBc, Anti-HBeAnti-HCVAnti-HDVAnti-HEVViral MarkersHAV-RNAHBV DNA,DNA polymeraseHCV-RNAHDV-RNAVirus-like particles
+
+Commonly Performed Serologic Tests for Viral Hepatitis Virologic test Usual clinical implication of a positive testHepatitis A–IgM •Positive in acute hepatitis AHepatitis A–IgG •Positive in response to previous hepatitis A infection or vaccinationHepatitis B surface antigen •Positive during active hepatitis B infectionHepatitis B surface antibody•Positive in response to previous hepatitis B infection or vaccinationHepatitis B core antibody–IgM •Positive during active hepatitis B infectionHepatitis B core antibody–IgG •Positive in response to current or prior hepatitis B infectionHBV-DNA •Positive during active hepatitis B infectionHepatitis B e antigen •Positive tests indicates replicative state of wild-type hepatitis B infectionHepatitis B e antibody •Positive after replicative state of wild-type hepatitis B infection (non replicating)HCV-antibody ELISA •Positive during or after hepatitis C infectionHCV-RIBA •Positive during or after hepatitis C infectionHCV-RNA•Positive during hepatitis C infection
+
+Hepatitis A Virus•Size 27-28nm, non enveloped virus•RNA virus•Hepatovirus•Enteric transmission (fecal-oral)•Incubation 15-50 days (30)•Pan endemic•IgM HAV ab (+) active •IgG HAV ab (+) past resolved infection•Vaccine to prevent•2 doses 6-12 months apart•Self- limited•Acute liver failure, cholestatic, relapsing
+
+
+Geographic Distribution of Hepatitis A Virus InfectionFigure courtesy of CDC
+
+
+http://treatment-institute.blogspot.com/2014/08/hepatitis-a-symptoms-diagnosis.html
+
+www.Medscape.com
+
+www.Medscape.com
+
+Symptoms of hepatitis A. Image Credit: Timonina / Shutterstock
+
+Who Needs Vaccination for Hepatitis A?The Advisory Committee on Immunization Practices (ACIP) recommends that the following persons be vaccinated against hepatitis A;•All children at age 1 year,•Persons who are at increased risk for infection,•Persons who are at increased risk for complications from hepatitis A, and•Any person wishing to obtain immunity (protection).
+https://www.cdc.gov/hepatitis/hav/havfaq.htm#vaccine
+
+Persons at Increased Risk for Hepatitis A Infection•Persons traveling to or working in countries that have high or intermediate endemicity of hepatitis A.•Men who have sex with men.•Users of injection and non-injection drugs.•Persons who have occupational risk for infection.•Persons who have chronic liver disease.•Persons who have clotting-factor disorders.•Household members and other close personal contacts of adopted children newly arriving from countries with high or intermediate hepatitis A endemicity.•Persons with direct contact with persons who have hepatitis A.https://www.cdc.gov/hepatitis/hav/havfaq.htm#vaccine
+
+Postexposure Prophylaxis forHepatitis A•Persons who have been exposed recently to hepatitis A virus (HAV) and who have not been vaccinated should be administered one dose of single-antigen hepatitis A vaccine or immune globulin (IG) as soon as possible, within 2 weeks after exposure. •The guidelines vary by age and health status.•For details see CDC website: https://www.cdc.gov/hepatitis/hav/havfaq.htm#vaccine
+
+Hepatitis B Virus•Hepadnaviridae family•Hepatitis B surface Ag•Hepatitis Core Ag•Hepatitis e Ag•HBV-DNA•HBV-DNA polymerase
+https://vignette.wikia.nocookie.net/resscientiae/images/6/6b/Hepatitis-b-virus-structure-hepatitis-b-----medlibes--online-medical-library-k44mhi5n.gif/revision/latest?cb=20140518064328
+
+https://www.cdc.gov/hepatitis/hbv/hbvfaq.htm#overview
+
+Approximately 1.2 million people in the United States and 350 million people worldwide have Hepatitis B. Most are unaware of their infection.
+
+Chronic Hepatitis B•1 in 12 Asian Americans and Pacific Islanders has Hepatitis B.•Hepatitis B is common worldwide, especially in many parts of Asia and the Pacific Islands. •In the US, Hepatitis B disproportionately affects Asian Americans and Pacific Islanders (AAPIs).•While AAPIs make up less than 5% of the U.S. population, they account for more than 50% of Americans living with Hepatitis B.
+
+
+Modes of HBV TransmissionHorizontal transmission1Prolonged close contact (eg, household)IV drug useSexual contact
+Child
+1.CDC. Morb Mortal Wkly Rep. 2008;57:1-20.2.Buchanan C, Tran TT. Clin Liver Dis. 2010;14:495-504.HBV carrierVertical transmission via motherUp to 90% of infants born to HBeAg-positive mothers develop CHB2Exposure to blood or bodily fluidOrgan, blood, and semen donorsHemodialysis
+HBeAg=hepatitis B e antigen.Only 2-6% of adults develop ChronicHepatitis B
+
+•People born in regions with prevalence of HBV infection of ≥2%1•US-born people not vaccinated as infants whose parents were born in regions with prevalence of HBV infection of ≥8%1USPSTF Screening Recommendations for HBV Infection in High-Risk Individuals
+1.LeFevre ML; USPSTF. Ann Intern Med. 2014;161:58-66.2.CDC. Morb Mortal Wkly Rep. 2008;57:1-20.Figure adapted from Table 1 in LeFevre ML1 and Figure 3 in CDC.22%-7%HBsAg prevalence≥8%
+
+Recommendations for CHB Screening From the USPSTF, AASLD and CDC
+
+
+Serologic Markers in HBV Infection
+1.Dienstag JL. N Engl J Med. 2008;359:1486-1500.2.Kao JH. Expert Rev Gastroenterol Hepatol. 2008;2:553-562.3.Hollinger FB, Lau DTY. Gastroenterol Clin North Am. 2006;35:425-4
+
+Hepatitis B Serologies
+
+
+Course of HBV Infection
+CHB follows a nonlinear clinical course; not all patients will go through each phase•This phase occurs in patients with perinatally acquired infection•Minimal or no inflammation•May last 1 to 4 decades•High or fluctuating HBV DNA levels•Persistent or intermittent fluctuation in ALT levels•Active inflammation and liver damage•Low or undetectable HBV DNA levels•Normal ALT levels•Mild hepatitis, minimal fibrosis, but cirrhosis may be present from previous liver damage•Some patients may have reactivation of HBV replication•Usually older patients with more advanced liver disease•Fluctuating levels of ALT and HBV DNA
+Immune tolerant1,2Immune clearance1,2Inactive carrier1,2Reactivation1,2HBV DNAALT
+Anti-HBe
+HBeAg
+•After many years, some patients may enter a resolution phase•Not considered a “cure” as intra-cellular HBV DNA is still presentResolution1
+1.Keeffe EB et al. Gastroenterol Hepatol. 2008;6:1315-1341.2.Yim HJ, Lok ASF. Hepatology. 2006;43:S173-S181.Adapted with permission from: Yim HJ, Lok ASF. Hepatology. 2006.25Anti-Hbe=antibody to HBeAg.
+HBsAg+
+HBsAg–
+
+
+
+
+Complications Associated With Chronic Hepatitis B
+1.Lim YS, Kim WR. Clin Liver Dis. 2008;12:733-746.2.Weisberg IS, et al. Clin Liver Dis. 2007;11:893-916. 3.Asian Liver Center. 2013 Physician’s Guide to Hepatitis B. http://liver.stanford.edu/Media/publications/Handbook/2013Handbook.pdf. Accessed May 28, 2014.4.Fattovich J, et al. J Hepatol. 2008;48:335-352.
+Healthy liver tissue 
+Consequence of ongoing liver injury and repair1
+Risk of progression to cirrhosis is 2% to 6% annually2
+Typically presents 3 to 5 years after a diagnosis of CHB with cirrhosis2
+Average survival in patients with HCC is ~6 to 12 months, often due to late diagnosis3
+Up to 40% of patients with CHB may develop cirrhosis,                                   hepatic decompensation, or HCC4 
+FibrosisCirrhosis
+HepatocellularCarcinoma (HCC)Normal
+End-stage Liver Disease
+
+Host and Viral Risk Factors for Hepatocellular Carcinoma (HCC )
+Although cirrhosis is a strong risk factor for HCC, 30% to 50% of HCC associated with HBV occurs in the absence of cirrhosis11.Lok ASF, McMahon BJ. Hepatology. 2009;50:1-36.2.Keeffe EB, et al. Clin Gastroenterol Hepatol. 2008;6:1315-1341.3.Tong MJ, et al. Liver Int. 2007; 27:1356-1363.4.Mahtab MA, et al. Hepatobiliary Pancreat Dis Int. 2008;7:457-464.5.Lin SY, et al. Hepatology. 2007;46:1034-1040.aAsian Americans have a higher prevalence of HBV genotype C and a higher risk of HCC than Caucasian Americans.4,5HCV=hepatitis C virus; HDV=hepatitis D virus; HIV=human immunodeficiency virus.•HBV DNA levels >2000 IU/mL (>10,000 copies/mL)2,3•HBV genotype C2,4,a•Basal core promoter mutation1,2•Precore mutation2,3•Presence of HBeAg2,4•Male gender1,2•Family history of HCC1•Older age1,2•Coinfection with HCV, HDV, or HIV1,2•Alcohol consumption2•Cigarette smoking2•Aflatoxin1
+Host Factors
+Viral Factors
+
+Recommendations for HCC Surveillance in Patients With CHB•Alpha-fetoprotein and abdominal ultrasound every 6 months•Recommended candidates for surveillance:•Asian men >40 years of age•Asian women >50 years of age•Africans >20 years of age•Patients with cirrhosis•Patients with a family history of HCC•Patients >40 years of age with ALT elevations and/or high HBV DNA levels (>2000 IU/mL)•Patients 30 to 35 years of age who were infected at birth or in early childhood
+
+
+Treatment Goals•Primary Goal:•Durable suppression of HBV DNA•Other Goals:•Histologic improvement•ALT normalization•In patients who are HBeAg+•Loss of HBeAg with seroconversion to anti-HBeThe ultimate aim of treatment is to help prevent progression of liver disease to liver failure or HCC and help prevent premature death or need for transplantationKeeffe EB, et al. Clin Gastroenterol Hepatol. 2008;6:1315-1341.
+
+
+Approved Drugs For CHB•Pegylated interferon•Nucleoside/nucleotide analogues•Tenofovir, Entecavir •high barrier to resistance•Lamivudine, adefovir, telbivudine•low barrier to resistance
+
+Hepatitis C Virus•RNA Virus•Acute and Chronic Forms•Prevalence of chronic HCV infection in the United States:•An estimated 3.5 million people in the United States have chronic hepatitis C 
+https://www.cdc.gov/hepatitis/hcv/hcvfaq.htm#section1
+
+Natural History of HCV Infection
+Maasoumy B, et al. Best Pract Res Clin Gastroenterol. 2012;26:401-412.14%-46%<1%54%-86%15%-51%3%-6% per Year1%-5% per Year0.8% per Year
+SpontaneousclearanceFulminanthepatitis
+Hepatocellularcarcinoma (HCC)Hepaticdecompensation
+Liver cirrhosis
+Chronic hepatitis C (CHC)
+Acute HCV infection
+Annual mortality rate of 2%-4% in CHC-infected patients with cirrhosis
+
+Risk Factors for Hepatitis C•Current or former injection drug users, including those who injected only once many years ago•Recipients of clotting factor concentrates made before 1987, when less advanced methods for manufacturing those products were used•Recipients of blood transfusions or solid organ transplants prior to July 1992, before better testing of blood donors became available•Chronic hemodialysis patients•People with known exposures to HCV, such as•health care workers after needle sticks involving HCV-positive blood•recipients of blood or organs from a donor who tested HCV-positive•People with HIV infection•Children born to HCV-positive mothershttps://www.cdc.gov/hepatitis/hcv/hcvfaq.htm#section1
+
+Acute Hepatitis C SymptomsPeople with newly acquired HCV infection usually are asymptomatic or have mild symptoms that are unlikely to prompt a visit to a health care professional. 
+Common Symptoms Acute HCV•Fever•Fatigue•Dark urine•Clay-colored stool•Abdominal pain•Loss of appetite•Nausea•Vomiting•Joint pain•Jaundicehttps://www.healthnormal.com/hepatitis-c-symptoms-signs-and-symptoms-of-hepatitis-c/ 
+
+Chronic Hepatitis C Symptoms•Most people with chronic HCV infection are asymptomatic or have non-specific symptoms such as chronic fatigue and depression. •Many eventually develop chronic liver disease, which can range from mild to severe, including cirrhosis and liver cancer. •Chronic liver disease in HCV-infected people is usually insidious, progressing slowly without any signs or symptoms for several decades•HCV infection is often not recognized until asymptomatic people are identified as HCV-positive when screened for blood donation or when elevated alanine aminotransferase levels are detected during routine examinations.
+
+Genotypes 4,5,6
+3%
+
+Genotypes 2 and 3
+
+22%
+
+
+
+HCV Screening Guidelines for At-Risk Patients
+1. AASLD, IDSA, IAS-USA. Recommendations for testing, managing, and treating hepatitis C. 2014. www.hcvguidelines.org. Accessed May 27, 2014; 2. CDC Testing Recommendations for Chronic Hepatitis C Virus Infection. January 17, 2012. www.cdc.gov/hepatitis/hcv/guidelinesc.htm. Accessed April 22, 2014; 3. Moyer VA, et al. Ann Intern Med. 2013;159:349-357. Age-based•One-time screening for adults born between 1945 and 19651-3Risk-based•Past or current injection drug use1-3 or intranasal drug use1,3•Long-term kidney dialysis1-3•Recipients of: transfusion of blood or blood component, organ transplant before July 1992,1-3 clotting factor concentrate before 1987;1,2 blood from a donor who later tested HCV-positive1,2•Healthcare worker exposed to HCV-infected blood1-3•Receipt of an unsterile/unregulated tattoo1,3•Children born to HCV-infected mothers1-3•Incarceration1,3Other medical conditions•HIV infection1,2•Unexplained chronic liver disease, including persistently elevated ALT1,2HCV Screening Guidelines From AASLD/IDSA/IAS-USA, CDC, and USPSTF
+
+Recommended Testing Sequence for Identifying US Deparment
+Current Hepatitis C Virus (HCV) Infection Ca OE | coon,
+
+Nonreactive
+
+Not Detected
+
+* For persons whio mi have boon expesed to HCV within the 6 months, testing for HCV RNA or follow-up testing for HCV antibody is recommended. For persons who are
+iumpooonpraisel tating fr HOY canbe comidersd. " "
+
+1 To diffarentiats past, resotved HCV infection from biologic false positivity for HCV antibody, testing with another HCV antibody assay can be considered. Rapeat HCV RNA tasting if tha person tasted
+is suspected to have had HCV exposure within the past6 months or has clinical evidence of HCV disease, or if there is concern regarding the handling or storage of the test specimen.
+
+
+
+
+&
+lu
+—
+é
+Ss
+nn
+
+
+
+Treatment of HCV•Initial treatment of HCV infection includes patients with chronic hepatitis C who have not been previously treated with interferon, peginterferon, ribavirin, or any HCV direct-acting antiviral (DAA) agent, whether experimental, investigational, or US Food and Drug Administration (FDA) approved.•Treatment protocols exist for specific patient populations and for various genomes of HCV virus.•The goal of therapy is to cure HCV infection which will prevent:•Long term complications of HCV (e.g cirrhosis, HCC)•Improve quality of life & remove stigma•Prevent onward transmissionhttps://www.hcvguidelines.org/treatment-naive 
+
+Treatment Regimens
+
+
+Endpoints of Treatment for HCV•Undetectable HCV RNA in serum or plasma by sensitive assay 12 or 24 weeks at the end of treatment .   OR•Undetectable HCV core antigen in serum or plasma 24 weeks after the end of treatment in patients with detectable core antigen prior to therapy if HCV RNA assays not available or affordable. Remember: in patients with advanced fibrosis and cirrhosis surveillance for HCC must be continued as risk of HCC decreased with treatment but  not completely eliminated.
+
+Hepatitis D•“Delta hepatitis” •Uncommon in the United States•Only occurs in people who are infected with the hepatitis B virus because HDV is an incomplete virus that requires the helper function of HBV to replicate.•Can be an acute, short-term, infection or a long-term, chronic infection.•Transmitted through percutaneous or mucosal contact with infectious blood and can be acquired either as a coinfection with HBV or as superinfection in people with HBV infection.•There is no vaccine for hepatitis D, but it can be prevented in people who are not already HBV-infected by hepatitis B vaccination.https://www.cdc.gov/hepatitis/hdv/ 
+
+HBV - HDV Superinfection
+Typical Serologic Course
+aendicr
+Syiplome
+
+Time after Exposure
+
+
+
+Treatment of HDV
+Chart adapted from; Wedemeyer, H. & Manns, M. P . (2010) Epidemiology, pathogenesis and management of hepatitis D: update and challenges ahead Nat. Rev. Gastroenterol. Hepatol. doi:10.1038/nrgastro.2009.205Patients should be monitored every 3-6 months after the initiation of treatment as serum levels of HBV RNA and HDV RNA may fluctuate.
+
+Hepatitis E
+
+
+Enteric non-A, non-B HepatitisAKA Hepatitis E•Hepatitis E virus (HEV) causes enteric transmitted via the oral-fecal route through contaminated drinking water. •It is not usually transmitted directly from one patient to another (in contrast to HAV). •HEV outbreaks can be extensive and is likely the cause of much of the acute sporadic hepatitis seen in areas where the virus is found •In countries of low incidence, HEV infections are usually seen in travelers. •After an incubation 16 to 60 days (with an average of 40 days), typical hepatitis symptoms arise.•Virus may be excreted in the stool for several weeks after the onset of symptoms. •There is no evidence for chronic HEV infections•In pregnant women the mortality rate is high
+
+Symptoms
+
+ALT ee
+a TG antiHEV
+VA IgM anti-HEV
+
+Virus in stool {
+
+ae a es i Fs
+
+
+
+Other Viruses That Can Cause Hepatitis•Epstein-Barr virus (EBV)–Mononucleosis syndrome•Cytomegalovirus (CMV)–Mononucleosis syndrome–Post transplant•Herpes simplex virus (HSV)–Immunocompromised host•Adenovirus–Immunocompromised host–Species C serotype 5 
+
+References•https://www.cdc.gov/hepatitis/hav/•https://www.cdc.gov/hepatitis/hbv/•https://www.cdc.gov/hepatitis/hcv/•https://www.cdc.gov/hepatitis/hdv/•https://www.cdc.gov/hepatitis/hev/•https://www.cdc.gov/hepatitis/resources/professionals/training/serology/training.htm

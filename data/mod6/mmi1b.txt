@@ -1,0 +1,76 @@
+PART II
+
+Yersinia enterocolitica, Yersiniosis•Family	Enterobacteriaceae•Non-lactose	fermenter•motile	at	25°C,	non-motile	at	37°C•food-associated	infection	•Risk	group:infants•Season:	winter	(organism	CAN	multiply	at	4°C)•Zoonosis:		rodents,	rabbits,	pigs,	sheep,	cattle,	horses	&	pets•Transmission:	household	dogs	contaminated	milk,	meat	&	other	foods•Epidemiology:Scandinavians,	North	America,	North	Europe																																									Serogroup	O3	&	O9:	Japan,	Europe,	CanadaSerogroup	O8:	USA
+Gram stain
+EM
+
+Yersinia enterocoliticapathogenesisvirulence	factors:•proteins	promoting	adhesion	and	epithelial	cell	invasion•EnterotoxinPathogenesis:•invasion	of	the	terminal	ileum•necrosis	in	Peyer's	patche•mesenteric	lymphadenitis:	confused	with	acute	appendicitisØPseudoappendicitisØparticularly	in	childrenClinical	Presentation:•Incubation	period:	4-7d,	duration:	1-2	weeks•Bloody	diarrhea,	Abdominal	cramps•erythema	nodosum:	-painful,	raised	red/purple	lesions-on	the	patient’s	legs	and	trunk-2-20	d	after	onset	of	fever	•abdominal	pain,	resolve	spontaneously	after	1	month
+Y. enterocoliticainfection of the ileumsuperficial necrosis of the mucosa &ulceration. (Courtesy of J. Newman.)
+
+Diagnosis and Treatment, Yersinia enterocoliticaDiagnosis:Østool	culture	on	cefsulodin-irgasan-novobiocin	(CIN):	grows	at	25°C*ØPCR,	genotypingTreatmentØResolves	on	its	own	without	antibiotic	treatment	ØAntibiotics:	Only	in	severe	infection/complications:								trimethoprim-sulfamethoxazole,								aminoglycosides,	tetracyclines								third-generation	cephalosporins,	fluoroquinolones
+Y. enterocolitica on CIN
+
+Campylobacter•Family	Campylobacteraceae,•Thin,	small*,	curved	(comma-shapped),	gram-	rods•Oxidase	and	catalase	positive•4	out	of	33	species	are	common	human	pathogens•Campylobacter	jejuni:responsible	for	most	infections•Campylobacter	coli:associated	with	less	cases	in	US•Campylobacter	upsaliensis:~10%	of	campylobacter	GI	infections•LOS:	capsular	Polysaccharides	(CPS),	virulence	&	vaccine	target	•clinical	presentation:	similar	to	that	of	diarrhea	caused	by	salmonellae	andShigella•gastric	acids:	kills	CampylobacterØconditions	that	decrease	or	neutralize	gastric	acid	secretion	favor	infection
+Campylobacter jejuniGram stain S-shaped bacilli.(Courtesy of I. Farrell.)
+
+Environmental reservoirs, routes of transmission, and clinical manifestations associated withCampylobacterspeciesanimal	reservoir:	cattle,	sheep,	rodents,	pets,	poultry	&	wild	birdsTransmission:	fecal-oral	food,	poultry,	milk,	water,	petsEpidemiology:	USØ1.4	-2	million	infections	annuallyØ#1	cause	of	bacterial	diarrheal	illnessØ#1	intestinal	disease	diagnosed	in	travelersØCommon:infants	&	young	children
+
+Pathogenesis and disease of C. jejuniGI disease 
+•histologic	damage	to	the	mucosal	surfaces	of	the	jejunum*,	ileum	&	colonØulcerated	&	edematousØbloody,with	crypt	abscesses	in	the	epithelial	glandsØinfiltration	of	the	lamina	propria	with	neutrophils,	mononuclear	cells,	and	eosinophilsDisease:•acute	enteritis:	diarrhea,	fever	&	severe	abdominal	pain•acute	colitis:abdominal	pain	mimicking	acute	appendicitis*•Guillain-Barré	syndromeandreactive	arthritis	(HLA-B27	patients)•C.	fetus:	causes	intravascular(e.g.,	septicemia,	endocarditis)	&extraintestinal(e.g.,	meningoencephalitis)infectionsVirulence	factors:	not	fully	understood•strains	lacking	enterotoxin	activity	are	still	fully	virulentInflammatory enteritis caused byCampylobacter jejuniinvolving the entire mucosa, with flattened atrophic villi, necrotic debris in the crypts and thickening of the basement membrane (Cresyl-fast violet stain). (Courtesy of J. Newman.)
+
+Diagnosis, Treatment, Prevention-•Campylobacter	Selective	Agar	(CAMPY)*•Conditions**:1.microaerophilic	atmosphere:(5-7%	O2,	5-10%	CO2)2.elevated	incubation	temperature(i.e.,	42° C):	not	C.	fetus3.slow-growing:	incubation	~48	h	•Antigen	detection:	80-90%	sensitivity	&	>95%	specificity•CDC:	culture-independent	PCR	diagnostic	test	(CIDT)***Culture	confirmation	of	CIDT-positive	specimens	(reflex	culture):	idealTreatment:•Most	people	recover	without	antibiotic	treatment•Azithromycin	and	fluoroquinolones	(e.g.,	ciprofloxacin):		severe	infectionsPrevention:Proper	food	preparation,	avoid	unpasteurized	milk	products,	water	hygiene	
+C. jejuni on CAMY
+
+Helicobacter	pylori*•Family	Helicobacteraceae•gastric	helicobacters:	primarily	colonize	the	stomach•enterohepatic	helicobacters:	colonize	the	intestines•Gram	negative	spiral	rod,	polar	flagella	(motile)•Catalase,	oxidase-positive,and	Urease	positive•Marshall	and	Warren:	Nobel	Prize	for	discovering***•Urease	and	motility:	survival	in	gastric	acids	and	rapid	movement	through	the	viscous	mucus	layer	toward	a	neutral	pH	environment•chronic	infection:	H.	pyloricolonizes	the	host	for	life	•Humans	are	the	primary	reservoir•Transmission:	fecal-oral,	Person-to-person•no	seasonal	incidence	
+LPS:•lipid A:  low endotoxin activity •core oligosaccharide•O side chain:  antigenically similar to the Lewis blood group antigens may protect the bacteria from immune clearance
+
+H.	pylori•Initial	colonization	facilitated	by	1.blockage	of	acid	production2.neutralization	of	gastric	acids	with	the	ammonia	produced	by	bacterial	urease	activity3.	motile	helicobacters	can	then	pass	through	the	gastric	mucus	and	adhere	to	the	gastric	epithelial	cells	by	multiple	surface	adhesion	proteins	
+
+H.	pylori-Virulence	Factors•cagA(cytotoxin-associated	gene	A):	pathogenicity	island	1.affects	cell	signalling&	reduces	cell	adhesion	2.changes	cell	phenotype	from	epithelial	to	mesenchymal	cells:	associated	with	carcinogenesis•vacA(vacuolating	toxin	A):	tissue	damaging	activity**1.induces	large	vacuoles	in	host	cells:	osmotic	swelling2.causes	mitochondrial	dysfunction,	apoptosis3.disrupts	the	epithelial	cell	barrier:	allowsH.	pylorito	colonize	the	gastric	epithelium•babA(sialic-acid-binding	adhesin)	1.binds	to	the	Lewis	b	ABO	blood	group	antigen	on	red	blood	cells	and	some	epithelial	cells2.causes	ds	DNA	breaks	in	host	cells:	cancer-associated	mutations	•oipA(outer	inflammatory	protein	adhesion):	•associated	with	carcinogenesis48
+
+H.	pylori-Disease,	•First	bacterium	proven	to	cause	cancer:	25%	of	all	infection-associated	cancers•associated	with	>90%	of	duodenal	ulcers	&70–80%	of	gastric	ulcers•associated	with	dyspepsia,	stomach	or	upper	abdominal	pain,	due	to	1.gastric	ulcers2.acute	and	chronic	gastritis3.gastric	adenocarcinoma4.mucosa-associated	lymphoid	tissue	(MALT)	B-cell	lymphoma5.in	other	sites	of	the	body:	extragastricdiseasesH.	cinaedi&H.	fennelliae:	enterohepatic	helicobacter:•gastroenteritisandbacteremia:	immunocompromised	patients	
+Helicobacter pylorigastritis:spiral-shaped organisms adhering tothe mucosal surface (silver stain).(Courtesy of A.M. Geddes.)
+
+qnon-invasiveA.urea	breath	test	UBT:	13C-UBT	most	common•Breath	into	bag:	baseline	CO2•Drink	liquid	with	carbon-radiolabelled	urea	•Urease	breaks	it	down:	ammonia	&	CO2•CO2	absorbed	into	the	bloodstream•breath	into	bag	2:	radiolabelled	CO2	in	the	expired	airB.fecalH.	pyloriantigen	testing:	>95%	spec	&	sensC.ELISA-based	serology	tests:	not	sensitive	or	specific*qInvasive	methods:	endoscopPCR	on	Biopsy:	antibiotic	resistance	H.	pylori-Diagnosis
+Epidemiology!70-90%:	developing	countries~40%	or	less	in	the	US/developed	countries		
+
+H.	pyloriTreatment•Quadruple	therapy:ØA	proton	pump	inhibitor	(PPI):	e.g.,	omeprazoleØbismuth	saltsØtwo	antibiotics:	metronidazole*	and	tetracycline•Triple	therapyØPPI	+	two	antibiotics	(clarithromycin	+	amoxicillin)•Sequential	treatmentstarts	with	amoxicillin	and	a	PPI	for	a	few	days	followed	by	triple	therapy	Individual	without	symptoms:NO	TREATMENT**51
+
+Summary of Important Campylobacter and Helicobacter Species
+
+
+Vibrio cholerae
+•comma-shaped Gram-negative bacterium, Oxidase+•Motile: polar flagella•>200 serotypes: based on somatic (O) antigens of LPS•epidemic cholera: O1 & O139•Serogroups: Non-O1/Non-O139                                   O1                                   O139 •O1 serotypes: Inaba, Ogawa, Hikojima•biotypes:  A. El Tor*biotype B. classical
+
+Vibrio cholerae
+
+
+V.	Cholera-Epidemiology,	•inadequate	clean	drinking*	water	and	sewage	disposal	:	floods,	earthquakes,	war!•endemic	in	over	50	countries•South-East	Asia	and	parts	of	Africa	and	South	America•Recently	Yemen!•3–5	million	people	infected	annually•No	vector:	V.	choleraeis	a	free-living	in	fresh	water•infects	only	humans,	the	only	reservoirTransmission•Inadequate	drinking	Water•person-to-person:	uncommon55
+
+V.	Cholera-Virulence	factors•Colonization	of	the	small	intestine:	by	bacterial	Motility/Mucinase•Toxins:	BacteriophageCTXΦ	encoded	(1-3)1-Cholera	Toxin	(ctxA+	ctxB):		•A	subunit:Øactivates	adenylate	cyclase,	cAMP	Øchloride	secretion	and	secretory	diarrhea•pentameric	B	subunit:Øbinds	to	ganglioside	GM1	site	on	eukaryotic	cells2-accessory	cholera	enterotoxinandzonula	occludenstoxin:ØV.	cholera	strain	O1	(cannot	produce	cholera	toxin)Øloosen	the	tight	junctions	of	small	intestine	mucose3-Toxin	co-regulated	pilus	(TCP)ØProvides	adherence	to	the	mucosal	cell	layerwhile	fluid	flushing	during	diarrhea56
+
+Virulence factors of Vibrio
+
+
+V.	cholera-Clinical	Manifestation,	•watery	diarrhea	+	vomiting:	abrupt,	2	to	3	d	after	bacterial	ingestion•feces-streaked	stool	specimens:	colorless	and	odorless•feces:	indicative	for	cholera		free	of	protein,	mucus		(“rice-water”	stools)•Severely	infected	patients	can	lose	as	much	as	1	liter	of	fluid/h	•dehydration,	painful	muscle	cramps,	•metabolic	acidosis	(bicarbonate	loss)•hypokalemia	and	hypovolemic	shock	(potassium	loss)•cardiac	arrhythmia	and	renal	failure•Fever:	rare,	if,	then	indicative	of	a	secondary	infection•Mortality	rate	is	as	high	as	70%	in	untreated	patients	58
+Rice water stool in cholera
+
+V.	cholera-Diagnosis,	•Feces:	Rice	water	stool•Microscopic	examination	of	stool:	acute	infection•Immunoassays:cholera	toxin/O1	and	O139	lipopolysaccharides•Culture:a	must	early	in	course	of	disease	with	fresh	stool	specimensTreatment:•Prompt	rehydration:	fluids	&	electrolytes•Antibiotics	(azithromycin	and	erythromycin)																							-in	Moderate	to	severe	cases																							-reduce	transmission																							-Shorten	duration	and	volume	of	diarrheaPrevention:•Adequate	water	supply!•Vaccine:	A.	killed	whole-cell	vaccine,	parenterally:	recommended	no	more!	B.	Live	attenuated	oral:	OCV,	3	vaccines	are	recommended	by	WHODukoral,	Shanchol,	Euvichol
+
+V.	Parahaemolyticus*•halophilic	(salt-loving)	vibrio,	motile•found	in	estuarine,	marine	and	coastal	environments•contaminates	seafood	and	fish•Consumption	of	uncooked	seafood	and	fish•Watery	diarrhea,	bloody	in	15%	of	cases•virulence	factors	adhesins	and	hemolysins*•Produces	cytotoxin	and	and	invade	intestinal	cells•less	severe	than	V.	cholera•Contaminated	seafood	and	fish•Most	common	cause	of	bacterial	gastroenteritis	in	Japan	&	Southeast	Asia•Most	common	cause	of	seafood-associated	gastroenteritis	in	USA**•Treatment:	rehydration,	antibiotics	in	severe	cases
+
+Listeria monocytogenes*& Listerioses•Gram-positive	coccobacillus•Oxidase	neg,	catalase	pos,	lactose	fermentation:	variable•uncooked	foods:	pâté,	soft	cheeses,	coleslaw•Grows	in	refrigerated	food:	produce	Infectious	dose•Infectious	dose	:	<1000	organisms	•Toxin:	ListeriolysinO	(see	next	slide)Risk	population:•pregnant	women	(mild),	fetus/newborn	(severe),	>65y•immunocompromised	individuals•Symptoms:	mild	influenza-like,	acute	self-limited	gastroenteritis													watery	diarrhea,	fever,	nausea,	headache,	arthralgiasDisease:	manifests	as	meningitisDiagnosis:	growth	at	4°C,	PCR	Treatment:	penicillin	or	ampicillin
+
+Listeriolysin	O:	LLO•Toxin•cholesterol-dependent	cytolysin	(CDC)	family	•plays	a	central	role	in	the	cell-to-cell	spread•Causes	small	membrane	perforations	in	cells•“Swiss	army	knife”	action•induces	many	membrane	alterations•&	cellular	responses•promotes	LM	dissemination	during	infection•Note:	membrane	repair	pathways	of	host	cells																	limits	membrane	damage	by	LLO
+
+Clostridium	difficile•Anaerobic	gram+	rod•spore	former:survives	in	the	environment	resist	decontamination,	heat,	acid	•vegetative	form:transmittable•commonly	found	in	the	gut	of	children	(adults:	less)•Acquired:	cross	infection/nosocomial	at	hospitalsDisease:Causes	pseudomembranous	colitis:	ØIdentified	after	clindamycin	was	introducedØclindamycin	inhibits	gut	flora,	allowsC.	difficileto	multiplyØAntibiotic-associatedC.	difficilesevere	diarrhea	Øcolonic	mucosa:	covered	with	a	fibrinous	pseudomembrane				(Whitish	plaque)63
+Antibiotic-associated colitis due toClostridium difficileSigmoidoscopic view showing multiplepseudomembranous lesions. (Courtesy of J. Cunningham.)
+
+C.	difficile	virulence	factorsA.Exotoxins:	on	pathogenicity	locus	on	chromosome	Toxin	A,	an	enterotoxin:	encoded	by	thetcdAØstimulates	the	infiltration	of	neutrophils	into	the	ileumØrelease	of	cytokines	Ødisruption	of	the	tight	cell-to-cell	junction	Øincreased	intestinal	permeability/secretion	of	fluids	Toxin	B,	a	cytotoxin:encoded	by	tcdBgenes	Ødisruption	of	the	tight	cell-to-cell	junction	Øcolonic	inflammation,	hemostasis	and	tissue	necrosisØDiarrheaB.	C.	difficiletransferase	(CDT):	some	C.	difficile	strainsØDoes	not	cause	severe	infections64
+
+C.	difficile-Epidemiology,	Diagnosis,	Therapy,	and	Prevention	Epidemiology:ØColonizes	the	intestines	of	~<5%	of	healthy	individualsØPatients	with	recent	history	of	hospitalization/antibiotic	useDiagnosis:	NAT/PCR	of	cytotoxin	or	enterotoxin	in	patient’s	feces	TherapyØDiscontinue	implicated	antibioticsØMetronidazole	or	Vancomycin*ØFecal	Microbiota	Therapy	(FMT)/fecal	transplant/repopulate:						Injecting	healthy	donor’s	gut	flora	into	patient’s	intestine														restoringbalance	gut	flora	in	patientPrevention:	proper	infection	control	procedure	in	hospitalsRooms,	beds	proper	disinfection
+
+Development of pseudomembranous colitisActivity of Toxins TcdA/TCdB
+
+
+PART III

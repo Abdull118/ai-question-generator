@@ -1,0 +1,58 @@
+PART III
+
+VIRAL	GI	infections•viral	gastroenteritis	is	not	distinguishable	clinically	from	other	types	of	GI	infections•fecal–oral	transmission•Identified	first	in	1972	to	cause	GI	infections•Reason:	difficulty	to	culture!*•Norovirus:	next•Rotavirus:	next•Adenovirus:	type	40	and	42	(5%	of	gastroenteritis)
+
+Noroviruses/Norwalk virus=prototypical norovirus•Calciviridae•Naked	+	single	stranded	RNA	virus•resistant	to	detergents,	drying,	acid•most	common	cause	of	foodborne	disease	outbreaks:	US•Discovered:	epidemic	of	acute	gastroenteritis	in	Norwalk*,	Ohio,	in	1968:	EM	detection•incubation	period:	12–72h•presentation:	Diarrhea*•Recovery	may	occur	within	~24–48•Transmission:	fecal-oral	Øsewage-contaminated	shellfish:	cockles,	musselsØoutbreaks	in	crowded	environments:	cruise	ships,	hospitals,	schools,	restaurants
+
+Noroviruses-Pathogenesis,	•Infectious	doseis	low:	10	virions•Virus	infects	and	damages	the	small	intestine•preventing	proper	absorption	of	water	and	nutrientsØcausing	a	watery	diarrheaØGastric	emptying	delayed:		vomiting•Virus	shedding:	up	to2	weeks	after	symptoms	disappear•Immunity:	short	lived,	may	not	be	protective•Virus	binds	to	cell	surface	carbohydrates	of	the	ABH	histo-blood	group	antigens*
+
+Noroviruses-Epidemiology,	Diagnosis	&	prevention•CDC:•50%	(23	million	U.S.	cases/year)	of	all	foodborne	outbreaks•of	gastroenteritis•70%	of	children	in	the	US	have	Ab	to	noroviruses	by	the	age	of	7y•Diagnosis:	NAT/RT-PCR•Protection:	in	pipeline	vaccinesØVirus-like	particles*Øantibody	that	blocks	their	binding	to	histo-blood	group	antigens**
+
+Rotavirus
+•Reoviridae•Double	layered	protein	capsid:	provides	resistance*•Double-stranded	segmentedRNA	genome•infantile	diarrhea•Mixed	infection:	mixing	of	segments	(reassortment)•Induces	cholera-type	diarrhea•Common:	respiratory	symptoms	such	as	cough	and	coryza•One	of	the	most	serious	causes	of	diarrhea	in	young	children•incubation	period	is	1–2	days•Infectious	doseis	LOW:	10	ingested	particles•1010–1011viral	particle/ g,	appear	in	the	feces:	highly	contagious*•Transmission:	Fecal-oral	spread•Diagnosis:	NAT/RT-PCR	or	ELISA	Epidemiology:	2	serotypes	infect	human•Worldwide	distribution:	severity	higher	in	infants	in	resource-poor	countries•Season:cooler	months•2013:	200,000	deaths	worldwide	(500,000	in	2000)mainly	Children	<5y	in	India,	Nigeria,	Pakistan	and	CongoEM: Rotavirus particles have a well-defined outer margin and capsules radiating from an inner core to give the particle a wheel-like (hence ‘rota’) appearance.(Courtesy of J.E. Banatvala.)
+
+
+The	pathogenesis	of	rotavirus	diarrhea
+•virus	replicates	in	intestinal	epithelial	cells:	vomiting•virus	damages	transport	mechanisms:	villous	atrophy•Diarrhea:	4	to	7	days*•NSP4:ion	channel	proteinActs	as	viral	enterotoxinelevates	cytosolic	Ca2+	in	mammalian	cells																				induces	diarrhea												Treatment: Fluid and salt replacementPrevention: Vaccine (Oral) since 2006 for babiesby 2016: in more than 86 countries
+
+Parasites and the Gastrointestinal Tract•GI	tract:	species	of	protozoan	and	helminth	(worm)	infecting	3.5	billion	people	worldwide•Transmission:	life	cycle	stages	in	feces:		cysts,	eggs,larvae,	Transmission	routes:	1.swallowing	infective	stages	in	fecallycontaminated	food/water2.larvae	penetrationthrough	the	skin,	migrating	to	the	intestine3.eating	animals	or	animal	products	containing	infective	stagesSymptoms:A.Very	mild:	Most	infectionsB.Acute	or	chronic	diarrheal	conditions:	parasite-related	inflammation/spread	into	other	organs	Diagnosis:	PCR	assays	detectingGiardia,	CryptosporidiumandE.	histolyticain	fecal	specimens	are	now	widely	available
+
+Gastrointestinal parasites of humans
+
+
+Entamoeba	histolytica•Primitive	unicellular	organism•two	stage	life	cycle•motility:	pseudopod	(false	foot)•dysentery:	a	key	symptom	of	amoebae	invading	the	mucosaØThe	trophozoite:	-actively	motile	feeding	stage																																						-	live	in	the	large	intestine	on	the	mucosal	surface				-	develop	within	mature	multinucleate	cystØThe	cyst:	-quiescent,	resistant,	infective	stage																									-cyst	survives	for	up	to	30	days	in	water																							•Reproduction:	-simple	binary	fission=	splitting	the	trophozoite		-periodic	formation	of	resistant	encysted	forms-encysted	form	pass	out	of	the	bodyEpidemiology:	Worldwide,	subtropical	and	tropical	countries	(prevalence	>50%)Transmission:-contaminated	food	or	drink	(food	handlers	or	inadequate	sanitation)																														-anal	sexual	activity
+TrophozoiteNucleusChromatingranulesCystnuclei
+
+Entamoeba	histolytica-Pathogenesis	•Ingestion:		cysts	pass	intact	through	the	stomach	Øcysts	excyst	in	small	intestine:	4	progenyØexposure	to	gastric	acid:	release	of	the	pathogenic	trophozoite	in	the	duodenum•Trophozoites:Ødivide,	produce	extensive	local	necrosis	in	the	large	intestineØcause	lysis	of	colonic	epithelial	cells,	neutrophils,	lymphocytes,	monocytesØalteration	of	cell	membrane	permeabilityØirreversible	increase	in	intracellular	Ca+2
+
+Entamoeba	histolytica-Clinical	presentation	and	Disease	•abdominal	pain,	cramping,	and	colitis	with	diarrhea•Numerous	bloody	stools	per	day:	severe	disease		Disease:•small	localized	superficial	ulcers:	mild	diarrhea•deep	confluent	ulcers:	involve	the	entire	colonic	mucosa		•amoebic	dysentery:	severe	invasion,	mucus	&	blood	in	stools	Complications:•peritonitis,	and	extraintestinal	invasion:	perforation	of	intestine•Liver	abscess:	Trophozoites	spread	via	the	blood	to	the	liver•secondarily	extension	to	the	lung	and	other	organs•Evading	the	immune	response:		by	immunomodulation,	
+Amoebic colitis: deep confluent ulcerSigmoidoscopic view showing deep ulcers and overlying purulent exudate.(Courtesy of R.H. Gilman.)
+
+Features of bacillary and amoebic dysentery 
+
+
+Entamoeba	histolyticaDiagnosis:•Stool	microscopy:	cysts	&	trophozoitesØfreshly	passed	stool:motile	trophozoitesØformed	stools:the	cysts	•ELISA	tests:	distinguish	betweendifferent	Entamoeba•PCR:	Differentiation	ofE.	histolyticafromE.	dispar	•indirect	fluorescent	antibody	technique	[IFAT]	or	ELISA):	in	case	of	amoebic	liver	abscess:Treatment:•metronidazole	or	tinidazole:	effective	early	infection•diloxanide	furoateor	paromomycin:	in	relapse	cases	•odoquinol,	diloxanide	furoate,	or	paromomycin:	carrierPrevention•hygiene,	water	hygiene,	food	hygiene,	sanitation	•Vaccine*:	in	development
+Characteristics of cysts (size and number of nuclei) are used to differentiate pathogenic from non
+
+Giardia intestinalis*Epidemiology:	worldwideØtravelers'	diarrheaØThe	most	commonly	diagnosed	intestinal	parasite	in	the	USAØdetected	in:	drinking	and	recreational	water,	rivers,	streamsØInfection	occurs	when	the	cysts	are	swallowed	(while	swimming)ØInfective	dose	is	low:	10–25	cystsTransmission:•person	to	person:	within	families,	day-care•food-borne	transmission	being	rare•sexually	among	men	who	have	sex	with	menconfusion	over	nomenclature:commonly	referred	to	asG.	lamblia/G.	duodenalis(human)Genotyping:	7	Assemblages	A	&	B:	infect	dogs,	cats	and	cattle	&humansØhuman	infection	with	these	genotypes	can	be	zoonotically	acquired
+
+Giardia	intestinalis:	The	two	life	cycle	stages	Trophozoite:	•flagellate	(four	pairs	of	flagella)	binucleate•live	in	the	upper	portion	of	the	small	intestine•They	divide	by	binary	fissionCyst:	resistant	four-nucleate	•Cyst	formation	occurs	at	regular	intervals	•each	cyst	being	formed	as	one	trophozoite	•rounds	up	and	produces	a	resistant	wall	•Cysts	pass	out	in	the	stools	•can	survive	for	several	weeks	under	optimum	conditions
+Trophozoites
+
+Giardia	intestinalis-Disease	•Mild:infections	are	asymptomatic•severe	infections:	diarrhea•the	stools	are	loose,	foul	smelling	and	often	fatty•abdominal	cramps,	flatulence,	and	steatorrhea	•Usually:	self-limiting,	with	7–10	days•chronic	infection	with	serious	condition:Øpatients with immunoglobulin (Ig)A deficiencyØPatients with intestinal diverticula
+
+Giardia	intestinalis-Diagnosis,	Treatment	and	Prevention	Diagnosis•Microscopy:	cysts	or	trophozoites	in	the	stool*•‘string	test’:	obtaining	trophozoites	directly	from	the	intestineØDuodenal	intubation	or	the	use	of	recoverable	swallowed	capsules	and	threads•Antigen	detection:	ELISA,	immunoassays	•REPEATED	TESTING	FOR	AT	LEAST	3	DAYSTreatment•Metronidazole	and	tinidazole:	increasing	resistance•Nitazoxanide,	albendazole	or	mepacrine	(also	known	as	quinacrine):	In	Indian	subcontinentPrevention:	hygiene	and	sanitation•Adequate	water	treatment:	chemicals	plus	filtration•The	cyst	stage	is	resistant	to	the	chlorine	concentrations**
+
+Cryptosporidium hominisandCryptosporidium parvum•C.	hominis:	specific	to	humans•C.	parvum:	infects	calves	and	humans•Cause	>90%	of	human	cryptosporidiosis•Awareness	established	with	AIDS	epidemic		•life	cycle:	asexual	and	sexual	phases	•Infectious	dose	is	low:	10	parasites!Transmission•Water:	outbreak	in	Milwaukee	in	1993*	•Zoonotic	spread	from	animal	reservoirs	to	humans•person-to-person	spread	by	fecal-oral	and	oral-anal	routes•swimming	pools	and	day-care	centers	Risk	groups:•Veterinary	personnel,	animal	handlers,	and	homosexuals	
+Cryptosporidium oocysts in faecal specimen.
+
+Cryptosporidium-Life	Cycle	and	Disease	•Oocysts	releases	infective	sporozoites	in	the	small	intestine•Sporozoites	invade	the	epithelial	cells•Sporozoites:	form	meronts•Meronts:	release	merozoites•merozoitesre-invade	further	epithelial	cells•Gamonts:	Øproduced	by	a	second	type	of	meront	sexual	stages	Øfertilized	oocysts	are	released	in	the	feces•moderate	diarrhea	to	more	severe	profuse	diarrhea	•self-limiting	enterocolitis	(15–40	d):	immunocompetent	•can	become	chronic	in	immunocompromised	patients•HIV	patients:	CD4+T-cell	counts	<100 / mm3																										-diarrhea	is	prolonged																										-diarrhea	may	become	irreversible&	life	threatening
+
+
+Cryptosporidium-Diagnosis,	Treatment,	preventionDiagnosis•Fluorescence	microscopy	(e.g.	with	auramine)•modified	Ziehl–Neelsen:	oocysts	in	thin	faecal	smears•	Antigen	detection	ELISA	assays•immunochromatographic	lateral	flow	cassette	tests•Direct	immunofluorescence	microscopy•PCRTreatment•Nitazoxanide•Paromomycin:	HIV	patients	(in	combination	with	antivirals)PreventionHygiene	sanitation•Water:	cryptosporid	is	resistant	to	usual	chlorination	steps	ozonation	step	may	be	required	to	inactivate	
+Acid-fast stainedCryptosporidiumoocysts (≈5 to 7µm in diameter).(From CDC Public Health Image Library.)
+
+Trichinella spiralis•Nematode•worldwide	distribution•Porkworm*	&	causes	trichinosis•adult	form:	lives	in	the	duodenal	&	jejunal	mucosa	of	flesh-eating	mammals•Clinical	manifestations	are	usually	mild	and	go	unnoticedInfectious	larval	form:	Ømove	from	the	intestinal	mucosa	into	the	bloodstreamØLarvae	coil	in	striated	muscle	fibers	of	carnivorous	and	omnivorous	mammals	ØencystØencysted	larvae:	viable	for	many	yearsinfectious	if	ingested	by	a	new	animal
+Encysted larvain a muscle biopsy specimen.(From CDC Public Health Image Library.)
+
+Trichinella spiralis		clinical	presentation:	depends	largely	on	the	tissue	burden	&	larvae	u	mild	infections:	influenza-like	syndrome,	slight	fever,	mild	diarrheau	extensive	larval	migration:		persistent	fever,	gastrointestinal	distress,	marked	eosinophilia,	muscle	pain,	and	periorbital	edema	uheavy	infections:	severe	neurologic	symptoms,	psychosis,	meningoencephalitis,	and	cerebrovascular	accidentuLethal	trichinosis:	myocarditis,	encephalitis,	and	pneumonitis	combined;	the	patient	dies	4	to	6	weeks	after	infection	Diagnosis:	Muscle	Biopsy,	Sample	ingested	meat,	Serology,	EosinophiliaTreatment:	ØTissue	Larvae:	mainly	asymptomaticØAdult	worms	in	intestine:	mebendazoleØsevere symptoms: Steroids, thiabendazole or mebendazole

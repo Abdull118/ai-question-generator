@@ -1,0 +1,99 @@
+Maysa Azzeh, Ph.D
+1Gastrointestinal:GI Infectious Diseases, Part 1
+
+PART 1
+
+Objectives•List	the	hallmark	signs	and	symptoms	of	diarrheal	gastrointestinal	infectious	diseases.	•Identify	organisms	that	cause	bloody	and/or	watery	diarrhea.	•Describe	pathogenic	mechanisms	associated	with	toxins.•For	the	pathogens	listed	below:•Bacteria:	H.	pylori,	Salmonella,	Shigella,	Yersinia	enterocolitica,	Campylobacter,	Vibrio	cholerae,	V.	Parahaemolyticus,	Listeria	monocytogenes,	Clostridium	difficile•E.	coli:	EPEC,	ETEC,	EIEC,	EAEC,	DAEC,	EHEC/STEC•Viruses:Rotavirus,	Norwalk	virus•Parasites:	Entamoeba	histolytica,	Giardia	intestinalis	(=	G.	lamblia,	G.	duodenalis),	Cryptosporidium	hominisandCryptosporidium	parvum•Describe	the	relationship	between	the	infective	properties	of	the	organism	to	the	characteristics	of	disease	pathologies.•Describe	the	diagnostic	properties	of	each	organism	in	the	context	of	the	disease	in	which	it	is	presented.•Describe	the	epidemiology,	virulence,	and	treatment	
+
+Ingested	Pathogens!!!vIngest	pathogens?ØFood	poisoningØWater	contaminationvRoute	of	Ingestion:	Øfecal–oral	route,Øfecallycontaminated	food/fluids/fingersvInfectious	dose*:Øescape	host	defences	of	the	upper	GI	to	reach	intestinevIntestine:	disease	due	to	Ødirect	bacterial	infectionØtoxin	production
+Swallowing 
+
+GI infections
+GI	infection	causes	either	local	(GI)	or	distant	damage1.Pharmacological	action	of	bacterial	toxins:	local	or	distant	to	infection	siteExample:	cholera,	staphylococcal	food	poisoning2-Local	inflammation	in	response	to	superficial	microbial	invasion:Example:	Shigella,	Amoeba3-Invading	blood	or	lymphatics	and	dissemination	to	other	body	sites:Example:	Hepatitis	A,	enteric	fever
+
+All Diarrhea?•GastroenteritisØgastrointestinal	symptoms	including	nausea,	vomiting,	diarrhea	and	abdominal	discomfort•Diarrhea:	watery	or	bloodyØusually	resulting	from	disease	of	the	small	intestineØ	involving	increased	fluid	and	electrolyte	loss•DysenteryØAn	inflammatory	disorder	of	the	gastrointestinal	tractØoften	associated	with	blood	and	pus	in	the	fecesØother	symptoms:	pain,	fever,	abdominal	crampsØusually	resulting	from	disease	of	the	large	intestine•EnterocolitisØInflammation	involving	the	mucosa	of	both	the	small	and	large	intestine
+
+Food	Poisoning	vs	Food-associated	infectionvFood	poisoningØFood	containing	toxins	produced	by	bacteriaClostridium	botulinumorStaphylococcus	aureusØFood	containing	chemicals,	heavy	metalsvFood	associated	infectionØFood	is	a	vehicle	for	the	pathogen:	Campylobacter	ØFood	provides	conditions	for	pathogenic	growth:Salmonella
+
+Diarrhea	caused	by	Bacteria	or	Viruses•Diarrhea	is	the	most	common	outcome	of	GI•Increase	in	fluid	and	electrolyte	loss	into	GI	tract	lumen•production	of	unformed	or	liquid	fecesØexpels	the	pathogen																	Ødissemination	of	pathogen!•mild	self-limiting•severe	or	fatalRapiddiagnosis:	•recent	food	•travel	history•Feces:	macroscopic	and	microscopic																		bloody/watery	
+
+Distribution of Diarrheal Disease in the World
+
+
+Five	keys	to	safer	food	manual”:	•1-Keep	clean•2-separate	raw	and	cooked,	•3-cook	thoroughly•4-keep	food	at	safe	temperature•5-use	safe	water	and	raw	materials
+
+Escherichia Coli (E. coli)-IntroductionØnormal	human	(and	animal)	intestinal	flora	ØVirulent	strains:	posses	virulence	factors	and	cause		-infections	in	the	gastrointestinal	tract-infections	in	the	urinary	tract-bloodstream	infections-CNS	infections
+E. Coli (Lactose +ve=lactose fermenters)Eosin methylene blue agarEMB
+EM
+
+E.	Coli	strains	causing	Gastroenteritis/Diarrheal	disease•Enteropathogenic	E.	coli	(EPEC)•Enterotoxigenic	E.	coli	(ETEC)	•Enteroinvasive	E.	coli	(EIEC)•Enteroaggregative	E.	coli	(EAEC)•Diffusely	aggregative	E.	coli	(DAEC)•Enterohaemorrhagic	E.	coli	(EHEC)=shiga-toxin-producingE.	coli(STEC)	
+
+Summary of Enteric Pathogenic E. coli strains 
+
+
+•EPEC	and	ETEC:global	incidence	of	diarrhea•EHEC:important	in	resource-rich	countriesE.	Coli	strains	causing	Diarrheal	disease-General
+
+EnteropathogenicE.	coli(EPEC)•DO	NOT	PRODUCE	TOXINS•Transmission:	Fecal-oral•Reservoir:	human	&	animal•Site	of	infection:	Small	intestine•Epidemiology:	developing	countries,	children<2y•Diarrhea:	watery+	vomiting/fever•Pathogenicity:	•LEE	(locus	of	enterocyte	effacement)•Typical	EPEC:	human	only•Atypical	EPEC:	human	&	animal																						Pathogenesis•Attachment/effacement:	A/E	histopathologyØattachment	&	destruction	of	microvilliDiagnosis:	attachment	pattern	to	HEp-2	or	HeLa	cells		NAT/PCR	targeting	virulence	factors:	LEE,	BFP
+Photo:	EM	of	EPECadhering	to	the	brush	border	of	intestinal	mucosal	cells	with	localized	destruction	of	microvilli.(Courtesy	of	S.	Knutton.):➢polymerization	of	actin➢accumulation	of	cytoskeletal	elements	beneath	the	attached	bacteria➢loss	of	cell	surface	integrity	&	eventual	cell	death
+
+Enterotoxigenic	E.	coli	(ETEC)*•Transmission:	fecally	contaminated	food/water•Site	of	infection:	small	intestine•Traveler's	diarrhea	•Infants	diarrhea:	developing	countries•Diarrhea:	watery+vomiting,	cramps•Diagnosis:				Immunoassays	detecting	enterotoxin																													PCR	assaysEnterotoxins:	Plasmid-mediatedØheat-stable	(STa	&	STh)	&	heat-labile	(LT-I	&	LT-II)Østimulate	hypersecretion	of	fluids	and	electrolytesLT-I	:	Ø~80%	gene	homology	with	cholera	toxin	Østrains	mimic	mild	cholera	symptoms	Ø			cyclic	adenosine	monophosphate	(cAMP)levelsSta**:	alone	or	in	combination	with	of	LT-I	Ø							Strains	cause	more	severe	disease	than	LT-I	aloneØ									cyclic	guanosine	monophosphate	(cGMP)	levels
+
+EnterohaemorrhagicE. coliEHEC/STEC•Shiga-toxin-producing	E.	coli(STEC)•Verocytotoxin-producing	E.	coli	(VTEC)•Serotypes:	based	on	O	(Oligosaccharides)	&	H	(flagella)ØSeropathotype	A	consists	of	O157:H7ØSeropathotypes	B-D:the	non	O157:H7•grows	at	7	°C	-50	°C	*	•inactivatedat	70	°C*•Survives	in	Soil	for	long	periods•Reservoir:	cattle(major),	ruminants	&	birds•Virulence	Factors:	ØShiga	Toxins	Stx1/2	(on	Bacteriophage)ØStx1	(~identical	with	that	of	Shigella)ØIntimin	(on	chromosom)Øenterohemolysin	(on	Plasmid)
+
+
+So far EHEC was detected in: •Ground beef : undercooked Hamburgers•Municipal water•Swimming water•Deer jerky•Unpasteurisedmilk •Salami •Leafy Greens: Lettuce/Romaine Lettuce/Spinach•Ready-to-Eat Salads•Frozen Food Products•Radish	sprouts*:	Germany	2011,	860	HUS,	50	deaths	due	to	O104:H4	•Unpasteurisedapple cider•Flour•Daycare centres•person-to-person contact: Oral-fecal route•Salmon roe•Visiting farms**•Romaine SaladAirborne/waterborne transmission
+
+Diseases caused by STEC•Haemorrhagiccolitis	Syndrome	(HC)	characterized	by:	✓Abdominal	cramps,	Bloody	diarrhea✓Most	patients	with	E	coli	O157:H7	are	afebrile✓Number	and	presence	of	leucocytes	in	stool✓Abdominal	pain	>	that	caused	by	other	bacterial	gastroenteritis✓Abdominal	tenderness		and	painful	defecation•Incubation	period	3-8	days:	median	3-4	days•Recovery	within	10	days•Otherwise	disease:	patients	develop:ØHemolytic	Uremic	Syndrome	(HUS)	in	5-10%	of	STEC	infectionsTimeline for reporting Cases of E. coli O157:H7 Infection
+
+
+Diagnostic of STEC1-Immediate stool analysis:presence of leucocytes/WBC2-Stool culture on Sorbitol-MacConkey agar (SMAC)3-PCR: Shiga toxin (Stx-1, Stx-2)/virulencegenes4-Genotyping/serotyping of STEC5-Immunoenzymatic assays6-Pulsed-field gel electrophoresis (PFGE)=genetic fingerprintingEpidemiology: CDC•Annually: 265,000 STEC infections •                 STEC O157:H7 accounts for 36% of them•                  3600 hospitalizations & 30 deaths
+
+E coli O157:H7 infections in children•Patient presentation: bloody diarrhea/bloody urine/low urine output•characterized by ✓acute renal failure✓microvascular thrombi, ✓anemia✓thrombocytopenia✓microangiopathic hemolysis✓occasionally neurological complications•History: ~one week bloody diarrhea due to infection with E. coli O157:H7*
+HUS: Hemolytic Uremic Syndrome 
+Schistocytes:blood smear
+
+Action of Stx-2•Most	cases	of	colitis	or	HUS:	(Stx-2)	genotype•Stx-2	inhibits	the	eEF-1-dependent	binding	of	aminoacyl	tRNAto	the	60-S	subunit	of	ribosomesØInhibition	of	protein	synthesisØcytotoxic	to	glomerular	mesangial	cells																	&	renal	tubular	cellsØSeverity	of	renal	dysfunction	
+Endothelial Cell Injury
+
+HUS-Epidemiology•Risk	group:	-children	under	5	years																											-adults	over	65																											-immunocompromised	peopleExceptions:	Radish	sprouts*:	Germany	2011,	860	HUS,	50	deaths	due	to	0104:H4:		•Dialysis	is	required	in	most	people	with	HUS•Most	people	recover	within	a	few	weeks•Permanent	kidney	damage	or	death:<1%		Children:•USA:	HUS	is	most	common	cause	of	acute	renal	failure•75%	of	HUS	is	a	sequelae	of	STEC	infection•10%	of	the	cases	of	HUS	are	not	preceded	by	diarrhea	caused	by	Shiga	toxin–producing	bacteria	Treatment§Antibacterial	therapy	is	not	recommended*§(correlated	the	higher	risk	of	HUS)§Fluid	replacement	is	necessary:	Rehydration§Treatment	of	HUS	may	involve	dialysis§Management	of	HUS	remains	supportivePreventionØControl	measures	at	all	stages	of	the	food	chainØInfection	control	measures	at	hospitalsØClean	water	supply	&	adequate	sewage	disposal
+
+https://www.cdc.gov/ecoli/2020/o157h7-10-20b/index.html
+
+
+GI pathogens and associated symptoms
+
+
+Salmonella*
+•Family:	Enterobacteriaceae	•Gram	negative,facultative	anaerobic	rods,	oxidase	neg•Motile:	Flagella•2500	serotypes:	differences	in	cell	wall	(O)	flagellar	(H)	antigens•Species:	enterica,	bongori,	subterranean•Salmonella	enterica:	most	important									-S.	entericaserovars	typhi									-S.	enterica	serovars	paratyphi	A,	B	and	C	•Transmission:	Fecal-oral																																	-Water-borne	infection	is	less	frequent																																	-person	to	person•Reservoir:	animals	and	human									except	Salmonella	typhi&S.	paratyphi“The recycling of Salmonella”•No host specificity•Large excretion numbers from infected Carriers:recycling!•Animals: poultry, reptiles, livestock,rodents, domestic animals, birdsØpoultry,	eggs,	dairy	productsØfoods	prepared	on	contaminated	work	surfaces	•Animal-to-animal spread 
+
+Pathogenicity	and	Immunity,	SalmonellaØInvades	the	terminal	portion	of	small	intestineØmigrate	to	the	lamina	propria	layer	of	the	ileocecal	regionØInvade	into	M	(microfold)	cells	&	enterocytesØReplicates	in	endocytic	vacuoles	ØInvades	host	immune	responseØinflammatory	responseØrelease	of	prostaglandinsØactivate	cAMP	&	fluid	secretionØWatery	Diarrhea	pathogenicity	island	I	and	II:	on	chromosome•Regulates	attachment,	engulfment,	and	replication	•I:invasion	proteins	(Ssps)and	type	III	secretion	system•II:	type	III	secretion	system	to	evade	the	host's	immune	response
+
+
+Epidemiology,	Salmonella•Risk	group:	children	<5	y	&	adults	>	60	y•Season:summer	and	autumn	months	•Infectious	dose	S.	typhi:	low•Infectious	dose	other	serotypes	:	high	(106-	108)	•2ndcommon	cause	of	food-associated	diarrhea	in	US*•USA	annually:	CDCØSalmonellainfections:	1.35	million										26,500	hospital.,	420	deathsØSalmonellaTyphi:	5700,	620	hospitalizedØUS	typhoid	fever:	~450	(80%	S.	typhi,	foreign	travel**)•Global	typhoid	fever:Ø~26million	(80%	S.	typhi	,>200,000	deathsØhighest	in	children:	poverty	in	resource	poor	countries
+https://www.cdc.gov/salmonella/typhimurium-09-20/index.html
+
+Diseases,	Salmonella•Diarrhea:mostly	acute	and	self	limiting•Symptoms:6	to	48	h	after	consumption													persist	2-7	days	•Presentation:	watery	diarrhea,	nausea,	vomiting,Fever,	abdominal	cramps,	myalgias•Septicemia:ØChildrenØimmunocompromised	patientsØPeople	with	sickle	cell	anaemia•many	organs	become	seeded	with	salmonella:Øosteomyelitis,	pneumonia,	meningitisEnteric	Fever/aka	typhoid	fever/aka	paratyphoid	fever:ØRecent	travel	to	endemic	developing	countries	SalmonellaØpass	through	the	cells	lining	the	intestinesØengulfed	by	macrophagesØtransported	to	the	liver,	spleen,	bone	marrowØreplicationØ10-14	days	after	ingestion:	Øfever,	headache,	myalgias,	malaise,	and	anorexiaØsymptoms	persist	for	1	week	or	longer	followed	by:-GI	symptoms-bacteremicphaseBacteremiafollowed	by:	-colonization	of	the	gallbladder-reinfection	of	the	intestines
+
+Diagnosis, Salmonella•Culture	on:ØXLD	(Xylose	Lysin	Deoxycholate)*:	red	colonies	w	black	center(due	to	H2S	produced	by	Salmonella)ØBSA	(Bismuth	sulfite	agar):	BlackcoloniesØHE	(HektoenEnteric	agar):	Green	colonies	with	blackcenterØSS	(Salmonella	Shigella	Agar:	colorless	with	black	center•Typhoid	Fever:	Culture	blood,	Bone	marrow**,	urine,	stool,…..•PFGE:	Pulsed-field	gel	electrophoresis	•Precaution:	Isolates	have	been	a	common	cause	of	laboratory-acquired	infection•Widaltest:	Serology	test	(not	recommended,	CDC)•detecting	antibodies	against	the	lipopolysaccharide	(O)	and	flagella	(H)	antigens	ofS.	typhi	in	serum
+XLD
+HE
+
+PFGE
+
+
+Treatment	and	Prevention,	SalmonellaTreatment•usually	self-limiting•Fluid	and	electrolyte	replacement	if	required➢Antibiotics:	do	not	reduce	the	symptoms	or	shorten	the	illness																								may	prolong	excretion	of	salmonellae	in	the	fecesØAntibiotics:	use	only	in	cases	with	septicemiaPreventionPeople	employed	as	food	handlers:Øexclusion	from	work	until	3Xfeces	specimens	failed	to	growSalmonellaReason:	carriers	excrete	organisms	after	symptoms	disappear- Typhoid Mary	ØTyphoid	fever	vaccine	if	you	plan	to	travel	to	endemic	country:qTy21a: oral, >6y, booster every 5y!qViCPS: injection, >2y, booster every 2y
+
+Typhoid Mary: Mary Mallon Asymptomatic carrier oftyphoid fever•Hygiene in NYC worker in center in slams: 1 in every 10 typhus infected dies•Typhus: 1880 Salmonella•Knowledge: bad hygiene specilly water•Medication0•North brother island: isolation of typhus patients, quarantine island•Dr George Sober: was asked to help with hygies•He noticed cases in high class area, where hygiene was not a problem• He decided to check the water resources of the area•Water was ok•He calls up the familie, who were infected and decided it must be the cook•He had a hard time getting the cook Mary malon to get tested: tes her stool, she may be a blind typhus carrier•Problem: she was healthy•Help came from Robert Koch publication in 1902: healthy people can carry salmonella•Koch: 5% of infected shed bacteria without gettig sich•MOH get her to test•She tested +•She rfused to remove her gall, so she was moved to isolation on brothers island•She went to cout against NYC health and was given the right to go back to NY, but not to work as a cook•3y later infection in a hospital was remarkable: Mary was working under a differt identity as a cook•She was isolated on brothers island until her death 23y ater I 1938
+
+Shigella•Gram-•50	O-antigen–based	serogroup,	genetically	similar	to	E.coli•Subgroups		A-D	:S.	dysenteriae(A),S.	flexneri(B),S.	boydii(C)	andS.	sonnei(D)*•invades	and	replicatesin	cells	lining	thecolon	•Bacillary	dysentery•No	animal	reservoir•not	found	in	the	environment•Transmission:	fecal–oral	route																																	person	to	person•Infectiousdoseis	Low:10–100	organisms:Øallows	easy	spread	in	poor	sanitationØrefugee	camps,	nurseries,	daycare	(USA	2005)	•Diarrhea:	initially	watery	at	first,	later	bloody•Other	presentation:	severe	Lower	abdominal	cramps	•Generally:	disease	is	self-limiting
+
+Disease,	Shigella•Shigellosis*:	bacillary	dysentery																											severity	>amoebic	dysentery•invasive	infection	of	the	mucosa	of	the	large	intestine**ØShigella	sonnei:	most	infections	at	the	mild	end	of	the	spectrumØS.	flexneriandS.	boydii:	more	severe	diseaseØS.	dysenteriae:very	seriousoshigatoxin	(similar	to	EHEC):	1	A	&	5	B	subunitsoB	subunits:transfersA	subunit	into	the	celloA	subunit:disrupts	protein	synthesis																										cleaves	the	28S	rRNA	in	the	60S	ribosomeprevents	binding	of	aminoacyl-transfer	RNA•HUS:	In	some	patients	toxin	damages	glomerular	endothelial	cellsIf	associated	with	severe	malnutrition:Shigella	Causes	protein	deficiency	syndrome=	‘kwashiorkor’
+
+Pathogenesis, Shigella•Virulence	factors:	Type	III	secretion	system	on	plasmidStage	1:ØShigella	attach	to	&	invades	M	cells	in	Peyer	patchesØengulfment	of	the	Shigella	ØS.	lyse	phagocytic	vacuole	&	replicates	in	CytoplasmØMacrophage	apoptosisØrelease	of	IL-1βØRecruits	PMNBsØDestabilization	of	intestinal	cell	wallØinflammation	and	ulcerationStage	2:	Shigella	cell-to-cell	passage	
+Cell to cell spread and inflammation induce very shallow ulcers and rare invasion into blood
+Induce apoptosis in macrophages and causes IL-1β release, recruits PMNs
+
+Diagnosis•Culture	on	XLD	(Xylose	Lysin	Deoxycholate):	Red	Pink-HE	(HektoenEnteric	agar):	light	green-SS	(Salmonella	Shigella	Agar):	colorlessTreatment	and	Prevention•Antibiotics:	only	for	severeShigelladiarrhea•antibiotic	susceptibility*•Rehydration	is	critical•Education	in	personal	hygiene	and	proper	sewage	disposal	Epidemiology•Annually:	~90-million	infections	Worldwide,	500,000	in	the	US**•S.	sonnei:85%	of	U.S.	infections•S.	flexneri:	developing	countries•S.	dysenteriae:	periodicallyin	West	Africa,	Central	America							associated	with	5%	to	15%	case	fatality	ratesCompared	to	Salmonella:ØNo	long	term	carriersØLyse	vacuole	and	replicates	in	CytoplasmØNo	H2S	productionØNo	animal	reservoir
+
+
+PART II

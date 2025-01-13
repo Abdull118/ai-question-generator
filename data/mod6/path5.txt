@@ -1,0 +1,67 @@
+Hepatobiliary disorders Part 1B: Conditions with HyperbilirubinemiaTipsuda Bahri, MD
+
+Learning  Objectives 1.Evaluate representative clinical cases and distinguish between the pathogenesis, clinical manifestations, and lab tests of conditions that have conjugated and unconjugated hyperbilirubinemia:  •Unconjugated hyperbilirubinemia:üPhysiologic neonatal jaundiceüBreast milk jaundiceüHemolytic anemiaüCrigler-Najjar syndrome types I & IIüGilbert disease•Conjugated hyperbilirubinemia:üDubin-Johnson syndromeüRotor syndrome
+
+Case #1A 4 day old male infant is brought to the pediatrician. The mother states that he looks yellow, but has been feeding and sleeping normally. He takes only breast milk and was born via an uncomplicated vaginal delivery. He was not noted to have jaundice upon discharge at day 2 of lifePE: Strong cry, mild jaundice and scleral icterus; normal root, suck, and grasp reflexes. Babinski reflex is present
+
+Case #1Labs: Total bilirubin 8 mg/dL (Nl: 0.2-1 mg/dl) Direct bilirubin: 0.2 (Nl: 0.0-0.3 mg/dl)
+
+Case #1: Neonatal Physiologic Jaundice•Clinically benign•Usually occurs between 3-5 days of life•Immature liver: Relative deficiency in glucuronyl transferase•High indirect (unconjugated) bilirubin
+
+Case #2B: What if..Child in case #2 instead of presenting at 4 days of life, presents at 1 week of life? Total bilirubin 18 mg/dL Direct bilirubin 0.2 mg/dL•Diagnosis?•Would this child have abnormal neurologic signs (kernicterus), given the total bilirubin is high?•Management?
+
+Case #2B: Breast milk jaundice•Infant’s liver immature (similar to neonatal physiologic jaundice)•Time of jaundice presentation is later (4 days to 1 week)•High indirect (unconjugated) bilirubin•No intervention needed•Mom can continue to breast feed; Bilirubin levels will eventually decrease
+
+KernicterusUnbound, unconjugated bilirubin can pass thru the underdeveloped blood-brain barrier
+•Never conjugated bilirubin•Unconj bilirubin can permanently deposit in the basal ganglia, thalamus, cerebral grey matter, cerebellum, and spinal cord•Neural damage occurs when serum bilirubin > 20 mg/dL in term infants (lower values in pre-term infants)
+
+Case #3You are on the Peds rotation and are asked to see a jaundiced 10 month old baby girl. Other than jaundice, she is in no acute distress. Father has the same disorder. Mother is healthy and without symptomsPE: only jaundice, no HSM; attained developmental milestones 
+
+Case #3Labs: Chemistry:  Elevated total and indirect bilirubin levelsHematology: Automated CBC: Normochromic normocytic anemia, increased MCHCPBS: reticulocytosis 5%, polychromasia on Wright-stained smear
+
+Case #3: Peripheral blood smearPatient (L); normal (R)
+
+
+Case #3Osmotic fragility test is positive: Red cells burst when placed in hypotonic solution
+
+
+Case #3: Hereditary spherocytosis•Autosomal dominant inheritance•Defect in ankryn or spectrin cytoskeletal proteins, which normally contribute to the biconcave red cell appearance•Extravascular hemolysis: Misshapen red cells are picked out of circulation by the splenic macrophages (RES system)•Splenomegaly can occur over time as RES system expands population
+
+Case #4A 6 day old male infant is brought to the pediatrician because he “looks yellow,” sleeps a lot, and appears “floppy.”  PE: jaundiced infant, scleral icterus; Root, suck, grasp reflexes are diminished. Babinksi reflex is presentLabs:  Total bilirubin 34 mg/dL (Normal 0.2-1 mg/dl) Direct bilirubin: Undetectable (Nl 0.0-0.3 mg/dl)Direct Coombs test: Negative
+
+Case #3The child was provided with phototherapyAn infusion of albumin was given, then followed by an exchange transfusion therapy Despite this effort, the neonate expired 2 days after delivery.Why give albumin before the exchange?Albumin binds to unconjugated bilirubin and prevents deposition of unbound, unconjugated bilirubin into the brain
+
+
+Case #3: Discussion1)What condition does this infant have?2)Why is there no detectable direct bilirubin level? 3)What is the pathogenic mechanism for this condition?4)Explain the cause of the neurologic findings5)What is Gilbert’s syndrome & how do you distinguish from case #3?
+
+Case #3Gross section of brain demonstrating kernicterus of the basal ganglia
+
+
+Case #3 Crigler-Najjar syndromeFeatureType IType IITotal bilirubin, mg /dL18-45 (usually > 20 )6-25 (usually <20 )Presence of kernicterus?YesRareBilirubin UDP-glucuronosyl transferase activityAbsent0-10% activityPrognosisPoor, FatalBetter, responds to phenobarbitalInheritance *Autosomal recessiveAutosomal dominant, variable penetrance
+
+Gilbert’s syndrome•Relatively common; presents in young adult age•Inherited, autosomal recessive•Mutation in the UGT1 gene leads to reduced transcription•Mildly decreased levels of glucoronyl transferase •Mild unconjugated hyperbilirubinemia (may go undetected for years)
+
+Gilbert’s syndrome•Jaundice with stress, fasting, illness, exercise•No clinical consequence•Individuals may be more susceptible to drugs that are metabolized by UGT1A1
+
+Case #4A 48 year old woman scheduled to undergo a laparoscopic cholecystectomy. She states that she has had episodes of jaundice for decades. Pre-operative labs: Total bilirubin 4.6 mg/dL (Normal 0.2-3 mg/dl) Direct bilirubin: 4.4 mg/dL (Nl 0.1-0.3 mg/dl)AST, ALT: normalPT: normalAlk phosp: normal
+
+Case #4: image
+NEJM: July 7, 2016 Images in clinical medicineVideo: https://www.youtube.com/watch?v=Xxv_CGQn3_8
+
+Dark conjugated bilirubin pigment
+Case #4: Liver biopsyPigment accumulation (L); Immunohistochemical stain (R) shows absent MRP2 stain
+
+Dubin-Johnson syndrome•Autosomal recessive mutation in transport protein, multi-drug resistance-associated protein 2 (MRP2), responsible for excretion of bilirubin glocoronides into canaliculiüLack of MRP2 expression•Conjugated hyperbilirubinemia•Asymptomatic; may have jaundice•Darkly pigmented liver 
+
+Recall again!How does conjugated bilirubin get into the bloodstream with Dubin-Johnson syndrome?
+
+Dubin-Johnson syndrome
+MRP3MRP3
+
+Dubin-Johnson syndrome & circulating conjugated  bilirubinMRP3’s role:•MRP2, located on the canalicular side, is defective in D-J syndrome•Upregulation of MRP3 located at the apical membrane•MRP3 helps mobilize  conjugated bilirubin back into the blood stream
+
+Rotor syndrome•Similar as Dubin-Johnson syndrome•Conjugated hyperbilirubinemia•Asymptomatic, can have jaundice•NO darkly pigmented liver
+
+Learning  Objectives 1.Evaluate representative clinical cases and distinguish between the pathogenesis, clinical manifestations, and lab tests of conditions that have conjugated and unconjugated hyperbilirubinemia:  •Unconjugated hyperbilirubinemia:üPhysiologic neonatal jaundiceüBreast milk jaundiceüHemolytic anemiaüCrigler-Najjar syndrome types I & IIüGilbert disease•Conjugated hyperbilirubinemia:üDubin-Johnson syndromeüRotor syndrome
+
+Thank youPlease feel free to reach out to myself via email with any questions.

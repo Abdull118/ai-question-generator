@@ -1,0 +1,167 @@
+GI Inflammatory Diseases
+Medical Microbiology and Immunology
+
+1.Describe the inflammatory injury that occurs during autoimmune gastritis, and relate this injury to the underlying mechanism of vitamin B12 deficiency and pernicious anemia.  2.Describe the most likely immune-mediated mechanism of injury and the potential role of antibodies directed against intrinsic factor in the development of autoimmune gastritis.3.Assess the relationship between FoxP3, regulatory T cells, and the development of autoimmune enteropathy.4.Compare and contrast the pathogenesis, clinical symptoms, tissue injury, and environmental triggers of Crohn’s Disease and Ulcerative Colitis.5.Discuss the significance of the NOD2 PRR in the development of Crohn’s disease.6.Describe the potential roll for Th17 cells in the development of IBD.7.Appraise the role of Th1 and Th2 subsets in the pathogenesis of CD and UC.8.Describe the known immunopathogenesis of eosinophilic gastroenteritis , autoimmune liver disease, and primary biliary cirrhosis.    Learning Objectives:
+
+Suggested Reading:Essentials of Clinical Immunology, Chapter 14Robbins Pathology, Chapter 17 (GI diseases)           Chapter 18 (Liver diseases)
+
+Immunologically-Mediated Diseases of the Digestive System•Celiac Disease•Autoimmune Gastritis•Autoimmune Enteropathy•Inflammatory Bowel Disease–Crohn’s Disease–Ulcerative Colitis•Eosinophilic Gastroenteritis•Autoimmune Hepatitis•Primary Biliary Cirrhosis
+
+Autoimmune Gastritis•A form of chronic gastritis•Two main types of gastritis–Type A is the result of an autoimmune response–Type B is caused by Heliobacter pyori infection
+
+Chronic Gastritis is associated with:Atrophy of gastric glandsLoss of parietal cellsLoss of chief cells
+
+http://emedicine.medscape.com/article/176036-overview#a5Patterns of Atrophic Gastritis
+
+Autoimmune Gastritis•Diffuse atrophic gastritis in the body and fundus of the stomach, with lack of, or minimal involvement of the antrum.•Antibodies to parietal cells and intrinsic factor that can be detected in serum and gastric secretions.•Defective secretion of gastric acid and intrinsic factor due to loss of parietal cells.  •Increased serum gastrin, G cell hyperplasia. •Vitamin B12deficiency leading to pernicious anemia.•Reduced serum pepsinogen I concentration (produced by chief cells)
+
+© Elsevier 2005
+
+
+Autoimmune GastritisPathogenesis:•Autoimmune-associated loss of parietal cells compromises the production of intrinsic factor (IF)•The absorption of dietary vitamin B12 requires IF produced by parietal cells.•Destruction of parietal cells and subsequent IF deficiency leads to B12 deficiency and slow onset of megaloblastic anemia (pernicious anemia)•The absence of acid production by parietal cells drives increased gastrin release, resulting in hypergastrinemiaand hyperplasia of antral gastrin-producing G cells.
+
+Autoimmune Gastritis Pathogenesis:•Over 90% of patients with pernicious anemia are found to produce gastric parietal cell antibody (GPC Ab), which targets the gastric proton pump (H+/K+ATPase) of parietal cells.•These antibodies are unlikely to be pathogenic in vivo because the pump is not accessible to circulating autoantibodies.•In addition, in animal models, the transfer of these autoantibodies alone does not induce gastritis.
+
+Autoimmune Gastritis Pathogenesis:•Rather, it is more likely that CD4+T cells directed against parietal cell components, including the H+,K+-ATPase, are the principal agents of injury. •This is supported by the observation that transfer of H+,K+-ATPase-reactive CD4+ T cells into naive mice results in gastritis and production of H+,K+-ATPase autoantibodies.
+
+Autoimmune Gastritis Pathogenesis:Two types of autoantibodies to intrinsic factor are common in pernicious anemia:•Blocking Antibody: two thirds of patients have an antibody to intrinsic factor that impedes its binding to vitamin B12, preventing formation of the complex that is absorbed in the ileum. •Binding Antibody: this antibody is directed against sites on the intrinsic factor–vitamin B12 complex, that when bound by antibody interferes with its absorption.
+
+Autoimmune GastritisClinical Features:•Antibodies to parietal cells and to intrinsic factor are present early in the disease course. Progression to gastric atrophy probably occurs over 2 to 3 decades, and anemia is seen in only a few patients. •Pernicious anemia and autoimmune gastritis are often associated with other autoimmune diseases including Hashimoto thyroiditis, T1D, Addison disease, primary ovarian failure, primary hypoparathyroidism, Graves disease, vitiligo, myasthenia gravis, and Lambert-Eaton syndrome. •Despite this strong suggestion of genetic influence, there is little evidence of linkage to specific HLA alleles. 
+
+Autoimmune GastritisDiagnosis and Treatment:Diagnosis:based on low serum vitamin B12 and the presence of anti-parietal cell antibodiesTreatment: Lifelong vitamin B12 replacement therapy.      
+
+Immunologically-Mediated Diseases of the Digestive System•Celiac Disease•Autoimmune Gastritis•Autoimmune Enteropathy•Inflammatory Bowel Disease–Crohn’s Disease–Ulcerative Colitis•Eosinophilic Gastroenteritis•Autoimmune Hepatitis•Primary Biliary Cirrhosis
+
+Autoimmune Enteropathy•X-linked disorder characterized by severe persistent diarrhea and autoimmune disease.•Occurs most often in young children.•Linked to defects in regulatory T cell function.•Severe form of the disease, IPEX, is due to germline mutation in FoxP3.•Autoantibodies to enterocytes and goblet cells are common and some have antibodies to parietal or islet cells.•Intraepithelial lymphocytes may be increased.•Neutrophils are often present.•Therapy includes immunosuppressive drugs and in severe cases, hematopoietic stem cell transplant.
+
+Lymph node
+
+@%o
+©)
+©)
+o ~ ©)
+_- Wie
+IL-2
+Va
+pecan Recognition
+pag el Regulatory] i, Seripneral’
+T cells tissues
+
+oF
+
+APC
+
+Abbas & Lichtman: Basic Immunology, 3rd Edition. Copyright © 2008 by Saunders, an imprint of Elsevier, Inc. All rights reserved.
+
+
+Identification of Tregs by Flow Cytometry
+CD25 PECD4 FITCCD4+ CD25+
+
+Immunologically-Mediated Diseases of the Digestive System•Celiac Disease•Autoimmune Gastritis•Autoimmune Enteropathy•Inflammatory Bowel Disease–Crohn’s Disease–Ulcerative Colitis•Eosinophilic Gastroenteritis•Autoimmune Hepatitis•Primary Biliary Cirrhosis
+
+Inflammatory Bowel DiseaseTwo disorders comprise IBD: Crohn’s Disease (CD) Ulcerative Colitis (UC)Neither Crohn disease nor ulcerative colitis is thought to be an autoimmune disease.  Rather, most investigators believe that the two diseases result from a combination of defects in host interactions with intestinal microbiota, intestinal epithelial dysfunction, and aberrant mucosal immune responses.
+
+Inflammatory Bowel DiseaseEtiology:
+•Defects in host interactions with intestinal microbiota•Intestinal epithelial dysfunction•Aberrant mucosal immune responses
+
+The distinction between UC and CD is based, in large part, on the distribution of affected sites and the morphologic expression of disease at those sites.
+
+Inflammatory Bowel Disease Overall Occurrence•Both CD and UC are more common in females and frequently present in the teens and early 20s.•IBD is found most commonly in developed countries. •In western, industrialized nations IBD is most common among Caucasians and, in the United States, occurs 3 to 5 times more often among eastern European (Ashkenazi) Jews. •IBD incidence worldwide (Africa, South America, Asia) is on the rise, possibly as a result of the reduced frequency of enteric infections, which has resulted in inadequate development of regulatory processes to limit mucosal immune responses.  (Hygiene hypothesis)
+
+•Crohn’s Disease is a syndrome of unknown cause characterized by chronic, relapsing and remitting, focal, transmural inflammation of the GI tract.  •CD can occur in any area of the GI tract, but most typically in the terminal ileum, ileocecal valve and cecum.•The presence of multiple, separate, sharply delineated areas of disease, resulting in skip lesions, is characteristic of Crohn disease.Crohn’s Disease
+
+Crohn’s Disease Symptoms:Disease begins with intermittent attacks of relatively mild diarrhea, fever, and abdominal pain.  However, the clinical manifestations and patient history of CD are highly variable, and relate to the anatomical sites involved in the disease.Abdominal painFatigueWeight lossRectal painHematocheziaFeverGrowth failure in childrenAphthous mouth ulcersNauseauVomitingDyspepsiaArthralgiasSkin lesionsVisual changes
+
+•The characteristic early lesions of CD consists of ulcer-like lesions that occur in a  focal fashion in the gut.  •Multiple lesions often coalesce into elongated ulcers. •Fissures frequently develop between mucosal folds and may extend from the intestinal lumen into the deeper levels of the gut wall.
+Crohn’s Disease Morphology:
+
+Crohn’s Disease Morphology:
+Inflammatory cells include lymphocytes, plasma cells, eosinophils and abundant neutrophils that infiltrate and damage crypt epithelium.  CD4 T cells and macrophages that can aggregate into noncaseatinggranulomas. 
+
+Crohn’s Disease Pathogenesis:Evidence for microbial contribution to disease-•CD lesions are most typically found in locations with high bacterial counts, namely the cecum and the terminal ileum.•Surgical diversion of the fecal stream ameliorates disease•Most patients have at least a temporary response to antibiotic therapy.One interpretation of these data is that enteric organisms might contribute to the pathogenesis of disease, although their precise role in the disease has yet to be defined.
+
+Crohn’s Disease Pathogenesis:Contribution of host genetics-•50% concordance rate in monozygotic twins•Genome-wide scans have identified NOD2 as a susceptibility gene in Crohn’s disease.
+
+Recall that NOD2 encodes a cytoplasmic patternrecognition receptor that binds bacterial peptidoglycan and subsequently activates NF-kB. 
+
+Crohn’s Disease Pathogenesis:Potential roles for NOD2:•Disease associated NOD2 variants may be less effective at recognizing and combating luminal microbes, which are then able to enter the lamina propria and trigger inflammation.•Other data suggest that NOD2 actively regulates mucosal immune responses to prevent excessive activation by luminal microbes.•In either case inflammation arises from abnormal immune reactions to bacterial flora.Be aware that NOD2 is one of many genetic factors contributing to disease: only 10% of people with NOD2 variant are positive for CD.
+
+Crohn’s Disease Pathogenesis:Dysregulation of mucosal immune responses-•CD patients have increased titers of anti-bacterial antibodies, particularly to gut flora, suggesting a component of the disease is loss of tolerance to enteric flora.•Polarization of involved CD4 T cells to produce Th1 cytokines is well recognized in CD.•More recent evidence suggests that Th17 cells may also contribute to disease pathogenesis.•Certain polymorphisms in the receptor for IL-23 confer protection from CD.
+
+Naive CD4+
+Microbes
+
+Proliferation and
+
+Leukocytes, differentiation
+tissue cells
+IL-17 > ©) \ ) TH17 cells
+
+at as ee
+
+G-CSF, GM-CSF,
+CXCL1, CXCL8,
+
+Epithelial
+cells
+
+Neutrophil Anti-microbial peptides;
+response increased barrier function
+
+Abbas & Lichtman: Basic Immunology 3e, Updated Edition.
+Copyright © 2010 by Saunders, an imprint of Elsevier, Inc. All rights reserved
+
+
+
+This suggests that the protective IL-23R polymorphisms may attenuate pro-inflammatory Th17 responses in CD.
+
+Crohn’s Disease Pathogenesis:Dysfunction of the epithelial cell barrier is thought to be a critical component of IBD pathogenesis.•Defects in intestinal epithelial tight junction barrier function are present in CD patients, and this barrier dysfunction appears to be associated with NOD2 polymorphisms.•In addition, the Paneth cell granules, which contain antibacterial peptides, defensins, are abnormal in some CD patients.  This suggests that defective epithelial anti-microbial function contributes to IBD. 
+
+Crohn’s Disease Pathogenesis:Environmental Trigger-•Periods of active disease are typically interrupted by asymptomatic periods that last for weeks to many months. •Disease re-activation can be associated with a variety of external triggers, including physical or emotional stress, specific dietary items, and cigarette smoking. •Smoking is a strong exogenous risk factor for development of Crohn disease and, in some cases, disease onset is associated with initiation of smoking. Unfortunately, smoking cessation does not result in disease remission. 
+
+Crohn’s Disease Diagnosis and Treatment:Diagnosis: Requires GI endoscopy with biopsyRequired to differentiate CD from UC:•gross appearance of the lesions and their location and distribution•serologic testing for ANCAs (To help rule out UC.)Treatment:Includes immunosuppressive drugs such as corticosteroids, cyclosporine, purine synthesis blockers.TNFalphainhibitors (infliximab) have led to remission of active disease and healing of fistulae.
+
+Ulcerative Colitis•Characterized as a relapsing disorder with attacks of bloody diarrhea with string, mucoid material, lower abdominal pain, and cramps that are temporarily relieved by defecation.•Disease is limited to the colon and rectum.•Pathological features consist of superficial mucosal inflammation in a continuous pattern.
+
+Ulcerative ColitisSymptoms:•Characterized as a relapsing disorder with attacks of bloody diarrhea with string, mucoid material, lower abdominal pain, and cramps that are temporarily relieved by defecation.•Symptoms may persist for days, weeks, or months.•More than half of patients have clinically mild disease.•Up to 30% require colectomy within the first 3 years because of uncontrollable symptoms.•Common extra-intestinal manifestations of ulcerative colitis overlap with those of CD and include migratory polyarthritis, sacroiliitis, ankylosing spondylitis, uveitis, skin lesions, pericholangitis, and primary sclerosing cholangitis. 
+
+Ulcerative ColitisMorphology:
+•Superficial mucosal inflammation and ulceration of the rectal and colonic mucosa and superficial submucosa •Occurs in a continuous pattern, most severe in the rectum, and decreasing progressively in severity in more proximal areas of the colon.  •May be very limited involving only a few cm of rectum, may involve only the distal colon and rectum, or may involve the entire colon.  •Microscopically, the mucosa has intense infiltration of the colonic crypts with neutrophils, resulting in destruction of the crypts and ulceration.  Lymphocytes and plasma cells are also found.•Granulomas are not present in UC. 
+
+Ulcerative ColitisPathologensis:Dysregulation of mucosal immune response-•In contrast to CD, data suggest that ulcerative colitis is a TH2-mediated disease, and this is consistent with observations of increased mucosal IL-5 and 13 in ulcerative colitis patients. •IL-23 receptor polymorphisms confer protection supporting a role for Th17 cells in the pathogenesis of UC.•Antineutrophil cytoplasmic antibodies (ANCAs) are found in 80% of patients with ulcerative colitis. 
+
+Ulcerative ColitisPathologensis:Contribution of host genetics-•The concordance of monozygotic twins for UC is only 16%, suggesting that genetic factors are less dominant than in CD.  •NOD2 mutations are not associated with UC.•IL-23 receptor polymorphisms confer protection supporting a role for Th17 cells in the pathogenesis of UC.
+
+Environmental Triggers-•The factors that trigger ulcerative colitis are not known, but infectious enteritis precedes disease onset in some cases. •In other cases the first attack is preceded by psychologic stress, which may also be linked to relapse during remission. •The initial onset of symptoms has also been reported to occur shortly after smoking cessation in some patients, and smoking may partially relieve symptoms. Ulcerative ColitisPathologensis:
+
+Ulcerative ColitisDiagnosis and Treatment:Diagnosis: Requires GI endoscopy with biopsyRequired to differentiate CD from UC:•gross appearance of the lesions and their location and distribution•serologic testing for ANCAs
+
+
+Crohn’s DiseaseUlcerative ColitisMorphologySkip lesions (ileum + colon)Transmural inflammationFissures/fistulaeColon + rectumMucosal inflammationBroad-based ulcersImmunopathogenesisTh1-mediated:    Th17 cells involvementTh2-mediated:         ↑mucosal IL-5, IL-13Th17 cells involvementGeneticsNOD2IL-23R polymorphismsIL-23R polymorphismsEnvironmental factorsSmoking strong risk factorSmoking is protective?OtherGranulomas (non-caseating)Intense neutrophilic infiltrateANCAs
+
+Model of IBD Pathogenesis
+
+Immunologically-Mediated Diseases of the Digestive System•Celiac Disease•Autoimmune Gastritis•Autoimmune Enteropathy•Inflammatory Bowel Disease–Crohn’s Disease–Ulcerative Colitis•Eosinophilic Gastroenteritis•Autoimmune Hepatitis•Primary Biliary Cirrhosis
+
+Eosinophilic Gastroenteritis (EGE)EGE refers to a clinically heterogeneous disorder characterized by infiltration of the GI tract by eosinophils.•Most common areas of involvement are the stomach and small intestine.•Tissue involvement is variable and may involve the mucosa, muscle, or serosal layers in varying degrees.•Symptoms include dyspepsia, malnutrition and malabsorption, diarrhea, weight loss, allergy symptoms (asthma)
+
+
+Eosinophilic Gastroenteritis Pathogenesis:•3 out of 4 patients present with atopic manifestations and therapies used in other allergic disease and dietary modifications have led to clinical and histological responses in many cases.•Likely roll for Th2 cells and eosinophil chemoattractants, which include IL-3, IL-5 and GM-CSF.•~10% of patients have an affected relative suggesting a genetic component.•Genes involved include eotaxin, tryptase, and high-affinity IgEreceptor (FcεR1)
+
+Immunologically-Mediated Diseases of the Digestive System•Celiac Disease•Autoimmune Gastritis•Autoimmune Enteropathy•Inflammatory Bowel Disease–Crohn’s Disease–Ulcerative Colitis•Eosinophilic Gastroenteritis•Autoimmune Hepatitis•Primary Biliary Cirrhosis
+
+Autoimmune Hepatitis•Chronic and progressive hepatitis of unknown etiology•Women are more affected than men.•Bimodal age distribution•Half of affected individuals are under 20 years pf age•Second peak incidence occurs between 45-70 years•May occur concurrently with other autoimmune disorders such as SLE, celiac disease, RA, thyroiditis.•Salient features include:•Absence of serologic markers of viral infection•Elevated serum IgG and γ–globulin levels•High serum titers of autoantibodies
+
+Autoimmune HepatitisClassified into 3 types based on the patterns of circulating antibodiesAIH-1: anti-nuclear (ANA) anti-smooth muscle (SMA) AIH-2: anti-liver kidney microsome-1 (ALKM-1) anti-liver cytosol-1 (ACL-1)AIH-3: anti-soluble liver antigen/liver- pancreas antigen (anti-SLA/LP) 
+
+Autoimmune HepatitisPathogenesis:Liver injury is the result of a cell-mediated immune response.Hepatocyte injury is caused by:•IFN-γ produced by CD4+ and CD8+ T cells•CD8+ T cell-mediated cytotoxicity•Aberrant expression of MHC class II by hepatocytesDefect in Tregs may underlie the uncontrolled activation of self-reactive lymphocytes.
+
+Autoimmune HepatitisPathogenesis:Genetic Predisposition-•Associated with a variety of HLA haplotypes including B8, B14, DR3, DR4 and Dw3•HLA-DR3-positive patients are more likely to have aggressive form of the disease•HLA-DR4-positive patients are more likely to have extrahepatic manifestations of their disease•Associated with a partial deficiency in complement component C4.
+
+Autoimmune HepatitisPathogenesis:Environmental Triggers-•Viruses as triggering agents? Rubella Epstein-Barr Hepatitis A, B, and C•Drugs as triggering agents?
+
+Immunologically-Mediated Diseases of the Digestive System•Celiac Disease•Autoimmune Gastritis•Autoimmune Enteropathy•Inflammatory Bowel Disease–Crohn’s Disease–Ulcerative Colitis•Eosinophilic Gastroenteritis•Autoimmune Hepatitis•Primary Biliary Cirrhosis
+
+Primary Biliary Cirrhosis (PBC)•Chronic progressive disease characterized by progressive destruction of small intrahepatic bile ducts with portal inflammation leading to fibrosis and cirrhosis.•The presence of antimitochondrialAbs (AMAs) are critical for the diagnosis, as about 95% of patients with PBC have circulating AMA.•Target antigen is known to be the E2 component of pyruvate dehydrogenase, a mitochondrial enzyme.•There is no evidence that these Ab are responsible for the pathogenesis of disease.•Rather, destruction of bile ducts appears to be mediated by CD4+ and CD8+ T lymphocytes.•Association with HLA-DR8.
+
+1.Describe the inflammatory injury that occurs during autoimmune gastritis, and relate this injury to the underlying mechanism of vitamin B12 deficiency and pernicious anemia.  2.Describe the most likely immune-mediated mechanism of injury and the potential role of antibodies directed against intrinsic factor in the development of autoimmune gastritis.3.Assess the relationship between FoxP3, regulatory T cells and the development of autoimmune enteropathy.4.Compare and contrast the pathogenesis, clinical symptoms, tissue injury, and environmental triggers of Crohn’s Disease and Ulcerative Colitis.5.Discuss the significance of the NOD2 PRR in the development of Crohns disease.6.Describe the potential roll for Th17 cells in the development of IBD.7.Appraise the role of Th1 and Th2 subsets in the pathogenesis of CD and UC.8.Describe the known immunopathogenesis of eosinophilic gastroenteritis , autoimmune liver disease, and primary biliary cirrhosis.    Learning Objectives:

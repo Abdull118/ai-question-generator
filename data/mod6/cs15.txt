@@ -1,0 +1,494 @@
+Approach to the Patient with Liver DiseaseElizabeth Williams, DOClinical SystemsGastroenterology ModuleTouro COMSome slides modified from previous lectures done by Lisa Ganjhu, DO  
+
+Objectives1.Discuss the evaluation and management of patients with liver disease.2.Identify liver chemistry tests and  the clinical implication of abnormalities.3.Discuss diagnostic imaging findings of patients with liver disease. 4.Compare and contrast laboratory tests for viral hepatitis.5.Discuss and differentiate the clinical presentation, physical exam findings, appropriate diagnostic workup, pathophysiology, management and complications of each of the following:a)Viral liver disease: Hepatitis A,B,C, D, and Eb)Autoimmune liver disease: Autoimmune hepatitis, Sclerosing Cholangitis, Primary Biliary Cirrhosis c)Metabolic liver disease: Hemochromatosis, Alpha 1 antitrypsin deficiency, Wilson’s Disease,NASHd)Alcohol induced liver diseasee)Toxin and Drug induced hepatitis 
+
+Reading•Goldman-Cecil Textbook of Medicine, 26the, chapters 137-145•Bates’Guide to Physical Examination 13th e, Chapter 19
+
+Liver Disease Categories•Viral Hepatitis•Autoimmune Liver Disease•Metabolic Liver Disease•Alcohol liver disease•Non-alcohol liver disease (NASH/NAFLD)•Drug Induced liver injury•Ischemic hepatitis
+
+Liver Disease: Work Up•Start with a good HISTORY and PHYSICAL EXAM!–History•Risk factors for viral hepatitis•Family history of liver disease•Alcohol or drug use•Medications•Age•Gender•Comorbid diseases•Travel history–Physical•Jaundice, arthralgia, myalgia, rash, anorexia, weight loss, abdominal pain, fever, pruritus, change in urine or stool•Stigmata of liver diseases•Lab and Imaging Data
+
+Stigmata of Chronic Liver Disease
+
+
+Gynecomastia
+
+
+Jaundice
+
+
+Serum Liver MarkersCholestatic/Obstructive•Bilirubin•Alkaline phosphatase•Gamma-galactosyltransferase (GGT)Hepatocellular•Alanine aminotransferase   (ALT)•Aspartate aminotransferase  (AST)Liver Function Tests•Albumin•Prothrombin Time (PT)
+
+Causes of MILD AST elevation (less than 5 times normal)Liver Pathology•Alcohol-related liver injury•Steatosis/steatohepatitis•CirrhosisHeart, Skeletal Muscle, or Hematological  Pathologies•Cardiac ischemia•Myopathy•Thyroid disease•Strenuous exercise•Hemolysis
+
+Causes of MILD ALT elevation (less than 5 times normal)Hepatic ALT Predominant•Chronic hepatitis C•Chronic hepatitis B•Acute viral hepatitis (A–E, EBV, CMV, HSV)•Steatosis/steatohepatitis•Hemochromatosis•Medications/toxins•Autoimmune hepatitis•Alpha1-antitrypsin deficiency•Wilson's disease•Celiac disease 
+
+Causes of SEVEREALT and AST Elevation(greater than 15 times normal)•Acute viral hepatitis (e.g., A–E, herpes)•Medications/toxins•Ischemic hepatitis•Fulminant Autoimmune hepatitis•FulminantWilson's disease •Acute bile duct obstruction•Acute Budd-Chiari syndrome•Hepatic artery ligation
+
+Evaluationof Isolated Mildly Elevated Serum Aminotransferases (< 250 U/L)Step 1•Review possible link to alcohol, medications, herbals, illicit drugs. (i.e., take a good history!)•Screen for Hepatitis B and C.•Screen for non alcohol fatty liver disease.•Screen for hemochromatosis.Step 2•Exclude non hepatic causes such as, muscle or thyroid disorders.•Consider other etiologies based on clinical presentation such as celiac disease or adrenal insufficiency.
+
+Evaluationof Isolated Mildly Elevated Serum Aminotransferases (< 250 U/L)Step 3•Consider autoimmune hepatitis.•Consider Wilson’s disease.•Consider Alpha 1 antitrypsin deficiency.Step 4•If aminotransferases are less than 2-fold, then observe the patient.•If an etiology cannot be determined, then a liver biopsy may be indicated.
+
+Causes of Elevated Serum Alkaline Phosphatase (ALP)Hepatobiliary•Bile duct obstruction•Primary biliary cirrhosis•Primary sclerosing cholangitis•Medications•Infiltrating diseases of the liver•Hepatic metastasis•Hepatitis•Cirrhosis•Benign recurrent cholestasisNon-Hepatic•Bone disease•Pregnancy•Chronic renal failure•Lymphoma and other malignancies•Congestive heart failure•Childhood growth•Infection/inflammation
+
+Evaluationof Elevated Alkaline Phosphatase (ALP)Step 1•Rule out physiologic causesStep 2Determine the source!•Fractionate alkaline phosphatase•Measure GGT and 5’nucleotidaseStep 3•If negative for liver source, test for bone disease•If positive for liver source, check AMA/IgM and RUQ U/SStep 4•Consider MRCP to evaluate for bile duct strictures, stones•Consider ERCP
+
+Causes of Increased Bilirubin
+
+Conjugated
+(Direct)
+Hyperbilirubinemia
+
+Unconjugated
+(Indirect)
+Hyperbilirubinemia
+
+Due to
+
+Hepatobiliary disease
+
+Not bound to albumin > filtered
+through the kidney >
+bilirubinuria
+
+Due to
+
+Bound to albumin > not filtered
+through the urine
+
+
+
+Causesof Conjugated (Direct) HyperbilirubinemiaBile DuctObstruction•Gallstones•Cholangiocarcinoma•Pancreatic or liver cancer•Liver fluke•Hepatitis•CirrhosisBiliary TractDisease•Primary sclerosing cholangitis•Primary biliary cirrhosisExcretion Defect•Dubin-Johnson syndrome•Rotor syndromeMedications orToxins•There are numerous so take a good history!Nutrition•Total parenteral nutrition(TPN)Infections/Parasites•TORCH infections•SepsisOther•Intrahepatic cholestasis of pregnancy•Benign recurrent cholestasis
+
+Causes of Isolated Unconjugated(Indirect) Hyperbilirubinemia•Gilbert's syndrome•Neonatal jaundice•Hemolysis•Resorption of a large hematoma•Crigler-Najjar syndrome
+
+Extra Hepatic Cholestasis•Common bile duct (CBD) obstruction•Stricture after invasive procedures•Malignancy (e.g., pancreatic, ampulla, gallbladder, cholangiocarcinoma)•Primary sclerosing cholangitis (PSC)•Acute and Chronic pancreatitis•AIDs cholangiopathy (e.g., CMV, cryptosporidium)•Parasitic infections (e.g., ascaris, lumbricoides, liver flukes)
+
+Intrahepatic Cholestasis•Viral hepatitis•Alcoholic hepatitis (transaminases <500 IU/L)•NASH•Primary Biliary Cirrhosis (PBC)•Vanishing bile duct syndrome•Total Parenteral Nutrition (TPN)•Sepsis/ Hypoperfusion•Paraneoplastic syndromes (e.g., Stauffer’s syndrome)•Post operative patient•Following organ transplant•Hepatic crisis in sickle cell•Pregnancy•End stage liver disease (ESLD)•Drugs & toxins (e.g., alkylated steroids chlorpromazine, bush tea, arsenic)
+
+Evaluation of Elevated BilirubinStep 1•Do a good History & Physical Exam!Step 2Check laboratory studies:•If there is conjugated (direct) bilirubin with abnormal ALP , ALT, AST then get an ultrasound of the RUQ •If there is unconjugated (indirect) bilirubin with normal AP , ALT, AST then do a hemolysis work up and review medicationsStep 3Review imaging (ultrasound):•If dilated ducts, then do an ERCP or MRCP•If no dilated ducts but has abnormal ALT, proceed with work up for abnormal ALT (i.e., review meds, AMA, ERCP/MRCP , and may need liver biopsy)
+
+Diagnostics Studies Used to Evaluate the Liver•Ultrasound (US)•Computerized Tomography (CT) scan•Hepatobiliary Scintigraphy (HIDA scan)•Magnetic Resonance Imaging (MRI)•Endoscopic retrograde cholangiopancreatography (ERCP) •Percutaneous Transhepatic Cholangiogram (PTC)•Liver Biopsy
+
+eeeneerere
+
+ADVANTAGES LIMITATIONS
+
+No ionizing radiation Operator dependent
+Portable Patient dependent
+
+Multiple planes Interpretation subjective
+Biopsy localization Poor for intraductal stones
+
+
+
+NORMAL HEPATOBILIARY
+
+
+
+COMPUTED TOMOGRAPHY
+
+ayy (E> |
+
+ADVANTAGES LIMITATIONS
+
+Complete anatomy Axial sections only
+Tissue characterization lonizing radiation
+Reproducible Contrast side effects
+Precise biopsy localization May miss gallstones
+
+
+
+NORMAL COMPUTED TOMOGRAPHY
+
+“
+;
+,
+>
+
+
+
+HIDASCAN
+
+NORMAL HEPATOBILIARY
+SCINTIGRAPHY
+
+
+
+MAGNETIC RESONANCE IMAGING
+
+© Ll
+
+ADVANTAGES LIMITATIONS
+No ionizing radiation Magnetic hazards
+Multiple planes Limited interventional access
+Tissue characterization Cost
+Anatomy and function  Claustrophobia
+Spectroscopic analysis
+
+
+
+ENDOSCOPIC RETROGRADE
+CHOLANGIOPANCREATOGRAPHY
+
+|
+HN
+
+u ib
+ADVANTAGES LIMITATIONS
+Direct visualization Complications: sepsis
+of both ducts pancreatitis
+Therapeutic options: Occasional failure
+stone removal Operator dependent
+stenting Requires endoscopy
+papillotomy More expensive than PTC
+biopsy
+
+lonizing radiation
+
+
+NORMAL ERCP
+
+
+
+PERCUTANEOUS TRANSHEPATIC
+CHOLANGIOGRAPHY
+
+ADVANTAGES LIMITATIONS
+Direct visualization of bile ducts Pancreatic duct not seen
+Proximal extent of obstruction/lesion Biliary-venous connection
+Therapeutic options: stenting Complications: sepsis
+stricture dilatation bile leak
+
+Less Operator dependent than ERCP Success related to duct size
+
+
+
+=
+|
+
+LIVER BIOPSY
+
+ADVANTAGES
+Histologic diagnosis
+Biochemical assays
+
+LIMITATIONS
+Invasive
+Contraindications
+
+Complications:
+bleeding pneumothorax
+bile leak sepsis
+
+Pathologist dependent
+
+
+LIVER BIOPSY TECHNIQUES
+
+Percutaneous Laparoscopic
+Directed percutaneous — Transjugular
+(CT, US) Operative
+
+
+
+Viral Hepatitis•Hepatitis A Virus•Hepatitis B Virus•Hepatitis C Virus•Hepatitis D Virus•Hepatitis E Virus•Epstein Barr Virus•Cytomegalovirus•Herpes Simplex Virus•Adenovirus•COVID-19
+
+
+https://www.cdc.gov/hepatitis/hav/index.htm 
+
+https://www.cdc.gov/hepatitis/hbv/index.htm 
+
+Hepatitis B Serology
+
+Who should be tested for HBV?
+
+
+https://www.cdc.gov/hepatitis/hcv/index.htm 
+
+HCV Transmission•Direct transmission:•Primarily through large or repeated percutaneous exposures to infected blood•Examples:–Injection drug use (most common in USA)–Receipt of donated blood, blood products & organs (rare in USA since screening started in 1992)–Needlestick injuries in health care settings•Vertical Transmission•E.g., child born to an HCV-infected mother)•Can also be spread infrequently through•Sex with HCV-infected person•Sharing personal items contaminated with infectious blood, i.e., razors or toothbrushes •Other health care procedures that involve invasive procedure, i.e., injections •usually recognized in context of outbreaks
+Both are inefficientmeans of transmission but still need to be considered
+
+Clinical Course of Hepatitis CIf infection is not recognized:–Chronic infection leads to progressive liver disease–Inflammation leads to fibrosis which then leads to cirrhosis and end stage liver disease•Complications of cirrhosis may be seen clinically and include:–portal hypertension–esophageal varices–ascites–encephalopathy•Treatment–Dependent on genotype–Typically, all oral therapy•Prognosis–Over 90% of people infected with hepatitis C virus (HCV) can be cured of their infection, regardless of HCV genotype, with 8–12 weeks of oral therapy https://www.cdc.gov/hepatitis/hcv/hcvfaq.htm#accordion-1-collapse-4 
+
+https://www.cdc.gov/hepatitis/hdv/index.htm 
+
+https://www.cdc.gov/hepatitis/hev/hevfaq.htm#section5 
+
+Autoimmune Liver Diseases
+
+Commonly Associated Markers
+
+Primary Biliary
+
+Cirrhosis (PBS) Elevated serum levels of
+immunoglobulin,
+Anti-Nuclear Antibody (ANA)
+
+Primary Sclerosing
+Cholangitis (PSC) Hypergammaglobulinemia
+
+Autoimmune Serum Protein Electrophoresis (SPEP)
+Hepatitis
+Anti Smooth Muscle Antibody (ASMA)
+Liver Kidney Microsomal Antibody
+(LKMA)
+
+
+
+Primary Biliary Cirrhosis (PBC)
+
+Chronic and progressive cholesteric disease of the liver due to
+continuous destruction of small & medium sized bile ducts.
+
+Clinical * Caucasian middle-aged women
+
+Presentation |° Symptoms of fatigue, pruritus, right upper quadrant
+discomfort
+
+° Positive AMA & ANA
+
+Labs ¢ Elevated serum levels of immunoglobulin, mainly IgM
+° Liver biopsy: bile duct injury, ductopenia, cholestasis,
+& granulomas
+
+Treatment ¢ Ursodeoxycholic acid ¢ Methotrexate
+* Corticosteroids ¢ Cyclosporine
+
+Complications |* Osteoporosis
+¢ Fat-soluble vitamin deficiency
+* Hypercholesterolemia/hyperlipidemia
+¢ Hepato-cellular carcinoma
+
+
+
+PRIMARY BILIARY CIRRHOSIS
+
+ASSOCIATED DISORDERS
+
+Thyroiditis
+Sicca
+CRST
+Raynaud's
+
+
+
+Primary Sclerosing Cholangitis
+(PSC)
+
+A chronic progressive disorder of unknown etiology that is characterized by
+inflammation, fibrosis, and stricturing of medium and large ducts in the
+intrahepatic and/or extrahepatic biliary tree.
+
+Clinical Middle aged men
+Presentation
+Maybe asymptomatic or present with symptoms of fatigue and
+pruritus.
+All patients eventually present with chronic obstructive
+jaundice.
+
+Labs Elevated alkaline phosphatase, gamma-glutamyl transferase, &
+mildly elevated bilirubin levels.
+
+Treatment ¢ Ursodeoxycholic acid ¢ Methotrexate
+* Corticosteroids * Cyclosporine
+
+Complications |* Cirrhosis * Metabolic bone disease
+¢ Portal hypertension * Cholangitis and cholelithiasis
+¢ Steatorrhea & vitamin ¢ Hepatobiliary carcinoma
+deficiency * Colon cancer
+
+
+
+SCLEROSING CHOLANGITIS
+
+
+
+Autoimmune Hepatitis
+
+Clinical |+ More common in women.
+Presentation |° Bimodal age distribution.
+e Physical exam can be normal, but patients can
+
+present with fulminant liver failure.
+
+Elevations in aminotransferases (ALT and AST)
+
+may exceed 10 — 20 times the normal.
+Elevation in gamma globulins, particularly
+immunoglobulin G (IgG).
+
+Presence of circulating autoantibodies (e.9,, ANA,
+
+anti-smooth muscles antibody, p-ANCA, AMA, etc.)
+Treatment * Corticosteroids
+¢ Thiopurines
+Complications |* Reactivation and chronic disease
+¢ Liver failure requiring liver transplantation
+
+
+
+Metabolic Liver Disease
+
+Clinical Manifestations
+
+Hereditary FE, TIBC
+Hemochromatosis (HH)
+
+FE/TIBC > 45 obtain ferritin
+Ferritin > 400 in men > 300 in women
+Homozygous HHC (C282Y)
+
+Alpha-1-antitrypsin |
+Deficiency
+
+Decreased levels of A1A
+A1A phenotype
+
+Wilson’s Disease Age between 5- 40 years old
+
+Kayser-Fleischer rings on eye examM (copper deposits in Descemet’s
+membrane of the cornea)
+
+24-hour urine collection for copper excretion is high
+
+Steatotic Liver Disease New nomenclature introduced in 2023
+Diagnosis based on clinical history, radiologic imaging or
+(SLD)
+biopsy
+There are now 5 subtypes all with steatohepatitis as a
+common pathophysiology
+
+
+
+New Nomenclature Introduced in June of 2023
+https://www.aasld.org/new-nafld-nomenclature
+
+Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD)•Most common chronic liver disease.•Formerly called non-alcoholic fatty liver disease (NAFLD) and prior to that nonalcoholic steatohepatitis (NASH)•MASLD encompasses patients who have hepatic steatosis and have at least one of five cardiometabolic risk factors.AdultsPediatrics1.Obesity 2.Diabetes/pre-diabetes3.Hypertension4.Elevated triglycerides or lipid lowering treatments5.HDL<40 (m) <50 (f) or lipid lowering treatments1.Obesity 2.Diabetes/pre-diabetes3.Hypertension4.Elevated triglycerides (age adjusted) or lipid lowering treatments5.HDL<40 or lipid lowering treatmentshttps://www.aasld.org/new-nafld-nomenclature 
+
+MASLD Treatment Options 
+
+
+MetALD
+
+
+Alcohol Associated Hepatitis•Clinical presentation:–Jaundice within 3 months of presentation–Anorexia–Fever (must rule out other causes first)–RUQ or epigastric pain–Abdominal distention–Proximal muscle weakness due to muscle wasting–In severe cases, hepatitis encephalopathy–Labs note moderately elevated transaminases (typically less than 300 int. unit/mL), with an AST to ALT ratio . •Usually seen in persons 40-50 years of age with a history of daily heavy alcohol use (>100g per day) for two or more decades–In USA, a “standard” drink = 14 g of pure alcohol
+
+What is a Standard Drink?
+© 2023 UpToDate, Inc
+
+Alcohol Associated Hepatitis•Risk Factors•Gender (female>male)•Obesity•Nutrition/Diet•Polymorphisms•Drinking patterns•Pathophysiology•Alcohol is a hepatotoxin that is dose & duration dependent•enhanced cytochrome P450 causing zone 3 centrilobular damage•Spectrum from reversible fatty liver to alcohol hepatitis to cirrhosis
+
+Alcohol Associated Hepatitis
+Gao B, Bataller R. Alcoholic liver disease: pathogenesis and new therapeutic targets. Gastroenterology. 2011 Nov;141(5):1572-85. doi: 10.1053/j.gastro.2011.09.002. Epub 2011 Sep 12. PMID: 21920463; PMCID: PMC3214974.
+
+Alcohol Associated Hepatitis•Short term (< 1 month) mortality rates can be as high as 25-45% in severe alcoholic hepatitis •Risk Factors for increased mortality:–Older age–Prior liver disease–Acute kidney injury–Elevated Bilirubin levels–Elevated INR–Leukocytosis–Alcohol consumption > 120g per day–Infection–Hepatic encephalopathy–Upper GI bleed–Bilirubin to GGT ratio > 1–High hepatic histology scorehttps://www.uptodate.com/contents/management-and-prognosis-of-alcoholic-hepatitis?search=alcoholic%20hepatitis%20risk%20factors&source=search_result&selectedTitle=2~77&usage_type=default&display_rank=2 
+
+Diagnosis of Alcoholic Associated Hepatitis•Good History & Physical Exam!–This includes screening for alcohol use disorders (e.g., CAGE)–Physical exam findings may include:•Low blood pressure and/or tachycardia•Signs of malnutrition (e.g., dry and scaly skin, hair loss, brittle nails, mouth ulcers, decreased muscle mass and weakness, stunted growth, and mental changes including irritability and confusion)•Tender hepatomegaly or epigastric tenderness•Fever •In patients with advanced or decompensated cirrhosis,–jaundice, ascites, hepatic encephalopathy may be seen
+
+Diagnosis of Alcoholic Associated Hepatitis
+
+
+Alcohol Associated HepatitisClinical Course•Differential diagnosis–Acute viral hepatitis–Cholangitis–NASH–Hepatoma•Complications–Bacterial infections–Upper GI bleeding
+
+Assessing Severity of Alcohol Associated Hepatitis•Several calculators are available to assess the severity of the patient’s alcohol related disease.•These tools are used to counsel patients on their mortality at the time of diagnosis and help guide treatments.•Two examples are:–Maddrey’s Discriminant function•Total bilirubin (mg /dL) + 4.6 x prothrombin (seconds)•DF of 32 signifies severe alcohol hepatitis•Criteria for starting prednisolone–MELD score•Bilirubin, creatinine, and INR•www.unos.org/resources/mels/peldcalculator.asp•Score of 21 sensitivity of 75% specificity of 75% for predicting 90-day mortality
+Be aware that these exist for your clinical rotations but do not memorize for our exam or COMLEX!! 
+
+Alcohol Associated HepatitisTreatmentGoals:1.Establishing and maintaining abstinence2.Stabilizing liver function3.For patients with cirrhosis, screening for complications (e.g., esophageal varices)Methods:–Pharmacologic & psychosocial therapies for alcohol use disorder as abstinence from alcohol is key!–Frequent (every 3 months) monitoring of clinical status and labs–Nutritional Support–Vaccinations (e.g., Hep A & B, pneumococcal and yearly influenza)–Medications:•Prednisolone, Pentoxifylline•Others depending on co-morbid conditions (e.g., Anti TNF alpha)–Hepatology consultation if liver function does not stabilize as transplant may need to be consideredhttps://www.uptodate.com/contents/management-of-alcohol-associated-steatosis-and-alcohol-associated-cirrhosis?search=Alcohol%20liver%20disease%20treatment&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1#H2781983718 
+
+Cryptogenic Steatotic Liver Disease•Subgroup of patients that have NO metabolic parameters and no known cause for their steatohepatitis.
+
+Drug Induced Liver Diseases•Toxic vs. Idiosyncratic•Take a complete history of–All drugs including prescription, over the counter (OTC), illicit/recreational, herbal supplements/teas, energy drinks, multivitamins.–Occupational hazard and exposures.•First step in treatment:–Stop all non-essential medications!
+
+Medications, Drugs, Herbs & Alternative Medications That Can Cause Elevations of Aminotransferases•Acetaminophen•Alpha-methyldopa •Amoxicillin-clavulanic acid•Amiodarone•Carbamazepine•Dantrolene•Disulfiram•Fluconazole•Glyburide•Halothane•Vitamin A•Heparin •HMG-Co A reductase inhibitors•Isoniazid•Ketoconazole•Labetalol•Nicotinic acid•Nonsteroidal anti-inflammatory drugs•Phenytoin•Propylthiouracil•Protease inhibitors•Sulfonamides•Trazadone•Troglitazone•Valproic acid•Zafirlukast•Chaparral leaf (multiple folk uses)•Ephedra (weight loss)•Pyrrolizidine alkaloids (Jamaica bush tea)•Amanita phalloides or verna•Gentian•Germander (weight lose)•Jin Bu Huan•Senna (constipation)•Kavakava (antidepressant)•Scutellaria (skullcap)(sedative, anticonvulsant)•Shark cartilage
+Note this is a partial list!
+
+Other Substances That Can Cause Elevations of AminotransferasesIllicit Drugs•Anabolic steroids•Cocaine•Ecstasy (MDMA)•Phencyclidine (PCP) Toxins•Carbon tetrachloride•Chloroform•Dimethylformamide •Hydrazine•Hydrochlorofluorocarbons•2-Nitropropane•Trichloroethylene•Toluene 
+
+Common Medications That Can Cause Elevations of the Serum Bilirubin or Alkaline Phosphatase•Anabolic steroid •Gold salts•Allopurinol•Imipramine •Amoxicillin-clavulanic acid•Indinavir•Captopril•Iprindole•Carbamazepine•Nevirapine•Chlorpropamide•Methyltestosterone•Cyproheptadine•Methylene-dioxymethamphetamine•Diltiazem•Oxaprozin•Erythromycin•Pizotyline•Estrogen•Quinidine•Floxuridine•Tolbutamide•Flucloxacillin•Total parenteral hyperalimentation•Fluphenazine•Trimethoprim-sulfamethoxazole
+
+Ischemic  Hepatitis•Also referred to as shock liver, hypoxic hepatitis, and hypoxic liver injury refers to diffuse hepatic injury resulting from acute hypoperfusion •May present with jaundice, hypoglycemia, and hepatic synthetic dysfunction•Clinically –Patients are SICK!•Often seen in ICU patients with sepsis, cardiac arrhythmias, myocardial infarction, hemorrhage or other significant volume loss (e.g., burns, severe diarrhea).•Labs:–Aminotransferases usually >1000–LDH elevation•Management of ischemic hepatitis should be aimed at restoring cardiac output and reversing the underlying cause of hemodynamic instability.
+
+A 63-year-old man is being evaluated for abnormal liver function tests found on
+routine laboratory studies. He has a history of type 2 diabetes that is well
+controlled with diet and exercise and arthritis of the hands that he treats with an
+OTC topical cream as needed for pain. He denies tobacco, alcohol or recreational
+drug use and has never received a blood transfusion. He is a retired accountant
+and has had no occupational exposures. He is in a monogamous relationship and
+lives with his wife of 40-years. Review of systems notes that he has lost 5 Ibs. in
+the last 3 months, has noticed the inability to maintain an erection in the last 6
+months which he attributes to “aging”. On exam, he is afebrile, BM! 24, BP
+122/78 mmHg, P78/min. There is a slight yellow hue of his skin, especially his
+face and his liver is enlarged.
+
+Given his history and laboratory findings what is the most likely diagnosis?
+A. — Alcohol Associated Hepatitis
+
+B. Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD)
+C. | Hemochromatosis
+
+D. Hepatitis C
+
+E. Autoimmune hepatitis
+
+6
+
+ALT 103 U/L 7-5
+Total 19 0.2 -1.3
+Bilirubin mg/L
+Ferritin 1200 Men 24-336
+mg/L Women 11-307
+
+
+
+Question
+
+A 63-year-old man is being evaluated for abnormal liver function tests
+found on routine laboratory studies. He has a history of type 2 diabetes
+that is well controlled with diet and exercise and arthritis of the hands
+that he treats with an OTC topical cream as needed for pain. He denies
+tobacco, alcohol or recreational drug use and has never received a blood
+transfusion. He is a retired accountant and has had no occupational
+exposures. He is in a monogamous relationship and lives with his wife of
+40-years. Review of systems notes that he has lost 5 Ibs. in the last 3
+months, has noticed the inability to maintain an erection in the last 6
+months which he attributes to “aging”. On exam, he is afebrile, BMI! 24, BP
+122/78 mmHg, P78/min. There is a slight yellow hue of his skin, especially
+his face and his liver is enlarged.
+
+Given his history and laboratory findings what is the most likely diagnosis?
+Alcohol Associated Hepatitis
+
+Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD)
+
+Hemochromatosis
+Hepatitis C
+Autoimmune hepatitis
+
+Osh? o>
+
+AST 85 U/L
+ALT 103 U/L
+
+Total 1.9
+Bilirubin me/L
+
+1200
+me/L
+
+5.9%
+
+Ferritin
+
+Alc
+
+Normal
+
+0.2 -1.3
+
+Men 24-336
+Women 11-307
+
+
+
+References•Damjanov, Pathophysiology, chapters 1 & 8•First Aid for the USMLE Step 1•First Aid for the Basic Sciences Organ systems•www.emedicine.com•https://www.ncbi.nlm.nih.gov/books/NBK562172/  •https://www.ncbi.nlm.nih.gov/books/NBK549796/ •https://www.uptodate.com/contents/primary-sclerosing-cholangitis-in-adults-clinical-manifestations-and-diagnosis?search=Progressive%20Sclerosing%20Cholangitis&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1•https://www.uptodate.com/contents/clinical-manifestations-diagnosis-and-prognosis-of-primary-biliary-cholangitis?search=PBC&source=search_result&selectedTitle=1~149&usage_type=default&display_rank=1 •https://www.uptodate.com/contents/nonalcoholic-fatty-liver-disease-nafld-including-nonalcoholic-steatohepatitis-nash-beyond-the-basics?search=Non-alcoholic%20fatty%20liver%20disease%20(NAFLD)&source=search_result&selectedTitle=2~150&usage_type=default&display_rank=2•https://www.uptodate.com/contents/alcoholic-hepatitis-clinical-manifestations-and-diagnosis?search=alcoholic%20hepatitis&source=search_result&selectedTitle=2~77&usage_type=default&display_rank=2 
