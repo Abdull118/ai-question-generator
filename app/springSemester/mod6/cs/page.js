@@ -18,6 +18,21 @@ const Page = () => {
   const [selectedLecture, setSelectedLecture] = useState(null);
   const router = useRouter();
   const [loading, setLoading] = useState(false);
+  const [ipAddress, setIpAddress] = useState()
+  const [isGenerating, setIsGenerating] = useState(false);
+
+  const getIp = async () => {
+    try {
+      const res = await fetch("https://api.ipify.org?format=json");
+      const data = await res.json();
+      setIpAddress(data.ip)
+    } catch (error) {
+      console.error("Error fetching IP address:", error);
+      return "Unknown IP";
+    }
+  };
+
+ 
 
   const fetchQuestions = async () => {
     try {
@@ -40,12 +55,23 @@ const Page = () => {
 
       const fetchedQuestions = await response.json();
 
-      // Exclude questions that have a metadata field
-      const filteredQuestions = fetchedQuestions.filter(
-        (question) => !question.metadata
-      );
-
-      setQuestions((prevQuestions) => [...prevQuestions, ...filteredQuestions]);
+ 
+      const filteredQuestions = fetchedQuestions.filter((question) => {
+        // If no metadata array at all, definitely keep this question.
+        if (!question.metadata) {
+          return true;
+        }
+      
+        // If metadata exists, check if there's an entry with the IP we want to exclude.
+        // If we find a matching ipAddress, we exclude this question by returning false.
+        const hasMatchingIP = question.metadata.some(
+          (meta) => meta.ipAddress === ipAddress
+        );
+      
+        // We only keep questions that do NOT have a matching IP in their metadata.
+        return !hasMatchingIP;
+      });
+      setQuestions(filteredQuestions);
       setLoading(false);
     } catch (error) {
       console.error('Error fetching questions:', error.message);
@@ -65,7 +91,7 @@ const Page = () => {
           collectionName: `mod6_cs${selectedLecture}.txt`, 
           folder: `mod6`,
           fileName: `cs${selectedLecture}.txt`,
-          ipAddress: "unknown"
+          ipAddress: ipAddress
         }),
       });
 
@@ -94,7 +120,7 @@ const Page = () => {
           collectionName: `mod6_cs${selectedLecture}.txt`, 
           folder: `mod6`,
           fileName: `cs${selectedLecture}.txt`,
-          ipAddress: "unknown"
+          ipAddress: ipAddress
         }),
       });
 
@@ -111,12 +137,63 @@ const Page = () => {
     }
   };
 
+  // Updated function with spinner
+  const fetchMoreQuestions = async () => {
+    // Show spinner
+    setIsGenerating(true);
+    try {
+      // 1) Trigger your AI endpoint in the background
+      await fetch('/api/AI', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          folder: `mod6`,
+          fileName: `cs${selectedLecture}.txt`,
+          // Provide sample questions if your AI needs them
+          // For instance, here we take the first few as examples:
+          sampleQuestions: `
+              Sample Question 1: A 25 y.o. male presents to his physician with a complaint of “yellow eyes” for the past day. For the past five days he has been ill with a low-grade fever, rhinorrhea, myalgias, and generalized malaise. The physical exam confirms scleral icterus but is otherwise unremarkable. Electrolytes and CBC are all within normal limits. Other labs show: AST 31IU/L, ALT 25 IU/L, AlkPO4 45 IU/L, Total Bilirubin 3 mg/dL, LDH 40IU/L, Haptoglobin 76 mg/dl (nl 46-316). His UA demonstrates a normal bilirubin level. What is the most appropriate treatment for this patient?
+                A. Corticosteroids
+                B. No treatment is required
+                C. Pegylated interferon
+                D. Phenobarbital
+                E. Ursodeoxycholic acid
+    
+              Sample Question 2: A 65-year-old female presents to the ED with persistent RUQ pain with nausea and vomiting. CT of the abdomen reveals a polypoid mass of the gallbladder protruding into the lumen, diffuse thickening of the gallbladder wall and enlarged lymph nodes. This patient most likely has a history of which of the following?
+                A. Ascaris lumbricoides
+                B. Cigarette smoking
+                C. Gallstones
+                D. Schistosoma haematobium
+                E. Tuberculosis
+              `,
+        }),
+      });
+      console.log("Background AI generation triggered.");
+    } catch (error) {
+      console.error("Error generating new questions:", error);
+    }
+    setQuestions([])
+    // 2) Now fetch the newly added questions
+    await fetchQuestions();
+
+    // 3) Reset to show new questions from the start
+    setCurrentQuestionIndex(0);
+    setSelectedOption(null);
+    setCorrectAnswer(null);
+    setSubmitted(false);
+
+    // Hide spinner
+    setIsGenerating(false);
+  };
+
   useEffect(() => {
     if (selectedLecture !== null) {
       fetchQuestions();
       fetchIncorrectQuestions();
       fetchCorrectQuestions();
+      getIp()
     }
+    
   }, [selectedLecture]);
 
   const handleLectureSelect = (lecture) => {
@@ -137,11 +214,11 @@ const Page = () => {
     }
 
     if (currentQuestions.length > 0) {
-        const currentQuestion = currentQuestions[currentQuestionIndex];
-        setCorrectAnswer(currentQuestion.answer);
-        setSubmitted(true);
+      const currentQuestion = currentQuestions[currentQuestionIndex];
+      setCorrectAnswer(currentQuestion.answer);
+      setSubmitted(true);
 
-        const isCorrect = selectedOption === currentQuestion.answer;
+      const isCorrect = selectedOption === currentQuestion.answer;
 
       // Make API call to mark question as complete and track result
       try {
@@ -152,7 +229,7 @@ const Page = () => {
           },
           body: JSON.stringify({
             id: currentQuestion.id, 
-            ipAddress: "unknown", 
+            ipAddress: ipAddress, 
             completed: true,
             correct: isCorrect,
             collectionName: `mod6_cs${selectedLecture}.txt`, 
@@ -186,23 +263,42 @@ const Page = () => {
   };
 
   const handleReviewIncorrect = () => {
-    setSubmitted(false)
-    fetchIncorrectQuestions()
+    setSubmitted(false);
+    fetchIncorrectQuestions();
     setReviewIncorrect(true);
     setReviewCorrect(false);
     setCurrentQuestionIndex(0);
   };
 
   const handleReviewCorrect = () => {
-    setSubmitted(false)
-    fetchCorrectQuestions()
+    setSubmitted(false);
+    fetchCorrectQuestions();
     setReviewIncorrect(false);
     setReviewCorrect(true);
     setCurrentQuestionIndex(0);
   };
 
+  const handleGoBack = () => {
+    setSelectedLecture(null);
+    // Reset any states if desired:
+    setReviewIncorrect(false);
+    setReviewCorrect(false);
+    setCurrentQuestionIndex(0);
+    setSubmitted(false);
+    setSelectedOption(null);
+    setCorrectAnswer(null);
+  };
+  
+
   const renderQuestions = (questionsToRender) => (
     <>
+      <div className={styles.topBar}>
+        <img onClick={handleGoBack} src="/images/chevronBack.svg"/>
+        <span className={styles.questionsRemaining}>
+          Questions Remaining: {questionsToRender.length}
+        </span>
+        <img onClick={handleReturnHome} src="/images/home.svg"/>
+      </div>
       <h3>{questionsToRender[currentQuestionIndex].question}</h3>
       <div className={styles.answerChoices}>
         {questionsToRender[currentQuestionIndex].answer_choices.map((choice, index) => (
@@ -237,10 +333,25 @@ const Page = () => {
         </button>
       )}
       {submitted && (
-        <button className={styles.nextButton} onClick={handleNextQuestion}>
-          {currentQuestionIndex === questionsToRender.length - 1
-            ? 'Fetch More Questions'
-            : 'Next'}
+        <button
+          className={styles.nextButton}
+          onClick={
+            // If on the last question AND in normal mode, fetch more
+            currentQuestionIndex === questionsToRender.length - 1 &&
+            !reviewIncorrect &&
+            !reviewCorrect
+              ? fetchMoreQuestions
+              : handleNextQuestion
+          }
+        >
+          {
+            // Change the button text accordingly
+            currentQuestionIndex === questionsToRender.length - 1 &&
+            !reviewIncorrect &&
+            !reviewCorrect
+              ? 'Ask GPT for more Questions!'
+              : 'Next'
+          }
         </button>
       )}
     </>
@@ -248,6 +359,7 @@ const Page = () => {
 
   return (
     <>
+      {/* Lecture Selection */}
       {!selectedLecture && (
         <div className={styles.lectureSelection}>
           <h2>Please select a lecture:</h2>
@@ -260,94 +372,114 @@ const Page = () => {
               Lecture {lecture + 1}
             </button>
           ))}
-          <button
-            className={styles.reviewButton1}
-            onClick={handleReturnHome}
-          >
+          <button className={styles.reviewButton1} onClick={handleReturnHome}>
             Return Home
           </button>
         </div>
       )}
 
+      {/* Main Card Section */}
       {selectedLecture && (
         <div className={styles.card}>
-          {loading ? (
-            <p>Loading...</p>
-          ) : reviewIncorrect ? (
-            renderQuestions(incorrectQuestions)
-          ) : reviewCorrect ? (
-            renderQuestions(correctQuestions)
-          ) : questions.length > 0 ? (
-            renderQuestions(questions)
+          {/* If loading or generating, show spinner */}
+          {(loading || isGenerating) ? (
+          <p>Loading... {'('}this takes a min{')'}</p>
+        ) : reviewIncorrect ? (
+          // If no incorrect questions, show a message
+          incorrectQuestions.length === 0 ? (
+            <div>
+              <h3>No incorrect questions to review.</h3>
+            </div>
           ) : (
-            <p>No questions available. Please select a lecture to begin.</p>
-          )}
-<div className={styles.reviewButtons}>
-  {/* Normal mode: show both review buttons */}
-  {!reviewIncorrect && !reviewCorrect && (
-    <>
-      <button className={styles.reviewButton} onClick={handleReviewIncorrect}>
-        Review Incorrect Questions
-      </button>
-      <button className={styles.reviewButton} onClick={handleReviewCorrect}>
-        Review Correct Questions
-      </button>
-    </>
-  )}
+            renderQuestions(incorrectQuestions)
+          )
+        ) : reviewCorrect ? (
+          // If no correct questions, show a message
+          correctQuestions.length === 0 ? (
+            <div>
+              <h3>No correct questions to review.</h3>
+            </div>
+          ) : (
+            renderQuestions(correctQuestions)
+          )
+        ) : questions.length > 0 ? (
+          renderQuestions(questions)
+        ) : (
+          <>
+          <p>No questions available</p>
+          <button 
+          className={styles.nextButton}
+          onClick={fetchMoreQuestions}>Ask GPT for more Questions</button>
+          </>
+        )}
 
-  {/* Review incorrect mode: show "Do New Questions" + "Review Correct" */}
-  {reviewIncorrect && (
-    <>
-      <button
-        className={styles.reviewButton}
-        onClick={() => {
-          // Switch to normal mode
-          setReviewIncorrect(false);
-          setReviewCorrect(false);
-          setCurrentQuestionIndex(0);
-          setSubmitted(false);
-          setSelectedOption(null);
-          setCorrectAnswer(null);
-        }}
-      >
-        Do New Questions
-      </button>
-      <button
-        className={styles.reviewButton}
-        onClick={handleReviewCorrect}
-      >
-        Review Correct Questions
-      </button>
-    </>
-  )}
 
-  {/* Review correct mode: show "Do New Questions" + "Review Incorrect" */}
-  {reviewCorrect && (
-    <>
-      <button
-        className={styles.reviewButton}
-        onClick={() => {
-          // Switch to normal mode
-          setReviewCorrect(false);
-          setReviewIncorrect(false);
-          setCurrentQuestionIndex(0);
-          setSubmitted(false);
-          setSelectedOption(null);
-          setCorrectAnswer(null);
-        }}
-      >
-        Do New Questions
-      </button>
-      <button
-        className={styles.reviewButton}
-        onClick={handleReviewIncorrect}
-      >
-        Review Incorrect Questions
-      </button>
-    </>
-  )}
-</div>
+          {/* Review Buttons */}
+          <div className={styles.reviewButtons}>
+            {/* Normal mode: show both review buttons */}
+            {!reviewIncorrect && !reviewCorrect && (
+              <>
+                <button className={styles.reviewButton} onClick={handleReviewIncorrect}>
+                  Review Incorrect Questions
+                </button>
+                <button className={styles.reviewButton} onClick={handleReviewCorrect}>
+                  Review Correct Questions
+                </button>
+              </>
+            )}
 
+            {/* Review incorrect mode: show "Do New Questions" + "Review Correct" */}
+            {reviewIncorrect && (
+              <>
+                <button
+                  className={styles.reviewButton}
+                  onClick={() => {
+                    // Switch to normal mode
+                    setReviewIncorrect(false);
+                    setReviewCorrect(false);
+                    setCurrentQuestionIndex(0);
+                    setSubmitted(false);
+                    setSelectedOption(null);
+                    setCorrectAnswer(null);
+                  }}
+                >
+                  Do New Questions
+                </button>
+                <button
+                  className={styles.reviewButton}
+                  onClick={handleReviewCorrect}
+                >
+                  Review Correct Questions
+                </button>
+              </>
+            )}
+
+            {/* Review correct mode: show "Do New Questions" + "Review Incorrect" */}
+            {reviewCorrect && (
+              <>
+                <button
+                  className={styles.reviewButton}
+                  onClick={() => {
+                    // Switch to normal mode
+                    setReviewCorrect(false);
+                    setReviewIncorrect(false);
+                    setCurrentQuestionIndex(0);
+                    setSubmitted(false);
+                    setSelectedOption(null);
+                    setCorrectAnswer(null);
+                  }}
+                >
+                  Do New Questions
+                </button>
+                <button
+                  className={styles.reviewButton}
+                  onClick={handleReviewIncorrect}
+                >
+                  Review Incorrect Questions
+                </button>
+              </>
+            )}
+          </div>
         </div>
       )}
     </>
