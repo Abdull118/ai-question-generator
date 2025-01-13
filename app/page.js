@@ -292,12 +292,12 @@ const Home = () => {
                 >
                   CS
                 </div>
-                <div
+                {/* <div
                   onClick={() => handleRoute("springSemester/mod6/pharm")}
                   className={styles.option}
                 >
                   Pharm
-                </div>
+                </div> */}
               </div>
             )}
                 {showMod7Options && (
