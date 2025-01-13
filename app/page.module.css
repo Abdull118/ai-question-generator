@@ -226,7 +226,7 @@
 }
 
 .correct {
-  background-color: green; /* Correct answer turns green */
+  background-color: green !important; /* Correct answer turns green */
   color: white;
 }
 
