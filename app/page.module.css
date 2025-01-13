@@ -221,7 +221,8 @@
 }
 
 .selected {
-  /* Style for the selected button */
+  background-color: #e0e0e0; /* Visual change for selected answer */
+  border: 2px solid #007bff; /* Highlight border */
 }
 
 .correct {
@@ -230,7 +231,7 @@
 }
 
 .incorrect {
-  background-color: red; /* Incorrect answer turns red */
+  background-color: red !important; /* Incorrect answer turns red */
   color: white;
 }
 
