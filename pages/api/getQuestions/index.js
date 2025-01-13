@@ -22,7 +22,7 @@ export default async function handler(req, res) {
     return res.status(405).json({ error: 'Method not allowed' });
   }
 
-  const { collectionName } = req.body;
+  const { collectionName, folder, fileName } = req.body;
 
   if (!collectionName) {
     return res.status(400).json({ error: 'Collection name is required' });
@@ -30,14 +30,14 @@ export default async function handler(req, res) {
 
   try {
     const client = await connectToDatabase();
-    const db = client.db('Questions'); // Connect to the database named "Questions"
-    const collection = db.collection(collectionName); // Access the collection passed from the frontend
+    const db = client.db('test'); 
+    const collection = db.collection(collectionName);
 
     // Retrieve all documents from the collection
-    const questions = await collection.find({}).toArray();
+    const questions = await collection.findOne({ folder, fileName });
 
     // Return the data as a JSON response
-    res.status(200).json(questions);
+    res.status(200).json(questions.questions);
   } catch (error) {
     console.error('Failed to fetch data:', error);
     res.status(500).json({ error: 'Failed to fetch data from the database' });
