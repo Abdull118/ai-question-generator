@@ -1,39 +1,40 @@
 import OpenAI from "openai";
 import fs from "fs/promises";
 import path from "path";
+import { MongoClient } from "mongodb";
+import { v4 as uuidv4 } from "uuid"; // Import UUID for unique ID generation
 
 export default async function handler(req, res) {
   if (req.method !== "POST") {
     return res.status(405).json({ error: "Method not allowed" });
   }
 
+  const mongoClient = new MongoClient(process.env.MONGODB_URI, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+  });
+
   try {
     const openai = new OpenAI({
-      apiKey: process.env.OPENAI_API_KEY, // Ensure the key is set up correctly
+      apiKey: process.env.OPENAI_API_KEY,
     });
 
-    // Extract folder and fileName from request body
     const { folder, fileName, sampleQuestions } = req.body;
 
     if (!folder || !fileName || !sampleQuestions) {
       return res.status(400).json({ error: "Folder, fileName, and sampleQuestions are required." });
     }
 
-    // Construct the file path dynamically
     const filePath = path.join(process.cwd(), "data", folder, fileName);
-
-    // Read the file content
     const data = await fs.readFile(filePath, "utf-8");
 
-    // Create the assistant
     const assistant = await openai.beta.assistants.create({
       name: "Data Question Generator",
       instructions:
-        "You are a question generator. Based on provided data and sample questions, generate a new question in the same style.",
+        "You are a question generator. Based on provided data and sample questions, generate new questions in the same style.",
       model: "gpt-4o",
     });
 
-    // Create a new conversation
     const thread = await openai.beta.threads.create();
     const message = await openai.beta.threads.messages.create(thread.id, {
       role: "user",
@@ -44,7 +45,7 @@ ${data}
 Sample Questions:
 ${sampleQuestions}
 
-Generate 5 new questions in the same style as the examples. Return the data in a JSON Object in the format: question, answer choices, answer
+Generate 5 new questions in the same style as the examples. Return the data in a JSON Object in the format: question, answer choices, answer.
       `,
     });
 
@@ -55,21 +56,45 @@ Generate 5 new questions in the same style as the examples. Return the data in a
 
     if (run.status === "completed") {
       const messages = await openai.beta.threads.messages.list(run.thread_id);
-
-      // Find the most recent assistant message
       const assistantMessage = messages.data.find((msg) => msg.role === "assistant");
 
       if (assistantMessage) {
-        // Extract and clean the content
         const content = assistantMessage.content[0].text.value;
-
-        // Parse and clean the JSON content
         const cleanedContent = content.replace(/```json|```/g, "").trim();
+        const rawQuestions = JSON.parse(cleanedContent);
 
-        // Ensure it is valid JSON
-        const jsonResponse = JSON.parse(cleanedContent);
+        // Add unique IDs to each question
+        const newQuestions = rawQuestions.map((question) => ({
+          ...question,
+          id: uuidv4(), // Add unique ID to each question
+        }));
 
-        return res.status(200).json(jsonResponse); // Directly return the parsed JSON object
+        await mongoClient.connect();
+        const db = mongoClient.db();
+        const collectionName = `${folder}_${fileName}`;
+        const collection = db.collection(collectionName);
+
+        // Check if a document for this folder/fileName exists
+        const existingDocument = await collection.findOne({ folder, fileName });
+
+        if (existingDocument) {
+          // Append new questions to the existing array
+          await collection.updateOne(
+            { folder, fileName },
+            { $push: { questions: { $each: newQuestions } } }
+          );
+        } else {
+          // Create a new document if none exists
+          await collection.insertOne({
+            folder,
+            fileName,
+            questions: newQuestions,
+            createdAt: new Date(),
+          });
+        }
+
+        await mongoClient.close();
+        return res.status(200).json({ message: "Questions updated successfully." });
       } else {
         return res.status(500).json({ error: "Assistant response not found." });
       }
@@ -78,6 +103,8 @@ Generate 5 new questions in the same style as the examples. Return the data in a
     }
   } catch (error) {
     console.error("Error:", error.message);
-    return res.status(500).json({ error: "An error occurred while generating the question." });
+    return res.status(500).json({ error: "An error occurred while processing your request." });
+  } finally {
+    await mongoClient.close();
   }
 }
