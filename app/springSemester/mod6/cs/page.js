@@ -26,6 +26,7 @@ const Page = () => {
       const res = await fetch("https://api.ipify.org?format=json");
       const data = await res.json();
       setIpAddress(data.ip)
+      return data.ip;
     } catch (error) {
       console.error("Error fetching IP address:", error);
       return "Unknown IP";
@@ -312,6 +313,9 @@ const Page = () => {
     setSubmitted(false);
     setSelectedOption(null);
     setCorrectAnswer(null);
+    setQuestions([])
+    setCorrectQuestions([])
+    setIncorrectQuestions([])
   };
   
 
@@ -431,7 +435,12 @@ const Page = () => {
           renderQuestions(questions)
         ) : (
           <>
-          <p>No questions available</p>
+          <div className={styles.topBar}>
+        <img onClick={handleGoBack} src="/images/chevronBack.svg"/>
+        <p>No questions available</p>
+        <img onClick={handleReturnHome} src="/images/home.svg"/>
+        </div>
+          
           <button 
           className={styles.nextButton}
           onClick={fetchMoreQuestions}>Ask GPT for more Questions</button>
