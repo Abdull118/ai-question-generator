@@ -169,7 +169,7 @@ const Page = () => {
     setIsGenerating(true);
     try {
       // 1) Trigger your AI endpoint in the background
-      await fetch('/api/AI', {
+      await fetch('https://ai-generator-server.onrender.com/generate-questions', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -196,7 +196,7 @@ const Page = () => {
       });
       console.log("Background AI generation triggered.");
     } catch (error) {
-      console.error("Error generating new questions:", error);
+      console.log("Error generating new questions:", error);
     }
     setQuestions([])
     // 2) Now fetch the newly added questions
