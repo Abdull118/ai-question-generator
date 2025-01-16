@@ -14,6 +14,8 @@ const Home = () => {
   const [showOMMOptions, setShowOMMOptions] = useState(false);
   const [showPMPHOptions, setShowPMPHOptions] = useState(false);
   const [activeButton, setActiveButton] = useState(null); // Track active button
+  const [showModal, setShowModal] = useState(false);
+
   const router = useRouter();
 
   const handleRoute = (route) => {
@@ -105,8 +107,39 @@ const Home = () => {
     }
   };
 
+  useEffect(() => {
+    const hasSeenModal = localStorage.getItem("hasSeenUpdateModal");
+    if (!hasSeenModal) {
+      setShowModal(true);
+    }
+  }, []);
+
+  const closeModal = () => {
+    setShowModal(false);
+    localStorage.setItem("hasSeenUpdateModal", "true");
+  };
+
   return (
     <>
+    {showModal && (
+        <div className={styles.modalOverlay}>
+          <div className={styles.modal}>
+            <div className={styles.modalHeader}>
+              <h2>New Updates</h2> 
+            </div>
+            <div className={styles.modalBody}>
+              <ul>
+                <li>You no longer have to wait for questions to be added for each lecture.</li>
+                <li>Whenever you see the button below, you can tap it to have ChatGPT generate questions for you.</li>
+                <img src="/images/chatGPTButton.png" />
+                <li>If you finish a set of questions, you will also be able to generate additional ones.</li>
+                
+              </ul>
+              <button className={styles.modalCloseButton} onClick={closeModal}>Close</button>
+            </div>
+          </div>
+        </div>
+      )}
       <div className={styles.title}>Exam Questions App</div>
 
       <div className={styles.container}>
