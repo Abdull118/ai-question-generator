@@ -437,7 +437,7 @@ const Page = () => {
           <>
           <div className={styles.topBar}>
         <img onClick={handleGoBack} src="/images/chevronBack.svg"/>
-        <p>No questions available</p>
+        <p>No questions available. Click the button below to generate more.</p>
         <img onClick={handleReturnHome} src="/images/home.svg"/>
         </div>
           
