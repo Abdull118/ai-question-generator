@@ -133,7 +133,9 @@ const Home = () => {
                 <li>Whenever you see the button below, you can tap it to have ChatGPT generate questions for you.</li>
                 <img src="/images/chatGPTButton.png" />
                 <li>If you finish a set of questions, you will also be able to generate additional ones.</li>
-                
+                <li>Most lectures have 5 questions added already as a head start.</li>
+                <li>Fixed the issue with the homescreen version of the app where you couldn't answer questions and kept getting them wrong when they weren't.</li>
+                <div className={styles.goodluck}>Goodluck & Happy Studying :{')'}</div>
               </ul>
               <button className={styles.modalCloseButton} onClick={closeModal}>Close</button>
             </div>

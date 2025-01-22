@@ -227,6 +227,11 @@
   transform: scale(1.05);
 }
 
+.goodluck{
+  text-align: center;
+  font-weight: bold;
+}
+
 .optionButton {
   /* Basic button styles */
 }
