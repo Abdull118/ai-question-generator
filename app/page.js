@@ -295,14 +295,14 @@ const Home = () => {
               >
                 Mod 6
               </div>
-              <div
+              {/* <div
                 onClick={handleSelectMod7}
                 className={`${styles.modButton} ${
                   showMod7Options ? styles.activeButton : ""
                 }`}
               >
                 Mod 7
-              </div>
+              </div> */}
 
               
                 </div>
@@ -335,7 +335,7 @@ const Home = () => {
                 </div> */}
               </div>
             )}
-                {showMod7Options && (
+                {/* {showMod7Options && (
               <div className={styles.optionsContainer}>
                 <div
                   onClick={() => handleRoute("springSemester/mod7/systemic-path")}
@@ -362,7 +362,7 @@ const Home = () => {
                   Pharm
                 </div>
               </div>
-            )}
+            )} */}
 
             </div>
         )}
