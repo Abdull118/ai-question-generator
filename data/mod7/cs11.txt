@@ -1,0 +1,278 @@
+Spinal Cord Disorders
+Conrad Fischer, MD
+Marshall Kurtz, D.O.
+Clinical Systems, Neuromuscular Medicine
+Touro College of Osteopathic MedicineObjectives
+Discuss symptoms of Upper vs. Lower Motor Neuron 
+Disorders
+Distinguish spinal cord syndromes
+Discuss clinical presentation of transverse myelitis
+Discuss presentation of poliomyelitis and post-polio 
+syndrome
+Discuss clinical features of thoracic outlet syndrome 
+Identify and discuss clinical features of myopathiesReferences
+Adams and Victor: Neurology
+American Spinal Injury Association
+Braddom: Physical Medicine and 
+Rehabilitation
+Lin, ed.: Spinal Cord Medicine: 
+Principles & Practice Reading 
+Goldman-Cecil Medicine, 
+25th ed., Ch. 399, 400
+Damjanov’s 
+Pathophysiology
+Bates’ Guide to the Physical 
+ExaminationSpinal Cord Disorders
+Spinal cord structural anatomy 
+review
+Clinical syndromes 
+Functional physiology
+Disorders
+Sequelae
+Treatment principlesSpinal Cord Anatomy
+Meninges
+Dura
+closest to vertebral bodies
+Tough, fibrous
+Arachnoid
+Delicate, reticular
+Pia
+In contact with neural structures
+Spinal Cord Vasculature
+Artery of Adamkiewicz
+Left T11 (T9-12) radicular artery
+Major blood supply to lower T and L spineUPPER motor neuron
+Brain and spinal cord
+–Weakness
+–Atrophy (less)
+–Spasticity
+–Hyperreflexia
+–Pathological reflexes
+LOWER motor neuron
+Motor Unit
+–Weakness
+–Atrophy (more)
+–Flaccidity
+–Hyporeflexia/areflexiaSpasticity
+Defined as resistance to velocity-dependent 
+range of motion
+Contracture: not velocity-dependent
+Imbalance of excitatory and inhibitory 
+impulses
+Intensity can be affected by painClinical Presentation: Motor Examination
+10 key muscles (5 upper & 5 lower ext)
+C5- Elbow Flexion L2- Hip Flexion
+C6- Wrist Extension L3- Knee Extension
+C7- Elbow Extension L4- Ankle Dorsiflexion
+C8- Finger Flexion L5- Toe Extension
+T1- Finger Abduction S1- Ankle Plantar Flexion
+Sacral exam : voluntary anal contraction (present/absent)Clinical Presentation: Sensory Examination
+Establish a sensory level
+Dermatomes
+Nipples:  T4
+Umbilicus:  T10
+Posterior columns
+Vibration
+Joint position sense (proprioception)
+Spinothalamic tracts
+Pain
+Temperature
+Autonomic Dysfunction
+Neurogenic bladder
+Urgency, incontinence, retention
+Bowel 
+Constipation more frequent than 
+incontinence
+Alteration in sweating below lesion
+Neuropathic pain
+SexualSpinal Cord Injury
+Epidemiology
+80-85% males (usually 16-30 y/o), 15-20% female
+MV A (45%), falls (18%), violence (17%), sports 
+injuries (13%) most common causes
+50% of SCI’s are complete
+56% of SCI’s are cervical
+Immediate mortality for complete cervical SCI ~ 
+50%
+Fracture/dislocations most common at:
+C5-6 > T12-L1 > C1-2Spinal Cord Injury
+Spinal Cord Injury
+SCI Complications
+Autonomic Dysreflexia
+Heterotopic ossification
+Osteoporosis
+Pressure ulceration
+Pulmonary: atelectasis, pneumonia
+Renal: nephrolithiasis, bladder 
+stones, obstructive nephropathy
+CardiovascularAutonomic Dysreflexia
+Cardiovascular issues
+Orthostatic hypotension
+Electrolyte imbalances: hyponatremia 
+(SIADH)
+Arrhythmias
+DVT/PE: especially in flaccid injuries
+Prevention: mechanical + LMWHHeterotopic Ossification
+Excessive bone formation, usually around 
+hips
+Response to neurologic insult
+Ischemia and tissue expression of bone 
+morphogenic proteins (BMP).
+Amount proportional to degree of limb 
+spasticityHeterotopic Ossification
+Heterotopic Ossification
+Diagnosis
+3-phase bone scan highly sensitive 
+in early diagnosis 
+Vascular blush, increased blood 
+pooling about joint
+Serum alkaline phosphatase: peak 
+2-10 weeks
+Nonspecific
+X-ray when bone maturesTreatment
+NSAIDS in acute inflammatory phase
+Bisphosphonates 
+Physical therapy: gentle during active 
+phase, aggressive therapy can increase HO
+Radiation Therapy
+Surgical resection when metabolically 
+inactive, otherwise recursSpinal Cord Syndromes
+Anterior cord syndrome
+Posterior cord syndrome
+Brown-Sequard syndrome
+Conus medullaris/cauda equina 
+syndrome
+SyringomyeliaAnterior cord syndrome
+Anterior spinal artery supplies ventral 2/3 
+of spinal cord
+Posterior columns preserved 
+(proprioception, vibration)
+Weakness (corticospinal) and 
+pain/temperature loss (spinothalamic)Artery of Adamkiewicz at T10-11
+Watershed area
+upper thoracic
+Loss of motor, pain (sparing of 
+proprioception)
+Generally poor prognosis for neurologic 
+recovery
+Posterior cord 
+syndrome
+Impairment of posterior spinal 
+artery to posterior columns
+Loss of proprioception (sparing of 
+motor & pain)
+Poor prognosis for ambulation
+Brown-Sequard syndrome
+Cord “hemi-section”
+Trauma or tumor
+Dissociated sensory loss
+Loss of pain and temperature contralateral 1-2 
+levels below lesion
+Loss of vibration/proprioception ipsilateral to the 
+lesion 
+These pathways cross at the level of the brainstemConus Medullaris Syndrome
+Injury to sacral cord / lumbosacral nerve roots
+Symmetric (often) complete saddle anesthesia
+Bladder and bowel dysfunction
+Lower-extremity motor weaknessSyringomyelia
+Fluid filled cavitation in the 
+center of the cord
+Cervical cord most common 
+site
+Loss of pain and temperature 
+related to the crossing fibers 
+occurs early
+cape like sensory loss
+Weakness of muscles in arms 
+with atrophy and hyporeflexia 
+(AHC)Syringomyelia
+Transverse myelitis
+Inflammation of the spinal cord 
+Post-infectious
+Post-vaccinial
+Multiple sclerosis
+Pain at level of lesion may precede onset 
+of weakness/sensory change/bowel & 
+bladder disturbance
+CSF analysis may help with diagnosisInfections
+Polio
+only the anterior horn cells are infected
+Tabes dorsalis
+dorsal root ganglia and dorsal columns are 
+involved
+tertiary syphilis
+sensory ataxia, “lightning pains”
+HIV myelopathy
+mimics B12 deficiency
+HTLV-1 myelopathy - 
+tropical spastic paraparesisB12 Deficiency
+Subacute combined degeneration of 
+the cord
+B12 deficiency
+Malabsorption of B12 secondary to 
+pernicious anemia or surgery
+Insufficient dietary intake – vegan diet
+Posterior column and corticospinal 
+tract involvement with superimposed 
+peripheral neuropathyMuscular Dystrophies
+Progressive, intrinsic muscle 
+disorders
+Generally hereditary
+Nervous system, NMJ spared
+Relentless destruction of muscle 
+tissueMuscular Dystrophies
+Duchenne’s Muscular Dystrophy 
+(DMD)
+X-linked recessive (rare autosomal 
+recessive)
+1/3 spontaneous mutations, 2/3 inherited
+Due to absence of dystrophin
+Protein complex that connects cytoskeleton 
+of muscle fiber to surrounding extracellular 
+matrix
+Incidence 1 / 3,500 male births
+High CK at birth, weakness noted by 
+age 2
+Proximal > distal weakness, clumsy gait
+Gower’s sign; pseudohypertrophy
+Ambulation deterioration variable
+Death due to pulmonary insufficiencyMuscular Dystrophies
+Gower’s SignMuscular Dystrophies
+Pseudohypertrophy of calvesMuscular Dystrophies
+Becker’s MD
+X-linked recessive disorder
+Defective (partially functional) 
+dystrophin
+Rate of progression slower, walk 
+until age 16
+Pseudohypertrophy, Achilles 
+contractures
+Hip/shoulder muscle weakness
+Less cardiac involvement
+Life expectancy 36-60 yearsBecker’s Muscular Dystrophy
+Muscular Dystrophies
+Facioscapulohumeral MD
+Autosomal dominant
+Facial muscles affected first, then 
+scapular, pectoral, proximal arm 
+(“Popeye” arms); then pelvic 
+(Trendelenburg)
+Incidence 4 per million; onset age 3-
+44
+Generally remain ambulatory; 
+normal life span
+Histology: necrotic, regenerating 
+fibers; split fibers, fibrosis.Facioscapulohumeral Muscular Dystrophy
+Muscular Dystrophies
+Scapuloperoneal MD
+Autosomal dominant
+Scapular and ankle stabilizer 
+muscles
+Foot drop, scapular winging, trapezius 
+hypertrophy
+Normal or slightly elevated CK
+Emery-Dreifuss MD (subtype): 
+slower
+Limb-Girdle MD
+Autosomal recessive or dominant
+Variable presentation

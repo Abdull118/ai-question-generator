@@ -1,0 +1,117 @@
+Diagnosis and Treatment of Multiple 
+Sclerosis: A Review
+CS Lecture 13
+JAMA. 2021;325(8):765-779. doi:10.1001/jama.2020.26858Chethana Gallage Dona, OMS-IIPathophysiology of Multiple Sclerosis 
+●Autoimmune-mediated, neurodegenerative disease of CNS
+●Inflammatory demyelination with axonal transection
+●Irreversible neurological damage
+●Gray matter and cortical lesions 
+●Acute inflammatory phase —> chronic state 
+●Chronic state 
+○Remyelination
+○Inflammation resolution w/o repair 
+○Regeneration and demyelination co-exist 
+●Both T cells and B cells involved 
+○Ocrelizumab helps - suggestive of B cell involvement 
+Factors in development of MS
+Genetic Factors Environmental Factors 
+MHC HLA-DRB1 locus Low Vitamin D levels (<100 nmol/L) or <40 ng/mL 
+Ambient UV radiation 
+EBV infection
+Tobacco smokingWhat parts of the CNS does MS affect? 
+●CNS 
+○Brain 
+○Spinal cord
+○Optic nerve 
+●Demyelination 
+○Axonal transection Epidemiology & demographics 
+●Young adults (onset 20-30 yrs) 
+●More prevalent in higher latitudes 
+○Increased sun exposure and Vit D levels - low MS prevalence 
+●Family history 
+○HLA-DR1 *15:01 allele
+●Childhood obesity, cigarette smoking, EBV associated with increased risk MS Clinical subtypes 
+●Relapsing-remitting MS (RRMS)
+○Clinical relapses with near or complete recovery 
+○Overtime, incomplete recovery -> disability 
+○Neurologic decline overtime leads to secondary progressive MS
+○Inflammation
+●Primary-progressive MS (PPMS)
+○Small population, progression from onset 
+○Less inflammation, more neurodegeneration  
+●Secondary-progressive MS (SPMS)
+○In untreated MS, second clinical attack occurs typically within first 2 years
+○Progress to SPMS (~15 years from onset) 
+○InflammationClinical Presentation
+●Unilateral optic neuritis 
+○blurred vision w/ pain 
+●Partial myelitis
+○Extremity & torso impaired sensation, weakness, 
+ataxia
+●Focal sensory disturbance 
+○Limb paresthesias, abdominal or chest banding 
+●Brainstem syndromes 
+○Intranuclear ophthalmoplegia, vertigo, hearing 
+loss, facial sensory disturbance 
+●Objective findings 
+○Afferent pupillary defect, impaired sensation, 
+motor weakness, ataxia, impaired gait, 
+hyperreflexia 
+●Relapse 
+○Single clinical episode w/ Sx. for 24 hours, w/ or 
+w/o recovery, in the absence of fever or infection
+Diagnostic Criteria 
+●Clinical findings 
+○Dissemination of CNS lesions in space and 
+time. 
+●Imaging 
+○MRI with gadolinium contrast of brain, orbits, 
+spinal cord
+●Lab data 
+●Lumbar puncture
+○CSF - CNS specific oligoclonal bands 
+●McDonald Criteria (2017)
+●Exclude alternative diagnosis  
+○Sarcoidosis, Fabry’s disease, syphilis, toxic 
+disorders, B12 deficiency, glioblastoma, 
+cerebral infarction.  
+MS lesions on MRI imaging studies 
+●Brain atrophy
+●Enlargement of ventricles 
+& sulci 
+●White matter lesions 
+●Gray matter & cortical 
+lesions (usually on 
+autopsy)
+Overall treatment & Management of MS 
+●Disease modifying therapies
+●Symptomatic treatment 
+●Lifestyle modifications 
+●Psychological support 
+●Physical rehabilitation 
+●Serial monitoring of neurologic exams 
+●CNS MRI Disease modifying therapies (DMTs)
+●Decrease relapse frequence and short-term disability 
+●Original treatment modalities 
+○Immunosuppressants - Azathioprine, methotrexate, mycophenolate mofetil, IVIG, 
+corticosteroids 
+○Mitoxantrone - type II topoisomerase inhibitor - caused CHF 
+●Current DMTs
+○Monoclonal Abs 
+○S1P receptor modulators
+○Cladribine 
+○Ocrelizumab
+○Natalizumab
+○Alemtuzumab
+○IFN beta -1b DMT MOA
+S1P receptor 
+modulators Bind and internalize S1P receptors, sequester lymphocytes in lymph nodes. 
+Cladribine  purine analogue, disrupts DNA synthesis and repair by incorporating into DNA and inhibiting key 
+enzymes, leading to DNA strand breaks and cell death.
+Ocrelizumab CD20 monoclonal antibody that targets specific B cells, reducing inflammation and cell damage 
+(complement dependent and antibody dependent cell mediated cytotoxicity) 
+Reduce B cell mediated inflammation that may lead to neurodegeneration. 
+Natalizumab mAb that binds to a4 integrin on lymphocyte surface, prevent entry to CNS. 
+Alemtuzumab mAb that binds to CD52 Ag on lymphocytes, leading to lymphocyte depletion 
+●DMTs diminish neuroinflammation, some slow-down brain atrophy, treats mostly RRMS and SPMS
+●Ocrelizumab - Only DMT approved for PPMS 

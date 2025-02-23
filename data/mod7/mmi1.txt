@@ -1,0 +1,546 @@
+Bacterial Nervous System 
+Infections
+MMI2 Neuromuscular Module
+David Manna Ph.D.
+david.manna@touro.edu  Learning Objectives
+1)Identify the general clinical features of meningitis.
+2)Distinguish the CSF profiles in bacterial CNS infections.
+3)Identify the common Bacterial pathogens based on age.
+For the following bacterial organisms:
+H. influenzae type b, Neisseria meningitidis, Streptococcus pneumoniae, Listeria 
+monocytogenes, Mycobacterium tuberculosis, E. coli (K1), Streptococcus 
+agalactiae
+ 
+4)  Describe the biological characteristics of each.
+5)  Explain the pathogenic mechanism of the most common virulence factors of 
+these organisms.
+6)  Describe the epidemiology and route of transmission.
+7)  Describe the most common diseases and associated clinical manifestations. 
+8)  Describe the common laboratory tests used to identify these organisms.Overview of CNS Infections
+•Meningitis
+•Bacterial
+•Fungal
+•Parasitic
+•Viral
+•Encephalitis
+•Viral
+•Fungal/Parasitic
+•Other
+•Toxins
+•Infectious polyneuropathies
+•PrionsAcute vs Aseptic Meningitis Classification
+•Broadly based on characteristics 
+of inflammatory exudate on CSF 
+exam and clinical progression
+•Acute
+•Most commonly bacterial (can be 
+viral)
+•Aseptic
+•Not able to culture or Gram stain 
+CSF, usually viralBacterial Meningitis Clinical Cues:
+•Infection and inflammation of 
+the fluid and 3 membranes
+•Fever, nuchal rigidity, altered 
+mental status (classic triad)
+•Severe headache , rash, 
+photophobia, altered mental 
+status, nausea/vomiting, 
+•Infants:
+•Fever, excessive 
+crying/sleepiness/irritability, 
+sluggishness, poor feeding, 
+stiffness, soft spot bulge
+Common Bacterial Pathogens in Meningitis
+•Streptococcus pneumoniae
+•Neisseria meningitidis
+•Haemophilus influenzae type b
+•Listeria monocytogenes
+•Mycobacterium tuberculosis
+•Neonatal meningitis
+•Escherichia coli (K1)
+•Streptococcus agalactiae
+•Among others…CSF Composition for Diagnostics
+Normal Bacterial 
+meningitisTB and 
+fungal 
+meningitisViral 
+meningitisViral 
+encephalitisBrain 
+abscess
+Leukocytes 
+(/mm3)0-6 >1,000 100-500 10-1,000, 
+usually <30010-500 10-100
+% 
+neutrophils0 >50 <10 <50* <50* <50
+RBC (/mm3) 0-2 0-10 0-2 0-2 10-500 0-2
+Glucose 
+(mg/dL)40-80 <30 < 40 40-80 40-80 40-80
+Protein 
+(mg/dL)20-50 >100 50-100 
+(fungal) 
+>100 (TB)50-100 50-100 50-100
+Adapted from Schaechter ’s Mechanisms of Microbial Diseases, 5 th edition, 2013* = PMN may predominate in first 24hBacterial Meningitis Epidemiology
+•Estimated 1.2 million cases/year 
+globally with 135,000 deaths
+•Fatality rates can approach 70% without 
+treatment
+•Many patients have long term sequelae
+•Regional patters based on pathogens or 
+serotypes
+•Majority (~80%) caused by 
+•S. pneumoniae , 
+•N. meningitidis (outbreak)
+•Other common etiologies
+•H. influenzae (pre-vax)
+•L. monocytogenes (infants, elderly, 
+immunodeficient)
+•S. agalactiae and E. coli (infants)
+•Vaccines availalbe for Hib, strep 
+pnuemo, Neisseria which are 
+conjugate vaccinesCommon Pathogens in Age Groups
+0-4wk 4wk-6months 6months-6 years 6-60yrs >60yrs
+Bacterial
+S. agalactiae, E. coli, 
+ListeriaSAME as 0-4wks, + H. 
+influenzae, S. 
+pneumoniae, N. 
+meningitidis H. influenzae, N. 
+meningitidis, S. 
+pneumoniae.  N. meningitidis, S. 
+pneumoniaeS. pneumoniae, N. 
+meningitidis. Listera, 
+gram negative rodsCommon Themes and Pathogens in Bacterial Meningitis
+•3 most common pathogens that 
+cause bacterial meningitis
+•Neisseria meningitidis
+•Streptococcus pneumoniae
+•Haemophilus influenzae  
+•Encapsulated
+•Survive dissemination through 
+the bloodstream
+•IgA protease
+S. pneumoniaeN. meningitidis
+H. influenzaeRefresher Question:
+•Which of the following patients would be at 
+increased risk for developing bacterial meningitis?
+A.Asplenic patient
+B.DiGeorge’s patient
+C.Leukocyte adhesion deficiency patient
+D.MHC class I defect (TAP) patient
+E.NK cell deficiency patientRefresher Question:
+•Which of the following patients would be at 
+increased risk for developing bacterial meningitis?
+A.Asplenic patient
+B.DiGeorge’s patient
+C.Leukocyte adhesion deficiency patient
+D.MHC class I defect (TAP) patient
+E.NK cell deficiency patientPathogenesis
+1. Colonize (e.g. nasopharynx) and attach to 
+mucosal cells
+2. Colonize the upper respiratory tract
+- Impair ciliary function
+- Cell Wall components (e.g. LPS, pili)
+- viral infection
+- smoking
+3. Immune evasion, enter circulation
+- IgA protease
+- Evade complement system
+4. Cross blood brain barrier to enter CSF
+Mace SE  2008.  Emerg Med Clin N Am 38:281Pathogenesis
+5. Enter CSF and proliferate
+- poor defense mechanisms
+6. Trigger inflammatory response
+- Leukocyte infiltration
+ - Oxidative stresses
+- Immunopathology
+7. Inflammatory process can extend 
+throughout the subarachnoid space 
+about the brain and spinal cord
+Mace SE  2008.  Emerg Med Clin N Am 38:281Pathogenesis:
+Crossing the 
+Blood-Brain 
+Barrier
+Weiss N.  2008.  Biochimica et Biophysica Act 1788(4):842
+Guhadasan and Carrol, 2013. Hunter's Tropical Medicine 
+and Emerging Infectious Diseases, 54, 501-507Review: Haemophilus influenzae
+•What is the Gram stain and morphology of 
+H. influenzae ?
+A.Gram + cocci
+B.Gram – cocci
+C.Gram + rod
+D.Gram – rod
+E.Gram – spirocheteReview: Haemophilus influenzae
+•What is the Gram stain and morphology of 
+H. influenzae ?
+A.Gram + cocci
+B.Gram – cocci
+C.Gram + rod
+D.Gram – rod
+E.Gram – spirocheteReview: Haemophilus influenzae
+•What is the biological difference between non-
+pathogenic (non-typable) and pathogenic strains 
+of H. influenzae ?
+A.Pili
+B.Polyribitol phosphate capsule
+C.Flagella
+D.LOS instead of LPS
+E.IgA proteaseReview: Haemophilus influenzae
+•What is the biological difference between non-
+pathogenic (non-typable) and pathogenic strains 
+of H. influenzae ?
+A.Pili
+B.Polyribitol phosphate capsule
+C.Flagella
+D.LOS instead of LPS
+E.IgA proteaseHaemophilus influenzae Type B
+•Gram negative, pleomorphic rod 
+(coccobacilli/short)
+•Respiratory transmission
+•Virulence factors
+•IgA protease, pili
+•Polysaccharide Capsule (type b)
+•Major virulence factor
+•Contains polyribitol phosphate (PRP) – 
+vaccine elicits immunity using this antigen
+•Initial presentation may be a 1-3 day 
+history of mild respiratory illness or 
+otitis media
+•Followed by symptoms of meningitisPathogenesis•The severity of systemic 
+disease is related to the rate 
+of clearance of bacteria from 
+the blood
+Important checkpoint 
+for immune response
+- Specific antibodies 
+directed against the 
+capsule are needed to 
+stimulate phagocytosis 
+and complement 
+mediated responses
+What if there is no 
+specific antibody to this 
+particular bacteria?H. influenzae will disseminate through the 
+blood to the meningesVaccine elicits antibody 
+production so that if you 
+are infected, you should 
+have serum IgGPathogenesis
+Important checkpoint 
+for immune response
+- Specific antibodies 
+directed against the 
+capsule are needed to 
+stimulate phagocytosis 
+and complement 
+mediated responses•The severity of systemic 
+disease is related to the rate 
+of clearance of bacteria from 
+the blood
+H. influenzae Type B Diagnosis and Treatment
+•DIAGNOSIS
+•Blood and CSF collected 
+•Microscopy- Gram negative rods 
+can be detected well in CSF 
+•Chocolate agar (requires factors 
+X&V- fastidious)
+•TREATMENT
+•3rd generation cephalosporins
+•Cefotaxime or ceftriaxone
+•Conjugate vaccine
+Meningococcal meningitis: Neisseria 
+meningitidis
+•Gram negative, aerobic, diplococci
+•Virulence factors 
+•IgA protease, pili
+•polysaccharide capsule 
+•Endotoxin (Lipid A)- Lipooligosaccharide 
+(LOS)
+•Bacteria are carried asymptomatically 
+•Transmitted by respiratory droplets, 
+saliva
+•among people in prolonged contact, such as 
+family members living together, military 
+barracks, college dormitories
+•Outbreaks most frequently in late winter 
+and early spring ; carrier rate is increased
+•Different rates based on serotypes
+•A, B, C, Y , WPathogenesis
+•Meningococci are internalized 
+into phagocytic vacuoles and 
+are able to avoid intracellular 
+death, replicate, and then 
+migrate to subepithelial spaces
+•LOS endotoxin is largely 
+attributed to the diffuse 
+vascular damage associated 
+with meningitisNeisseria meningitidis Clinical Features
+•Incubation period of 1-3 days
+•May be a few days of upper respiratory 
+symptoms
+•Acute onset (6-24hrs) with sore throat, 
+drowsiness, stiff neck, fever, 
+photophobia
+•Often presence of petechial, purpuric, 
+and or ecchymotic rash
+•The skin rash may advance from a few ill-
+defined lesions to a widespread petechial 
+eruption within a few hours.
+•Septicemia with or without meningitis is 
+a life-threatening disease
+•Waterhouse-Friderichsen syndrome- 
+overwhelming disseminated intravascular 
+coagulation with shock, together with 
+bleeding into brain and adrenal glandsNeisseria meningitidis Diagnosis & Treatment
+•DIAGNOSIS
+•CSF sample for:
+•Gram stain
+•Culture: Isolation of , gram negative 
+diplococci that grown on chocolate agar, 
+Thayer-Martin agar
+•IF UNTREATED = fatal
+•If treated, it can still be fatal (about 10%)
+•TREATMENT
+•Ceftriaxone or Cefotaxime
+•Vaccine- polyvalent polysaccharide-
+protein conjugate vaccine
+•Diptheria toxoid is protein carrier
+•Effective against serotypes A, C, Y , and 
+W135
+•Separate serogroup B meningococcal 
+vaccines now available depending on 
+epidemiologyRefresher Question: Streptococcus 
+pnenumoniae
+•What hemolytic pattern does S. 
+pneumoniae display when grown on blood 
+agar?
+A.Complete hemolysis with clearing
+B.Incomplete hemolysis
+C.No hemolysisRefresher Question: Streptococcus 
+pnenumoniae
+•What hemolytic pattern does S. 
+pneumoniae display when grown on blood 
+agar?
+A.Complete hemolysis with clearing
+B.Incomplete hemolysis
+C.No hemolysisStreptococcus pneumoniae
+•Gram positive cocci arranged in pairs 
+(diplococci)
+•Virulence factors
+•Polysaccharide capsule (What you want 
+immunity against)
+•Pneumolysin O- (Cytotoxin/hemolysin [ α])
+•IgA protease
+•Seed meninges and stimulate 
+inflammation
+•Predisposing factors:
+•Immunocompromised
+•Skull fracture
+•Viral URTI
+Clinical
+•The clinical features of 
+pneumococcal meningitis may 
+include more severe 
+manifestations than with other 
+organisms
+•In children, long-term hearing 
+impairment can occur
+•Seizures, endocarditis, arthritis 
+can accompany meningitisStreptococcus pneumoniae Diagnosis & Treatment
+•Diagnosis
+•Once the patient has been given 
+antibiotics, it may be difficult to isolate 
+and identify in CSF or blood
+•Gram stain
+•Antigen detection using immunoassays 
+of CSF sample being evaluated
+•Antigen is pneumococcal C polysaccharide 
+•Culture:  enriched media supplemented 
+with blood products
+•Lacks catalase
+•Alpha hemolytic
+•Susceptibility to optochin, bile
+•Treatment
+•Ceftriaxone, penicillin, possibly 
+vancomycin
+•13-valent pneumococcal conjugate 
+vaccine
+Refresher Question:
+•Conjugate vaccines are important in preventing 
+meningitis, and fuse a polysaccharide antigen to a protein 
+in order to receive T-cell help during the induction of the 
+immune response. What is the protein acting as in these 
+vaccines?
+A.Adjuvant
+B.Hapten
+C.Carrier
+D.PAMPRefresher Question:
+•Conjugate vaccines are important in preventing 
+meningitis, and fuse a polysaccharide antigen to a protein 
+in order to receive T-cell help during the induction of the 
+immune response. What is the protein acting as in these 
+vaccines?
+A.Adjuvant
+B.Hapten
+C.Carrier
+D.PAMPListeria monocytogenes
+•Gram positive rods
+•They can appear singly, in pairs, or in 
+short chains
+•Widespread in animal GI tracts, 
+plants, soil
+•Facultative intracellular
+•Facultative anaerobe
+•Tumbling motility (flagella)
+• Virulence
+•Listeriolysin O ( β-hemolysin)- Evasion of 
+phagocytic vesicles during lysosome fusion
+•Phospolipase C enzymes
+•Act A- actin assembly
+Pathogenesis: ‘Actin Rockets’
+pathmicro.med.sc.edu
+Listeria  Epidemiology & Transmission
+•Ubiquitous bacteria, but disease is more 
+often seen in certain populations
+•Immunocompromised (especially 
+those with defects in cellular 
+immunity)
+•Elderly
+•Neonates
+•Pregnant women
+•The primary sources are believed to be 
+soil and decaying vegetable matter
+•Outbreaks have been associated 
+with consumption of contaminated 
+or undercooked meat , and 
+unwashed raw vegetables
+•Ingestion of unpasteurized milk, soft 
+cheeses, deli meats ( capable of cold 
+growth)Listeria  diseases
+•Gastroenteritis
+•Neonatal disease
+•Fever and chills in the pregnant 
+patient (sepsis)
+•Crosses placenta- sepsis with 
+meningitis , disseminated 
+granulomas w/ central necrosis
+•Early and late onset diseases
+•Immunocompromised patients
+•Sepsis and meningitisL. monocytogenes Diagnosis & Treatment
+•Diagnosis
+•CSF or blood gram stain and 
+culture
+•The number of bacteria able to 
+cause disease may be below the 
+limit of detection
+•Motility testing in wet mount
+•Treatment
+•Ampicillin (+ gentamycin in 
+immunocompromised)
++ motility testMycobacterium tuberculosis
+•Intracellular pathogen that is able to 
+establish lifelong infection
+•Acid fast, G+ rod
+•Blocks phago-lysosome fusion
+•Primary infection is pulmonary and 
+can disseminate to seed meninges
+•In >50% of cases, meningitis is 
+associated with acute miliary 
+tuberculosis
+•There is variability of clinical 
+manifestations
+•Gradual onset of illness beginning with 
+malaise, apathy, and anorexia and 
+proceeding within a few weeks to 
+photophobia, neck stiffness and 
+impaired consciousness
+•Pott’s disease- form of vertebral 
+osteomyelitisCSF Findings in M. tuberculosis
+•LP- 50-500 WBC with 
+predominant lymphocytes, 
+protein 100-200, glucose mildly 
+depressed.
+•Difficult to culture TB in CSF
+•Acid fast staining possible
+•Why would neutrophils not be 
+increased in TB meningitis?Normal TB and 
+fungal 
+meningitis
+Leukocytes 
+(/mm3)0-6 100-500
+% 
+neutrophils0 <10
+RBC 
+(/mm3)0-2 0-2
+Glucose 
+(mg/dL)40-80 < 40
+Protein 
+(mg/dL)20-50 50-100 
+(fungal) 
+>100 (TB)Meningitis in the Neonate
+•Bacteria can be acquired as a nosocomial 
+infections, or from infected mother (birth 
+canal during delivery, especially following 
+obstetric complications)
+•Mother may be infected or colonized but have 
+no symptoms
+•Otitis media is a common predisposing factor
+•Most common bacteria are group B 
+hemolytic Streptococci (e.g., S. agalactiae ), 
+E.coli K1
+•These bacteria are also common causes of 
+sepsis and pneumonia in neonates
+•Listeria also common
+•Clinical diagnosis in neonate is difficult
+•Often meningitis leads to permanent 
+neurologic sequelae such as cerebral or 
+cranial nerve palsy, epilepsy, intellectual 
+disabilities or hydrocephalus
+•Signs of lethargy, poor feeding, fontanel 
+bulgeOther aspects: Toxins from Anaerobes in 
+Clostridium  genus
+•Clostridium botulinum
+•Toxin: Blocks release of acetylcholine
+•Flaccid paralysis
+•Infant botulism (floppy baby) is 
+caused when the organism grows 
+(neurotoxin produced in vivo and 
+produces toxin in the intestines of 
+infants
+•Associated with honey
+•Clostridium tetani
+•Spores transmitted via puncture 
+wounds/ trauma
+•Toxin tetanospasmin blocks release 
+of inhibitory neurotransmitters 
+GABA and glycine
+•Sustained muscle contractionOther aspects: Spirochetes
+•Borrelia burgdorferi
+•Ixodes ticks
+•Systemic signs of disease
+•neurologic signs (facial nerve palsy)
+•cardiac dysfunction
+•arthritis and arthralgia
+•Chronic neurologic damage possible in 
+late stage
+•Treponema pallidum
+•Typical meningitis presentation (early- 
+usually in first year of infection)
+•Tertiary syphilis CNS complications
+•Dementia, personality change
+•Tabes dorsalis
+•Argyll Robertson pupils
+•Granuloma based (gummas)
+Learning Objectives
+1)Know the general clinical features of meningitis
+2)Know the CSF profiles of bacterial, viral, fungal, and parasitic diseases
+3)Know the common Bacterial pathogens based on age
+For the following bacterial organisms:
+H. influenzae type b, Neisseria meningitidis, Streptococcus pneumoniae, Listeria 
+monocytogenes, Mycobacterium tuberculosis, E. coli (K1), Streptococcus 
+agalactiae
+ 
+4)  Describe the biological characteristics of each.
+5)  Explain the pathogenic mechanism of the most common virulence factors of 
+these organisms.
+6)  Describe the epidemiology and route of transmission.
+7)  Describe the most common diseases and associated clinical manifestations. 
+8)  Describe the common laboratory tests used to identify these organisms.

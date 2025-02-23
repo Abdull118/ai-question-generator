@@ -1,0 +1,455 @@
+Viral CNS Infections
+Neuro/Musc Module
+MMI 2
+David Manna Ph.D.
+david.manna@touro.eduObjectives
+1)Know the general clinical features of meningitis
+2)Know the CSF profiles of bacterial, viral, fungal, and parasitic diseases
+For the following organisms:
+Herpesviruses, Enteroviruses, Arboviruses, Rabies, JC virus
+3)  Describe the biological characteristics of each.
+4)  Explain the pathogenic mechanism of the most common virulence 
+factors of these organisms.
+5)  Describe the epidemiology and route of transmission.
+6)  Describe the most common diseases and associated clinical 
+manifestations. 
+7)Describe the common laboratory tests used to identify and the 
+treatments for these organisms.Routes of Infection
+1.Hematogenous
+•Penetration:
+• of respiratory epithelium (e.g., 
+meningococci)
+•Bite of arthropod (e.g., West Nile virus)
+•Bite of mammal (e.g., Rabies)
+•Transplacentally (e.g., Rubella)
+•Enter CNS where blood-brain barrier is 
+less restrictive
+•Choroid plexus → CSF → Brain tissue
+•Enter CNS across endothelial cells
+2.   Neural pathways
+•Travel inside nerves (e.g. rabies, HSV, 
+VZV)
+3.  Direct 
+•Trauma Aseptic Meningitis
+•Viruses are the most common 
+cause
+•Occurrence of signs, symptoms, 
+and CSF profile suggesting 
+meningitis in the absence of 
+typical bacterial pathogens
+•Identifies that the CSF from 
+patients with this syndrome is 
+sterile on routine 
+bacteriological culture
+•Caused by agents that do not grow 
+under standard microbiological 
+conditions (e.g., fungi, autoimmunehttp://
+www.meningitis.org/Encephalitis
+•Most cases of encephalitis are 
+caused by viral infections
+•General features of encephalitis
+•Acute onset of febrile illness 
+accompanied by  headache, altered 
+mental status
+•Disorientation, hallucination, 
+behavioral disturbances
+•Altered mental status with focal or 
+diffuse neurologic signs helps 
+distinguish encephalitis from 
+meningitisLocation of infection & Clinical manifestations
+CSF Composition in Various CNS Infections
+Normal Bacterial 
+meningitisTB and 
+fungal 
+meningitisViral 
+meningitisViral 
+encephalitisBrain 
+abscess
+Leukocyte
+s (/mm3)0-6 >1,000 100-500 10-1,000, 
+usually 
+<30010-500 10-100
+% 
+neutrophils0 >50 <10 <50 <50 0-2
+RBC 
+(/mm3)0-2 0-10 0-2 0-2 10-500 0-2
+Glucose 
+(mg/dL)40-80 <30 < 40 40-80 40-80 40-80
+Protein 
+(mg/dL)20-50 >100 50-100 
+(fungal) 
+>100 (TB)50-100 50-100 50-100
+Adapted from Schaechter’s Mechanisms of Microbial Diseases, 4 th edition, 2007CSF Findings
+•Viral
+•Low-moderate inflammatory 
+response
+•Mildly increased number of 
+leukocytes
+•Increased lymphocytes
+•Normal or slightly elevated 
+protein, normal glucose level
+•Special Cases:  Infants
+•Because of limited immune 
+responses, these findings are not 
+always specificDiagnosis and Treatment of Viral CNS infections
+•Detailed history and physical 
+exam
+•Exposures (insect bites, sexual, etc)
+•Travel
+•Immunization status
+•Diagnostic sample
+•CSF
+•Glucose
+•Cell count
+•PCR
+•Treatment
+•Supportive
+•Specific for virusViral CNS Pathogens
+•Herpesviruses
+•HSV-1
+•HSV-2
+•VZV
+•Enteroviruses
+•Poliovirus
+•Coxsackie virus 
+•Echovirus
+•Rabies
+•JC virus
+•OthersViral CNS Pathogens
+•Arboviruses
+Flaviviruses
+–West Nile virus
+–St. Louis Encephalitis
+–Japanese Encephalitis
+Togavirus
+–WEE, EEE, VEE
+–Chikingunya
+Reovirus
+–CO Tick fever
+Bunyavirus
+–Hantavirus
+–CCHFVHerpes Simplex Virus
+•Enveloped, dsDNA linear; 
+transcription in nucleus
+•Encode a viral DNA polymerase- 
+target for antiviral drugs
+•2 types:  HSV-1 & HSV-2
+•Replicate in mucoepithelial cells 
+and neurons
+•Establish latent infections in cell 
+body of dorsal root ganglionHSV Epidemiology and Transmission
+•HSV encephalitis (HSE) is a common form of 
+severe sporadic acute focal encephalitis in 
+the United States (10% of cases)
+•HSV-1 most common cause
+•HSV-2 more typically produces aseptic 
+meningitis but may cause encephalitis in 
+neonates 
+•HSV is transmitted in secretions and by close 
+contact; vesicle fluid, saliva, and vaginal 
+secretions
+•HSV-2 (neonate encephalitis) can be acquired in 
+utero but more commonly is contracted either 
+during passage of the infant through the vaginal 
+canal because the mother is shedding virus at 
+delivery
+•Persons with inadequate cell-mediated 
+immunity are at risk for developing severe 
+disseminated HSV infectionsHSV Pathogenesis
+•Result of 
+1)Reactivation (latency- sensory 
+ganglion cells)
+2)Primary infection (children & 
+young adults)
+•In HSE, the virus is present and 
+replicating within neurons
+•Infection is cytolytic
+•Inflammation with infiltrate of 
+mononuclear cells
+•Necrosis
+•Necrotic brain tissue allows the 
+disease to spreadHSV Encephalitis Disease
+•Usually caused by HSV-1; pathology and 
+immunopathology cause the destruction of 
+the temporal lobe and give rise to RBCs in 
+CSF, seizures, focal neurologic abnormalities, 
+and other characteristics of viral encephalitis
+•HSV-2 is often associated with meningitis as 
+a complication of genital infection
+NEONATES
+•Most commonly associated with HSV-2 
+infection
+•Baby initially appears septic and vesicular 
+lesion may be present
+•HSV can disseminate to other organs; 
+underdeveloped cell –mediated immunity
+•Progression can lead to death, mental 
+retardation or neurologic disability, even 
+with treatmentHSV Diagnosis and Treatment
+•The diagnosis can be facilitated by 
+finding frontal or temporal lobe 
+abnormalities using CT and MRI
+•CSF 
+•Similar to those 
+found in viral meningitis
+•Pleocytosis (mostly lymphs)
+•Presence of RBCs
+•Almost normal glucose
+•PCR of CSF
+•Acyclovir
+•Intravenous
+•ASAPArboviruses
+•Enveloped, (+) ssRNA viruses
+•Family- Flaviviruses
+–WNV, St. Louis Encephalitis, Japanese 
+Encephalitis, YF, DENV, Zika
+•Family- Togavirus, Genus-Alphaviruses
+–Western Equine Encephalitis (WEE), EEE, 
+VEE, Chikungunya
+•Non-enveloped, dsRNA viruses
+•Family- Reovirus
+ꟷCO tick fever
+•Enveloped, (-) ssRNA, segmented 
+(x3) viruses
+•Family- Bunyavirus
+ꟷLa Crosse, California encephalitis 
+serogroup, Hantavirus, CCHFV
+Arbovirus Transmission Cycle Examples
+Generalized Pathophysiology
+•Local infection at bite site
+•Primary viremia can be 
+associated w/ mild systemic 
+symptoms
+•Most infections stop here
+•Rash, arthralgia, conjunctivitis, 
+myalgia, fever
+•If high virus levels, escapes 
+immune response  and reaches 
+other tissues w/ severe 
+symptoms
+Virus enters CNS via 
+infection of small vessel 
+endothelial cells in 
+brain or choroid plexusClinical Presentation
+•Rash, myalgia, arthralgia, fever, 
+conjunctivitis
+•Some associated w/ severe disease 
+in the elderly (St. Louis 
+encephalitis, WNV)
+•WEE, EEE similar presentation
+•VEE in Central, S. America, horses
+•Zika increasing linkage to 
+congenital disease in CNS
+•Spontaneous abortion, microcephaly, 
+intrauterine growth restriction, 
+Guillain-BarreArbovirus Diagnosis and Treatment
+•Often empiric, travel status 
+crucial, outdoor activities
+•Blood and CSF samples
+•IgM or IgG tests, RT-PCR available 
+depending on the suspected 
+etiology
+•Histopathology in fatal cases
+•No specific treatments available
+•Prophylaxis
+•Vaccines for some (EEE, WEE, 
+Japanese encephalitis, YF)
+•Vector controlRabies Virus
+•Rhabdovirus family
+•(-) ssRNA, enveloped, bullet 
+shaped particle
+•Worldwide distribution, 
+zoonotic
+Rabies Pathogenesis
+•Retrograde travel to dorsal root 
+ganglia and spinal cord, rapid 
+ascent
+•Infection of brain, neuron 
+degeneration
+•Little pathology except Negri 
+bodies (variable)
+•Afferent neurons traffic virus to 
+highly innervated sites
+Rabies Clinical Info
+Disease 
+phaseSymptoms Time Viral status Immunologic 
+status
+Incubation asymptomatic Days-months 
+(after bite)Low titer, virus 
+in muscle
+Prodrome Fever, nausea, vomiting, loss of 
+appetite, headache, lethargy2-10 days Low titer, virus 
+in CNS and 
+brain
+Neurologic Hydrophobia, pharyngeal 
+spasms, hyperactivity, anxiety, 
+depression
+CNS – loss of coordination, 
+paralysis, confusion, delirium2-7 High titer, virus 
+in brain and 
+other sitesDetectable 
+antibody in 
+serum and 
+CSF
+Coma and 
+DeathComa, hypotension, 
+hypoventilation, cardiac arrest0-14 High titer, virus 
+in brain and 
+other sites
+Adapted from Murray et.al: Medical Microbiology, 6 th Edition, 2009Rabies Diagnosis and Treatment
+•Evidence of infection and/or history of 
+potential exposure , including symptoms and 
+the detection of antibody, does not occur 
+until it is to late for intervention
+•Samples
+•Saliva, serum, CSF, and skin biopsies of hair 
+follicles of the neck
+•Tests
+•Saliva can be tested by virus isolation or reverse 
+transcription followed by polymerase chain 
+reaction (RT-PCR). 
+•Serum and spinal fluid are tested for antibodies 
+to rabies virus.
+•Skin biopsy specimens are examined for rabies 
+antigen in the cutaneous nerves at the base of 
+hair follicles.
+•Pre- and Post-exposure prophylaxis
+•Vaccine & Rabies immune globulin (HRIG)Poliovirus
+•Picornavirus
+•Enters through GI tract
+•Non-enveloped, (+) ssRNA
+•Enter through GI tract, usually 
+from fecally contaminated 
+materialPolio Pathogenesis
+•Replicates in oropharynx and 
+intestine, submucosal lymphoid 
+tissue
+•Enters bloodstream- viremia
+•Most infections do not progress 
+past initial viremia
+•Headache and fever common
+•Can continue GI replication and 
+shedding for weeks to months 
+after symptoms subsidePolio Pathogenesis
+•In some instances, the viremia 
+persists, leading to virus invasion of 
+brain and spinal cord
+•Virus can enter the CNS directly from 
+the blood or by retrograde axonal 
+transport in peripheral or cranial 
+nerves
+•Cytolytic for motor neurons of the 
+anterior horn and brain stem
+•Destruction of neurons is 
+accompanied by inflammatory 
+infiltrate and polymorphonuclear 
+leukocytes, lymphocytes, and 
+macrophagesOutcomes of Clinical Disease
+Asymptomatic Abortive 
+PoliomyelitisNonparalytic 
+PoliomyelitisParalytic Polio Bulbar Paralytic 
+ParalysisPolioencephalti
+tis
+Most infections 4-8% infections
+Fever, 
+headache, 
+malaise, sore 
+throat
+Normal 
+neurologic exam1-2% infections
+Signs of 
+meningeal 
+irritation0.1-2% 
+infections
+Biphasic illness 
+(major 
+symptoms 2-4 
+days after 
+minor)
+Muscle pain, 
+asymmetric 
+flaccid paralysisParalysis of 
+muscles 
+innervated by 
+cranial nerves
+Dysphagia, 
+dyspnea
+Respiratory 
+centers and 
+vasomotor (less 
+common)Uncommon
+Primarily in 
+infantsPolio Diagnosis and Treatment
+•Samples
+•Throat, feces, CSF
+•RT-PCR gold standard
+•Virus isolation possible but less 
+specific
+•No specific antivirals
+•Vaccines available
+•Inactivated
+•Live-attenuatedJC Virus
+•Polyomavirus es
+•Ubiquitous, nonenveloped, dsDNA 
+circular viruses
+•Likely respiratory transmission
+•Latent infections can be reactivated 
+in people whose immune systems are 
+suppressed as a result of AIDS, organ 
+transplantation, or pregnancy. 
+•Causes progressive multifocal 
+leukoencephalopathy (PML)
+•Approximately 10% of people with AIDS 
+develop PML, and the disease is fatal in 
+approximately 90% of all cases. JC Pathogenesis
+•JC virus crosses the blood-brain 
+barrier by replicating in the 
+endothelial cells of capillaries . 
+•Infection of astrocytes results in 
+partial transformation, yielding 
+enlarged cells with abnormal 
+nuclei resembling 
+glioblastomas. 
+•Productive lytic infections of 
+oligodendrocytes cause 
+demyelinationProgressive multifocal leukoencephalopathy 
+(PML)
+•A subacute demyelinating disease that 
+occurs in immunocompromised patients, 
+including those with AIDS
+•Patients may have multiple neurologic 
+symptoms not attributable to a single 
+anatomic lesion. 
+•Speech, vision, coordination, 
+mentation, or a combination of 
+these functions is impaired, followed 
+by paralysis of the arms and legs and 
+finally death. People who are 
+diagnosed with PML live 1 to 4 
+months, and most die within 2 years.Extra: SSPE and Measles
+•Measles
+•Paramyxovirus
+•Enveloped, negative-sense RNA 
+virus
+•Koplik spots
+•Rash: head-to-toes
+•Subacte sclerosing 
+panencephalitis (SSPE)
+•7-10 years after infection with virus
+•Demyelination of CNS neurons
+•Stage 1(dementia, personality 
+change); Stage 2 (myoclonus), Stage 
+3 & 4 (severe dementia, decorticate 
+rigidity, flaccidity)Objectives
+1)Know the general clinical features of meningitis
+2)Know the CSF profiles of bacterial, viral, fungal, and parasitic diseases
+For the following organisms:
+Herpesviruses, Enteroviruses, Arboviruses, Rabies, JC virus
+3)  Describe the biological characteristics of each.
+4)  Explain the pathogenic mechanism of the most common virulence 
+factors of these organisms.
+5)  Describe the epidemiology and route of transmission.
+6)  Describe the most common diseases and associated clinical 
+manifestations. 
+7)Describe the common laboratory tests used to identify and the 
+treatments for these organisms.

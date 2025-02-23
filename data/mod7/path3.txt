@@ -1,0 +1,236 @@
+Touro College of Osteopathic Medicine- 
+NY
+Dr. BahriNeuropathology: Muscular 
+pathologyObjectives:
+1.Evaluate the utility of creatine kinase, muscle biopsy, and 
+special histochemical stains in the diagnosis of muscular 
+disorders
+2.Outline the morphology of skeletal muscle fibers in the 
+process of denervation and re-innervation
+3.Distinguish between the morphology and clinical 
+manifestations of Duchenne and Becker muscular 
+dystrophy
+4.Discuss the pathogenesis, morphology, and clinical 
+manifestations of Myastenia gravis and Myotonic 
+dystrophyCreatine kinase
+•Primarily located in muscle 
+•Three CK isoenzymes 
+CK-MM 
+Accounts for >95% of skeletal muscle CK 
+Accounts for 70% to 75% of cardiac muscle CK 
+CK-MB 
+Primarily in cardiac muscle 
+Very small percentage in skeletal muscle 
+CK-BB 
+Found predominantly in brain and lung Goljan & Slojka Table 9-21Skeletal muscle organization
+myocytes
+myofibril s (actin and myosin)
+myofibers
+multiple myofibers make a muscle fiber
+multiple fibers are gathered together through 
+connective tissue to make a skeletal muscle Normal striated muscle
+Rubin’s Fig 27-1 & 27-2There are 2 kinds of muscle fibers
+Fast and Slow fibers
+In humans, they are combined  in the same muscle bundle. 
+In birds such as chickens and turkeys, fast and slow muscle 
+fibers are separated , (light meat and dark meat)
+Type I, red muscle fibers, slow sustained twitch , fat 
+metabolism, mitochondrial oxidative metabolism (for posture)  
+Type II, white muscle fibers, white meat , fast sudden twitch , 
+glycogen metabolism (the slightly sweeter flavor is from the 
+glycogen) Type I (slow) vs Type II (fast) fibers
+ATPase  stain highlights the 
+dark, Type II, muscle fibers
+Rubin’s Fig 27-
+3Normal striated muscle: Muscle 
+biopsy
+•  Type I fibers (Red, slow switch) = stains pale
+•  Type II fibers (White, fast twitch) = stains darkHistochemical reactions:
+Denervation : seen with nonspecific esterase 
+reaction: irregular, dark staining, atrophic, 
+angular fibers
+Rubin’s Fig 27-
+22Target fibers: seen with NADH-tetrazolium 
+reductase (NADH-TR) stain
+selectively fixes membranous organelles
+Rubin’s Fig 27-
+23Devoid area lacks membranous organelles (i.e. mitochondria, sarcoplamsic reticulum)Special stains used to diagnose Mitochondrial 
+myopathy caused by deletions of mitochondrial 
+DNA (mtDNA)
+Succinate dehydrogenase 
+(SDH) Modified Gomori trichrome
+Cytochrome c EM of abnormal mitchondria
+ Rubin’s Fig 27-
+20Oil red-orcein stain (inset):  Lipids
+Rubin’s Fig 27-
+19Normal muscle fiber innervation:End stage neuromuscular disease:
+Myocyte atrophy and Infiltration of fat and 
+connective tissue, & fibrosis
+Rubin’s Fig 27-
+5Muscle atrophy
+FYI:  For an unknown 
+reason, disuse atrophy 
+and atrophy resulting 
+from steroid 
+administration affect 
+mostly the Type II 
+fibers. 
+On to the cases…Case #1
+A 3 year old boy is brought to the 
+pediatrician by his parents because he 
+has been having trouble getting up 
+from a sitting position, although he had 
+previously done so with ease. His 
+developmental history is notable for 
+delayed motor skills. He began to walk 
+at 18 months. The boy has a waddling 
+gait, and when sitting he uses his arms 
+to push himself into the upright 
+position.Case #1
+Physical examination:  marked 
+muscle weakness of the 
+extremities in the proximal 
+muscles and hypertrophy of 
+the calves. The patient’s 
+maternal uncle died at age 
+16 and suffered from similar 
+symptoms when he was 
+younger. Gower sign
+http://www.youtube.com/watch?v=4au60i1PSko&safe=activeCase #1 Questions:
+•Q1: What serum lab test would be 
+elevated in this patient?  
+•Q2: What is the most likely diagnosis? 
+•Q3: What is the most common 
+inheritance pattern of this condition?   
+•Q4: The parents have a second son who is 
+6 month old. What is the chance that the 2nd 
+child will develop this condition?A muscle biopsy is performed, what are the findings 
+seen on H&E stain?
+Normal Patient Dystrophin immunohistochemical  stain is 
+performed
+Normal Patient 
+Western blot for dystrophin
+Questions:
+•Q5: If the special stain showed partly 
+decreased dystrophin staining, what is the 
+diagnosis based upon the staining results?   
+•Q6: What is the function of dystrophin?  Case #1 Muscular dystrophy
+Case #2
+A 25 year old woman has marked 
+weakness and drooping of the 
+eyelids in the evening for the 
+past 4 weeks. She does not 
+experience any weakness in the 
+morning following a good night’s 
+sleep. She also suffers from 
+double vision at the end of the 
+dayCase #2
+Physical examination: Ptosis with 
+sustained elevation of eyelids.
+Dysphonia develops as patient 
+asked to narrate complaints at 
+length. Weakness of forward 
+flexion of head after repetitive 
+resistance to force. Patient 
+could not maintain her upper 
+limb in abducted position for 
+more than a minuteCase #2
+Labs: Positive serum titer of anti-acetylcholine 
+receptors
+EMG: Progressive decrement in voltage during 
+repetitive, low frequency stimulation of motor nerve
+Improvement in strength with edrophonium 
+administration
+Diagnosis?
+The patient’s thymus gland should also be evaluated for 
+what condition(s)?Myasthenia Gravis
+Antibodies to the acetylcholine 
+receptor on the motor end-plate 
+of skeletal muscle cells are the 
+problem.
+They inhibit neuromuscular 
+transmissionMyasthenia Gravis
+•Affects more women than men
+•Onset usually before age 40 
+•Incidence is about 3/100,000
+•Thymic hyperplasia occurs in 2/3 of patients
+•Thymoma  occurs in 1/3 such patients
+•Thymectomy helps symptoms
+•No one understands the connection between the disease 
+myasthenia gravis and the thymus gland. 
+•The Abs are IgG, from B cells.  Yet the thymus is all about T 
+cellsMyasthenia Gravis
+•Symptoms:
+–Drooping eyelids    (ptosis)
+–Double vision           (diplopia)
+–Difficulty swallowing
+–Progressive muscle weakness 
+with repeated use
+•(repeated electro-
+stimulation)Myasthenia Gravis
+Case #3
+A 35 year old man has distal 
+muscle weakness in both the 
+upper and lower limbs, and 
+gradual diminution of vision.
+FH: His father suffered from a 
+similar muscular weakness. 
+The patient also suffers from 
+mental retardationCase #3: Physical 
+examination
+Frontal balding, facial wasting 
+Bilateral cataracts
+Distal muscle weakness in the 
+upper & lower limbs
+Difficulty releasing grip after 
+handshake
+Mildly reduced DTR’sCase #3: Physical 
+examination
+Percussion over tongue and 
+thenar eminence reveals 
+myotonia
+Normal sensory exam
+Moderately atrophic testicles
+Equinovarus deformity of both 
+feetCase #3: Physical 
+examination
+Case #3: Youtube clips
+http://www.youtube.com/watch?
+v=Wg1SVoa-8JE&safe=activeCase #3
+Case #3: 
+Microscopy
+Case #3: Myotonic 
+dystrophy
+Common  form of muscular dystrophy 
+among whites
+Transmitted as autosomal dominant 
+trait
+Associated with trinucleotide ( CTG) 
+repeats that encode the myotonin 
+protein kinase  {Note: there’s an error in the 
+video!}
+Gene locus mapped to chromosome 
+19q13.3Electron microscopy: Ring fibers
+Case #4: 
+A 40 year old man with a history of 
+insulin dependent diabetes 
+mellitus presents with tingling, 
+numbness, burning, and aching in 
+the lower legs and feet. 
+HPI: The discomfort is prominent at 
+night and is often relieved by 
+walking. A soft cushion over the 
+feet is helpful to prevent contact 
+with bedclothes. The patient takes 
+insulin regularlyCase #4: 
+PE: Mild weakness. Distal loss of 
+position and vibration sense in 
+both legs. Bilaterally reduced 
+ankle and knee reflexes
+Labs: Elevated glycosylated 
+hemoglobin (9.5%)
+Slowed nerve conduction 
+velocities
+EMG: Features of denervation
+Diagnosis?Case #4: Peripheral neuropathy 
+assoc with DM2Questions?

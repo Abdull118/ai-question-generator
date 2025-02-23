@@ -1,0 +1,232 @@
+Neuro-ophthalmology:
+Visual Field Defects & 
+Pupillary Response
+Alexandra Pappas, MD
+Clinical Systems
+Touro COM, Middletown, NYObjectives
+1.Review and define miosis, mydriasis, 
+accommodation, scotoma, hemiopia and 
+congruence vs. incongruence. 
+2.Review and describe anatomy of the afferent 
+visual pathways.
+3.Recognize common disorders of the pupils such 
+as Horner’s syndrome, Marcus Gunn pupils and 
+Adie’s pupil.
+4.Recognize visual field defects as well as lesions 
+causing the defects.
+5.Recognize common causes of visual loss related 
+to the eye, optic nerve, optic chiasm, optic tract 
+and the occipital cortex.Terminology
+1.Miosis vs Mydriasis
+2.Accommodation
+3.Scotoma
+4.Hemianopia
+5.Homonymous hemianopia
+6.Bitemporal (heteronymous hemianopia) 
+7.Congruent vs. IncongruentMiosis Constriction of the pupil of the 
+eye
+Mydriasis Dilation of the pupil of the eye
+http://slideplayer.com/slide/7779069/25/images/11/Pupillary+Muscles+Miosis+Mydriasis.jpgAccommodation
+•Parasympathetic fibers contract ciliary muscles
+•Relaxation of suspensory ligaments
+•Lens become more round (↑convexity)
+•Refractive index increases, focusing nearby 
+objects on retina
+Scotoma 
+A partial loss of vision or a blind spot 
+in an otherwise normal visual field.
+Hemianopia •Loss of half the visual 
+field
+Homonymous 
+hemianopia•Loss of either the right 
+or left half of the 
+visual field in either 
+eye
+Bitemporal 
+(heteronymous 
+hemianopia)•Loss of the temporal 
+half of the visual field 
+in each eye 
+Congruous
+(Congruent)Homonymous defects in fields of 
+both eyes are identical in shape, 
+depth and size 
+©2017 UpToDateIncongruous
+(Incongruent)Incomplete homonymous 
+hemianopias where the visual 
+field defects in both eyes are not 
+identical in shape, depth or size
+©2017 UpToDateCN2:
+Optic Nerve
+Pupillary Light Reflex 
+Pathway
+Pupillary responses associated 
+with lesions of the:
+1.Optic nerve
+2.Pretectum
+3.Oculomotor nerve
+•Baseline is obtained with 
+fixation on a distant target and 
+the near response with a 
+target in front of the nose.
+http://casemed.case.edu/clerkships/neurology/NeurLrngObjectives/visual%20path.jpgPupillary Light Reflex 
+Pathway
+Afferent Limb – Cranial Nerve II
+•Light stimulates ganglion reflex 
+and impulse travels up CNII 
+which projects bilaterally to 
+the pretectal nuclei in the mid-
+brain
+•The pretectal nuclei projects 
+bilaterally to the Edinger-
+Westphal nuclei (CNIII)
+http://casemed.case.edu/clerkships/neurology/NeurLrngObjectives/visual%20path.jpgPupillary Light Reflex 
+Pathway
+Efferent Limb – Cranial Nerve III
+•Edinger-Westphal nucleus 
+(preganglionic 
+parasympathetic) projects to 
+the ciliary ganglion 
+(postganglionic 
+parasympathetic)
+•The ciliary ganglion projects to 
+the pupillary sphincter muscle 
+causing miosis
+http://casemed.case.edu/clerkships/neurology/NeurLrngObjectives/visual%20path.jpgRelative Afferent Pupil
+(Marcus Gunn)
+•Lesion of afferent limb of pupillary reflex
+•Diagnosis made with swinging flashlight:
+1.Shining light in MG pupil→ pupils do not constrict
+2.Shine light in normal eye→ pupils constrict fully
+3.Shine light immediately again in affected eye→ 
+apparent dilation of both pupils because stimulus 
+carried thru CN II is weaker
+•Indicates lesions of the optic nerve on affected 
+side
+•e.g. Multiple Sclerosis
+Argyll Robertson Pupil
+•No direct or consensual light reflex
+•Accommodation - Convergence intact
+•Seen in:
+•Neurosyphillis
+•Diabetes
+Horner Syndrome
+•Caused by lesion of the oculosympathetic pathway
+•Clinically:
+1.Miosis
+2.Ptosis
+3.Hemi-anhidrosis
+4.Apparent enophthalmos
+Classic TriadAdie Pupil
+•Dilated pupil that reacts sluggishly to light but 
+better to accommodation
+•Often seen in young women & associated with 
+loss of knee jerk (Holmes- Adie syndrome)
+Transtentorial (Uncal) Herniation
+•Increased intracranial pressure
+•CN III compressed
+•Fixed & dilated pupils; “down & out” eye, ptosis
+Visual System
+•Lens inverts the image of the visual 
+field
+•Nasal retina receives information 
+from the temporal visual field
+•Temporal retina receives information 
+from the nasal visual field
+•Optic nerve fibers from the nasal 
+half of each retina cross at the optic 
+chiasm and project to the 
+contralateral optic tract
+Brodmann Area 17Visual Information from lower retina (upper 
+contralateral visual field) projects to temporal 
+lobe (Meyer’s loop) to the lingua gyrus
+Visual information from the upper retina (lower 
+contralateral visual field) projects to the parietal 
+lobe and the cuneus gyrusVisual Field Defects
+1.Optic nerve: 
+•Clinical Presentation:
+•Unilateral Amaurosis
+•Causes:
+•Optic Neuritis
+•Central retinal artery 
+occlusion
+Goldman-Cecil; FIGURE 424-1Visual Field Defects
+2.Lateral Optic Chiasm
+•Clinical Presentation:
+•Grossly incongruous
+•Incomplete (contralateral) 
+homonymous hemianopia
+Goldman-Cecil; FIGURE 424-1Visual Field Defects
+3.Central Optic Chiasm
+•Clinical Presentation
+•Bitemporal hemianopia
+•Common Causes:
+•Pituitary adenoma
+•Craniopharyngioma
+Goldman-Cecil; FIGURE 424-1Visual Field Defects
+4.Optic tract
+•Clinical Presentation:
+•Incongruous
+•Incomplete homonymous 
+hemianopia
+•Common Cause
+•Internal carotid artery 
+aneurysm
+Goldman-Cecil; FIGURE 424-1Visual Field Defects
+5.Temporal (Meyer's) Loop 
+of the Optic Radiation
+•Clinical Presentation:
+•Congruous
+•Partial or complete 
+(contralateral) 
+homonymous superior 
+quadrantanopia
+•“Pie in the Sky”
+Meyer's loop has been cut on 
+the right, so vision will be lost 
+in the upper visual world, but 
+only in the left hemifield
+Goldman-Cecil; FIGURE 424-1Visual Field Defects
+6.Parietal (superior) 
+projection of the optic 
+radiation: 
+•Clinical Presentation:
+•Congruous 
+•Partial or complete 
+homonymous inferior 
+quadrantanopia
+Here the parietal portion of 
+the optic radiations were cut 
+on the right, so you would 
+affect the lower visual world 
+on one side.
+Goldman-Cecil; FIGURE 424-1Visual Field Defects
+7.Complete Parieto-
+Occipital interruption of 
+the Optic Radiation:
+•Clinical Presentation:
+•Complete congruous 
+homonymous hemianopia
+•When cortex itself is lesioned the 
+Vision at the fovea is spared.
+•The loss of vision is not a 
+complete hemifield, but a 
+notched hemifield
+•This phenomenon is called 
+“macular sparing” 
+Goldman-Cecil; FIGURE 424-1Visual Field Defects
+8.Incomplete damage to 
+the visual cortex
+•Clinical Presentation:
+•Congruous homonymous 
+scotomas
+• Usually encroaching at 
+least acutely on central 
+vision.
+Goldman-Cecil; FIGURE 424-1References
+•Harper, Richard. Basic Ophthalmology, 
+9th edition
+•Purvin, V; Kawasaki, A. Common Neuro-
+Ophthalmic Pitfalls, 2009
+http://www.smartpractice.com/Images/Products/PC/PhotoLg/
+FC02879.jpg

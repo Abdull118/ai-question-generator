@@ -1,0 +1,427 @@
+Immunologically Mediated 
+Diseases of the 
+Neuromuscular Junction
+MMI2 Neuromuscular Block
+Stephen Jones Ph.D.Learning Objectives
+1.To discuss the immunopathogenic mechanisms of myathenia 
+gravis, LEMS and Stiff man syndrome.                                                      
+                       
+2.To recall the autoimmune targets and be able to relate this to the 
+development of clinical disease.                                                  
+3.To relate clinical testing and treatment to the mechanism of 
+disease. 
+4.To compare and contrast the etiology and imunopath of the 
+different noninfectious inflammatory myopathies.Learning Objectives
+1.To discuss the immunopathogenic mechanisms of myathenia 
+gravis, LEMS and Stiff man syndrome.                                                      
+                       
+2.To recall the autoimmune targets and be able to relate this to the 
+development of clinical disease.                                                  
+3.To relate clinical testing and treatment to the mechanism of 
+disease. 
+4.To compare and contrast the etiology, imunopath, and treatment 
+of the different noninfectious inflammatory myopathies.Reading Assignment
+•Required:
+•Robbins, Ch. 27
+•Essentials of Clinical Immunology, 
+Ch. 17Myasthenia GravisLets consider this case:
+•Mr. Weld is a 71 year old retired 
+engineer.  
+•He developed  double vision 
+(diplopia) which gradually 
+worsened over the course of 4 
+months and caused him to seek 
+medical attention.
+•On examination, the doctor 
+noticed that Mr. Weld had ptosis 
+of both eyelids, so that they 
+covered the upper third of the 
+irises of his eyes.Case study:
+•When the doctor asked Mr. Weld to 
+look to the right and then to the left, 
+he noticed limitations in the ocular 
+movement of the eye.
+•The patient admitted to tiredness 
+and fatigue in the arms and legs on 
+exercise, which recovered with 
+resting.
+•A radiologic examination of the chest 
+was performed and it was normal, 
+thymus gland was of normal size for 
+his age.
+•Blood tests revealed the presence of 
+antibodies to the acetylcholine 
+receptor.What is the most likely diagnosis for this patient?
+•This patient’s condition is 
+Myasthenia Gravis , 
+characterized by weakness and 
+fatigue of voluntary muscles, 
+including those of the eye.In myasthenia gravis the loss of muscle function results from 
+impaired transmission of motor impulses from nerve to 
+muscle as a result of antibodies that inhibit key 
+neuromuscular junction proteins. 
+•Autoantibodies involved:
+-85% of patients have autoAbs against 
+post-synaptic acetylcholine receptors
+-The remaining patients are found to 
+have Abs against the sarcolemmal 
+protein muscle-specific receptor 
+tyrosine kinase .  Patients with these 
+Abs tend to experience more focal 
+muscle involvement (neck, shoulder, 
+facial, respiratory, and bulbar muscles).In myasthenia gravis the loss of muscle function results from 
+impaired transmission of motor impulses from nerve to 
+muscle as a result of autoantibodies that inhibit key 
+neuromuscular junction proteins. The autoantibodies lead to the loss of functional AChRs 
+through 3 possible mechanisms: 
+Autoantibodies Mechanism of pathogenesis 
+Anti-Acetylcholine Receptor 
+(AChR)Cross-link AChR, thereby 
+increasing their internalization 
+and degradation.
+Anti-Acetylcholine Receptor 
+(AChR)Activate the classical 
+complement pathway which 
+causes direct injury to the post-
+synaptic membrane.  
+Anti-muscle specific receptor 
+tyrosine kinaseInterfere with trafficking and 
+cluster of AChR within the 
+sarcolemmal membrane, 
+resulting in decreased AChR 
+function.  (These Abs do not fix 
+complement.)The classical complement pathway.  Note C1 binding 
+to the bound antibody molecules, eventually leading 
+to
+MAC formation.What was the point of the radiological 
+examination of Mr. Weld’s chest? 
+•There is strong association between 
+pathogenic anti-AChR autoAbs and thymic 
+abnormalities: 
+•10-15% of MG cases occur with thymoma 
+(a tumor of thymic epithelial cells)
+•An additional 30% of patients 
+(particularly in the young) are found to 
+have thymic hyperplasia, marked by the 
+appearance of B cell follicles in the 
+thymus.
+•In cases of thymic hyperplasia or thymoma, 
+thymectomy is often an effective treatment.  What was the point of the radiological 
+examination of Mr. Weld’s chest? 
+•What is the link here between the 
+production of autoreactive antibody and 
+thymic abnormalities?
+•Myoid cells (striated muscle cells in the 
+thymus) contain AChr and may be a source 
+of autoantigen to stimulate an 
+autoreactive response. 
+•The thymoma and hyperplasia may disrupt 
+normal thymic selection processes in a 
+manner that promote autoimmunity.
+•The thymus of MG patients has been 
+found to contain germinal center  B cells 
+and plasma cells that are at least one 
+source of  the autoreactive Ab directed 
+against the AChR.What was the point of the radiological 
+examination of Mr. Weld’s chest? 
+•Mr. Weld’s thymus was normal.
+• Note that abnormalities of the 
+thymus are not observed in 
+older patients, and thymectomy 
+does not usually help them. Case study:
+•Mr Weld was told to take 
+pyridostigmine, an inhibitor of 
+Acetylcholinecholinesterase.
+•Mr Weld’s vision steadily 
+improved, but he developed 
+diarrhea from the pyridostigmine, 
+and this limited the amount he 
+could take. How did the cholinesterase inhibitor work to 
+improve the patient’s condition?
+•By blocking cholinesterase, you 
+prolong the biological half life of 
+acetylcholine , thereby increasing its 
+concentration in the neuromuscular 
+junction, and the likelihood and 
+engaging the remaining ACHr
+•What about the drug treatment 
+caused the diarrhea? 
+•The amount of acetylcholine in the 
+intestine is raised by the drug.  In 
+the intestine acetylcholine binds to 
+muscarinic receptors and increases 
+intestinal motilityCase study:
+•Three years later…
+•Mr Weld developed a severe 
+respiratory infection.  
+•Soon after the infection his ptosis 
+became so severe that he had to lift 
+his eyelids by taping them with 
+adhesive tape.  His speech became 
+indistinct, and he had difficulty 
+chewing an swallowing food.  In 
+addition, he now had weakness of his 
+facial muscles and his tongue.
+•Mr Weld was admitted to the 
+hospital and treated with 
+azathioprine.  Thereafter, he showed 
+steady improvement.Why might the respiratory infection have triggered 
+the severe manifestations of the disease? 
+•B cells already primed to 
+produce autoantibody may be 
+stimulated by the inflammation 
+caused by the infection or have 
+received help from nearby T 
+cells activated by the infection.
+•Pathogens induce increased 
+expression of MHC and 
+costimulatory molecules, also 
+potentially promoting 
+autoimmunity.What did the azathioprine do?  Are there any potential 
+concerns about the prolonged use of this drug?
+•Azathioprine works by 
+inhibiting DNA synthesis , thus 
+the growth of rapidly dividing 
+cells such as T and B cells is 
+suppressed, resulting in reduced 
+autoimmunity
+•The down side: responses to 
+infections are also suppressed, 
+resulting in increased ID 
+susceptibility.Other therapy options?
+•Plasmapheresis (removal or 
+filtering of the plasma) can be 
+used to reduce levels of circulating 
+autoantibodies.
+•This involves taking blood 
+separating off the plasma and 
+returning the red cell enriched 
+fraction to the patient. 
+•Thymectomy  for those with an 
+enlarged thymus or thymoma.
+•Intravenous Ig (IVIG) as an 
+immunomodulatory agent for the 
+treatment of autoimmune diseaseExact mechanism of action for IVIG: not known for sure.
+A schematic representation of the proposed mechanisms of action of intravenous 
+immunoglobulin
+Nature Clinical Practice Rheumatology (2007) 3, 262-272Exact mechanism of action for IVIG: not known for sure.
+•One hypothesis:
+•FcRn normally recycles 
+IgG, providing increased 
+half life for IgG.
+•High dose IVIG may bind 
+up all of the FcRn, blocking 
+recycling of endogenous 
+Ab (which includes the 
+autoreactive stuff) thus 
+lowering titers of 
+autoreactive antibody.What components of the immune system would you expect to 
+have lost tolerance in someone with MG, or a similar Ab 
+mediated autoimmune disease? 
+Myasthenia Gravis: general features
+•Recognized as one of the best-
+defined forms of autoimmune 
+disease 
+•Myasthenia gravis is a muscle 
+disease caused by immune-
+mediated loss of acetylcholine 
+receptors 
+•The disease has a prevalence of 
+about 3 in 100,000 persons.
+•When arising before age 40 years, 
+it is most commonly seen in 
+women, but there is equal 
+occurrence between the sexes in 
+older patients. Myasthenia Gravis: general features
+•Thymic abnormalities, including 
+hyperplasia and thymoma are a 
+common feature of this disease. 
+•Analysis of neuromuscular 
+transmission in myasthenia 
+gravis shows a decrease in the 
+number of muscle acetylcholine 
+receptors (AChRs), and 
+circulating antibodies to the 
+AChR are present in most 
+patients, the remaining have 
+Abs against muscle specific 
+receptor tyrosine kinase.Myasthenia Gravis: general features
+•Mr. Weld suffered from the oculobulbar 
+form of the disease, b/c it principally 
+involves the cells of the eye.  
+•In younger people the disease is much 
+more severe, and the Ab titers to the 
+AchR receptor are higher .  This severe 
+form of the disease can lead to death if 
+breathing is impaired.
+•Disease in young people is often 
+associated with enlargement of the 
+thymus gland .  Removal, leads to a 
+rapid improvement.Myasthenia Gravis: general features
+•Genetic susceptibility? HLA-B8, 
+HLA-DR3
+•Can be transferred from mom to 
+fetus.  Ab isotype responsible?
+•Symptoms disappear as maternal Ab 
+titers decline.Lambert-Eaton myasthenic syndrome (LEMS) is a disease of 
+the neuromuscular junction that is distinct from myasthenia 
+gravis.
+•Features of LEMS:
+•It usually develops as a paraneoplastic 
+process, most commonly with small cell 
+carcinoma of the lung (60% of cases), 
+although it can occur in the absence of 
+underlying malignant disease.
+•Patients develop proximal muscle weakness 
+along with autonomic dysfunction. 
+•Unlike in myasthemia gravis, NO clinical 
+improvement is found upon administration 
+of anticholinesterase agents , and 
+electrophysiologic studies show evidence of 
+enhanced neurotransmission with repetitive 
+stimulation . These clinical features allow this 
+disorder to be distinguished from 
+myasthenia gravis. Lambert-Eaton myasthenic syndrome (LEMS)
+•Pathophysiology of LEMS:
+•The content of acetylcholine is normal in 
+the neuromuscular junction synaptic 
+vesicles, and the postsynaptic membrane 
+is normally responsive to acetylcholine.
+• BUT, fewer vesicles are released in 
+response to each presynaptic action 
+potential. 
+•100% of patients have antibodies that 
+recognize presynaptic PQ-type voltage-
+gated calcium channels , and a similar 
+disease can be transferred to animals 
+with these antibodies.
+•Ab bind to calcium channels, inhibiting 
+polarization of nerve membrane and the 
+release of acetylcholine .Impaired transmission from nerve to muscle at the neuromuscular 
+junction in MG and other muscle-endplate diseases.
+In Stiff man syndrome, Abs 
+against the intracellular enzyme 
+glutamic acid decarboxylase 
+(GAD) result in inability to relax 
+muscles  by breaking down 
+neurotransmitter.
+Always associated with type I 
+diabetes mellitus. 
+Noninfectious inflammatory myopathies:
+•are a heterogeneous group of disorders 
+that are most likely immune mediated 
+and are characterized by injury and 
+inflammation of skeletal muscle. 
+•Three relatively distinct disorders 
+dermatomyositis, polymyositis, and 
+inclusion body myositis , are included in 
+this category.
+•These may occur as an isolated 
+myopathy or as one component of an 
+immune-mediated systemic disease, 
+particularly systemic sclerosis.Dermatomyositis
+•Individuals with dermatomyositis have an 
+inflammatory disorder of the skin and skeletal 
+muscle.
+• It is characterized by a distinctive skin rash that 
+may accompany or precede the onset of muscle 
+disease. The classic rash takes the form of a lilac 
+or heliotrope discoloration of the upper eyelids 
+associated with periorbital edema. It is often 
+accompanied by a scaling erythematous eruption 
+or dusky red patches over the knuckles, elbows, 
+and knees (Grotton lesions). 
+•Muscle weakness is slow in onset, bilaterally 
+symmetric, and often accompanied by myalgias. It 
+typically affects the proximal muscles first . As a 
+result, tasks such as getting up from a chair and 
+climbing steps become increasingly difficult. Fine 
+movements controlled by distal muscles are 
+affected only late in the disease. 
+•Extramuscular manifestations, including 
+interstitial lung disease, vasculitis, and 
+myocarditis, may be present in some casesPolymyositis
+•This inflammatory myopathy is 
+characterized by symmetric 
+proximal muscle involvement, 
+similar to that seen in 
+dermatomyositis. It differs from 
+dermatomyositis by the lack of 
+cutaneous involvement and its 
+occurrence mainly in adults. 
+•Similar to dermatomyositis, there 
+may be inflammatory involvement 
+of heart, lungs, and blood vessels. Inclusion body myositis
+•Begins with the involvement of distal 
+muscles, especially extensors of the knee 
+(quadriceps) and flexors of the wrists 
+and fingers. 
+•Furthermore, the weakness may be 
+asymmetric. 
+•It is an insidiously developing disorder 
+that typically affects individuals over the 
+age of 50 years. 
+•Most cases are sporadic, but familial 
+cases have been recognized as "inclusion 
+body myopathy." Noninfectious inflammatory myopathies: 
+Etiology and Pathogenesis
+•Dermatomyositis : Capillaries seem to be the 
+principal immunological target, where deposits of 
+antibodies and complement (MAC) are present in 
+small blood vessels, and are associated with foci 
+of myocyte necrosis. 
+•Various Abs are often detected and tend to be 
+associated with specific clinical features (although 
+no confirmed pathogenic role has been 
+discovered):
+•Anti-M2 Abs – (directed against a helicase 
+anzyme) are associated with prominent Gottron 
+papules and heliotrope rash.
+•Anti-Jo1 – (directed against the enzyme histidyl t-
+RNA synthetase) are associated with interstitial 
+lung disease, nonerosive arthritis, and a skin rash 
+described as mechanics hands. 
+•Anti-P115-P140  (directed against several 
+transcriptional regulators) are associated with 
+paraneoplastic and juvenile cases of 
+dermatomyositis. Noninfectious inflammatory myopathies: 
+Etiology and Pathogenesis
+•Polymyositis  seems to be caused by cell-
+mediated injury of myocytes.  CD8+ 
+cytotoxic T cells and macrophages are 
+seen near damaged muscle fibers, and 
+the expression of HLA class I and class II 
+molecules is increased on the 
+sarcolemma of normal fibers.  Vascular 
+injury is noth thought to play  major role 
+in ploymyositis. 
+•Inclusion body myositis seems to have 
+less clear immunological pathology. As in 
+polymyositis, CD8+ cytotoxic T cells are 
+found in the muscle, but in contrast to 
+the other two forms of myositis, 
+immunosuppressive therapy is not 
+beneficial.Noninfectious inflammatory myopathies: 
+Treatment
+•Corticosteroids are first line 
+treatment for polymyositis and 
+dermatomyositis.
+•In steroid resistant cases , 
+immunosuppressive drugs such as 
+azathioprine or methotrexate are 
+used.
+•IVIG, cyclophosphamide, 
+cyclosporine, and rituximab are 
+third line therapies .
+•Inclusion body myositis usually 
+responds poorly to steroids and 
+immunosuppressive therapies.Learning Objectives
+1.To discuss the immunopathogenic mechanisms of myathenia 
+gravis, LEMS and Stiff man syndrome.                                                      
+                       
+2.To recall the autoimmune targets and be able to relate this to the 
+development of clinical disease.                                                  
+3.To relate clinical testing and treatment to the mechanism of 
+disease. 
+4.To compare and contrast the etiology, imunopath, and treatment 
+of the different noninfectious inflammatory myopathies.

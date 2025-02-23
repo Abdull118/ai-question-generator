@@ -1,0 +1,788 @@
+Dizziness :  Approach to Evaluation & Management (AAFP),  Learning Objectives  
+ 
+• Recognize the diff erential diagnosis for common causes of dizziness and vertigo ; define the 
+entities included in the differential:  
+o BPPV, vestibular neuritis, Meniere disease, otosclerosis, vestibular migraine, 
+cerebrovascular disease (esp. vertebrobasilar), meningioma, psychiatric, medication -
+induced, orthostatic, cardiovascular/metabolic , barotrauma  
+• Recognize and apply methods used to distinguish causes of dizziness  
+• Distinguish acuity of patient presentation  - benign vs. emergent , and appropriate corresponding 
+management  
+• Define the following clinical categorizations of dizziness:  episodic triggered, spontaneous 
+episodic, continuous vestibular  
+• Distinguish  between centr al & peripheral vertigo ; recognize methods used to distinguish , e.g., 
+HINTS examination . See diagnostic algorithm in article.  
+• Describe necessary components of the history  (triggers, timing , medications ; HINTS ) and 
+physical exam (TiTrATE , specific maneuvers  when indicate d) when evaluating a patient for 
+dizziness or vertigo  
+• Recognize  specific  importance of HEENT, cardiac, neurologic physical exam, orthostatic BP 
+measurement in physical exam evaluation of  dizziness; evaluation of head -impulse, nystagmus, 
+test of skew  
+• Describe the Dix- Hallpike maneuver and recognize its utility and interpretation  
+• Describe common medications associated with dizziness  
+• Describe treatment options for the entities described in the article (BPPV, Meniere disease, 
+vestibular neuritis)  
+o Describe commonly used vestibular suppressant medications  
+• Define and describe the following clinical entities, including etiology/pathophysiology, clinical 
+presentation, diagnostic criteria and workup , including labs and imaging , and disease 
+management:  
+o Benign paroxysmal positional vertigo  (peripheral)  
+o Meniere disease (peripheral)  
+o Vestibular neuritis  (peripheral)  
+o Vestibular migraine  (central)  
+o Vertebrobasilar ischemia (central)  154 American Family Physician www.aafp.org/afp  Volume 95, Number 3  ◆ February 1, 2017Dizziness is a common yet imprecise symptom. It was traditionally divided into four categories based on the patient’s 
+history: vertigo, presyncope, disequilibrium, and light-headedness . However, the distinction between these symp -
+toms is of limited clinical usefulness. Patients have difficulty describing the quality of their symptoms but can more 
+consistently identify the timing and triggers. Episodic vertigo triggered by head motion may be due to benign parox -
+ysmal positional vertigo. Vertigo with unilateral hearing loss suggests Meniere disease. Episodic vertigo not associated 
+with any trigger may be a symptom of vestibular neuritis. Evaluation focuses on determining whether the etiology is 
+peripheral or central. Peripheral etiologies are usually benign. Central etiologies often require urgent treatment. The 
+HINTS ( head-impulse , nystagmus, test of skew) examination can help distinguish peripheral from central etiologies. 
+The physical examination includes orthostatic blood pressure measurement, a full cardiac and neurologic examina -
+tion, assessment for nystagmus, and the Dix-Hallpike  maneuver. Laboratory testing and imaging are not required and 
+are usually not helpful. Benign paroxysmal positional vertigo can be treated with a canalith repositioning procedure 
+(e.g., Epley maneuver). Treatment of Meniere disease includes salt restriction and  diuretics. Symptoms of vestibu -
+lar neuritis are relieved with vestibular suppressant medications and vestibular rehabilitation. ( Am Fam Physician . 
+2017;95(3): 154-162 . Copyright © 2017 American Academy of Family Physicians.)Dizziness: Approach to Evaluation  
+and Management
+HERBERT L. MUNCIE, MD, Louisiana State University School of Medicine, New Orleans, Louisiana
+SUSAN M. SIRMANS, P harm D, University of Louisiana at Monroe School of Pharmacy, Monroe, Louisiana
+ERNEST JAMES, MD, Louisiana State University School of Medicine, New Orleans, Louisiana
+Dizziness is a common yet im ­
+precise symptom often en­
+coun  tered by family physicians. 
+Primary care physicians see at 
+least one­half  of the patients who present 
+with dizziness.1 The differential diagnosis is 
+broad, with each of the common etiologies 
+accounting for no more than 10% of cases2 
+(Table 11,3). Because the symptoms are vague, 
+physicians must distinguish benign from se ­
+rious causes that require urgent evaluation 
+and treatment.
+Dizziness was traditionally classified 
+into four categories based on the patient’s 
+description: (1) vertigo, (2) presyncope, (3) 
+disequilibrium, and (4) light ­headedness .4 
+However, current approaches do not include 
+presyncope and do not use the vague term 
+light ­headedness .5 Patients often have dif ­
+ficulty describing their symptoms and may 
+give conflicting accounts at different times.3 
+Symptom quality does not reliably predict 
+the cause of dizziness.6 Physicians are cau ­
+tioned against overreliance on a descriptive 
+approach to guide the diagnostic evalua ­
+tion.7 Alternatively, attention to the timing and triggers of dizziness is preferred over the 
+symptom type because patients more consis ­
+tently report this information.3,7
+General Approach 
+Questions regarding the timing (onset, 
+duration, and evolution of dizziness) and 
+triggers (actions, movements, or situations) 
+that provoke dizziness can categorize the 
+dizziness as more likely to be peripheral or 
+central in etiology. Findings from the physi ­
+cal examination can help confirm a probable 
+diagnosis. A diagnostic algorithm can help 
+determine whether the etiology is peripheral 
+or central (Figure 1).
+TITRATE THE EVALUATION
+TiTrATE is a novel diagnostic approach to 
+determining the probable etiology of diz ­
+ziness or vertigo.2 The approach uses the 
+Timing of the symptom, the Triggers that 
+provoke the symptom, And a Targeted 
+Examination. The responses place the diz ­
+ziness into one of three clinical scenarios: 
+episodic triggered, spontaneous episodic, or 
+continuous vestibular.CME This clinical content 
+conforms to AAFP criteria 
+for continuing medical 
+education (CME). See  
+CME Quiz Questions on 
+page 149.
+Author disclosure: No rel -
+evant financial affiliations.▲
+ Patient information : 
+A handout on this topic, 
+written by the authors of 
+this article, is available 
+at http://www.aafp.org/
+afp/2017/0201/p 154-s1.
+html.
+Downloaded from the American Family Physician website at www.aafp.org/afp. Copyright © 2017 American Academy of Family Physicians. For the private, noncom -
+mercial use of one individual user of the website. All other rights reserved. Contact copyrights@aafp.org for copyright questions and/or permission requests.DizzinessFebruary 1, 2017  ◆ Volume 95, Number 3  www.aafp.org/afp  American Family Physician  155With episodic triggered symptoms, patients 
+have brief episodes of intermittent dizziness 
+lasting seconds to hours. Common triggers 
+are head motion on change of body position 
+(e.g., rolling over in bed). Episodic triggered 
+symptoms are consistent with a diagnosis of 
+benign paroxysmal positional vertigo (BPPV).
+With spontaneous episodic symptoms (no 
+trigger), patients have episodes of dizziness 
+lasting seconds to days. Because these epi ­
+sodes have no trigger, the patient’s history 
+establishes the diagnosis. Common diagnos ­
+tic considerations for spontaneous episodic 
+symptoms include Meniere disease, vestibu ­
+lar migraine, and psychiatric diagnoses such 
+as anxiety disorders. Symptoms associated 
+with lying down are more likely vestibular.
+With continuous vestibular symptoms, 
+patients have persistent dizziness lasting 
+days to weeks. The symptoms may be due to 
+traumatic or toxic exposure. Classic vestibu ­
+lar symptoms include continuous dizziness 
+or vertigo associated with nausea, vomiting, 
+nystagmus, gait instability, and head­ motion  
+intolerance. In the absence of trauma or 
+exposures, these findings are most consistent 
+with vestibular neuritis or central etiologies. 
+However, central causes can also occur with 
+patterns triggered by movement.
+HISTORY: TIMING, TRIGGERS,  
+AND MEDICATIONS
+Patients who describe a sensation of self­
+motion  when they are not moving or a sensa ­
+tion of distorted self­motion  during normal 
+head movement may have vertigo.5 Vertigo 
+is the result of asymmetry within the ves ­
+tibular system or a disorder of the peripheral  
+labyrinth or its central connections.8,9 The SORT: KEY RECOMMENDATIONS FOR PRACTICE
+Clinical recommendationEvidence 
+rating References
+Vertigo associated with unilateral hearing loss should raise suspicion for Meniere disease. C 41 
+The physical examination in patients with dizziness should include orthostatic blood pressure measurement, 
+nystagmus assessment, and the Dix-Hallpike maneuver for triggered vertigo.C 16 
+The HINTS (head-impulse, nystagmus, test of skew) examination can help differentiate a peripheral cause of 
+vestibular neuritis from a central cause. C 20
+Laboratory testing and imaging are not recommended when no neurologic abnormality is found on examination. C 1
+Benign paroxysmal positional vertigo is treated with a canalith repositioning procedure (e.g., Epley maneuver). A 30
+Vestibular neuritis symptoms may be relieved with medication and vestibular rehabilitation. C 20
+Meniere disease may improve with a low-salt diet and diuretic use. B 41 
+A = consistent, good-quality  patient-oriented  evidence; B = inconsistent or limited-quality  patient-oriented  evidence; C = consensus, disease-oriented  
+evidence, usual practice, expert opinion, or case series. For information about the SORT evidence rating system, go to http://www.aafp.org/afpsort.
+Table 1. Differential Diagnosis of Dizziness and Vertigo: 
+Common Causes 
+Cause (most to  
+least frequent) Clinical description
+Peripheral causes
+Benign paroxysmal  
+positional vertigoTransient triggered episodes of vertigo caused by 
+dislodged canaliths in the semicircular canals
+Vestibular neuritis Spontaneous episodes of vertigo caused by 
+inflammation of the vestibular nerve or 
+labyrinthine organs, usually from a viral infection
+Meniere disease Spontaneous episodes of vertigo associated 
+with unilateral hearing loss caused by excess 
+endolymphatic fluid pressure in the inner ear
+Otosclerosis Spontaneous episodes of vertigo caused by 
+abnormal bone growth in the middle ear and 
+associated with conductive hearing loss
+Central causes
+Vestibular migraine Spontaneous episodes of vertigo associated with 
+migraine headaches
+Cerebrovascular disease Continuous spontaneous episodes of vertigo 
+caused by arterial occlusion or insufficiency, 
+especially affecting the vertebrobasilar system
+Cerebellopontine angle 
+and posterior fossa 
+meningiomas Continuous spontaneous episodes of dizziness 
+caused by vestibular schwannoma (i.e., acoustic 
+neuroma), infratentorial ependymoma, brainstem 
+glioma, medulloblastoma, or neurofibromatosis
+Other causes
+Psychiatric Initially episodic, then often continuous episodes of 
+dizziness without another cause and associated 
+with psychiatric condition (e.g., anxiety, 
+depression, bipolar disorder)
+Medication induced Continuous episodes of dizziness without another 
+cause and associated with a possible medication 
+adverse effect
+Cardiovascular/
+metabolicAcute episodic symptoms that are not associated 
+with any triggers
+Orthostatic Acute episodic symptoms associated with a change 
+in position from supine or sitting to standing
+Information from references 1 and 3.Dizziness156 American Family Physician www.aafp.org/afp  Volume 95, Number 3  ◆ February 1, 2017distinction between vertigo and dizziness is of limited 
+clinical usefulness.2
+If vertigo is described, physicians should ask about 
+hearing loss, which could suggest Meniere disease.10 
+Diagnostic criteria for Meniere disease include episodic 
+vertigo (at least two episodes lasting at least 20 minutes) 
+associated with documented low ­ to medium­ frequency  
+sensorineural hearing loss by audiometric testing in the 
+affected ear and tinnitus or aural fullness in the affected 
+ear.10 The auditory symptoms are initially unilateral.
+Physicians should determine whether the vertigo is 
+triggered by a specific position or change in position. 
+BPPV is triggered with sudden changes in position, such 
+as a quick turn of the head on awakening or tipping the 
+head back in the shower. Dizziness from orthostatic 
+hypotension occurs with movement to the upright posi ­
+tion. Clinicians may erroneously assume that dizziness 
+that worsens with movement is associated with a benign 
+condition in patients with persistent dizziness.11 However,  exacerbation of symptoms with movement is common to 
+most causes of persistent dizziness and does not aid in 
+determining whether the etiology is peripheral vs. central 
+(benign vs. dangerous).7 
+WHAT IS NEW ON THIS TOPIC: EVALUATION  
+OF DIZZINESS
+TiTrATE is a novel diagnostic approach to determine the 
+probable etiology of dizziness or vertigo. It uses the Timing of 
+the symptom, the Triggers that provoke the symptom, And a 
+Targeted Examination. The patient’s response determines the 
+classification of dizziness as episodic triggered, spontaneous 
+episodic, or continuous vestibular.
+In a study of older patients in a primary care setting, 
+medications were implicated in 23% of cases of dizziness.
+The HINTS (head-impulse, nystagmus, test of skew) examination 
+can help differentiate a peripheral cause of vestibular neuritis 
+from a central cause.Assessment of Dizziness
+Figure 1.  Algorithm for the diagnostic evaluation of dizziness. (HINTS = head-impulse , nystagmus, test of skew.) *—Exacerbation of symptoms with movement does not aid in determining whether the etiology is peripheral vs. central.
+†—Central causes can also occur with patterns triggered by movement.Patient presents with dizziness or vertigo
+Is the timing episodic or continuous?
+Continuous
+Is it associated with trauma 
+or toxins, or spontaneous?
+Spontaneous
+HINTS examination
+No saccade, nystagmus 
+dominantly vertical, 
+torsional or gaze-
+evoked bidirectional, 
+abnormal test of skew
+Central etiology †
+Stroke or transient 
+ischemic attackSaccade present, 
+unidirectional 
+horizontal nystagmus, 
+normal test of skew
+Peripheral etiology
+Vestibular neuritisEpisodic
+Is it triggered or spontaneous?
+Spontaneous
+Migraine 
+headache
+Vestibular 
+migrainePsychiatric 
+symptoms
+Panic attack, 
+psychiatric 
+conditionHearing loss
+Meniere 
+diseasePositive
+Benign paroxysmal 
+positional vertigoNegative
+Assess for 
+orthostatic 
+hypotensionTriggered*
+Dix-Hallpike maneuverTrauma or toxin
+Barotrauma MedicationsDizzinessFebruary 1, 2017  ◆ Volume 95, Number 3  www.aafp.org/afp  American Family Physician  157Medications were implicated in 23% of cases of 
+dizziness in older adults in a primary care setting12 
+(Table 21,13,14). The use of five or more medications is 
+associated with an increased risk of dizziness.15 Older 
+patients are particularly susceptible to medication 
+adverse effects because of age­related  pharmacokinetic 
+and pharmacodynamic changes.13
+PHYSICAL EXAMINATION
+Findings from the physical examination—including a 
+cardiac and neurologic assessment, with attention to the 
+head, eye, ear, nose, and throat examination—are usu ­
+ally normal in patients presenting with dizziness.
+Blood pressure should be measured while the patient 
+is standing and in the supine position.16 Orthostatic 
+hypotension is present when the systolic blood pres ­
+sure decreases 20 mm Hg, the diastolic blood pressure 
+decreases 10 mm Hg, or the pulse increases 30 beats per 
+minute after going from supine to standing for one min ­
+ute.17 A full neurologic examination should be performed 
+in patients with orthostatic dizziness but no hypotension 
+or BPPV.
+The patient’s gait should be observed and a Romberg 
+test performed. Patients with an unsteady gait should be 
+assessed for peripheral neuropathy.18 A positive Romberg 
+test suggests an abnormality with proprioception recep ­
+tors or their pathway.
+The use of the HINTS ( head ­impulse , nystagmus, test 
+of skew) examination can help distinguish a possible 
+stroke (central cause) from acute vestibular syndrome 
+(peripheral cause).19 A video demonstrating this exami ­
+nation is available at http://www.kaltura.com/index.
+php/extwidget/preview/partner_id/797802/uiconf_id/  
+27472092/entry_id/0_b9t6s0wh/embed/auto.
+Head-Impulse . While the patient is sitting, the head is 
+thrust 10 degrees to the right and then to the left while 
+the patient’s eyes remain fixed on the examiner’s nose. 
+If a saccade (rapid movement of both eyes) occurs, the 
+etiology is likely peripheral.20 No eye movement strongly 
+suggests a central etiology.19
+Nystagmus . The patient should follow the examiner’s 
+finger as it moves slowly left to right. Spontaneous unidi ­
+rectional horizontal nystagmus that worsens when gazing 
+in the direction of the nystagmus suggests a peripheral 
+cause (vestibular neuritis).7 Spontaneous nystagmus that 
+is dominantly vertical or torsional, or that changes direc ­
+tion with the gaze ( gaze ­evoked  bidirectional) suggests a 
+central etiology. Central pathology nystagmus changes 
+direction less than half the time6 and can be suppressed 
+with fixation.21 A video ­oculography  device is avail ­
+able to quantitatively measure eye movement.22 Frenzel  goggles used to detect involuntary eye movements have 
+been helpful with nystagmus assessment.23
+Test of Skew . Test of skew is assessed by asking the 
+patient to look straight ahead, then cover and uncover 
+each eye. Vertical deviation of the covered eye after 
+uncovering is an abnormal result. Although this is a less 
+sensitive test for central pathology, an abnormal result is 
+fairly specific for brainstem involvement.
+Table 2. Medications Associated with Dizziness
+Medication Causal mechanism 
+Alcohol
+Antiarrhythmics, class 1a
+Antidementia agents
+Antiepileptics
+Antihistamines (sedating)
+Antihypertensives
+Anti-infectives: anti-influenza 
+agents, antifungals, quinolones
+Antiparkinsonian agents
+Attention-deficit/hyperactivity 
+disorder agents
+Digitalis glycosides
+Dipyridamole 
+Narcotics
+Nitrates
+Phosphodiesterase type 5 inhibitors
+Skeletal muscle relaxants 
+Sodium–glucose cotransporter-2 
+inhibitors
+Urinary anticholinergicsCardiac effects: 
+hypotension, postural 
+hypo  tension, torsades 
+de pointes, other 
+arrhythmias
+Skeletal muscle relaxants
+Urinary and gastrointestinal 
+antispasmodicsCentral anti  cholinergic 
+effects
+Antiepileptics
+Benzodiazepines
+LithiumCerebellar toxicity
+Antidiabetic agents
+Beta adrenergic blockersHypoglycemia
+Aminoglycosides
+Antirheumatic agentsOtotoxicity
+Anticoagulants 
+Antithyroid agents Bleeding complications 
+(anti coagulants), bone 
+marrow suppression 
+(anti thyroid agents)
+Information from references 1, 13, and 14.Dizziness158 American Family Physician www.aafp.org/afp  Volume 95, Number 3  ◆ February 1, 2017BPPV is diagnosed with the Dix­ Hallpike  maneuver 
+(Figure 2).24 Transient upbeat ­torsional  nystagmus dur ­
+ing the maneuver is diagnostic of BPPV if the timing and 
+trigger are consistent with BPPV. Nystagmus may not 
+develop immediately, and a sense of vertigo may occur 
+and last for one minute. A negative result does not rule 
+out BPPV if the timing and triggers are consistent with 
+BPPV.25 Nystagmus with the maneuver may be due to a 
+central etiology, especially if the timing and trigger are 
+not consistent with BPPV.
+LABORATORY TESTING AND IMAGING
+Most patients presenting with dizziness do not require 
+laboratory testing. Patients with chronic medical condi ­
+tions (e.g., diabetes mellitus, hypertension) may require 
+blood glucose and electrolyte measurements. Patients 
+with symptoms suggestive of cardiac disease should 
+undergo electrocardiography, Holter monitoring, and 
+possibly carotid Doppler testing. However, in a summary 
+analysis of multiple studies that included 4,538 patients, 
+only 26 (0.6%) had a laboratory result that explained 
+their dizziness.16
+Routine imaging is not indicated.1 However, any 
+abnormal neurologic finding, including asymmetric or 
+unilateral hearing loss, requires computed tomography 
+or magnetic resonance imaging to evaluate for cerebro ­
+vascular disease. Hearing loss with vertigo and normal 
+neuroimaging suggests Meniere disease. 
+Peripheral Etiologies
+Peripheral causes of dizziness arise from abnormalities 
+in the peripheral vestibular system, which is comprised of the semicircular canals, the saccule, the utricle, and 
+the vestibular nerve. Common peripheral causes of diz ­
+ziness/vertigo include BPPV, vestibular neuritis (i.e., ves ­
+tibular neuronitis), and Meniere disease.26
+BENIGN PAROXYSMAL POSITIONAL VERTIGO 
+BPPV occurs when loose otoconia, known as canaliths, 
+become dislodged and enter the semicircular canals, usu ­
+ally the posterior canal.27 BPPV can occur at any age, but 
+is most common between 50 and 70 years.28 No obvious 
+cause is found in 50% to 70% of older patients, but head 
+trauma is a possibility in younger persons.29
+Treatment of BPPV consists of a canalith repositioning 
+procedure such as the Epley maneuver, which repositions 
+the canalith from the semicircular canal into the vestibule30 
+(Figure 324). The success rate is approximately 70% on the 
+first attempt, and nearly 100% on successive maneuvers.29 
+Home treatment with Brandt ­Daroff  exercises (http://
+www.youtube.com/watch?v=voZXtTUdQ00 ) can also be 
+successful. If there is no improvement with repeated reposi ­
+tioning maneuvers, or if atypical or ongoing nystagmus with 
+nausea is present, another cause should be considered.27
+Pharmacologic treatment has no role in the treatment 
+of BPPV. Vestibular suppressant medications should be 
+avoided because they interfere with central compensa ­
+tion and may increase the risk of falls.20,31
+VESTIBULAR NEURITIS
+Vestibular neuritis, the second most common cause of 
+vertigo, is thought to be of viral origin. It most commonly 
+affects persons 30 to 50 years of age. Men and women are 
+affected equally.Figure 2. Dix-Hallpike  maneuver (used to diagnose benign paroxysmal positional vertigo). This test consists of a series 
+of two maneuvers: (A) With the patient sitting on the examination table, facing forward, eyes open, the physician 
+turns the patient’s head 45 degrees to the right. (B) The physician supports the patient’s head as the patient lies back 
+quickly from a sitting to supine position, ending with the head hanging 20 degrees off the end of the examination 
+table. The patient remains in this position for 30 seconds. Then the patient returns to the upright position and is 
+observed for 30 seconds. Next, the maneuver is repeated with the patient’s head turned to the left. A positive test is 
+indicated if any of these maneuvers trigger vertigo with or without nystagmus. A video of the procedure is available 
+at http://www.youtube.com /watch?v=vRpwf2mI3SU.
+Reprinted with permission from Swartz R, Longwell P. Treatment of vertigo. Am Fam Physician.  2005;71( 6):1117.
+45°
+ILLUSTRATIONS BY MARCIA HARTSOCKA BDizzinessFebruary 1, 2017  ◆ Volume 95, Number 3  www.aafp.org/afp  American Family Physician  159Vestibular neuritis is diagnosed on the basis of the 
+clinical history and physical examination.32 It can cause 
+severe rotatory vertigo with nausea and apparent move ­
+ment of objects in the visual field (oscillopsia), horizon ­
+tally rotating spontaneous nystagmus to the nonaffected 
+side, or an abnormal gait with a tendency to fall to the 
+affected side. Hearing is not impaired in this condi ­
+tion. The Dix­ Hallpike  maneuver is not useful because 
+patients with vestibular neuritis do not have episodic 
+positionally triggered symptoms.As vestibular compensation occurs, the patient’s vertigo  
+resolves slowly over a few days.33 In 50% of patients, 
+the underlying nerve damage may take two months to 
+resolve.34 However, a sensation of disequilibrium may 
+persist for months because of unilateral impairment of  
+vestibular function. Vertigo may recur, indicating interfer ­
+ence with compensation. If the attacks do not become suc ­
+cessively shorter, another diagnosis should be considered.
+Reassurance, explanation, and advice are essential, in 
+combination with symptomatic treatment for the first Figure 3.  Epley maneuver. (A) The patient sits on the exam -
+ination table, with eyes open and head turned 45 degrees 
+to the right. (B) The physician supports the patient’s head 
+as the patient lies back quickly from a sitting to supine 
+position, ending with the head hanging 20 degrees off 
+the end of the examination table. (C) The physician turns 
+the patient’s head 90 degrees to the left side. The patient 
+remains in this position for 30 seconds. (D) The physician 
+turns the patient’s head an additional 90 degrees to the 
+left while the patient rotates his or her body 90 degrees 
+in the same direction. The patient remains in this position 
+for 30 seconds. (E) The patient sits up on the left side of 
+the examination table. The procedure may be repeated 
+on either side until the patient experiences relief of symp -
+toms. A video of the procedure is available at http://www.
+youtube.com /watch?v=ZqokxZRbJfw&amp;NR=1.
+Reprinted with permission from Swartz R, Longwell P. Treatment of vertigo. 
+Am Fam Physician . 2005;71( 6):1119.
+45°
+90°90°ILLUSTRATIONS BY MARCIA HARTSOCKA
+B
+CD
+EDizziness160 American Family Physician www.aafp.org/afp  Volume 95, Number 3  ◆ February 1, 2017few days.33 The prognosis is excellent, but development 
+of BPPV after an attack of vestibular neuritis may occur 
+in 15% of patients.35
+Vestibular neuritis is treated with medications and ves ­
+tibular rehabilitation20 (Table 320,24). Antiemetics and 
+antinausea medications should be used for no more than 
+three days because of their effects in blocking central 
+compensation. Vertigo and associated nausea or vomit ­
+ing can be treated with a combination of antihistamine, 
+antiemetic, or benzodiazepine. Although systemic cor ­
+ticosteroids have been recommended as a treatment for 
+vestibular neuritis, there is insufficient evidence for their 
+routine use.36 Antiviral medications are ineffective.37
+MENIERE DISEASE
+Meniere disease causes vertigo and unilateral hearing 
+loss. Although it can develop at any age, it is more com ­
+mon between 20 and 60 years.38 The vertigo associated 
+with Meniere disease is often severe enough to necessitate 
+bed rest and can cause nausea, vomiting, and loss of bal ­
+ance. Other symptoms include sudden slips or falls, and 
+headache with hearing loss worsened during an attack.39
+The underlying pathology is excess endolymphatic 
+fluid pressure leading to inner ear dysfunction; how ­
+ever, the exact cause is unknown.40 Patients manifest a 
+unidirectional, horizontal ­torsional  nystagmus during 
+vertigo episodes.
+First ­line treatment of Meniere disease involves life ­
+style changes, including limiting dietary salt intake to less than 2,000 mg per day, reducing caffeine intake, 
+and limiting alcohol to one drink per day. Daily thiazide 
+diuretic therapy can be added if vertigo is not controlled 
+with lifestyle changes.41
+Transtympanic injections of glucocorticoids42 and 
+gentamicin43 can improve vertigo. Although transtym ­
+panic glucocorticoids may improve hearing, transtym ­
+panic gentamicin is associated with hearing loss and 
+should be reserved for patients who already have signifi ­
+cant hearing loss.20
+Vestibular suppressant medications may be used for 
+acute attacks.20 Prochlorperazine, promethazine, and 
+diazepam (Valium) have been effective. Surgery is an 
+option for patients with refractory symptoms.41 Ves ­
+tibular exercises may be helpful for patients with uni ­
+lateral peripheral vestibular dysfunction.44 Vestibular 
+rehabilitation  may be needed for persistent tinnitus or 
+hearing loss.
+Central Etiologies
+The vestibular nuclei, cerebellum, brainstem, spinal 
+cord, and vestibular cortex make up the central vestibu ­
+lar system. Central abnormalities cause approximately 
+25% of dizziness experienced by patients.45 Common 
+central etiologies include vestibular migraine and verte ­
+brobasilar ischemia. Patients with central pathology may 
+present with disequilibrium and ataxia rather than true 
+vertigo. However, vertigo can be a presenting symptom 
+of an impending cerebrovascular event.46,47Table 3. Vestibular Suppressant Medications 
+Medication Dosage Adverse effects Cost*
+Antiemetics
+Metoclopramide 
+(Reglan)5 to 10 mg orally every 
+6 hours, or 5 to 10 mg 
+slowly IV every 6 hoursAkathesia, atrioventricular block, bradycardia, bronchospasm, 
+dizziness, drowsiness, dystonic reaction, gynecomastia, 
+nausea, tardive dyskinesiaTablets: $2 ($25)
+Prochlorperazine 5 to 10 mg orally or IM 
+every 6 to 8 hoursAgitation, dizziness, drowsiness, dystonic reaction, extra -
+pyramidal symptoms, photosensitivity, tardive dyskinesiaTablets: $2
+Antihistamines
+Dimenhydrinate 50 mg orally every 6 hours Anorexia, blurred vision, dizziness, drowsiness, nausea $3 
+Meclizine 
+(Antivert)12.5 to 50 mg orally every  
+4 to 8 hoursBlurred vision, drowsiness, fatigue, headache, vomiting $1 to $4 ($8 to $47)
+Promethazine 25 mg every 6 hours orally, 
+IM, or rectally every 4 to 
+12 hoursAgitation, bradycardia, confusion, constipation, drowsiness, 
+dizziness, dystonia, extrapyramidal symptoms, gynecomastia, 
+photosensitivity, urinary retentionTablets: $2
+Suppository: $3
+Benzodiazepines
+Diazepam 
+(Valium)2 to 10 mg orally or IV  
+every 4 to 8 hours Amnesia, drowsiness, slurred speech, vertigo Tablets: $1 ($30 to 
+$168)
+Lorazepam 
+(Ativan)1 to 2 mg orally every  
+4 hoursAmnesia, dizziness, drowsiness, slurred speech, vertigo $1 ($320 to $500)
+IM = intramuscularly; IV = intravenously.
+*—Estimated retail price for a three-day  course based on information obtained at http://www.goodrx.com  (accessed October 7, 2016). Generic price 
+listed first; brand name in parentheses.
+Information from references 20 and 24.DizzinessFebruary 1, 2017  ◆ Volume 95, Number 3  www.aafp.org/afp  American Family Physician  161Potentially deadly central causes of acute vestibular 
+syndrome may mimic a more benign peripheral disor ­
+der, and a stroke may present with no focal neurologic 
+signs. Computed tomography does not have adequate 
+sensitivity to distinguish stroke from benign causes of 
+acute vestibular syndrome. The HINTS examination 
+is highly sensitive and specific in identifying stroke in 
+patients with acute vestibular syndrome, and it is supe ­
+rior to diffusion ­weighted  magnetic resonance imaging 
+in ruling out stroke.6 
+VESTIBULAR MIGRAINE
+Episodic vertigo in a patient with a history of migraine 
+headaches suggests vestibular migraine.48 Vestibular 
+migraine is one of the most common causes of episodic 
+vertigo among children.49 Among adults, it is three times 
+more common among women and more often occurs 
+between 20 and 50 years of age.50 A family history of ves ­
+tibular migraine is a risk factor.
+The diagnostic criteria for vestibular migraine include 
+at least five episodes of vestibular symptoms of moder ­
+ate or severe intensity lasting five minutes to 72 hours; 
+current or previous history of migraine headache; one 
+or more migraine features, and at least 50% with ves ­
+tibular symptoms; and no other cause of vestibular 
+symptoms.51
+Initial management focuses on identifying and avoid ­
+ing migraine triggers. Stress relief is recommended, and 
+adequate sleep and exercise are encouraged. Vestibular 
+suppressant medications are helpful.20 Because of a lack 
+of well­ designed  randomized clinical trials, preven ­
+tion recommendations are based on expert opinion.52 
+Preventive medications include anticonvulsants, beta 
+adrenergic blockers, calcium channel blockers, tricyclic 
+antidepressants, butterbur extract, and magnesium. 
+The goal is a 50% reduction in attacks.20 It is not clear 
+whether migraine abortive therapy is effective in treat ­
+ing vertigo.20
+VERTEBROBASILAR ISCHEMIA
+The blood supply to the brainstem, cerebellum, and 
+inner ear is derived from the vertebrobasilar system. Any 
+major branch occlusion can cause vertigo. Diagnosis 
+usually relies on a history of brainstem symptoms, such 
+as diplopia, dysarthria, weakness, or clumsiness of the 
+limbs. Vertigo is the initial symptom in 48% of patients, 
+although fewer than one­half  will have an associated 
+neurologic finding.53 Treatment includes antiplatelet 
+therapy and reduction of risk factors for cerebrovascular 
+disease. Warfarin (Coumadin) has been used in cases of 
+significant vertebral or basilar artery stenosis.54This article updates a previous article by Post and Dickerson.1
+Data Sources : A PubMed and Ovid search was completed in Clinical 
+Queries using the key words dizziness, vertigo, disequilibrium, and 
+presyncope. Additional search terms included Meniere disease, Epley 
+maneuver, and vestibular neuritis. The Cochrane Library and Essential 
+Evidence Plus were searched using the key words vertigo and dizziness. 
+Last search date: October 2015. 
+The Authors
+HERBERT L. MUNCIE, MD, is a professor in the Department of Family 
+Medicine at Louisiana State University School of Medicine, New Orleans.
+SUSAN M. SIRMANS, PharmD, is an associate professor in the Department 
+of Clinical Sciences at the University of Louisiana at Monroe School of 
+Pharmacy.
+ERNEST JAMES, MD, is an assistant professor in the Department of Family 
+Medicine at Louisiana State University School of Medicine.
+Address correspondence to Herbert L. Muncie, MD, LSU School of 
+Medicine, 2020 Gravier St., Ste. 746, New Orleans, LA 70112 ( e-mail : 
+hmunci@lsuhsc.edu ). Reprints are not available from the authors. 
+REFERENCES
+ 1. Post RE, Dickerson LM. Dizziness:  a diagnostic approach. Am Fam Physi -
+cian. 2010;  82(4): 361-368 , 369.
+ 2. Newman-Toker  DE, Edlow JA. TiTrATE:  a novel, evidence-based  
+approach to diagnosing acute dizziness and vertigo. Neurol Clin . 2015; 
+33(3):  577-599 , viii.
+ 3. Newman-Toker  DE, Cannon LM, Stofferahn ME, Rothman RE, Hsieh YH, 
+Zee DS. Imprecision in patient reports of dizziness symptom quality:  
+a cross-sectional  study conducted in an acute care setting. Mayo Clin 
+Proc. 2007;  82(11):  1329-1340 .
+ 4. Drachman DA, Hart CW. An approach to the dizzy patient. Neurology . 
+1972; 22(4):  323-334 .
+ 5. Bisdorff A, Von Brevern M, Lempert T, Newman-Toker  DE. Classifica -
+tion of vestibular symptoms:  towards an international classification of 
+vestibular disorders. J Vestib Res . 2009; 19( 1-2): 1-13.
+ 6. Tarnutzer AA, Berkowitz AL, Robinson KA, Hsieh YH, Newman-Toker  
+DE. Does my dizzy patient have a stroke? A systematic review of bedside 
+diagnosis in acute vestibular syndrome. CMAJ . 2011;  183 (9):  E571-E592 .
+ 7. Kerber KA, Newman-Toker  DE. Misdiagnosing dizzy patients. Common 
+pitfalls in clinical practice. Neurol Clin . 2015;  33(3):  565-575 , viii.
+ 8. Newman-Toker  DE, Camargo CA Jr. ‘Cardiogenic vertigo’—true vertigo 
+as the presenting manifestation of primary cardiac disease. Nat Clin 
+Pract Neurol . 2006;  2(3): 167-172 .
+ 9. Labuguen RH. Initial evaluation of vertigo [published correction appears 
+in Am Fam Physician . 2006;  73(10):  1704]. Am Fam Physician . 2006; 
+73(2):  244-251 .
+ 10. Lopez-Escamez  JA, Carey J, Chung WH, et al.;  Classification Committee 
+of the Barany Society;  Japan Society for Equilibrium Research;  European 
+Academy of Otology and Neurotology (EAONO);  Equilibrium Com -
+mittee of the American Academy of Otolaryngology-Head  and Neck 
+Surgery ( AAO-HNS );  Korean Balance Society. Diagnostic criteria for 
+Menière’s disease. J Vestib Res . 2015;  25(1):  1-7.
+ 11. Stanton VA, Hsieh YH, Camargo CA Jr, et al. Overreliance on symptom 
+quality in diagnosing dizziness:  results of a multicenter survey of emer -
+gency physicians [published correction appears in Mayo Clin Proc . 2013; 
+88(7):  777]. Mayo Clin Proc . 2007;  82(11):  1319-1328 .
+ 12. Maarsingh OR, Dros J, Schellevis FG, et al. Causes of persistent dizziness 
+in elderly patients in primary care. Ann Fam Med . 2010;  8(3): 196-205 .Dizziness162 American Family Physician www.aafp.org/afp  Volume 95, Number 3  ◆ February 1, 2017 13. Shoair OA, Nyandege AN, Slattum PW. Medication-related  dizziness in 
+the older adult. Otolaryngol Clin North Am . 2011;  44 (2):  455-471 , x.
+ 14. Lempert T. Recurrent spontaneous attacks of dizziness. Continuum 
+(Minneap Minn) . 2012;  18(5 Neuro-otology ): 1086-1101 .
+ 15. Tinetti ME, Williams CS, Gill TM. Dizziness among older adults:  a pos -
+sible geriatric syndrome. Ann Intern Med . 2000;  132(5):  337-344 .
+ 16. Hoffman RM, Einstadter D, Kroenke K. Evaluating dizziness. Am J Med . 
+1999;  107(5):  468-478 .
+ 17. The Consensus Committee of the American Autonomic Society and the 
+American Academy of Neurology. Consensus statement on the defini -
+tion of orthostatic hypotension, pure autonomic failure, and multiple 
+system atrophy. Neurology . 1996;  46(5):  1470.
+ 18. Kroenke K, Lucas CA, Rosenberg ML, et al. Causes of persistent diz -
+ziness. A prospective study of 100 patients in ambulatory care. Ann 
+Intern Med . 1992;  117(11):  898-904 .
+ 19. Kattah JC, Talkad AV, Wang DZ, Hsieh YH, Newman-Toker  DE. HINTS 
+to diagnose stroke in the acute vestibular syndrome:  three-step  bed-
+side oculomotor examination more sensitive than early MRI diffusion-
+weighted  imaging. Stroke . 2009;  40 (11):  3504-3510 .
+ 20. Wipperman J. Dizziness and vertigo. Prim Care . 2014;  41(1):  115-131 .
+ 21. Lee H, Kim HA. Nystagmus in SCA territory cerebellar infarction:  pattern 
+and a possible mechanism. J Neurol Neurosurg Psychiatry . 2013;  84(4): 
+446-451 .
+ 22. Newman-Toker  DE, Saber Tehrani AS, Mantokoudis G, et al. Quantita -
+tive video-oculography  to help diagnose stroke in acute vertigo and 
+dizziness:  toward an ECG for the eyes. Stroke . 2013;  44(4):  1158-1161 .
+ 23. Strupp M, Fischer C, Hanß L, Bayer O. The takeaway Frenzel goggles:  
+a Fresnel-based  device. Neurology . 2014;  83(14):  1241-1245 .
+ 24. Swartz R, Longwell P. Treatment of vertigo. Am Fam Physician . 2005; 
+71(6): 1115-1122 .
+ 25. Kim JS, Zee DS. Clinical practice. Benign paroxysmal positional vertigo. 
+N Engl J Med . 2014;  370(12):  1138-1147 .
+ 26. Kroenke K, Hoffman RM, Einstadter D. How common are various causes 
+of dizziness? A critical review. South Med J . 2000;  93(2):  160-167 .
+ 27. Hornibrook J. Benign paroxysmal positional vertigo (BPPV):  history, 
+pathophysiology, office treatment and future directions. Int J Otolaryn -
+gol. 2011;  2011:  835671.
+ 28. Parnes LS, Agrawal SK, Atlas J. Diagnosis and management of benign 
+paroxysmal positional vertigo (BPPV). CMAJ . 2003;  169(7):  681-693 .
+ 29. Hilton MP, Pinder DK. The Epley (canalith repositioning) manoeuvre 
+for benign paroxysmal positional vertigo. Cochrane Database Syst Rev . 
+2014;  (12): CD003162.
+ 30. Fife TD, Iverson DJ, Lempert T, et al.;  Quality Standards Subcommit -
+tee, American Academy of Neurology. Practice parameter:  therapies 
+for benign paroxysmal positional vertigo (an evidence-based  review):  
+report of the Quality Standards Subcommittee of the American Acad -
+emy of Neurology. Neurology . 2008; 70(22):  2067-2074 .
+ 31. Bhattacharyya N, Baugh RF, Orvidas L, et al.;  American Academy of 
+Otolaryngology-Head  and Neck Surgery Foundation. Clinical practice 
+guideline:  benign paroxysmal positional vertigo. Otolaryngol Head 
+Neck Surg . 2008;  139(5 suppl 4):  S47-S81 .
+ 32. Kentala E. Characteristics of six otologic diseases involving vertigo. Am 
+J Otol . 1996;  17(6):  883-892 .
+ 33. Rascol O, Hain TC, Brefel C, Benazet M, Clanet M, Montastruc JL. 
+Antivertigo medications and drug-induced  vertigo. A pharmacological 
+review. Drugs . 1995;  50(5):  777-791 . 34. Bergenius J, Borg E. Audio-vestibular  findings in patients with vestibular 
+neuritis. Acta Otolaryngol . 1983;  96(5-6): 389-395 .
+ 35. Baloh RW, Honrubia V, Jacobson K. Benign positional vertigo:  clinical 
+and oculographic features in 240 cases. Neurology . 1987;  37(3): 371-378 .
+ 36. Fishman JM, Burgess C, Waddell A. Corticosteroids for the treatment of 
+idiopathic acute vestibular dysfunction (vestibular neuritis). Cochrane 
+Database Syst Rev . 2011;  (5): CD008607.
+ 37. Strupp M, Zingler VC, Arbusow V, et al. Methylprednisolone, valacy -
+clovir, or the combination for vestibular neuritis. N Engl J Med . 2004; 
+351(4):  354-361 .
+ 38. Minor LB, Schessel DA, Carey JP. Ménière’s disease. Curr Opin Neurol . 
+2004;  17(1):  9-16.
+ 39. Kentala E. Characteristics of six otologic diseases involving vertigo. Am 
+J Otol . 1996;  17(6):  883-892 .
+ 40. Coelho DH, Lalwani AK. Medical management of Ménière’s disease. 
+Laryngoscope . 2008;  118 (6):  1099-1108 .
+ 41. Harcourt J, Barraclough K, Bronstein AM. Meniere’s disease. BMJ. 2014; 
+349: g6544.
+ 42. Garduño-Anaya  MA, Couthino De Toledo H, Hinojosa-González  R, 
+Pane-Pianese  C, Ríos-Castañeda  LC. Dexamethasone inner ear perfu -
+sion by intratympanic injection in unilateral Ménière’s disease:  a two-
+year prospective, placebo-controlled , double-blind , randomized trial. 
+Otolaryngol Head Neck Surg . 2005;  133(2):  285-294 .
+ 43. Postema RJ, Kingma CM, Wit HP, Albers FW, Van Der Laan BF. Intratym -
+panic gentamicin therapy for control of vertigo in unilateral Menière’s 
+disease:   a prospective, double-blind , randomized, placebo-controlled  
+trial. Acta Otolaryngol . 2008;  128(8):  876-880 .
+ 44. Hillier SL, McDonnell M. Vestibular rehabilitation for unilateral periph -
+eral vestibular dysfunction. Clin Otolaryngol . 2011;  36 (3):  248-249 .
+ 45. Neuhauser HK. Epidemiology of vertigo. Curr Opin Neurol . 2007;  20(1):  
+40-46 .
+ 46. Lee H, Sohn SI, Cho YW, et al. Cerebellar infarction presenting isolated 
+vertigo:  frequency and vascular topographical patterns. Neurology . 
+2006;  67(7): 1178-1183 .
+ 47. Paul NL, Simoni M, Rothwell PM;  Oxford Vascular Study. Transient 
+isolated brainstem symptoms preceding posterior circulation stroke:   
+a population-based  study. Lancet Neurol . 2013;  12(1):  65-71 .
+ 48. Lempert T. Vestibular migraine. Semin Neurol . 2013;  33(3):  212-218 .
+ 49. Langhagen T, Lehrer N, Borggraefe I, Heinen F, Jahn K. Vestibular 
+migraine in children and adolescents:  clinical findings and laboratory 
+tests. Front Neurol . 2015;  5: 292.
+ 50. Cherchi M, Hain TC. Migraine-associated  vertigo. Otolaryngol Clin 
+North Am . 2011;  44(2): 367-375 .
+ 51. Lempert T, Olesen J, Furman J, et al. Vestibular migraine:  diagnostic 
+criteria. J Vestib Res . 2012; 22(4):  167-172 .
+ 52. Maldonado Fernández M, Birdi JS, Irving GJ, Murdin L, Kivekäs I, Strupp 
+M. Pharmacological agents for the prevention of vestibular migraine. 
+Cochrane Database Syst Rev . 2015;  (6): CD010600.
+ 53. Newman-Toker  DE, Kattah JC, Alvernia JE, Wang DZ. Normal head 
+impulse test differentiates acute cerebellar strokes from vestibular neu -
+ritis. Neurology . 2008;  70(24 pt 2):  2378-2385 .
+ 54. Gomez CR, Cruz-Flores  S, Malkoff MD, Sauer CM, Burch CM. Isolated 
+vertigo as a manifestation of vertebrobasilar ischemia. Neurology . 
+1996;  47(1): 94-97 .

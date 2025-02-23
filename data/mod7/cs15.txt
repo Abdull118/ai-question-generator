@@ -1,0 +1,421 @@
+Neuromuscular Disorders
+Todd Levi, M.D.
+Clinical Systems 
+Touro COM – NY Reading
+•Goldman-Cecil Medicine, 26th 
+edition, chapter 391 (section on 
+ALS), chapter 392Objectives
+•Recognize the etiology, clinical presentation, 
+evaluation/diagnosis and treatment/management 
+of amyotrophic lateral sclerosis, spinal muscular 
+atrophy
+•Differentiate mononeuropathy, mononeuritis 
+multiplex & polyneuropathy
+•Recognize medications causing neuropathy
+•Identify the clinical presentation, evaluation & 
+treatment of Gullian-Barre Syndrome, Diabetic 
+neuropathy, nutritional, toxic & vasculitic 
+polyneuropathy, HIV neuropathies and those 
+associated with Charcot Marie Tooth. 
+•Recognize the etiologies and presentation of Bell’s 
+palsy and how to distinguish a peripheral facial 
+nerve lesion from a central lesion.Motor Neuron Disease
+•Amyotrophic lateral sclerosis 
+(ALS) 
+•Progressive muscular atrophy 
+•Progressive bulbar palsy
+•Primary lateral sclerosis
+•Spinal muscular atrophy (SMA)
+Amyotrophic Lateral 
+Sclerosis (ALS)
+•A degenerative motor neuron disease
+•Loss of motor neurons in the cortex, 
+brainstem and spinal cord
+•Clinical hallmark of ALS is a combination 
+of UMN and LMN signs/symptoms
+•UMN: weakness, hyperreflexia, spasticity
+•Degeneration of upper motor neurons in frontal 
+lobe (Brodman's area 4) and lateral 
+corticospinal tract 
+•LMN: weakness, atrophy/amyotrophy, 
+fasciculations
+•Degeneration of lower motor neurons in 
+brainstem and spinal cord
+•No sensory lossClinical Presentation-Clinical 
+Course
+•Relentlessly progressive and linear course
+•Symptoms initially spread within the segment of onset 
+and then to other regions 
+•Most common presentation:
+•asymmetric limb weakness (80%), bulbar onset (usually 
+dysarthria or dysphagia) (20%)
+•Much variation in clinical presentation:  site/segment 
+(cranial, cervical, thoracic, or lumbosacral), onset, pattern 
+7 spread of disease, degree of UMN/LMN dysfunction
+• limb, bulbar, axial, and respiratory function.
+•Cognitive impairment (fronto-temporal neurons) can 
+precede or follow UMN/LMN involvement (10-15% will 
+develop Fronto-temporal dementia)
+•Ultimately progresses to neuromuscular respiratory failure 
+and/or dysphagia, which prove fatalEpidemiology/Demographic 
+Data
+•Sporadic (90%) & familial forms (10%)
+•Incidence increases w/decade of age > 40, 
+peaks mid 70’s
+•Risk factors:
+•Age
+•Family Hx
+•Cigarette smoking ?
+•Rates highest in Caucasians (USA)
+•Etiologies continue to be studied
+•Likely multifactorial
+•Median survival 3-5 yearsDiagnosis of ALS 
+•H & P suggestive 
+•UMN & LMN Si/Sx, disease progression, & other 
+causes ruled out)
+•Electrodiagnostic studies
+•EMG 
+•Demonstrate signs of chronic denervation & 
+reinnervation
+•Gold Coast Criteria (2019)
+•Progressive UMN/LMN symptoms and signs in 
+one limb or body segment, OR
+•Progressive lower motor neuron symptoms and 
+signs in at least two body segments, AND
+•Absence of electrophysiologic, neuroimaging, and 
+pathologic evidence of other disease processes 
+that might explain the signs of lower and/or 
+upper motor neuron degenerationTreatment-Management 
+of ALS
+•Riluzole : only drug shown to impact 
+survival by slowing progression
+•Glutamate induced excitotoxicity
+•MOA unclear
+•Edavarone : free radical scavenger may 
+reduce oxidative stress
+•Evidence of benefit most in early ALS
+•Experimental treatments:
+•gene silencing therapy
+•heat shock proteins
+•skeletal muscle activators
+•tyrosine kinase inhibitors, etc.Treatment-Management of 
+ALS
+•Respiratory symptoms
+•Counseling
+•Serial PFTs
+•NIPPV (respiratory compromise)
+•Mechanical ventilation
+•Immunizations
+•Gastrostomy tube (dysphagia)
+•Other symptoms managed according to 
+clinical experience, few RCTs conductedSpinal Muscular Atrophy 
+(SMA)
+•Most common form of inherited motor neuron 
+disease 
+•AR, SMN1 gene deletions/mutations
+•Age of onset 
+•Infancy: Werdnig Hoffman disease (SMA type 1)
+•Adolescence: Kugelberg Welander disease (SMA type 3)
+•Late onset (SMA type 4): mildest
+•Diffuse symmetric proximal muscle weakness LE > 
+UE, absent/reduced DTR’s
+•Dx via molecular genetic testing (homozygous 
+deletions in SMN1)
+•Treatment is mainly supportive care, but disease 
+modifying therapy is available
+•Nursinersen, risdiplam, omasemnogene abeparvovec
+•$$$$Peripheral Nerve 
+Disorders
+•Mononeuropathy
+•Pattern of weakness and sensory loss conforms to the 
+distribution of a single nerve
+•Carpal tunnel syndrome
+•Peroneal palsy at the fibular head
+•Mononeuritis multiplex
+•Multiple nerves affected in a random pattern
+•Acute onset, frequently painful
+•Diabetes mellitus, vasculitis
+•Polyneuropathy (sometimes called peripheral neuropathy)
+•Distal, symmetricPeripheral Neuropathy Signs 
+& Symptoms
+•Weakness, sensory loss, abnormal balance, & autonomic 
+dysfunction 
+•Motor:
+•Weakness often distal, legs > arms
+•Tripping, ankle sprains
+•Hands – fine movements affected
+•Buttons, zippers, unlocking doors
+•Cramps
+•Sensory: small thinly myelinated or unmyelinated fibers 
+(pain, temp) & large myelinated fibers (proprioception)
+•Start in feet, move proximally
+•Hand Sx once LE Sx reach knees
+•Feet feel like “walking on pebbles”, “ice cold”
+•Painful dysesthesias
+•“pins & needles”, burning in feet
+•Sensory Sx start in hands when LE Sx reach knee
+•Loss of balance
+•Autonomic  (DM, amyloidosis)
+•Urinary retention, incontinence, abnormal sweating, GI Sx, 
+orthostasis, impotencePeripheral Neuropathy 
+Signs & Symptoms
+•Most affect both sensory & motor
+•Weakness & sensory loss
+•Most are symmetrical & length-
+dependent
+•Muscle atrophy
+•Foot dorsiflexion & eversion
+•Intrinsic hand muscles
+•Fasciculations
+•Sensory loss
+•“stocking-glove” distribution
+•Sensory ataxiaPredominantly Sensory
+Inflammatory/Immune
+–Monoclonal gammopathy
+–Vasculitis
+–Paraneoplastic
+Metabolic
+–Diabetes
+Infectious
+–HIV
+–Herpes Zoster
+–Leprosy
+Toxic/deficiency
+–Meds
+INH, Vincristine, cisplatin, paclitaxel
+–Toxins
+Thallium, Pyridoxine(B6)
+–Deficiency
+Vitamin B1, B12, E
+–IdiopathicPredominantly Motor
+Inflammatory/Immune
+–Guillain-Barre
+–Multifocal motor neuropathy
+–Critical illness myopathy
+Toxic/deficiency
+–Medications
+Dapsone
+–Toxins
+Lead(adults)
+Peripheral NeuropathiesIsoniazid
+•Common medication used 
+in the treatment of TB
+•Interferes with pyridoxine 
+metabolism
+–Symmetrical numbness and 
+tingling of the toes and feet
+–Burning pain, and sensory loss
+–Weakness of distal muscles of 
+the legs 
+–Loss of muscle stretch reflexes
+•Pyridoxine is preventiveSystemic Vasculitis & Neuropathy
+•Vasculitis of vaso vasorum
+•h/o systemic vasculitis
+•Multifocal findings on PE
+•Abnormal electrodiagnostic studies
+•Autoimmune antibodies, Hepatitis B or C, cryoglobulins
+•Abnormal nerve biopsy
+Diabetic Neuropathy
+•Most common distal, symmetric 
+polyneuropathy (stocking-glove)
+•Length dependent (longest nerves 1st)
+•Poor glycemic control, long duration of disease
+•DM or FHx of DM
+•Obesity, HTN, male gender, EtOH, smoking, 
+hyperlipidemia
+•Distal sensory loss, reduced DTR’s
+•Pain & temp loss
+•Diabetic foot ulcers
+•Proprioception and Autonomic Sx
+•Electrodiagnostic studies abnormalNeuropathy in HIV 
+Infection
+•Distal symmetric polyneuropathy
+•painful sensory type/sensorimotor
+•Inflammatory demyelinating polyneuropathy
+•Mononeuritis multiplex
+•CMV & Herpes zoster radiculoneuropathy
+•Cranial neuropathy
+•Autonomic neuropathy
+•Drug-induced/nutritional neuropathyGuillain-Barre Syndrome (GBS)
+•Acute immune-mediated polyneuropathies
+•Acute, acquired weakness provoked by a 
+preceding insult, often an infection
+•Molecular mimicry: immune reaction to 
+infection or other event cross-reacts with 
+similar epitopes on peripheral nerves. 
+Myelinated nerves are affected.GBS Pathophysiology
+•Pathology: demyelination, axonal loss
+•Demyelination: focal inflammatory 
+response against Schwann cells,  peripheral 
+myelin
+•AIDP, Miller-Fischer syndrome
+•Degrades blood-brain barrier
+•Plasma proteins transudate into CSF
+•Activated T-cell infiltration of small 
+vessels   macrophage  mediated 
+demyelination
+•Axonal loss: immune reaction to epitopes 
+on axonal membrane
+•AMAN, AMSAN
+•More frequent in Asia
+•Humoral immune response causes axonal 
+injury
+•Infection with  c. jejuni most common 
+antecedent infection/trigger
+•H. influenzae, m. pneumoniae,  CMVHeterogeneous syndromes with 
+variant forms
+•Acute inflammatory demyelinating 
+polyneuropathy(AIDP)
+•Most common form in US, Europe
+•Acute flaccid weakness & sensory loss
+•Acute motor & sensory axonal neuropathy(AMSAN)
+•Acute flaccid weakness & sensory loss
+•Axonal pathology 
+•Acute motor axonal neuropathy
+•Acute flaccid weakness NO sensory loss
+•Miller-Fisher syndrome
+•Acute ophthalmoplegia, ataxia & areflexia
+•GQ1b antibodiesGBS Clinical  Presentation
+•Progressive, symmetric muscle weakness, absent/depressed DTR’s
+•+/- sensory Sx, dysautonomia
+•Mild difficulty walking to complete paralysis of all muscles
+•Sx progress over 2-4 weeks
+•Forms with longer time course: SIDP, CIDP
+•Weakness starts in legs (90%), arms or facial muscles (10%)
+•Most progress to bilateral UE & LE involvement
+•Facial nerve palsies, oropharyngeal weakness, oculomotor 
+weakness
+•Respiratory muscle weakness req. mechanical ventilation in 10-
+30%
+•Cranial nerve involvement
+•Ophthalmoplegia in Miller-Fischer syndrome
+•Paresthesias in hands, feet common, but positive exam findings 
+usually mild
+•Pain possible with nerve root inflammation during acute phase
+•Autonomic dysfunction: ileus, hypo/hyper-tension, fever, 
+tachy/brady-cardia, urinary retentionGBS Diagnosis
+•Suspect GBS based on H & P findings
+•CSF fluid analysis for all patients
+•Elevated CSF protein with normal wbc count (albuminocytologic 
+dissociation)
+•Electrodiagnostic studies in atypical forms
+•EMG, NCS
+•Differentiate demyelinating vs axonal pathology
+•Lab testing to rule out other causes of acute weakness
+•CBC, CMP, ESR, serum glucose, glycosylated Hgb
+•Autoantibody testing: 
+•antiganglioside antibody (AMAN, AMSAN)
+•Anti-GQ1b antibody (MFS) – oculomotor nerve myelin
+•MRI, ultrasound can be used to rule out other causesGBS Treatment
+•Admit to hospital for hemodynamic & 
+neurologic monitoring, identify level of care 
+(floor vs. ICU)
+•Immunomodulatory therapy
+•Intravenous immunoglobin (IVIG) or plasma 
+exchange (PLEX)
+•Reduce time to recovery
+•Supportive care
+•Respiratory support, neurologic and cardiac 
+monitoringCharcot-Marie Tooth Disease 
+(CMT)
+•Aka hereditary motor sensory neuropathy (HMSN)
+•Spectrum of inherited d/o
+•CMT1A (40%), 1B, X-linked, etc (8 subtypes)
+•PMP22, MPZ, GJB1, and  MFN2
+•Some early onset, others 3rd, 4th decade
+•Different variants affecting same gene have diverse phenotypes
+•Genes expressed in peripheral nerve myelin, gap junctions, 
+axons
+•Predominantly demyelinating
+•Motor & sensory Sx
+•Distal leg weakness, calf muscle atrophy, pes cavus (high arched 
+foot), hammer toes, loss of DTR’s, sensory deficits (proprioception, 
+vibration), palpable enlarged peripheral nerves
+•Most common presentation: distal weakness & atrophy with 
+foot drop and pes cavusCharcot-Marie Tooth Disease
+•Diagnosis
+•H & P suggestive features
+•If FHx, genetic testing
+•Electromyography
+•Nerve conduction studies show slowing of 
+conduction velocity in motor & sensory 
+nerves
+•Genetic testing: confirm Dx after EMG
+•Sural nerve biopsy: rarely performed
+•Management
+•Currently no disease modifying 
+treatment available
+•Supportive care, multidisciplinary 
+management
+•Disability increases with age, but varies 
+widely in severity
+Bell’s Palsy
+•Aka Idiopathic facial nerve palsy
+•Most common cause peripheral 
+facial paralysis
+•HSV activation proposed etiology
+•VZV, CMV, EBV, rubella, mumps, 
+coxsackievirus, influenza B
+•Exact causes remain under study
+•3X risk in pregnancy
+•3rd trimester, 1st postpartum week
+•Inflammation  demyelination  
+palsy
+Bell’s Palsy
+•Sudden onset unilateral facial paralysis
+•Eyebrow sagging, inability to close eye, 
+loss of nasolabial fold, drooping at corner 
+of mouth
+•Psychological distress
+•Diagnostic criteria
+•Diffuse facial nerve involvement with 
+paralysis of facial muscles, with or w/o loss 
+of taste anterior 2/3 tongue or altered 
+secretion of lacrimal, salivary glands
+•Onset is acute (1-2 days), progressive, Sx 
+peak w/in 3 weeks from onset , recovery of 
+some function w/in 6 months 
+•Some may have prodrome, ear pain, dysacusis
+Bell’s Palsy
+•Typically, a “clinical diagnosis”
+•Labs/Imaging to rule out other 
+causes of facial paralysis, or if 
+presentation atypical
+•Lyme serology, RPR, HIV, ESR, serum 
+glucose, CSF analysis
+•MRI: ID surgical causes
+•Electrodiagnostic studies: prognosis
+•Parotid gland biopsyPeripheral vs. Central lesion
+•Sparing of forehead muscles on 
+affected side  UMN lesion (central)
+•Bilateral innervation
+•LMN lesion  ipsilateral facial 
+nerve, no forehead sparing
+•However, a central brainstem lesion 
+that involves the facial nerve nucleus in 
+pons may present this way
+Bell’s Palsy
+•Management
+•Oral glucocorticoids w/in 3 days of onset
+•In severe cases, some have attempted anti-viral 
+medications
+•Supportive care
+•Eye care to prevent corneal injury
+•Protect during sleep
+•Artificial tears, ointment
+•In severe cases, incomplete recovery:
+•Botulinum toxin
+•Surgical decompression
+•Prognosis generally favorable
+•80-85% full recovery w/in 6 monthsThank you!Works Consulted
+•https://www.uptodate.com/contents/clinical-features-of-amyotrophic-lateral-sclerosis-and-other-forms-of-motor-neuron-disease
+•https://www.uptodate.com/contents/epidemiology-and-pathogenesis-of-amyotrophic-lateral-sclerosis
+•https://www.uptodate.com/contents/diagnosis-of-amyotrophic-lateral-sclerosis-and-other-forms-of-motor-neuron-disease
+•https://www.uptodate.com/contents/disease-modifying-treatment-of-amyotrophic-lateral-sclerosis
+•https://www.uptodate.com/contents/guillain-barre-syndrome-in-adults-pathogenesis-clinical-features-and-diagnosis
+•https://www.uptodate.com/contents/guillain-barre-syndrome-in-adults-treatment-and-prognosis
+•https://www.uptodate.com/contents/overview-of-polyneuropathy
+•https://www.uptodate.com/contents/charcot-marie-tooth-disease-genetics-clinical-features-and-diagnosis
+•https://www.uptodate.com/contents/bells-palsy-pathogenesis-clinical-features-and-diagnosis-in-adults
+•https://www.uptodate.com/contents/bells-palsy-treatment-and-prognosis-in-adults
+•Cecil, R. L. 1., Goldman, L., MD., & Schafer, A. I. (2012).  Goldman's Cecil medicine  (24th ed.). Philadelphia: Elsevier/Saunders.

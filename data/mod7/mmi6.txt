@@ -1,0 +1,222 @@
+Touro College of Osteopathic Medicine
+Medical Microbiology and Immunology
+MMI: Neuromuscular Block 
+Multiple Sclerosis and Guillian Barre’ Syndrome
+MS-Perivascular lymphocytes
+ in an active MS plaque.MS plaque. Normal myelin stains
+deep blue.Learning Objectives
+    1. To describe the immunopathogenesis of 
+Multiple Sclerosis and Guillain-Barre 
+syndrome.                                                           
+   2. To describe the basic 
+immunopathogenic mechanisms of 
+disease.                                             
+    3. To relate clinical manifestation, testing 
+and diagnosis and treatment to the 
+mechanism of disease.
+    4. To discuss factors that influence 
+susceptibility to autoimmune disease.
+                                                            Reading Assignment
+Recommended:
+Essentials of Clinical Immunology,  
+Ch. 17
+Robin’s Ch. 28Demyelinating Diseases
+Multiple Sclerosis (MS) – 
+Clinical Features
+•An autoimmune demyelinating disorder 
+characterized by distinct episodes of neurologic 
+deficits.
+•MS is the most common of the demyelinating 
+disorders, having a prevalence of 
+approximately 1 per 1,000 persons in most of 
+the United States and Europe. 
+•Disease can occur at any age, although onset in 
+childhood or after the age of 50 is rare.
+ 
+•Women are affected twice as often as are men. Multiple Sclerosis (MS) – 
+Clinical FeaturesAreas affected by MS and 
+associated clinical deficits:
+Central Nervous System
+–Brain stem – produces cranial nerve 
+signs, ataxia,  and nystagmus
+–Spinal cord – motor and sensory 
+impairment of trunk and limbs, 
+spasticity, and voluntary control of 
+bladder function.
+–Optic nerves – unilateral visual 
+impairment is a common initial 
+manifestation.Initial Presentation 
+of MS
+Other Common Symptoms 
+of MS
+•Fatigue
+•Muscle spasms
+•Sexual dysfunction
+•Cognitive impairment
+–Generally occurs later in the diseaseThe central role of the immune system 
+in the pathogenesis of MS is supported 
+by multiple lines of evidence.
+The central role of the immune system in the 
+pathogenesis of MS is supported by multiple lines 
+of evidence.Mice sensitized against myelin antigens 
+develop an MS-like disease 
+characterized, in part, by paralysis. 
+Mouse strains that produce greater amounts of Th2
+ cytokines are more resistant to MS.What was the role of complete Freund’s adjuvant 
+in the EAE model?
+•Myelin Basic Protein injected alone will be processed and 
+presented to T cells, BUT! there are no microbial compounds or 
+inflammatory cytokines around to drive inflammation and the 
+expression of APC costimulatory molecules, thus preventing the 
+full activation of T cells.
+•Complete freund’s adjuvant (CFA) is loaded with microbial 
+compounds, which activate antigen-baring  APCs to express 
+CD80/CD86 and inflammatory cytokines, therefore, providing
+the strong costimulation necessary for a fully activated T cell 
+response.
+ Antigen/CFA
+emulsion.MS is caused by an autoimmune response directed 
+against the components of the myelin sheath.
+    
+ Autoreactive Th1/Th17 CD4 T cells recruit/activate 
+inflammatory mediators.
+IL-12
+IFNIL-23
+TGF-, 
+IL-6
+IL-1
+IL-2, IFNIL-17
+Help CD8 
+autoimmune
+responseHelp activate 
+Autoreactive 
+B cellsActivate 
+macs,
+microglial
+cellsRecruit
+neutrophils,
+monocytesEffector T cell DifferentiationComponents of the autoimmune response in MS:
+After clonal expansion, T and B cells infiltrate the CNS: 
+Clonally expanded B cells mature to plasma cells and release large amounts of IgG, which
+may bind soluble or membrane-bound antigen.  Role of the Ab suspected, but undefined.
+CD4+ T cells are activated by 
+self antigen presented by 
+microglial cells.  
+TH1 IFNγ activates microglial cells 
+and recruited macrophages, 
+TH17cells promote the recruitment 
+of neutrophils/monos.  Inflammation
+caused by inflammatory mediators
+results in damage to myelin
+sheath. 
+How Is MS Diagnosed?
+Oligoclonal bands of IgG detected in CSF
+by isoelectric focusing. 
+Myelin–provides 
+insulation to nerve 
+processes (axons)Blood vessel
+Blood vessel
+Blood vesselInflammation
+Inflammation
+Inflammation
+Myelin–provides 
+insulation to nerve 
+processes (axons)Blood vessel
+Blood vessel
+Blood vesselBlood vessel
+Blood vessel
+Blood vesselInflammation
+Inflammation
+InflammationInflammation
+Inflammation
+Inflammation
+Destruction of myelin sheath: disruption of nerve impulse conduction.End result of inflammatory process is 
+demyelination:Multiple aspects of the immune response 
+contribute to autoimmunity!What predisposes to MS?
+•Faulty Tregs?
+•Genetics
+•Environmental factors
+•Infectious historyFaulty TRegs
+Defective suppressor 
+function may lead to
+increased autoimmunity.
+Polymorphism in gene for 
+IL-2 receptor is a risk factor 
+for MS.  Related to faulty 
+TREG function?  TGF- TGF-Genetics
+Up to 19% of patients have an affected relative
+Environment, Genetics, Infectious 
+Disease?
+High/Probably
+High Prevalance
+Low/Probably
+Low PrevalancePostulated role of infections in 
+autoimmunity
+•Epstein Barr Virus (EBV) has been implicated in MS pathogenesis.
+•A pentapeptide sequence of EBV nuclear antigen is homologous with a 
+myelin basic protein epitope = molecular mimicry.Treatment?
+The egress of naïve and activated T cells 
+from the lymph node is controlled by the 
+expression of receptors for S1P.Treatment?
+Guillain-Barre’ Syndrome
+Pathophysiology
+Pathophysiology
+•There has been no consistent demonstration of 
+an infectious agent in peripheral nerves in these 
+patients, and an immunological reaction is now 
+generally favored as the underlying cause (rather 
+than the infection alone causing the pathology).•Drug Saf. 2009;32(4):309-23. doi: 10.2165/00002018-200932040-00005.
+•Vaccines and Guillain-Barré syndrome.
+•Strongest evidence for causal relationship between vaccine and GBS: 
+–The evidence for a causal association is strongest for the swine influenza vaccine that was used in 
+1976-77. Studies of influenza vaccines used in subsequent years, however, have found small or no 
+increased risk of GBS. 
+–Older formulations of rabies vaccine cultured in mammalian brain tissues have been found to 
+have an increased risk of GBS, but newer formulations of rabies vaccine, derived from chick 
+embryo cells, do not appear to be associated with GBS at a greater than expected rate. 
+•In an earlier review, the Institute of Medicine concluded that the evidence favoured a causal 
+association between oral polio vaccine and tetanus toxoid-containing vaccines and GBS. However, 
+recent evidence from large epidemiological studies and mass immunization campaigns in different 
+countries found no correlation between oral polio vaccine or tetanus toxoid-containing vaccines and 
+GBS. 
+•Spontaneous reports to the US Vaccine Adverse Events Reporting System shortly after the introduction 
+of quadrivalent conjugated meningococcal vaccine (MCV4) raised concerns of a possible association 
+with GBS. Comparisons with expected rates of GBS, however, were inconclusive for an increased risk,
+•There are certain circumstances in which immunizing individuals, particularly those with a prior history 
+of GBS, may require caution. However, the benefit of vaccines in preventing disease and decreasing 
+morbidity and mortality, particularly for influenza, needs to be weighed against the potential risk of 
+GBS.•Drug Saf. 2009;32(4):309-23. doi: 10.2165/00002018-200932040-00005.
+•Vaccines and Guillain-Barré syndrome.
+•Guillain-Barré syndrome (GBS) is the leading cause of acute flaccid paralysis in developed 
+countries and it is broadly believed that immune stimulation plays a role in its pathogenesis. 
+•The objective of this article is to review the current body of evidence that either supports or does 
+not support a causal, rather than just temporal, association between various vaccines and GBS, 
+and to provide an evidence-based review of this issue. 
+•The scope of the article includes published reports that, regardless of method of case 
+ascertainment, appeared in peer-reviewed literature between 1950 and 2008. 
+•Our review indicates that, with rare exceptions, associations between vaccines and GBS have 
+been only temporal. 
+•There are certain circumstances in which immunizing individuals, particularly those with a prior 
+history of GBS, may require caution. However, the benefit of vaccines in preventing disease and 
+decreasing morbidity and mortality, particularly for influenza, needs to be weighed against the 
+potential risk of GBS.PathophysiologyTreatment
+•With improved supporting respiratory care most 
+patients improve within a few weeks of disease 
+onset, and drug therapy is not necessary.
+–Treatment with corticosteroids does not improve outcomes 
+and their use is no longer advocated.
+•Large doses of IVIG and plasmapheresis can be helpful 
+supporting a role for Abs in the pathology of the 
+disease.Learning Objectives
+    1. To describe the immunopathogenesis of 
+Multiple Sclerosis and Guillain-Barre 
+syndrome.                                                           
+   2. To describe the basic 
+immunopathogenic mechanisms of 
+disease.                                             
+    3. To relate clinical manifestation, testing 
+and diagnosis and treatment to the 
+mechanism of disease.
+    4. To discuss factors that influence 
+susceptibility to autoimmune disease.
+                                                            

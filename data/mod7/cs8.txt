@@ -1,0 +1,1155 @@
+Headaches and Other Head Pain
+“Headaches and Other Head Pain”, Goldman-C ecil Medicine, 26th edition, Chapter 370 
+Learning Objectives:  
+•Define primary headache disorders :  Cluster , Tension, Migraine
+•Differentiate between primary headache disorders based on (but not limited to) localization,
+duration, quality  of pain &  associated symptoms
+•Recognize and apply appropriate management/treatment of primary headache disorders
+•Recog nize “Red Flag” symptoms in headache that may indicate a secondary cause
+•Define sec ondary headache disorders  and recognize common causes, including:  rhinosinusitis,
+intracranial tumor, chronic substance use or exposure (e.g., ergotamine, analgesics, caffe ine),
+trigeminal neuralgia , post -herpetic neuralgia, giant cell/temporal arteritis, TMJ dysfunction,
+pseudotumor cerebri/intracranial hypertension, low ICP, CNS infection, SAH
+•Recognize the clinical presentation of sinus headache  and its manag ement
+•Recognize the clinical presentation of intracranial tumor headache  and its management
+•Recognize the clinical presentation of chronic daily headache induced by chronic substance useor exposure  and its manag ement
+•Recognize the clinical presentation of trigeminal neuralgia  and its management
+•Recognize the clinical presentation of post -herpetic neuralgia  and its management
+•Recognize the clinical presentation of giant cell/temporal arteritis  and its management
+•Recognize the clinical presentation of TMJ dysfunction and its management
+•Recognize the clinical presentation of pseudotumor cerebri/intracranial hypertension and itsmanagement, including role of CT/MRI and lumbar puncture in diagnosis
+•Recognize the clinical presentation of low ICP hea dache and its management
+•Recognize the clinical presentation of headache in CNS infection and its management, includin
+g
+ro
+le of lumbar puncture and CSF analysis ( also see CNS Infections lecture)
+•Recognize the clinical presentation of subarachnoid hemorrhage  and its management (also see
+Stroke Syndromes lecture)CHAPTER  370  Head ac H es and Ot H er Head Pain  2316
+associated with nausea and/or vomiting, and accompanied by photophobia 
+and phonophobia. The headache occurs anytime and persists from 4 to 72 
+hours. It may occur with or without an aura (a focal neurologic symptom that 
+may be visual, sensory, or motor). Visual auras may have positive (photopsias) 
+and negative (scotomas) features.
+ EPIDEMIOLOGY
+The prevalence of migraine is 15 to 20% in women and 4 to 7% in men. In children the prevalence may be as high as 17% and is equal in boys and girls. 
+At puberty, the prevalence rises in girls and remains higher throughout their 
+lifespan. The highest prevalence occurs between the ages of 25 and 55. Migraine with aura affects 5% of the adult population, and 90% of auras are visual. Migraine is more prevalent in white persons and in those with a lower socio -
+economic status or income.
+Comorbid conditions that may be associated with migraine headache include 
+epilepsy, stroke, depression, anxiety, myocardial infarction, patent foramen ovale, Raynaud phenomenon, irritable bowel syndrome, and pain disorders 
+such as fibromyalgia. Menstruation and ovulation may increase the frequency 
+of headache. PREVENTION
+Preventive medications are recommended when headaches are frequent or severe enough to interfere with quality of life. The choice of medications 
+should be based on the type of headache (migraine, tension-type), their side 
+effect profiles, and the patient’s comorbid conditions (T able 370-3).
+ PROGNOSIS
+The natural history of headache depends on many factors, including the type of headache, comorbid conditions that accompany the headache, and success 
+of treatment.
+4 Risk factors for chronic headache include female sex, migraine-
+type headaches, frequent headaches, obesity, low education and socioeconomic level, overuse of medication, depression, anxiety, stressful life events, and sleep 
+apnea.
+ MIGRAINE HEADACHE
+ DEFINITION
+Migraine is an inherited headache disorder that is typically unilateral but sometimes bilateral, moderate to severe, worsens by routine physical activity, 370  
+HEADACHES AND OTHER HEAD PAIN
+KATHLEEN B. DIGRE
+ DEFINITION
+Headache, which is a very common symptom, can be secondary to an underly -
+ing abnormality but is usually a primary headache disorder such as migraine 
+headache, tension-type headache, cluster headache, and paroxysmal hemicrania.
+ EPIDEMIOLOGY
+About 90% of all adults experience headache at some time in their lives, and 
+over 75% of children have complained of headaches by the age of 15 years. 
+In the United States, the direct and indirect costs associated with migraine 
+are over $20 billion annually. The World Health Organization lists migraine in the top 10 most disabling conditions. Patients at most risk for lost days of employment are those with chronic migraine and daily headache.
+In large population-based studies, the relative risk of having migraine, tension-
+type headaches, or cluster headaches increases up to four times if a first-degree relative has the same kind of headaches. Studies of twins, especially identical twins, also show a similar susceptibility.
+ PATHOBIOLOGY
+Headache pain is initiated by primary trigeminal afferents that innervate the blood vessels, mucosa, muscles, and tissues. Fibers from these sources coalesce 
+in the trigeminal ganglion, especially the first division. The trigeminal afferents 
+terminate in the primary sensory nucleus of cranial nerve V and its spinal nucleus, which has several small subnuclei, the most important of which is the subnucleus caudalis. This subnucleus receives afferents from meningeal 
+vessels, dura-sensitive neurons, and even the upper cervical cord and then 
+projects them to the lateral and medial thalamus by way of the spinothalamic tract and to diencephalic and brain stem regions that are involved in the regu -
+lation of autonomic functions. Thalamic nociceptive information ascends to 
+the sensory cortex, as well as to other areas of the brain.
+Although secondary headaches may stimulate the pathway by way of processes 
+such as inflammation and compression, primary headache disorders occur 
+spontaneously by means of chemical mediators such as calcitonin gene–related 
+peptide. The sequence of events commences with peripheral activation caused 
+by neurogenic plasma extravasation activated spontaneously or by cortical spreading depression. The trigeminocervical complex, especially the nucleus caudalis, is then activated, and patients can experience allodynia, a condition 
+in which a non-noxious stimulus is sensed as painful.
+Aura is defined as a focal visual, sensory, or motor neurologic disturbance 
+that may occur with or without headache. Aura is thought to occur when cortical spreading depression causes depolarization of membranes. Both neurons 
+and glia can mediate both constriction and dilation of blood vessels. Migraine headache clearly has a genetic component. Familial hemiplegic migraine can be caused by mutations in the CACNA1A gene, which is located on chromo -
+some 19p13.2-p13.1 and encodes for voltage-gated neuronal calcium channels. Mutations in the CACNA1A gene also cause episodic ataxia and epilepsy. 
+Another mutation is in ATP1A2, also called the familial hemiplegia migraine 
+2 (FHM2 ) gene, which is located on chromosome 1q21-q23 and encodes for 
+the sodium-potassium adenosine triphosphatase (Na
++,K+-ATPase) transport 
+protein. A third genetic locus is the SCN1A gene on chromosome 2q24.3, 
+which is a voltage-gated sodium channel. In addition, many single nucleotide polymorphisms have been associated with migraine.
+1 Although there are link -
+ages to many genetic loci for more common forms of migraine, migraine and 
+other headaches also probably have multiple epigenetic interactions2 with 
+environmental factors, and it is clear that the genetic contributions are complex.
+ CLINICAL MANIFESTATIONS
+Patients with headache may describe the pain as throbbing, bandlike, or aching. 
+The pain is frequently unilateral but can be bilateral. Migraine headache is 
+often associated with nausea, vomiting, photophobia, and phonophobia. It is 
+invariably moderate to severe and interferes with activities. Other autonomic manifestations that can accompany migraine, cluster, and other headache vari -
+ants include ptosis, conjunctival injection, tearing, rhinorrhea, Horner syndrome, and facial edema. Secondary headaches sometimes may appear to be similar to tension-type or migraine headaches, but “red flags” may suggest 
+a secondary rather than a primary headache disorder ( T able 370-1). Particular 
+attention should be paid to the sudden onset of severe headaches, which fre -
+quently have an underlying secondary cause.
+3
+ DIAGNOSIS
+Five elements of the history are key for evaluating headaches. The family 
+history helps determine whether a person has a genetic predisposition to 
+headache. The life history of headache determines whether the headache is 
+new or has evolved over the course of a lifetime. The attack history provides the clinical features of the headache or headaches. The medical and psychiatric history determines whether there are comorbid conditions that can cause or 
+worsen the headache. The medication and drug history determines whether 
+the headache could be caused by or worsened by medications or drugs the person has ingested.
+Diagnosis of the type of headache is based on the type of pain, the duration 
+of headache, and accompanying features ( T able 370-2). Secondary headaches 
+are usually due to an underlying condition such as a brain tumor (Chapter 180), increased or low intracranial pressure, sinus disease (Chapter 398), or a vascular malformation (Chapter 380); on removing the cause, the headache 
+generally improves. Headaches that occur at a frequency of less than 15 days 
+a month are called episodic, whereas headaches that occur more than 15 days a month are considered chronic.
+The diagnostic evaluation for headache depends on the clinical findings. If 
+the history is typical and if the neurologic examination is completely normal, no further evaluation is needed. The features of the history that are most likely to predict migraine headache without a secondary disorder include photo -
+phobia, nausea, and disabling nature. However, if there are atypical features of the history or any abnormality on neurologic examination, further evalu -
+ation is indicated. Patients with cluster headache types and headaches of undetermined cause need imaging to exclude secondary causes.
+In patients with acute onset headache, computed tomography (CT) is best 
+for assessing acute hemorrhage as the cause of the headache, whereas magnetic resonance imaging (MRI) is best for assessing most persistent headaches to look for mass lesions, evidence of intracranial hypertension or hypotension, 
+hemosiderin (old hemorrhage), and congenital abnormalities (e.g., Chiari 
+malformation). In individuals older than 60 years with an unexplained new or unusual headache, the erythrocyte sedimentation rate (ESR) and/or C-reactive protein (CRP) level should be measured to evaluate for giant cell 
+arteritis (Chapter 69). Cerebrospinal fluid (CSF) analysis, including opening 
+pressure, protein, glucose, cells, culture, and cytology, is indicated in patients with suspected intracranial hypertension or meningitis.TABLE 370-1  REASONS  FOR FURTHER EVALUATION TO 
+LOOK FOR SECONDARY HEADACHES
+Beginning of headaches at an older age, without a previous history or a positive 
+family history
+Unexplainable and abnormal worsening of previously existing migraines
+Dramatic or unusual change in character of the prodrome or the headache previously 
+present
+Headaches awakening the patient in the middle of the night (except for a cluster 
+headache)
+Headaches much worse when recumbent, only when upright, or with coughing, 
+sneezing, or the Valsalva maneuver
+Unusually severe headache of sudden onset (“worst headache of my life”)Focal deficits that do not disappear after the headache is overAny abnormal neurologic or new psychiatric finding on examinationA new headache in a patient with human immunodeficiency virus infection, 
+malignancy, or pregnancy
+Treatment of acute headache depends on the type and severity of the head -
+ache. For mild headaches, simple analgesics such as acetaminophen A1  (500 to 
+1000  mg), acetaminophen with caffeine, aspirin (250 to 1000  mg), A2  and 
+nonsteroidal anti-inflammatory drugs A3  ([NSAIDs]; e.g., ibuprofen, 400 to 800  mg;  
+naproxen sodium, 220 to 500  mg, diclofenac 50-100  mg) will suffice.TREATMENT  
+ Downloaded for Angela Cavanna (angela.cavanna@touro.edu) at Touro College of Osteopathic Medicine Sheldon L Sirota DO Memorial Library from ClinicalKey.com by Elsevier on January 06,
+ 2020. For personal use only. No other uses without permission. Copyright ©2020. Elsevier Inc. All rights reserved.
+CHAPTER  370  HeadacHes and OtHer Head Pain  2316.e1
+KEYWORDS
+headache
+migraine
+tension-type headache
+cluster headache
+idiopathic intracranial hypertension
+intracranial hypotension
+trigeminal neuralgia ABSTRACT
+Headache is an extremely common symptom, which can have multiple causes. 
+Although secondary causes of headache should be considered, the most common 
+types of headache are migraine, tension, cluster, and medication-overuse 
+headaches. Each type of headache has different treatments, so accurate diag -
+nosis is critical. Patients with trigeminal autonomic cephalalgias should undergo 
+imaging at the time of diagnosis, because many secondary headaches mimic 
+this phenotype. Two common secondary headaches are idiopathic intracranial 
+hypertension (seen in obese women in their child-bearing years) and intra -
+cranial hypotension (or hypovolemia). Both conditions have imaging char -
+acteristics that can be helpful in making the correct diagnosis.
+ Downloaded for Angela Cavanna (angela.cavanna@touro.edu) at Touro College of Osteopathic Medicine Sheldon L Sirota DO Memorial Library from ClinicalKey.com by Elsevier on January 06,
+ 2020. For personal use only. No other uses without permission. Copyright ©2020. Elsevier Inc. All rights reserved.
+CHAPTER  370  Head ac H es and Ot H er Head Pain  2317
+associated with nausea and/or vomiting, and accompanied by photophobia 
+and phonophobia. The headache occurs anytime and persists from 4 to 72 
+hours. It may occur with or without an aura (a focal neurologic symptom that 
+may be visual, sensory, or motor). Visual auras may have positive (photopsias) and negative (scotomas) features.
+ EPIDEMIOLOGY
+The prevalence of migraine is 15 to 20% in women and 4 to 7% in men. In children the prevalence may be as high as 17% and is equal in boys and girls. 
+At puberty, the prevalence rises in girls and remains higher throughout their 
+lifespan. The highest prevalence occurs between the ages of 25 and 55. Migraine with aura affects 5% of the adult population, and 90% of auras are visual. Migraine is more prevalent in white persons and in those with a lower socio -
+economic status or income.
+Comorbid conditions that may be associated with migraine headache include 
+epilepsy, stroke, depression, anxiety, myocardial infarction, patent foramen ovale, Raynaud phenomenon, irritable bowel syndrome, and pain disorders 
+such as fibromyalgia. Menstruation and ovulation may increase the frequency 
+of headache. PREVENTION
+Preventive medications are recommended when headaches are frequent or severe enough to interfere with quality of life. The choice of medications 
+should be based on the type of headache (migraine, tension-type), their side 
+effect profiles, and the patient’s comorbid conditions ( T able 370-3).
+ PROGNOSIS
+The natural history of headache depends on many factors, including the type of headache, comorbid conditions that accompany the headache, and success 
+of treatment.
+4 Risk factors for chronic headache include female sex, migraine-
+type headaches, frequent headaches, obesity, low education and socioeconomic level, overuse of medication, depression, anxiety, stressful life events, and sleep 
+apnea.
+ MIGRAINE HEADACHE
+ DEFINITION
+Migraine is an inherited headache disorder that is typically unilateral but sometimes bilateral, moderate to severe, worsens by routine physical activity, TABLE 370-2  DIFFERENTIAL  DIAGNOSIS OF HEADACHE
+HEADACHE TYPE GENETICS EPIDEMIOLOGYCHARACTERISTIC 
+FEATURES LENGTH ACCOMPANYING SYMPTOMS
+Migraine headache Complex genetics but 
+usually a family historyMore frequent in women Unilateral, bilateral; throbbing; 
+moderate to severe; worsens 
+with activityHours to days Photophobia, phonophobia, nausea 
+and/or vomiting
+T ension-type headache Usually a family history Equal frequency in men 
+and womenTight band–like pain; bilateral; 
+pain may be mild to moderate; improves with activityHours to days No nausea or vomiting; small 
+amount of light or sound sensitivity, but not both
+Cluster headache May have a family history More frequent in men Unilateral severe pain in the 
+faceMinutes to hours Ipsilateral ptosis, miosis, rhinorrhea, 
+eyelid edema, tearing
+Paroxysmal hemicrania Usually no family history More frequent in women Unilateral pain in the face Minutes Ipsilateral ptosis, miosis, rhinorrhea, 
+eyelid edema, tearing; responds to 
+indomethacin
+Short unilateral headache 
+with conjunctival 
+injection, tearingNo family history More frequent in men Unilateral eye pain; orbit pain Seconds to 240 
+secondsConjunctival injection, tearing
+Hemicrania continua No family history More frequent in women Unilateral continuous headache 
+with episodic stabbing painsContinuous Ipsilateral autonomic features: ptosis, 
+miosis, rhinorrhea, eyelid edema, tearing; responds to indomethacin
+TABLE 370-3  PRE VENTIVE MEDICATIONS FOR HEADACHE
+DRUG RATIONAL USE DOSAGE SIDE EFFECTSCONTRAINDICATIONS/
+CAUTION
+β-Blockers (e.g., propranolol, 
+nadolol, timolol)Migraine, anyone with elevated 
+blood pressurePropranolol, 20-80  mg; may increase Lethargy, depression Asthma, low blood pressure
+Calcium-channel antagonists: 
+verapamil, amlodipineCluster headache, elevated blood 
+pressureVerapamil, 120-480  mg/day Low blood pressure
+Nonsteroidal anti-inflammatory 
+drugs:
+Naproxen, ibuprofen Migraine, tension-type, and 
+menstrual migraineNaproxen, 200-600  mg/day; 
+Ibuprofen, 600-800  mg bid-tid; 
+Indomethacin, 25-50 mg tidGastrointestinal Ulcers, sensitivity, allergy
+Indomethacin Paroxysmal hemicrania, 
+hemicrania continuaGastrointestinal Ulcers; renal insufficiency
+T ricyclic antidepressants: 
+amitriptyline, nortriptyline, 
+imipramineMigraine, tension-type headache, 
+anyone with poor sleep10-25  mg qhs; may increase Dry mouth, orthostatic 
+hypotension, weight gainSensitivity
+Anticonvulsants: topiramate 
+valproateMigraine, cluster headache T opiramate, 25-50  mg bid; valproate, 
+250-500  mg bidT opiramate: weight loss, kidney 
+stones, intraocular hypertension 
+Valproate: weight gainPregnancy—both U.S. FDA 
+classification D
+Calcitonin gene–related 
+peptide antibodies: erenumab, fremanezumab, galcanezumabMigraine, chronic migraine
+Erenumab 70-140  mg SC monthly; 
+fremanezumab 225  m g SC monthly; 
+galcanezumab 120 or 240  mg SC 
+monthlyInjection site redness; nasal 
+symptomsUnknown pregnancy effect
+bid = twice daily; FDA = Food and Drug Administration; qhs = at bedtime; SC = subcutaneously; tid = three times daily.
+ Downloaded for Angela Cavanna (angela.cavanna@touro.edu) at Touro College of Osteopathic Medicine Sheldon L Sirota DO Memorial Library from ClinicalKey.com by Elsevier on January 06,
+ 2020. For personal use only. No other uses without permission. Copyright ©2020. Elsevier Inc. All rights reserved.
+CHAPTER  370  Head ac H es and Ot H er Head Pain  2318
+<15 days per month) or chronic (occurring >15 days per month). In many 
+patients headaches remain episodic, but about 25% progress to chronic head -
+ache. Of the patients with chronic tension-type headache, about a quarter to a 
+third continue as chronic, half can improve to episodic, and in about a quarter medication overuse headache can develop. Episodic tension-type headaches can last minutes, hours, or days.
+ DIAGNOSIS
+Headaches that can be misdiagnosed as tension-type headache include migraine, hemicrania continua, new daily persistent headache, and headaches caused 
+by brain tumors, elevated or low intracranial pressure, or giant cell arteritis. 
+A careful history is the best way to distinguish other types of headaches.
+ PREVENTION
+Preventive treatment (see T able 370-3) is often recommended when the headaches interfere with activities on 3 or more days per month, the head -
+aches are severe or prolonged, or migraine is complicated by events such as cerebral infarction. Prophylactic options include β-adrenergic blockers, 
+calcium-channel antagonists, NSAIDs, tricyclic antidepressants, valproate, and topiramate. T opiramate, divalproex, timolol, propranolol, metoprolol, 
+atenolol, nadolol, acebutolol, captopril, lisinopril, and candesartan reduce 
+migraine frequency by 50% or more compared with placebo, with no statis -
+tically significant differences among them.
+ A9  Other alternatives include the 
+serotonergic drug cyproheptadine (4 to 20 mg) or the monoamine oxidase 
+inhibitor phenelzine (30 to 60 mg). Acupuncture and biofeedback have been 
+used successfully. OnabotulinumtoxinA injection is also effective for prophylaxis of chronic migraine.
+ A10   Supraorbital nerve stimulation A11   also is approved by 
+the Food and Drug Administration (FDA) to prevent migraines. A new and 
+very promising approach is calcitonin gene–related peptide antibodies.8 Ere -
+numab is currently approved (70 to 140 mg subcutaneously monthly), A12  , A13   and  
+similarly beneficial results have been seen with fremanezumab (225 mg sub -
+cutaneously monthly or 675 mg quarterly) A14  , A15   and galcanezumab (240 mg 
+loading and 120 mg monthly). A16  
+ PROGNOSIS
+The prognosis for patients with migraine is variable. In many patients, head -
+aches decrease in severity with age, but migraine aura without headache becomes more frequent with older age. Modification of inciting factors such as avoiding 
+dietary triggers (tyramine, phenylethylamine, ethanol), ameliorating or pre -
+venting insomnia, and averting environmental triggers (light, sound, odor) may improve outcome. Migraines may become chronic, defined as more than 
+15 days per month, especially when associated with obesity, snoring, depres -
+sion, and low socioeconomic status. Since there appears to be shared genetic 
+susceptibility to migraine with aura and ischemic stroke, careful attention to cardiovascular risk factors is important.
+ TENSION-TYPE HEADACHE
+ DEFINITION
+T ension-type headache is defined as a mild or moderate holocranial headache without nausea or vomiting. Patients may have either photophobia or pho -
+nophobia but not both, and the headache does not worsen with activity.
+ EPIDEMIOLOGY
+The 1-year prevalence is 14 to 93 per 100,000 individuals for episodic tension-type headache and 8.1 per 100,000 for chronic tension-type headache. T ension-
+type headaches are more common in women than in men, regardless of age, 
+race, and educational level. T ension-type headaches are more common in Western countries and less frequent in Asian countries, and they are more common in white persons than in African Americans.
+ PATHOBIOLOGY
+The pathophysiology of tension-type headache is less well understood than that of the other types of headache. Myofascial tenderness is increased, espe-
+cially in chronic tension-type headache. Genetic factors are uncertain. Migraine 
+and tension-type headache often coexist. Although tension-type headaches are not due to emotion or muscle contraction, triggers of a tension-type head -
+ache are similar to those associated with migraine: stress, fatigue, and lack of 
+sleep. Comorbid conditions in patients with tension-type headache include 
+depression and anxiety in more than 50% of individuals.
+ CLINICAL MANIFESTATIONS
+T ension-type headaches are usually mild to moderate in severity, and most individuals do not seek care. T ension-type headache can be episodic (occurring TABLE 370-4  SPECIFIC  TRIPTAN MEDICATIONS FOR THE TREATMENT OF ACUTE MIGRAINE
+SUMATRIPTAN ZOLMITRIPTAN NARATRIPTAN RIZATRIPTAN ALMOTRIPTAN FROVATRIPTAN ELETRIPTAN
+T rade name Imitrex, Zecuity Zomig Amerge Maxalt Axert Frova Relpax
+Forms SC, nasal (NS), oral Oral: tablet/ZMT , 
+NSOral Oral: tablet/MLT Oral Oral Oral
+Dose Oral: 50-100  mg 
+(200  mg/24  hr 
+max.)2.5-5  mg (10  mg/  
+24 hr max.)1-2.5  mg (5  mg/  
+24 hr max.)5-10  mg (30  mg/  
+24 hr max.)6.25-12.5  mg 
+(25 mg/  
+24 hr max.)2.5 mg (7.5  mg/  
+24 hr max.)20-40  mg (80  mg/24  hr 
+max.)
+SC: 4-6  mg (12  mg/  
+24 hr max.)
+NS: 5-20  mg (40  mg/  
+24 hr max.)
+Nasal delivery device 
+(22 mg)5 mg (10  mg/24  hr 
+max.)
+Half-life 2-3 hr 3-4 hr 6-8 hr 2-3 hr 3-4 hr 26 hr 4-6 hr
+Crosses blood-brain 
+barrier− + + + + + +
+Use with 
+monoamine 
+oxidase inhibitor (MAOI)− − + − + + −
+Good for 
+recurrences− − + − − + −
+Rapid response SC, 10-15  min
+NS, 15-20  min
+Oral, 30  min30 min 1-4 hr 30 min 60 min 1-4 hr 20-30  min
+Menstrual migraine + + + + + + +
+Other In combination with 
+naproxen (T reximet)Decrease dose by 
+half with propranololDo not use with CYP3A4 
+drugs (ketoconazole and some macrolide antibiotics)
+max. = maximum; MT = Maxalt Melting tablet; NS = nasal spray; SC = subcutaneous; ZMT = Zolmitriptan melting tablet.TREATMENT   PATHOBIOLOGY
+The aura of a migraine headache is thought to be due in part to cortical spreading 
+depression, which is associated with a brief reduction in blood flow followed 
+by hyperemia.5 These changes do not seem to correlate with the phase of the 
+headache. Pain occurs when trigeminal afferents of the dura are stimulated.
+ CLINICAL MANIFESTATIONS
+Migraine headache often begins with a prodrome that may persist for hours 
+to days, when patients note difficulty concentrating or fatigue without head -
+ache. An aura may or may not occur but is generally present before the headache begins. The headache may be unilateral or bilateral, throbbing, moderate to severe, and worsened with activity. Accompanying clinical features include nausea, vomiting, and sensitivity to light and sound. Other clinical features 
+include neck pain, occasionally dizziness, osmophobia (sensitivity to odors), 
+and difficulty thinking clearly.
+The migraine aura is generally visual but can be sensory or include aphasia 
+or vertigo. Migraine aura without headache begins with a neurologic distur -
+bance (e.g., a visual phenomenon), but without a subsequent headache. Although an aura is traditionally thought to precede the headache, it can be present during the headache phase.
+ DIAGNOSIS
+The diagnosis of migraine is based on the history. The differential diagnosis includes tension-type headache, but most moderate to severe headaches are 
+migraine.
+6 In patients with a history suggestive of a secondary headache, further 
+evaluation with MRI should be considered (see T able 370-2). However, if the headache is typical of migraine and the findings on neurologic examination 
+are normal, no further studies are needed.
+Treatment of migraine is divided into treatment of the acute headache and 
+prevention of subsequent migraine attacks. Acute treatment is most effectively 
+accomplished with migraine-specific care: a nonspecific analgesic agent or combination analgesic therapy for milder migraine, and most frequently aggres -
+sive migraine-specific therapy for migraine ( Table 370-4). For example, mild TREATMENT  attacks can generally be treated successfully with over-the-counter analgesics 
+such as acetaminophen (suggested dose, 650 to 1000  mg) or NSAIDs (aspir in, 
+250 mg to 1000  mg; ibuprofen, 1000 to 1200  mg; naproxen, 500 to 825  mg; 
+diclofenac 50  mg , or ketoprofen, 75  mg). I f the migraine headaches are moder -
+ate to severe, patients benefit from migraine-specific therapies (see Table 370-4) 
+such as triptans (sumatriptan, zolmitriptan, rizatriptan, almotriptan, naratriptan, frovatriptan, and eletriptan), ergotamine (dihydroergotamine, ergotamine tar -
+trate), or isometheptene,
+7 and the combination of naproxen plus sumatriptan 
+may be better than either alone A4  (see Table 370-4).
+During pregnancy, mild to moderate attacks can be treated with acetamino -
+phen. Moderate headaches may respond to the combination of acetaminophen, 
+isometheptene mucate (a mild vasoconstrictor, 65  mg), and dichlor alphenazone 
+(a mild sedative, 100  mg). A ntinausea agents include prochlorperazine (10 to 
+25 mg) and metoclopramide (2.5 to 10  mg).
+Stratification of care, including tailoring the treatment according to the type 
+of headache, results in fewer days of disability and use of medications. Which migraine-specific drug will work for any individual patient depends on the patient. It is important to avoid overuse of analgesic and other medications (especially opiates) because overuse can cause chronic daily headache in sus -
+ceptible individuals. Prompt treatment improves the outcome of headache when compared with late treatment. Contraindications to use of triptans (see Table 370-4) include uncontrolled hypertension, clinical evidence of ischemic heart disease, and Prinzmetal angina.
+Opioids such as N-acetyl- p-aminophenol (APAP) with codeine, or butorphanol, 
+benefit some patients, but meperidine is not effective. Oral opiates should not be used for chronic recurrent, primary headaches, although sometimes opiates 
+(e.g., acetaminophen, 325  mg , with codeine, 30  mg) are often the only option 
+during pregnancy or in patients with severe vascular disease. When opiates are used, caution is required, and the associated risks of rebound headache and dependency must be recognized by both the patient and physician. Bar -
+biturates (with caffeine and aspirin or acetaminophen) have not been efficacious in controlled trials but may be helpful in individual patients in whom other migraine-specific drugs cannot be used or are contraindicated.
+For moderate to severe attacks, options include dihydroergotamine (1 to 
+2 mg in tranasally); oral, intranasal, or subcutaneous administration of sumat -
+riptan (25 to 100  mg orally, 20  mg intranasally, or 4 to 6  mg subcutaneously); 
+or other triptans (e.g., naratriptan, 2.5  mg; z olmitriptan, 5  mg; r izatriptan, 10  mg;  
+eletriptan, 40  mg; fr ovatriptan, 2.5  mg; or almotr iptan, 12.5  mg). A5  Ergotamine 
+(2 mg sublingually or 1 t o 2  mg or ally), when given early in the migraine attack, 
+can be effective if the associated nausea and peripheral vasoconstriction are tolerable. PREVENTION
+Chronic tension-type headaches may benefit from prophylactic treatment 
+with amitriptyline (starting with 10 mg at bedtime and increased slowly up to 
+100 mg until the patient improves or intolerable side effects develop), nortrip -
+tyline (25 to 100 mg each evening), doxepin (25 to 75 mg/day), maprotiline 
+(10 to 25/mg/day), or fluoxetine (10 to 20 mg/day). T ricyclics are gener -
+ally more efficacious than serotonin reuptake inhibitors. A17   Muscle relaxants, 
+physical therapy, localized botulinum toxin injection, and acupuncture can  
+be useful. A18  
+ PROGNOSIS
+T ension-type headache has a variable prognosis. Adolescents with tension-
+type headache and two or more psychiatric factors (e.g., depression and anxiety) 
+have a worse prognosis.
+ CLUSTER HEADACHE AND OTHER TRIGEMINAL 
+AUTONOMIC CEPHALALGIAS
+ DEFINITION
+T rigeminal autonomic cephalalgias, including cluster headaches, are unilateral 
+headaches associated with ipsilateral autonomic features. Other trigeminal 
+autonomic cephalalgias include paroxysmal hemicrania, which is characterized 
+by bouts of headache that persist for 5 to 30 minutes, is generally unilateral, and usually occurs in women; they typically respond to indomethacin. Hemi -
+crania continua, another indomethacin-responsive headache seen in both men 
+and women, is characterized by continuous unilateral pain and mild associated 
+autonomic features; it frequently coexists with a form of chronic daily head -
+ache. Short unilateral neuralgiform headache with conjunctival injection and tearing is a rare trigeminal autonomic cephalalgia that occurs in men; individual 
+headaches persist for only a short time (seconds to 2 minutes).
+ EPIDEMIOLOGY
+Cluster headache occurs in 56 to 401 per 100,000 persons and is more frequent 
+in men (3 : 1 to 7 : 1). Attacks usually begin between 20 and 30 years of age. 
+Paroxysmal hemicrania occurs in 56 to 381 per 100,000 persons; it affects 
+women more often (2 : 1) and can begin at any age but usually commences 
+at 34 to 41 years. Short unilateral neuralgiform headache with conjunctival 
+injection and tearing is rare, with a slight male preponderance (2 : 1).
+ PATHOBIOLOGY
+Cluster headache may have a genetic predisposition. Imaging studies such as 
+positron emission tomography and functional MRI show inferior posterior 
+hypothalamic activation at the onset of cluster headache and other trigeminal 
+autonomic cephalalgias. In addition, the trigeminovascular complex and the cranial autonomic system are activated. The pathophysiology of hemicrania continua is unknown, and there is debate whether it is associated with hypo -
+thalamic involvement or whether it resembles migraine.
+ CLINICAL MANIFESTATIONS
+Cluster headache is almost always unilateral, rarely bilateral, and has charac -
+teristic ipsilateral autonomic features, commonly including lacrimation and 
+ Downloaded for Angela Cavanna (angela.cavanna@touro.edu) at Touro College of Osteopathic Medicine Sheldon L Sirota DO Memorial Library from ClinicalKey.com by Elsevier on January 06,
+ 2020. For personal use only. No other uses without permission. Copyright ©2020. Elsevier Inc. All rights reserved.
+CHAPTER  370  Head ac H es and Ot H er Head Pain  2319
+<15 days per month) or chronic (occurring >15 days per month). In many 
+patients headaches remain episodic, but about 25% progress to chronic head -
+ache. Of the patients with chronic tension-type headache, about a quarter to a 
+third continue as chronic, half can improve to episodic, and in about a quarter medication overuse headache can develop. Episodic tension-type headaches can last minutes, hours, or days.
+ DIAGNOSIS
+Headaches that can be misdiagnosed as tension-type headache include migraine, hemicrania continua, new daily persistent headache, and headaches caused 
+by brain tumors, elevated or low intracranial pressure, or giant cell arteritis. 
+A careful history is the best way to distinguish other types of headaches.
+ PREVENTION
+Preventive treatment (see T able 370-3) is often recommended when the headaches interfere with activities on 3 or more days per month, the head -
+aches are severe or prolonged, or migraine is complicated by events such as cerebral infarction. Prophylactic options include β-adrenergic blockers, 
+calcium-channel antagonists, NSAIDs, tricyclic antidepressants, valproate, and topiramate. T opiramate, divalproex, timolol, propranolol, metoprolol, 
+atenolol, nadolol, acebutolol, captopril, lisinopril, and candesartan reduce 
+migraine frequency by 50% or more compared with placebo, with no statis -
+tically significant differences among them.
+ A9  Other alternatives include the 
+serotonergic drug cyproheptadine (4 to 20  m g) or the monoamine oxidase 
+inhibitor phenelzine (30 to 60  m g). Acupuncture and biofeedback have been 
+used successfully. OnabotulinumtoxinA injection is also effective for prophylaxis of chronic migraine.
+ A10   Supraorbital nerve stimulation A11   also is approved by 
+the Food and Drug Administration (FDA) to prevent migraines. A new and 
+very promising approach is calcitonin gene–related peptide antibodies.8 Ere -
+numab is currently approved (70 to 140  m g subcutaneously monthly), A12  , A13   and  
+similarly beneficial results have been seen w ith f remanezumab (225  m g sub -
+cutaneously monthly or 675  m g quarterly) A14  , A15   and galcanezumab (240  m g 
+loading and 120  mg monthly). A16  
+ PROGNOSIS
+The prognosis for patients with migraine is variable. In many patients, head -
+aches decrease in severity with age, but migraine aura without headache becomes more frequent with older age. Modification of inciting factors such as avoiding 
+dietary triggers (tyramine, phenylethylamine, ethanol), ameliorating or pre -
+venting insomnia, and averting environmental triggers (light, sound, odor) may improve outcome. Migraines may become chronic, defined as more than 
+15 days per month, especially when associated with obesity, snoring, depres -
+sion, and low socioeconomic status. Since there appears to be shared genetic 
+susceptibility to migraine with aura and ischemic stroke, careful attention to cardiovascular risk factors is important.
+ TENSION-TYPE HEADACHE
+ DEFINITION
+T ension-type headache is defined as a mild or moderate holocranial headache without nausea or vomiting. Patients may have either photophobia or pho -
+nophobia but not both, and the headache does not worsen with activity.
+ EPIDEMIOLOGY
+The 1-year prevalence is 14 to 93 per 100,000 individuals for episodic tension-type headache and 8.1 per 100,000 for chronic tension-type headache. T ension-
+type headaches are more common in women than in men, regardless of age, 
+race, and educational level. T ension-type headaches are more common in Western countries and less frequent in Asian countries, and they are more common in white persons than in African Americans.
+ PATHOBIOLOGY
+The pathophysiology of tension-type headache is less well understood than that of the other types of headache. Myofascial tenderness is increased, espe-
+cially in chronic tension-type headache. Genetic factors are uncertain. Migraine 
+and tension-type headache often coexist. Although tension-type headaches are not due to emotion or muscle contraction, triggers of a tension-type head -
+ache are similar to those associated with migraine: stress, fatigue, and lack of 
+sleep. Comorbid conditions in patients with tension-type headache include 
+depression and anxiety in more than 50% of individuals.
+ CLINICAL MANIFESTATIONS
+T ension-type headaches are usually mild to moderate in severity, and most individuals do not seek care. T ension-type headache can be episodic (occurring Episodic tension-type headaches are generally treated successfully9 with 
+acetaminophen (650 to 1000  m g) or NSAIDs (aspirin, 250 to 1000  m g; naproxen, 
+250 to 500  mg; ibupr ofen, 200 to 800  mg; or ket oprofen, 12.5 to 75  mg). Ho wever, 
+analgesic use for more than 3 days per week can worsen headaches and lead 
+to medication-induced headache.TREATMENT  For very severe attacks, dihydroergotamine (1  mg subcutaneously or 0.5 
+to 1  mg in travenously [IV]) is usually effective but generally requires an anti -
+emetic (e.g., promethazine, 25  mg) bef ore intravenous use. Ketorolac (60  mg 
+intramuscularly [IM] or 30  mg IV ), prochlorperazine (10 to 25  mg IM or 10  mg 
+IV A6  delivered over a 5-minute period), or metoclopramide (10  mg IV ) A7  is useful 
+for patients who are nonresponsive or have contraindications to vasoactive 
+abortive agents. An experimental approach is electrical skin stimulation of the upper arms, especially if applied within the first 20 minutes of the onset  
+of pain.
+ A8 
+ PREVENTION
+Chronic tension-type headaches may benefit from prophylactic treatment 
+with amitriptyline (starting with 10  m g at bedtime and increased slowly up to 
+100 m g until the patient improves or intolerable side effects develop), nortrip -
+tyline (25 to 100  m g each evening), doxepin (25 to 75  m g/day), maprotiline 
+(10 to 25/mg/day), or fluoxetine (10 to 20  m g/day). T ricyclics are gener -
+ally more efficacious than serotonin reuptake inhibitors. A17   Muscle relaxants, 
+physical therapy, localized botulinum toxin injection, and acupuncture can  
+be useful. A18  
+ PROGNOSIS
+T ension-type headache has a variable prognosis. Adolescents with tension-
+type headache and two or more psychiatric factors (e.g., depression and anxiety) 
+have a worse prognosis.
+ CLUSTER HEADACHE AND OTHER TRIGEMINAL 
+AUTONOMIC CEPHALALGIAS
+ DEFINITION
+T rigeminal autonomic cephalalgias, including cluster headaches, are unilateral 
+headaches associated with ipsilateral autonomic features. Other trigeminal 
+autonomic cephalalgias include paroxysmal hemicrania, which is characterized 
+by bouts of headache that persist for 5 to 30 minutes, is generally unilateral, and usually occurs in women; they typically respond to indomethacin. Hemi -
+crania continua, another indomethacin-responsive headache seen in both men 
+and women, is characterized by continuous unilateral pain and mild associated 
+autonomic features; it frequently coexists with a form of chronic daily head -
+ache. Short unilateral neuralgiform headache with conjunctival injection and tearing is a rare trigeminal autonomic cephalalgia that occurs in men; individual 
+headaches persist for only a short time (seconds to 2 minutes).
+ EPIDEMIOLOGY
+Cluster headache occurs in 56 to 401 per 100,000 persons and is more frequent 
+in men (3  :  1 t o 7  :  1). A ttacks usually begin between 20 and 30 years of age. 
+Paroxysmal hemicrania occurs in 56 to 381 per 100,000 persons; it affects 
+women more often (2  :  1) a nd can begin at any age but usually commences 
+at 34 to 41 years. Short unilateral neuralgiform headache with conjunctival 
+injection and tearing is rare, with a slight male preponderance (2  :  1).
+ PATHOBIOLOGY
+Cluster headache may have a genetic predisposition. Imaging studies such as 
+positron emission tomography and functional MRI show inferior posterior 
+hypothalamic activation at the onset of cluster headache and other trigeminal 
+autonomic cephalalgias. In addition, the trigeminovascular complex and the cranial autonomic system are activated. The pathophysiology of hemicrania continua is unknown, and there is debate whether it is associated with hypo -
+thalamic involvement or whether it resembles migraine.
+ CLINICAL MANIFESTATIONS
+Cluster headache is almost always unilateral, rarely bilateral, and has charac -
+teristic ipsilateral autonomic features, commonly including lacrimation and 
+ Downloaded for Angela Cavanna (angela.cavanna@touro.edu) at Touro College of Osteopathic Medicine Sheldon L Sirota DO Memorial Library from ClinicalKey.com by Elsevier on January 06,
+ 2020. For personal use only. No other uses without permission. Copyright ©2020. Elsevier Inc. All rights reserved.
+CHAPTER  370  Head ac H es and Ot H er Head Pain  2320
+ PREVENTION
+Medications that are helpful in preventing chronic daily headache include 
+tricyclic antidepressants, selective serotonin reuptake inhibitors if patients are 
+depressed, anticonvulsants, β-blockers, and calcium-channel blockers (see 
+T ables 370-3 and 370-4). For hemicrania continua, indomethacin (25 to 50  mg 
+three times daily) is the preferred treatment.
+ PROGNOSIS
+The prognosis depends on the underlying headache diagnosis. Depression, 
+anxiety, poor sleep, stress, medication overuse, and poor self-efficacy are asso -
+ciated with a worse prognosis among patients with chronic headaches. If medication overuse is the cause and the patient is successfully detoxified, about 75% of patients improve when treated with preventive medications. T reatment may fail if the diagnosis is incorrect or because of continued overuse 
+of medications, overuse of caffeine, lack of sleep, dietary or other life triggers, 
+hormonal factors, or psychiatric factors. Explaining medication overuse head -
+ache to the patient, inpatient and outpatient detoxification, and multidisciplinary care treatments have been found helpful. New daily persistent headache often 
+does not respond to medical therapy.
+ SECONDARY CAUSES OF HEADACHES
+ Sinus Headache
+Rhinosinusitis (Chapter 398) is characterized by inflammation or infection 
+of the nasal mucosa and sinuses. The sinuses themselves are relatively insensate, 
+but ducts, turbinates, blood vessels, and ostia are the painful structures.
+Headaches attributed to rhinosinusitis are frontal headaches with pain in 
+the face, ears, or teeth. The onset of pain is simultaneous with the rhinosinusitis, 
+and the headache and face pain resolve within 7 days after successful treat -
+ment. The diagnosis requires imaging and clinical evidence that support the diagnosis of acute rhinosinusitis. Many acute and most chronic headaches that are initially thought to result from sinus disease are found to be migraine or tension-type headache.
+The headache should resolve with treatment of acute sinusitis (Chapter 
+398). If it does not, an underlying primary headache disorder is likely.
+ Temporal (Giant Cell) Arteritis
+T emporal arteritis (Chapter 255) is an inflammatory process seen almost exclusively in elderly individuals. Headache, especially pain in the jaw when 
+chewing, is one of the most common features. Its incidence is approximately 
+12 per 100,000 and increases with age to 51 per 100,000 in individuals older 
+than 80. It affects women more often than men (3 : 1) and is more common 
+in white individuals, especially those of Scandinavian and British descent. It is associated with polymyalgia rheumatica.
+The headache has no specific feature, but the pain is usually continuous, 
+generalized, and occasionally throbbing. The temples are generally painful, and patients complain of pain when performing certain activities of daily living, such as chewing food or combing their hair. T ransient monocular blind -
+ness, permanent blindness, and diplopia can occur.
+Elevation of the ESR and CRP occurs almost invariably. The diagnosis is 
+made by finding giant cells in a temporal artery biopsy specimen. Immediate treatment with corticosteroids, sometimes before the biopsy result is avail -
+able, is necessary in doses between 40 and 80 mg daily, with the dose then 
+titrated downward while monitoring the ESR or CRP . Used early enough, corticosteroids (Chapter 255) generally prevent the complications of temporal 
+arteritis, including blindness. T ocilizumab (162 mg subcutaneously weekly 
+or every other week) is FDA approved to provide sustained corticosteroid-free remission in patients with temporal arteritis.
+ A21   The disorder can be long  
+lasting.
+ Intracranial Hypertension and Pseudotumor Cerebri
+Intracranial hypertension can be primary and idiopathic or secondary to cere -
+bral venous thrombosis (Chapter 379), a mass in the brain (Chapter 180), 
+hydrocephalus, or other intracranial processes. Pseudotumor cerebri is an all-
+encompassing term referring to increased intracranial pressure without obvious 
+mass lesions. Primary idiopathic intracranial hypertension occurs in obese women of childbearing age. Secondary pseudotumor cerebri causes a similar 
+syndrome but is due to an offending agent such as medications (e.g., tetracy -
+cline, minocycline, lithium, fluoroquinolones, vitamin A–related medications, 
+growth hormone), endocrine disorders (e.g., parathyroid dysfunction), and sleep apnea. PROGNOSIS
+Cluster headache is often a lifelong problem, but remissions may persist for longer periods as the patient ages. The other trigeminal autonomic cephalalgias 
+are probably lifelong; nevertheless, symptomatic treatment combined with 
+preventive medications is helpful.
+ CHRONIC DAILY HEADACHE
+ DEFINITION
+Though not a specific disorder, chronic daily headache, defined as a headache that is present on more than 15 days per month, is challenging for both patients 
+and physicians. These headaches may be chronic migraine, chronic tension-
+type headache, new daily persistent headache, or chronic cluster headache, with or without overuse of medications.
+ EPIDEMIOLOGY
+Up to 5% of the population suffers from chronic daily headache, most com -
+monly chronic tension-type or chronic migraine. T rigger factors such as a 
+previous infection, mild head injury, or stressful life event are present in 40 
+to 60% of patients with new daily persistent headache. Risk factors for chronic daily headache include medication overuse, history of migraine headache, frequent headache, depression, female sex, obesity, snoring, stressful life events, 
+and low educational level.
+ PATHOBIOLOGY
+Chronic daily headache is probably related to migraine, with both central and 
+peripheral abnormalities. Once migraine has been prolonged and headache 
+occurs on a daily basis, allodynia, a sense that a usually nonpainful stimulus 
+is becoming painful, often develops. Use of an opiate for more than 8 days per month, especially in men, use of barbiturates for more than 5 days per month, especially in women, or use of triptans for more than 10 to 14 days 
+per month can often lead to chronic migraine headache or at least worsening 
+of headaches.
+ CLINICAL MANIFESTATIONS
+New daily persistent headache is characterized by daily occurrence, onset at specific time, and an unrelenting course. It is generally bilateral, nonpulsating, 
+mild to moderate, and associated with features of migraine, photophobia, 
+phonophobia, or nausea. Severe nausea or vomiting is rare. New daily persistent headache can be disabling and is difficult to treat. Chronic daily headache is often associated with profound psychiatric comorbidity, especially depression 
+and anxiety; such psychiatric comorbidity predicts intractability.
+ DIAGNOSIS
+Diagnosis of chronic daily headache is based on the history. It is important 
+to identify the underlying type of primary chronic daily headache: chronic 
+migraine, chronic tension-type headache, new daily persistent headache, or 
+hemicrania continua. Headaches of less than 4 hours’ duration can also be chronic and daily: cluster headache, paroxysmal hemicrania, hypnic head -
+aches occurring every night (usually in the elderly), and episodic stabbing 
+headache.
+12 It is most important to exclude secondary headaches (including 
+post-traumatic headache), headaches associated with vascular disorders (e.g., giant cell arteritis, arteriovenous malformations, carotid and vertebral artery 
+dissections), and headaches associated with nonvascular disorders (e.g., intra -
+cranial hypertension or hypotension, infections). MRI and laboratory studies (e.g., ESR in an elderly individual) are commonly recommended. Lumbar 
+puncture (LP) to assess intracranial pressure may also be indicated in selected  
+patients.An imaging procedure such as MRI is indicated for all patients at the onset 
+of cluster headaches or other trigeminal autonomic cephalalgias because they 
+can be the result of infection (Chapters 384 to 386), vascular malformation 
+(Chapter 380), carotid dissection, or neoplasm, especially a pituitary tumor 
+(Chapter 180). Other possibilities in the differential diagnosis include migraine, hypnic headache (rare short-lasting headaches exclusively during sleep in the elderly), and trigeminal neuralgia.conjunctival injection and occasionally nasal congestion, rhinorrhea, ptosis, miosis, flushing, and eyelid edema ( T able 370-5). The location of the pain is 
+usually behind or above the eye or in the temple but can include the forehead, cheek, teeth, or jaw. The pain reaches its maximum intensity in about 9 minutes and tends to end abruptly. Attacks occur one to eight times a day and are usually described as “boring” or “stabbing” excruciating pain that persists for 
+15 minutes to 2 hours. Migraine symptoms may coexist, including unilateral 
+photophobia, phonophobia, and rarely, an aura. Unlike migraine patients, who usually try to rest, patients with cluster headaches pace and are unable to sit or lie down. Cluster headaches, often precipitated by alcohol, histamine, or 
+nitroglycerin, have a daily periodicity and may also have a seasonal periodic -
+ity. For example, episodic cluster headache may occur annually or every 2 
+years, often in the same season each time. Chronic cluster headache occurs without a remission.
+Paroxysmal hemicrania is pain of short duration, usually 2 to 30 minutes, 
+and occurs unilaterally around the eye, temple, or maxillary region, sometimes precipitated by head movements. Autonomic features similar to cluster head -
+ache can occur. The usual attack rate is up to 40 episodes each day. Bouts of 
+pain may be episodic, separated by a remission, but most patients have daily 
+chronic paroxysmal hemicrania without a remission.
+Short unilateral neuralgiform headache with conjunctival injection and 
+tearing attacks are unilateral and consistently on the same side. Although the pain is excruciating, the attack is brief, usually seconds; most patients are free of pain between attacks, although a dull ache can be present. Associated auto -
+nomic features include ipsilateral conjunctival injection and tearing.
+ DIAGNOSIS
+The diagnostic criteria for cluster headache include severe unilateral orbital, supraorbital, or temporal pain persisting for 15 to 180 minutes with at least 
+one of the following: ipsilateral conjunctival injection or lacrimation, nasal 
+congestion or rhinorrhea, eyelid edema, forehead and facial sweating, miosis with or without ptosis, and restlessness or agitation.
+10 Attacks occur between 
+once and as often as eight times each day. There is no other cause of the 
+disorder.
+Paroxysmal hemicrania is defined by unilateral pain persisting for 2 to 30 
+minutes, about five times each day, with one or more autonomic features such 
+as conjunctival injection, nasal congestion, eyelid edema, forehead and facial 
+sweating, and miosis or ptosis (or both). Complete prevention may be achieved 
+with indomethacin.
+Hemicrania continua is a unilateral headache that occurs daily and continu -
+ously without pain-free periods; its intensity is moderate, with exacerbations 
+of severe pain. During the exacerbations, at least one ipsilateral autonomic 
+feature is present: conjunctival redness, lacrimation, nasal congestion, ptosis, or miosis. It responds to indomethacin.
+Short unilateral neuralgiform headache with conjunctival injection and 
+tearing is diagnosed by unilateral orbital, supraorbital, temporal stabbing pain persisting for 5 to 240 seconds at a frequency of three to 200 per day. It is associated with conjunctival injection and tearing.TABLE 370-5  DISTINGUISHING  CHARACTERISTICS OF THE TRIGEMINAL AUTONOMIC CEPHALALGIAS
+CHARACTERISTIC CLUSTERPAROXYSMAL 
+HEMICRANIAHEMICRANIA 
+CONTINUASHORT UNILATERAL 
+NEURALGIFORM HEADACHE 
+WITH CONJUNCTIVAL 
+INJECTION AND TEARING
+Sex—F:M 1 : 3-7 2 : 1 2 : 1 1 : 2
+Unilateral + + + +
+Attack frequency 1-8/day 1-40/day 3-200/day 3-200/day
+Attack duration 15-80  min 2-30  min Continuous with episodic 
+exacerbations5-240  sec
+Autonomic features + + + with exacerbations +
+Indomethacin effect − +++ +++ −
+Acute treatment at onset Oxygen, sumatriptan SC, DHE nasal 
+spray; sumatriptan or zolmitriptan 
+nasal spray (A-level evidence)None None None
+Preventive medications Verapamil, lithium, corticosteroids, 
+anticonvulsants (A level)Indomethacin (A level) Indomethacin (A level) Lamotrigine, topiramate, 
+gabapentin (B level)
+DHE = dihydroergotamine; SC = subcutaneous.
+Because the course of the headache is brief, oral medications take too long 
+to work to be effective. The use of 100% oxygen at 7 to 10  L/minut e for 15 to 
+30 minutes benefits some patients. A19   Sumatriptan or zolmitriptan nasal spray 
+or sumatriptan subcutaneously (4 to 6  mg) can be helpful .11 Dihydroergotamine 
+can be helpful when given nasally, IM, or even IV. Vagal nerve stimulation was 
+recently approved for acute cluster headache. A20   Refractory cases may respond 
+to sphenopalatine ganglion and occipital nerve stimulation. Chronic paroxysmal hemicranias and hemicrania continua are characterized by a response to indo -
+methacin, 25 to 50  mg thr ee times daily. Short unilateral neuralgiform headache 
+with conjunctival injection and tearing attacks is so brief that there are no medications to treat it acutely.TREATMENT  
+TREATMENT   PREVENTION
+Preventive medications should be started at the beginning of a cluster bout. 
+Verapamil, 240 to 480  m g, is the drug of choice. Lithium (300  m g twice daily) 
+is an alternative. Corticosteroids (e.g., prednisone, 40  m g/day, or dexametha -
+sone, 4  mg twice daily for 2 weeks) act rapidly as a bridge to prevent cluster 
+headache while other preventive medications are started. Valproic acid (500 
+to 1500  m g/day in divided doses), topiramate (50 to 100  m g/day), melatonin 
+(4 m g at bedtime), and gabapentin (300  m g three times daily) are sometimes 
+beneficial. Surgical approaches, including suboccipital steroid injections, 
+occipital nerve stimulators, sphenopalatine ganglion stimulation, hypothalamic 
+stimulation, and destructive procedures, are sometimes necessary for this 
+disabling headache.
+Paroxysmal hemicrania and hemicrania continua respond to daily indo -
+methacin (25 to 50  m g three times daily). If the patient cannot tolerate indo -
+methacin, calcium-channel blockers (e.g., verapamil, 240 to 480  m g/day) or 
+melatonin may be helpful. Preventive treatment of short unilateral neuralgiform headache with conjunctival injection and tearing includes lamotrigine (100 
+to 400  m g/day), topiramate (50 to 100  m g), gabapentin (300 to 900  m g), or 
+intravenous lidocaine (starting at 1-2  mg/minute with cardiac monitoring).
+Short unilateral neuralgiform headache with conjunctival injection and 
+tearing is regarded as a more difficult headache to prevent. Lamotrigine and 
+topiramate may be helpful.
+ Downloaded for Angela Cavanna (angela.cavanna@touro.edu) at Touro College of Osteopathic Medicine Sheldon L Sirota DO Memorial Library from ClinicalKey.com by Elsevier on January 06,
+ 2020. For personal use only. No other uses without permission. Copyright ©2020. Elsevier Inc. All rights reserved.
+CHAPTER  370  Head ac H es and Ot H er Head Pain  2321
+ PREVENTION
+Medications that are helpful in preventing chronic daily headache include 
+tricyclic antidepressants, selective serotonin reuptake inhibitors if patients are 
+depressed, anticonvulsants, β-blockers, and calcium-channel blockers (see 
+T ables 370-3 and 370-4 ). For hemicrania continua, indomethacin (25 to 50  m g 
+three times daily) is the preferred treatment.
+ PROGNOSIS
+The prognosis depends on the underlying headache diagnosis. Depression, 
+anxiety, poor sleep, stress, medication overuse, and poor self-efficacy are asso -
+ciated with a worse prognosis among patients with chronic headaches. If medication overuse is the cause and the patient is successfully detoxified, about 75% of patients improve when treated with preventive medications. T reatment may fail if the diagnosis is incorrect or because of continued overuse 
+of medications, overuse of caffeine, lack of sleep, dietary or other life triggers, 
+hormonal factors, or psychiatric factors. Explaining medication overuse head -
+ache to the patient, inpatient and outpatient detoxification, and multidisciplinary care treatments have been found helpful. New daily persistent headache often 
+does not respond to medical therapy.
+ SEC ONDARY CAUSES OF HEADACHES
+ Sinus Headache
+Rhinosinusitis (Chapter 398) is characterized by inflammation or infection 
+of the nasal mucosa and sinuses. The sinuses themselves are relatively insensate, 
+but ducts, turbinates, blood vessels, and ostia are the painful structures.
+Headaches attributed to rhinosinusitis are frontal headaches with pain in 
+the face, ears, or teeth. The onset of pain is simultaneous with the rhinosinusitis, 
+and the headache and face pain resolve within 7 days after successful treat -
+ment. The diagnosis requires imaging and clinical evidence that support the diagnosis of acute rhinosinusitis. Many acute and most chronic headaches that are initially thought to result from sinus disease are found to be migraine or tension-type headache.
+The headache should resolve with treatment of acute sinusitis (Chapter 
+398). If it does not, an underlying primary headache disorder is likely.
+ Temporal (Giant Cell) Arteritis
+T emporal arteritis (Chapter 255) is an inflammatory process seen almost exclusively in elderly individuals. Headache, especially pain in the jaw when 
+chewing, is one of the most common features. Its incidence is approximately 
+12 per 100,000 and increases with age to 51 per 100,000 in individuals older 
+than 80. It affects women more often than men (3  :  1) and is more common 
+in white individuals, especially those of Scandinavian and British descent. It is associated with polymyalgia rheumatica.
+The headache has no specific feature, but the pain is usually continuous, 
+generalized, and occasionally throbbing. The temples are generally painful, and patients complain of pain when performing certain activities of daily living, such as chewing food or combing their hair. T ransient monocular blind -
+ness, permanent blindness, and diplopia can occur.
+Elevation of the ESR and CRP occurs almost invariably. The diagnosis is 
+made by finding giant cells in a temporal artery biopsy specimen. Immediate treatment with corticosteroids, sometimes before the biopsy result is avail -
+able, is necessary in doses between 40 and 80  m g daily, with the dose then 
+titrated downward while monitoring the ESR or CRP . Used early enough, corticosteroids (Chapter 255) generally prevent the complications of temporal 
+arteritis, including blindness. T ocilizumab (162  m g subcutaneously weekly 
+or every other week) is FDA approved to provide sustained corticosteroid-free remission in patients with temporal arteritis.
+ A21   The disorder can be long  
+lasting.
+ Intracranial Hypertension and Pseudotumor Cerebri
+Intracranial hypertension can be primary and idiopathic or secondary to cere -
+bral venous thrombosis (Chapter 379), a mass in the brain (Chapter 180), 
+hydrocephalus, or other intracranial processes. Pseudotumor cerebri is an all-
+encompassing term referring to increased intracranial pressure without obvious mass lesions. Primary idiopathic intracranial hypertension occurs in obese women of childbearing age. Secondary pseudotumor cerebri causes a similar 
+syndrome but is due to an offending agent such as medications (e.g., tetracy -
+cline, minocycline, lithium, fluoroquinolones, vitamin A–related medications, 
+growth hormone), endocrine disorders (e.g., parathyroid dysfunction), and sleep apnea. PROGNOSIS
+Cluster headache is often a lifelong problem, but remissions may persist for longer periods as the patient ages. The other trigeminal autonomic cephalalgias 
+are probably lifelong; nevertheless, symptomatic treatment combined with 
+preventive medications is helpful.
+ CHRONIC DAILY HEADACHE
+ DEFINITION
+Though not a specific disorder, chronic daily headache, defined as a headache that is present on more than 15 days per month, is challenging for both patients 
+and physicians. These headaches may be chronic migraine, chronic tension-
+type headache, new daily persistent headache, or chronic cluster headache, with or without overuse of medications.
+ EPIDEMIOLOGY
+Up to 5% of the population suffers from chronic daily headache, most com -
+monly chronic tension-type or chronic migraine. T rigger factors such as a 
+previous infection, mild head injury, or stressful life event are present in 40 
+to 60% of patients with new daily persistent headache. Risk factors for chronic daily headache include medication overuse, history of migraine headache, frequent headache, depression, female sex, obesity, snoring, stressful life events, 
+and low educational level.
+ PATHOBIOLOGY
+Chronic daily headache is probably related to migraine, with both central and 
+peripheral abnormalities. Once migraine has been prolonged and headache 
+occurs on a daily basis, allodynia, a sense that a usually nonpainful stimulus 
+is becoming painful, often develops. Use of an opiate for more than 8 days per month, especially in men, use of barbiturates for more than 5 days per month, especially in women, or use of triptans for more than 10 to 14 days 
+per month can often lead to chronic migraine headache or at least worsening 
+of headaches.
+ CLINICAL MANIFESTATIONS
+New daily persistent headache is characterized by daily occurrence, onset at specific time, and an unrelenting course. It is generally bilateral, nonpulsating, 
+mild to moderate, and associated with features of migraine, photophobia, 
+phonophobia, or nausea. Severe nausea or vomiting is rare. New daily persistent headache can be disabling and is difficult to treat. Chronic daily headache is often associated with profound psychiatric comorbidity, especially depression 
+and anxiety; such psychiatric comorbidity predicts intractability.
+ DIAGNOSIS
+Diagnosis of chronic daily headache is based on the history. It is important 
+to identify the underlying type of primary chronic daily headache: chronic 
+migraine, chronic tension-type headache, new daily persistent headache, or 
+hemicrania continua. Headaches of less than 4 hours’ duration can also be chronic and daily: cluster headache, paroxysmal hemicrania, hypnic head -
+aches occurring every night (usually in the elderly), and episodic stabbing 
+headache.
+12 It is most important to exclude secondary headaches (including 
+post-traumatic headache), headaches associated with vascular disorders (e.g., giant cell arteritis, arteriovenous malformations, carotid and vertebral artery 
+dissections), and headaches associated with nonvascular disorders (e.g., intra -
+cranial hypertension or hypotension, infections). MRI and laboratory studies (e.g., ESR in an elderly individual) are commonly recommended. Lumbar 
+puncture (LP) to assess intracranial pressure may also be indicated in selected  
+patients.
+The most common cause of chronic daily headache is overuse of medica -
+tions, so patients must be weaned off the overused symptomatic medication.13 
+Treatment of underlying depression, anxiety, and pain may also be helpful. 
+Occasionally, hospital admission is necessary to break the headache cycle. Acute migraine-specific treatments (see earlier), especially intravenous dihydroergota -
+mine (0.5 to 2  mg), are helpful in terminating migrainous attacks.TREATMENT  
+ Downloaded for Angela Cavanna (angela.cavanna@touro.edu) at Touro College of Osteopathic Medicine Sheldon L Sirota DO Memorial Library from ClinicalKey.com by Elsevier on January 06,
+ 2020. For personal use only. No other uses without permission. Copyright ©2020. Elsevier Inc. All rights reserved.
+CHAPTER  370  Head ac H es and Ot H er Head Pain  2322
+pain is triggered by mastication, weight loss and inanition may develop; prompt 
+treatment is essential.
+ Glossopharyngeal Neuralgia
+Less common than trigeminal neuralgia, glossopharyngeal neuralgia is unilateral 
+pain in the distribution of the glossopharyngeal and vagal nerves in the ear, 
+jaw, throat, and base of the tongue. This neuralgia is rare, with a prevalence 
+of less than one per 100,000. The cause is thought to be compression of the glossopharyngeal nerve by blood vessels, tumor, or aneurysm and demyelin -
+ation or infection.
+The pains are paroxysmal and persist for less than seconds to 2 minutes, 
+but patients can experience 30 to 40 attacks in a day. As in trigeminal neuralgia, the pain is triggered by chewing, swallowing, or talking.
+The diagnosis is made clinically. MRI should be done to evaluate the glos -
+sopharyngeal nerve to exclude a tumor or vascular abnormality. The differential diagnosis includes trigeminal neuralgia, geniculate neuralgia, and atypical pain syndrome.
+Pharmacologic therapy is similar to that for trigeminal neuralgia, and carba -
+mazepine (200 to 800 mg) is usually the drug of choice. Surgical therapy and 
+microvascular decompression or radio frequency ablation should be consid -
+ered in patients whose weight loss does not respond promptly to medication. Trigeminal Neuralgia
+T rigeminal neuralgia is a distinct, excruciatingly painful condition provoked by sensory stimuli in the distribution of the trigeminal nerve.
+18 T rigeminal 
+neuralgia occurs in four per 100,000 individuals, most commonly in persons 
+between 50 and 70 years of age and in women slightly more than in men 
+(1.5 : 1).
+In younger individuals, multiple sclerosis (Chapter 383) can be associated 
+with the condition. In older individuals, an ectatic artery in the vertebrobasilar system often causes the syndrome. The trigeminal nerve root entry zone is 
+thought to be the site of pathology. Either demyelination or compression of this region increases the firing of trigeminal afferents. When a specific cause can be defined, the term symptomatic trigeminal neuralgia  is often used.
+ CLINICAL MANIFESTATIONS
+T rigeminal neuralgia pain is characteristically sharp, lancinating (shooting), and electric shock–like in the distribution of the trigeminal nerve: cheek (V2), 
+chin or lower teeth (V3), and around the eye (V1). A combination of V2 and 
+V3 is the most common. The paroxysms are brief—usually seconds but up to 2 minutes. Some patients have a dull and continuous interictal pain, whereas most have only staccato-like volleys of pain. Pain is usually triggered by stimuli 
+such as touching the face, brushing the teeth, air moving across the face, or 
+masticating food. Once a volley of pain is triggered, there is usually a refrac -
+tory period in which pain will not occur.
+ DIAGNOSIS
+Diagnostic criteria include paroxysmal attacks of pain persisting for a second to 2 minutes and affecting one or more divisions of the trigeminal nerve. T o 
+make the diagnosis, the pain must be intensely sharp, stabbing, or precipitated 
+by a trigger. Each attack is stereotypical, and there are usually no other neu -
+rologic defects. Idiopathic trigeminal neuralgia by definition has no causative lesion, whereas symptomatic trigeminal neuralgia has a cause such as vascular 
+compression of the trigeminal nerve root exit zone. The differential diagnosis 
+includes trigeminal autonomic cephalgia, which has autonomic accompani -
+ments that are not associated with trigeminal neuralgia. Atypical facial pain, idiopathic stabbing headache, and T olosa-Hunt syndrome, an inflammatory 
+syndrome of the anterior cavernous sinus, are also included in the differential. 
+MRI is recommended to evaluate possible secondary causes of trigeminal neuralgia, such as demyelination, tumors, and vascular loops on the trigeminal nerve exit zone.Intracranial hypotension was once considered rare, but modern imaging 
+techniques suggest an incidence of about five per 100,000 per year; it is slightly 
+more common in women than men. The onset is usually at about 40 years of 
+age, but it can occur in children and the elderly. Post-LP headaches occur more commonly but only infrequently persist.
+ PATHOBIOLOGY
+The cause of primary intracranial hypotension is thought to be a small leak or tear in the dura, usually in the lumbar region around cystic structures called 
+T arlov cysts. The cause of intracranial hypotension may not be the tear itself 
+but rather the low CSF volume and low epidural venous pressure that assists in development of the lower pressure and hence the leak. The leaks frequently occur in the thoracic and cervicothoracic junction spine. Previous trauma 
+history is reported in only one third of cases. Genetic and connective tissue 
+disorders (e.g., Ehlers-Danlos syndrome, Marfan syndrome [Chapter 244]) may predispose individuals to have these leaks.
+ CLINICAL MANIFESTATIONS
+Intracranial hypotension is characterized clinically by a positional headache. The location of the pain is variable, and the most constant characteristic is 
+the orthostatic change in the pain. If the leak is untreated for a long time, the 
+headache may lose the orthostatic characteristic. Posterior neck pain can also occur. Changes in hearing, taste, and balance, as well as blurred vision and diplopia, can develop if hindbrain herniation occurs. If very severe hindbrain 
+herniation occurs, changes in consciousness, subdural hygromas, ataxia, a 
+pseudo-frontotemporal dementia can occur.
+ DIAGNOSIS
+The diagnosis of intracranial hypotension is made by MRI showing pachy -
+meningeal enhancement, venous engorgement, dural thickening, pituitary 
+fossa enlargement, and herniation of the hindbrain ( Fig. 370-1). Hindbrain 
+herniation appears as a downward descent of the posterior fossa along with 
+loss of the prechiasmatic cistern, flattening of the pons against the clivus, and descent of the cerebellar tonsils, which is often misconstrued as a Chiari I 
+malformation. LP may also show low ( <
+50 mm H 2O) CSF pressure, but it 
+also may be normal. The diagnosis is most commonly made by clinical char -
+acteristics and imaging, so the decision as to whether or not to do an LP 
+should be made on a case-by-case basis because there is at least a theoretical risk of more hindbrain herniation. The differential diagnosis includes new daily persistent headache, chronic migraine, or another secondary headache. 
+The diagnosis is confirmed if a CSF leak is demonstrated by isotope studies, 
+CT myelography, or MR myelography.Idiopathic increased intracranial pressure occurs in one to two per 100,000 
+individuals but in 19 to 20 per 100,000 individuals (15 to 55 years of age) 
+who are obese. Women are affected more frequently than men (6 to 8  :  1). 
+Onset is usually in young adulthood.
+The cause of the increased pressure is poor CSF absorption, as is thought 
+to be the problem in idiopathic intracranial hypertension; venous hyperten -
+sion, as is seen in venous thrombosis; or a mass that causes an increase in pressure. A genetic component is also likely because there are reports of the condition occurring in families.
+ CLINICAL MANIFESTATIONS
+Idiopathic intracranial hypertension is characterized by headache in more than 90% of individuals, about 90% of whom are obese. The headache may 
+be pulsatile and is frequently felt behind the eyes. Patients often report neck 
+pain, upper back pain, or even radicular pain. The intensity of headache does not correlate with the height of the intracranial pressure. Pulse-synchronous tinnitus is a frequent accompaniment, as are transient visual obscurations and 
+diplopia. Vision-specific quality of life is often reduced.
+On examination, papilledema (Chapter 395, Fig. 395-25) may be found. 
+The remainder of the general and neurologic examination is usually normal 
+in patients with idiopathic intracranial hypertension, but abnormalities on 
+examination may point to a secondary cause, such as underlying venous sinus 
+thrombosis (Chapter 379), ischemic stroke, central nervous system infection (Chapters 384 and 385), or brain tumor (Chapter 180). Although idiopathic intracranial hypertension often persists for years, the condition can be self-
+limited. In about a third of patients, there are permanent visual sequelae related 
+to the effect of papilledema.
+ DIAGNOSIS
+The diagnosis of intracranial pressure is made by the symptoms and signs such as papilledema (Chapter 395, Fig. 395-25), but up to 40% of cases of 
+presumptive intracranial hypertension are not confirmed by specialist evalu-
+ation, usually because of an initially inaccurate diagnosis of papilledema.
+14 
+MRI is necessary to exclude secondary causes of increased intracranial pres -
+sure. MR or CT venography is often needed to exclude venous sinus thrombosis (Chapter 379). LP must be performed unless patients have a contraindication such as an intracranial mass lesion, and CSF pressure should be measured. The diagnosis can be made if the pressure is elevated (CSF >
+250  mm H 2O) 
+and the fluid itself is normal in terms of its protein level, glucose level, and 
+cell count. Visual fields must be examined formally because visual acuity is 
+not affected until late in the course of the disorder.
+* 
+FIGURE  3 70-1.  Intracranial hypotension.  this 56- year-old woman had headaches that 
+initially were positional. Gadolinium-enhanced magnetic resonance imaging shows char -
+acteristic findings of engorgement of the pituitary (*), slumping of the posterior fossa 
+with tonsillar herniation ( large arrow), and meningeal enhancement ( smaller arrows). TREATMENT AND PROGNOSIS  
+TREATMENT  Acetazolamide (doses ranging from 500 to 4000  mg daily) c ombined 
+with a weight loss program is more efficacious for individuals with idio -
+pathic intracranial hypertension and mild to moderate visual loss than is  
+placebo. A22  , A23   Any underlying secondary cause should also be treated (e.g., 
+stopping an offending medication, treatment of sleep apnea [Chapter 377]). 
+Weight loss is beneficial in obese subjects. If visual loss progresses, surgical procedures should be considered. Optic nerve sheath fenestration allows CSF to escape through slits or windows in the orbit; sometimes the treatment of one side decreases the optic disc swelling on the other side as well. Complica -
+tions include visual loss or diplopia, so visual fields must be followed carefully to anticipate and prevent visual loss. Lumbar or ventricular peritoneal diversion procedures also reduce intracranial pressure, but their complications include infection and shunt obstruction. Venous sinus stenting has occasionally been used for fixed stenoses.
+15TREATMENT  
+ PROGNOSIS
+The prognosis of patients with idiopathic intracranial hypertension is good 
+with treatment, but up to a third of inadequately treated patients can experi -
+ence permanent defects of visual fields or loss of visual acuity. Individuals are susceptible to recurrence if they suddenly gain weight.
+ Intracranial Hypotension
+Intracranial hypotension (or CSF hypovolemia) causes a headache that is characteristically better when the patient is supine and worse when the patient 
+is upright. It can be primary (spontaneous) or secondary to another underly -
+ing cause, most commonly a previous LP . PROGNOSIS
+Patients with trigeminal neuralgia can have spontaneous or medication-induced 
+remissions. Microvascular decompression is often curative. In patients whose  Grade A References
+ Downloaded for Angela Cavanna (angela.cavanna@touro.edu) at Touro College of Osteopathic Medicine Sheldon L Sirota DO Memorial Library from ClinicalKey.com by Elsevier on January 06,
+ 2020. For personal use only. No other uses without permission. Copyright ©2020. Elsevier Inc. All rights reserved.
+CHAPTER  370  Head ac H es and Ot H er Head Pain  2323
+pain is triggered by mastication, weight loss and inanition may develop; prompt 
+treatment is essential.
+ Glossopharyngeal Neuralgia
+Less common than trigeminal neuralgia, glossopharyngeal neuralgia is unilateral pain in the distribution of the glossopharyngeal and vagal nerves in the ear, 
+jaw, throat, and base of the tongue. This neuralgia is rare, with a prevalence 
+of less than one per 100,000. The cause is thought to be compression of the glossopharyngeal nerve by blood vessels, tumor, or aneurysm and demyelin -
+ation or infection.
+The pains are paroxysmal and persist for less than seconds to 2 minutes, 
+but patients can experience 30 to 40 attacks in a day. As in trigeminal neuralgia, the pain is triggered by chewing, swallowing, or talking.
+The diagnosis is made clinically. MRI should be done to evaluate the glos -
+sopharyngeal nerve to exclude a tumor or vascular abnormality. The differential diagnosis includes trigeminal neuralgia, geniculate neuralgia, and atypical pain syndrome.
+Pharmacologic therapy is similar to that for trigeminal neuralgia, and carba -
+mazepine (200 to 800  m g) is usually the drug of choice. Surgical therapy and 
+microvascular decompression or radio frequency ablation should be consid -
+ered in patients whose weight loss does not respond promptly to medication. Trigeminal Neuralgia
+T rigeminal neuralgia is a distinct, excruciatingly painful condition provoked by sensory stimuli in the distribution of the trigeminal nerve.
+18 T rigeminal 
+neuralgia occurs in four per 100,000 individuals, most commonly in persons 
+between 50 and 70 years of age and in women slightly more than in men 
+(1.5  : 1).
+In younger individuals, multiple sclerosis (Chapter 383) can be associated 
+with the condition. In older individuals, an ectatic artery in the vertebrobasilar system often causes the syndrome. The trigeminal nerve root entry zone is 
+thought to be the site of pathology. Either demyelination or compression of this region increases the firing of trigeminal afferents. When a specific cause can be defined, the term symptomatic trigeminal neuralgia  is often used.
+ CLINICAL MANIFESTATIONS
+T rigeminal neuralgia pain is characteristically sharp, lancinating (shooting), and electric shock–like in the distribution of the trigeminal nerve: cheek (V2), 
+chin or lower teeth (V3), and around the eye (V1). A combination of V2 and 
+V3 is the most common. The paroxysms are brief—usually seconds but up to 2 minutes. Some patients have a dull and continuous interictal pain, whereas most have only staccato-like volleys of pain. Pain is usually triggered by stimuli 
+such as touching the face, brushing the teeth, air moving across the face, or 
+masticating food. Once a volley of pain is triggered, there is usually a refrac -
+tory period in which pain will not occur.
+ DIAGNOSIS
+Diagnostic criteria include paroxysmal attacks of pain persisting for a second to 2 minutes and affecting one or more divisions of the trigeminal nerve. T o 
+make the diagnosis, the pain must be intensely sharp, stabbing, or precipitated 
+by a trigger. Each attack is stereotypical, and there are usually no other neu -
+rologic defects. Idiopathic trigeminal neuralgia by definition has no causative lesion, whereas symptomatic trigeminal neuralgia has a cause such as vascular 
+compression of the trigeminal nerve root exit zone. The differential diagnosis 
+includes trigeminal autonomic cephalgia, which has autonomic accompani -
+ments that are not associated with trigeminal neuralgia. Atypical facial pain, idiopathic stabbing headache, and T olosa-Hunt syndrome, an inflammatory 
+syndrome of the anterior cavernous sinus, are also included in the differential. 
+MRI is recommended to evaluate possible secondary causes of trigeminal neuralgia, such as demyelination, tumors, and vascular loops on the trigeminal nerve exit zone.For spontaneous intracranial hypotension, the recommended treatment is 
+bed rest and an epidural blood patch (blind or directed).16 Treatment of CSF 
+leaks includes bed rest, caffeine (200 to 300  mg t wo to three times daily), an 
+abdominal binder wrapped around the abdomen to increase central pressure, 
+and generous intake of oral fluids. For post–dural puncture headache and most spontaneous episodes, an epidural blood patch usually improves the symptoms within days.
+17 Surgical repair is rarely required. With treatment, the symptoms 
+and MRI findings should resolve completely. Recurrence is infrequent.TREATMENT AND PROGNOSIS  
+Trigeminal neuralgia is treated with medications or surgery.19 Carbamazepine 
+(400 to 1200  mg) is c onsidered the first-line agent for the neuralgia. Phenytoin 
+(200 to 300  mg), baclof en (40 to 80  mg), clonaz epam (2 to 6  mg), v alproic acid 
+(500 to 1500  mg), lamotr igine (100 to 400  mg), gabapen tin (900 to 1800  mg), 
+oxcarbazepine (300 to 1800  mg), levetiracetam 2 to 4  g), and topiramate (50 
+to 200  mg) ar e also used. Botulinum toxin may be effective for this disorder. 
+Surgical treatments include microvascular decompression, which may alleviate the symptoms and preserve sensory function. Other treatments include partial destruction of the trigeminal nerve with heat (radio frequency lesions) or with glycerol (chemical destruction).TREATMENT  
+ PROGNOSIS
+Patients with trigeminal neuralgia can have spontaneous or medication-induced 
+remissions. Microvascular decompression is often curative. In patients whose  G rade A References
+A1. S tephens G, Derry S, Moore RA. Paracetamol (acetaminophen) for acute treatment of episodic 
+tension-type headache in adults. Cochrane Database Syst Rev . 2016;6:CD011889.
+A2. D erry S, Wiffen PJ, Moore RA. Aspirin for acute treatment of episodic tension-type headache in 
+adults. Cochrane Database Syst Rev . 2017;1:CD011888.
+A3. D erry S, Wiffen PJ, Moore RA, Bendtsen L. Ibuprofen for acute treatment of episodic tension-type 
+headache in adults. Cochrane Database Syst Rev . 2015;7:CD011474.
+A4. L aw S, Derry S, Moore RA. Sumatriptan plus naproxen for the treatment of acute migraine attacks 
+in adults. Cochrane Database Syst Rev . 2016;4:CD008541.
+A5. C ameron C, Kelly S, Hsieh SC, et  al . T riptans in the acute treatment of migraine: a systematic 
+review and network meta-analysis. Headache . 2015;55(suppl 4):221-235.
+A6. F riedman BW, Irizarry E, Solorzano C, et  al . Randomized study of IV prochlorperazine plus 
+diphenhydramine vs IV hydromorphone for migraine. Neurology. 2017;89:2075-2082.
+A7. F riedman BW, Garber L, Y oon A, et  al . Randomized trial of IV valproate vs metoclopramide vs 
+ketorolac for acute migraine. Neurology. 2014;82:976-983.
+A8. Y arnitsky D, Volokh L, Ironi A, et  al . Nonpainful remote electrical stimulation alleviates episodic 
+migraine pain. Neurology. 2017;88:1250-1255.
+A9. S ilberstein SD. Preventive migraine treatment. Continuum (Minneap Minn) . 2015;21:973-989.
+A10.  B ruloy E, Sinna R, Grolleau JL, et  al . Botulinum toxin versus placebo: a meta-analysis of prophylactic 
+treatment for migraine. Plast Reconstr Surg . 2019;143:239-250.
+A11.  S choenen JE. Migraine prevention with a supraorbital transcutaneous stimulator: a randomized 
+controlled trial. Neurology. 2016;86:201-202.
+A12.  T epper S, Ashina M, Reuter U, et  al . Safety and efficacy of erenumab for preventive treatment of 
+chronic migraine: a randomised, double-blind, placebo-controlled phase 2 trial. Lancet Neurol. 
+2017;16:425-434.
+A13.  Go adsby PJ, Reuter U, Hallstrom Y, et  al . A controlled trial of erenumab for episodic migraine. N 
+Engl J Med . 2017;377:2123-2132.
+A14.  S ilberstein SD, Dodick DW, Bigal ME, et  al . Fremanezumab for the preventive treatment of chronic 
+migraine. N Engl J Med . 2017;377:2113-2122.
+A15.  D odick DW, Silberstein SD, Bigal ME, et  al . Effect of fremanezumab compared with placebo for 
+prevention of episodic migraine: a randomized clinical trial. JAMA. 2018;319:1999-2008.
+A16.  S tauffer VL, Dodick DW, Zhang Q, et  al . Evaluation of galcanezumab for the prevention of episodic 
+migraine: the EVOLVE-1 randomized clinical trial. JAMA Neurol. 2018;75:1080-1088.
+A17.  J ackson JL, Mancuso JM, Nickoloff S, et  al . T ricyclic and tetracyclic antidepressants for the preven -
+tion of frequent episodic or chronic tension-type headache in adults: a systematic review and meta-
+analysis. J Gen Intern Med . 2017;32:1351-1358.
+A18.  Z hao L, Chen J, Li Y, et  al . The long-term effect of acupuncture for migraine prophylaxis: a random -
+ized clinical trial. JAMA Intern Med . 2017;177:508-515.
+A19.  P etersen AS, Barloese MC, Lund NL, et  al . Oxygen therapy for cluster headache. A mask comparison 
+trial. A single-blinded, placebo-controlled, crossover study. Cephalalgia . 2017;37:214-224.
+A20.  S ilberstein SD, Mechtler LL, Kudrow DB, et  al . Non-invasive vagus nerve stimulation for the acute 
+treatment of cluster headache: findings from the randomized, double-blind, sham-controlled ACT1 
+study. Headache . 2016;56:1317-1332.
+A21.  S tone JH, Tuckwell K, Dimonaco S, et  al . T rial of tocilizumab in giant-cell arteritis. N Engl J Med . 
+2017;377:317-328.
+A22.  W all M, McDermott MP , Kieburtz KD, et  al . Effect of acetazolamide on visual function in patients 
+with idiopathic intracranial hypertension and mild visual loss: the idiopathic intracranial hyperten -
+sion treatment trial. JAMA. 2014;311:1641-1651.
+A23.  B ruce BB, Digre KB, McDermott MP , et  al . Quality of life at 6 months in the idiopathic intracranial 
+hypertension treatment trial. Neurology. 2016;87:1871-1877.
+GENERAL REFERENCES
+For the General References and other additional features, please visit Expert Consult 
+at https://expertconsult.inkling.com.
+ Downloaded for Angela Cavanna (angela.cavanna@touro.edu) at Touro College of Osteopathic Medicine Sheldon L Sirota DO Memorial Library from ClinicalKey.com by Elsevier on January 06,
+ 2020. For personal use only. No other uses without permission. Copyright ©2020. Elsevier Inc. All rights reserved.
+CHAPTER  370  HeadacHes and OtHer Head Pain  2323.e1
+GENERAL REFERENCES
+1. Gormley P , Anttila V , Winsvold BS, et al. Meta-analysis of 375,000 individuals identifies 38 suscep -
+tibility loci for migraine. Nat Genet . 2016;48:856-866.
+2. Cámara MS, Martín Bujanda M, Mendioroz Iriarte M. Epigenetic changes in headache. Neurologia . 
+2017. [Epub ahead of print.]
+3. T abatabai RR, Swadron SP . Headache in the emergency department: avoiding misdiagnosis of dan -
+gerous secondary causes. Emerg Med Clin North Am . 2016;34:695-716.
+4. Probyn K, Bowers H, Caldwell F, et al. Prognostic factors for chronic headache: a systematic review. 
+Neurology . 2017;89:291-301.
+5. Charles A. The pathophysiology of migraine: implications for clinical management. Lancet Neurol . 
+2018;17:174-182.
+6. Dodick DW. Migraine. Lancet . 2018;391:1315-1330.
+7. Charles A. Migraine. N Engl J Med . 2017;377:553-561.
+8. Maasumi K, Michael RL, Rapoport AM. CGRP and migraine: the role of blocking calcitonin gene-
+related peptide ligand and receptor in the management of migraine. Drugs . 2018;78:913-928.
+9. Jensen RH. T ension-type headache—the normal and most prevalent headache. Headache . 2018;58:  
+339-345.10. Hoffmann J, May A. Diagnosis, pathophysiology, and management of cluster headache. Lancet Neurol . 
+2018;17:75-83.
+11. Robbins MS, Starling AJ, Pringsheim TM, et al. T reatment of cluster headache: the American Head -
+ache Society evidence-based guidelines. Headache . 2016;56:1093-1106.
+12. Rizzoli P , Mullally WJ. Headache. Am J Med . 2018;131:17-24.
+13. Munksgaard SB, Madsen SK, Wienecke T . T reatment of medication overuse headache—a review. 
+Acta Neurol Scand . 2019;139:405-414.
+14. Fisayo A, Bruce BB, Newman NJ, et al. Overdiagnosis of idiopathic intracranial hypertension. Neurol -
+ogy. 2016;86:341-350.
+15. Dinkin MJ, Patsalides A. Venous sinus stenting in idiopathic intracranial hypertension: results of a 
+prospective trial. J Neuroophthalmol . 2017;37:113-121.
+16. Kranz PG, Malinzak MD, Amrhein TJ, et al. Update on the diagnosis and treatment of spontaneous 
+intracranial hypotension. Curr Pain Headache Rep . 2017;21:1-8.
+17. Gaiser RR. Postdural puncture headache: an evidence-based approach. Anesthesiol Clin . 2017;  
+35:157-167.
+18. Cruccu G. T rigeminal neuralgia. Continuum (Minneap Minn) . 2017;23:396-420.
+19. Ramusino MC, Perini G, Antonaci F, et al. The treatment of trigeminal autonomic cephalalgias: an 
+overview. J Oral Facial Pain Headache . 2019;33:89-104.
+ Downloaded for Angela Cavanna (angela.cavanna@touro.edu) at Touro College of Osteopathic Medicine Sheldon L Sirota DO Memorial Library from ClinicalKey.com by Elsevier on January 06,
+ 2020. For personal use only. No other uses without permission. Copyright ©2020. Elsevier Inc. All rights reserved.
+CHAPTER  370  HeadacHes and OtHer Head Pain  2323.e2
+3. A 30-year-old woman has increasingly frequent headaches characterized 
+by bilateral holocranial headache, photophobia, nausea, and rare vomiting. 
+The headaches occur 25 days each month, and she is now using an acet -
+aminophen/butalbital combination medication almost daily. The most 
+likely diagnosis is:
+ A. Chronic migraine
+ B. Chronic migraine with medication overuse
+ C. Chronic tension-type headache
+ D. Chronic tension-type headache with medication overuse
+Answer:  B The most likely diagnosis is chronic migraine with medication 
+overuse, because she has a headache more than 15 days per month and uses 
+a butalbital-containing medication more than 3 days in a week. The headache 
+may revert to episodic or chronic migraine when she reduces this daily acute 
+rescue treatment. The headache is associated with nausea and rare vomiting, 
+so it is not a tension-type headache.
+4. A 30-year-old woman presents with chronic daily headache, pulsatile tin -
+nitus, and episodic blurring of her vision. On examination she has papil -
+ledema. What evaluation would you perform?
+ A. Magnetic resonance imaging (MRI) and lumbar puncture (LP)
+ B. MRI, LP , and visual fields
+ C. Computed tomography (CT)
+ D. LP alone
+ E. None of the above
+Answer:  B The MRI is required to look for any mass lesions and can often 
+show venous sinus thrombosis. The LP must be done to not only be sure that 
+the opening pressure is elevated but also that the cerebrospinal fluid itself is 
+normal. Visual fields must be performed and monitored to prevent blindness; 
+visual acuity testing alone is insufficient. CT scans are good for excluding 
+mass lesions but are not adequate alone. LP alone without imaging is contra -
+indicated. LP also may be contraindicated if the patient has an associated 
+significant Chiari I malformation.REVIEW QUESTIONS
+1. A 30-year-old man presents with frequent bilateral, squeezing pain that 
+causes photophobia, phonophobia, and nausea. The headaches worsen 
+with activity. They occur four times monthly and last 24 to 48 hours. The 
+most likely diagnosis is:
+ A. Migraine
+ B. T ension-type headache
+ C. Hemicrania continua
+ D. Atypical facial pain
+Answer:  A The most likely diagnosis is migraine. Although migraine is more 
+frequent in women, men also can have migraines. If a headache is associated 
+with both photophobia/phonophobia and nausea, the diagnosis cannot be 
+tension-type headache. Hemicrania continua is usually unilateral, and although 
+it can last for longer periods of time, it may have autonomic symptoms. Atypi -
+cal facial pain is really not a diagnosis in this case because there are migrainous 
+features.
+2. A 35-year-old woman presents with a unilateral headache over her right 
+eye. She has associated tearing and redness of the eye with the pain. The 
+headaches last 40 minutes and occur daily, usually in the evening. The 
+correct diagnosis is:
+ A. Paroxysmal hemicrania
+ B. Cluster headache
+ C. Hemicrania continua
+ D. Acute glaucoma
+Answer:  B She has unilateral brief pain with two autonomic features that are 
+diagnostic of cluster headaches. Although men are more likely to have cluster 
+headache, women suffer from this type of headache as well. Paroxysmal hemi -
+crania would be more brief, usually lasting less than 30 minutes. Hemicrania 
+continua is longer lasting, and acute glaucoma would not be intermittent or 
+occur only at a specific time.
+ Downloaded for Angela Cavanna (angela.cavanna@touro.edu) at Touro College of Osteopathic Medicine Sheldon L Sirota DO Memorial Library from ClinicalKey.com by Elsevier on January 06,
+ 2020. For personal use only. No other uses without permission. Copyright ©2020. Elsevier Inc. All rights reserved.

@@ -1,0 +1,289 @@
+Touro College of Osteopathic Medicine
+Medical Microbiology and Immunology
+Ne uro mus c ular Bloc k
+Immunology on the Brain
+Stephen Jones , PhDImmunology on the Brain
+Learning Objectives
+1.Appraise the role of microglial cells in the initiation 
+of the immune response in the brain.
+2.Describe the mechanisms by which microglial cells 
+contribute to the immune response.
+3.Appraise the significance of the repertoire of 
+receptors and soluble mediators 
+expressed/produced by the microglial cells
+4.Appraise the roll of the blood brain barrier in the 
+control of inflammation in the brain.
+5.Describe the molecular interactions involved in 
+leukocyte recruitment to the CNS. 
+6.Compare and contrast the immunological 
+mechanisms of the antibacterial versus antiviral 
+immune response.
+7.List the principal mediators of immunity mounted 
+against bacteria (extra- and intracellular), viruses, 
+fungi and parasites.Reading Assignment
+Suggested:
+Abbas, Cellular and Molecular 
+Imunology.  6th Ed.  Chapter 15 
+Immunity to MicrobesThe brain has long been considered to 
+be an Immunologically privileged site
+•Immunologically privileged sites are tissues 
+where immune responses generally fail to 
+occur and include the eye, brain and the 
+testis. 
+•What features of the brain restrict 
+immunological activity?
+–The brain lacks a classical lymphatic system to 
+collect antigen.
+–Scarcity of dendritic cells
+–The blood brain barrier (BBB) effectively limits 
+the lymphocyte egress from the blood into the 
+brain, and blocks the passage of soluble factors 
+and plasma proteins. However, more recent discoveries reveal 
+that the brain is quite immunologically 
+active! 
+The plan:
+1.What is the brain’s resident immune 
+cell population.
+2.Leukocyte recruitment to the brain: the 
+barrier function of the blood brain 
+barrier, and the mechanisms of 
+immune cell recruitment to the brain.
+3. The brain immune response during an 
+infection.Cells of the Central 
+Nervous System
+Microglia: resident immune 
+cell population of the CNS
+Microglia: resident immune 
+cell population of the CNS
+•Classified according to their morphology into 
+three types:
+Resting: found in the healthy adult brain,characterized by a
+small cell body with fine, ramified processes.  
+Activated:  can become activated by CNS infection, injury 
+or
+neurodegenerative disease.
+Amoeboid phagocytic cells: once activated these cells take
+on the roll of immunological mediator, with the capacity to
+produce cytokines, phagocytose, and process and present
+antigen.  A closer look at the 
+immunological roll of the 
+activated microglial cell
+Microglial cells express TLRs and are the innate
+sentinels for DANGER in the CNS.  Once 
+activated
+they carry out the following functions:
+I.Cytokine secretion : fully activated microglial cells
+secrete IL-1, IL-6, TNF , as well as chemokines for 
+macrophage and lymphocyte recruitment (MCP-1, 
+MIP-1, and RANTES).
+What effect would these cytokines have on the local
+endothelial cells of the BBB?  
+Proinflammatory cytokines decrease the stringency of the BBB, 
+by allowing entry of soluble factors and peripheral immune 
+cells, 
+including macs, NK cells, and lymphocytes. II. Phagocytosis and cytotoxicity:  upon activation 
+microglia 
+upregulate complement receptors and Fc receptors for
+IgG antibodies (Fc  receptors).  
+What is the functional result of the expression of these 
+molecules?   
+Activated microglia have enhanced 
+phagocytic activity by binding to opsonizing 
+complement and Ig. 
+Microglia also release superoxide radicals 
+and NO directly into the microenvironment in 
+response to pathogens and cytokine stimulation. A closer look at the immunological 
+roll of the activated microglial cellIII.Antigen processing and presentation: resting 
+microglia express little MHC class I or II.
+Activation causes a robust increased in MHC and
+costimulatory molecule expression, such as CD80, CD86
+(B7-1, -2), and CD40.
+Increased MHC, CD80, and CD86 expression will allow 
+for greater activation of…..
+Increased CD40 expression will allow for….A closer look at the 
+immunological roll of the 
+activated microglial cellIn addition to promoting immunity and inflammation
+microglia also play a regulatory roll in controlling 
+immune 
+responses in the CNS.  This is accomplished by:
+ 
+1. Their expression of FasL.
+How does microglia expression of FasL 
+regulate the CNS immune response?
+2. Their production of IL-10.
+How does microglia production of IL-10 regulate 
+the CNS immune response?A closer look at the immunological 
+roll of the activated microglial cellMicroglia: Receptors and Secreted 
+Factors
+Molecule Class Examples Function
+Scavenger receptors CD36 Uptake of apoptotic 
+cells
+Ig Receptors
+Complement receptorsFcg RI
+CR3Uptake of opsonized 
+particles
+Growth factor receptor M-CSF R, GM-CSF 
+RProliferation and 
+survival
+TLR TLR1-9 Pathogen and 
+damage associated 
+activation
+Antigen presenting 
+moleculesMHC II Presentation of 
+phagocytosed 
+material
+Cytokines TNF, IL-6, IL10, 
+M-CSFImmune activation, 
+and regulationThe plan:
+1.What is the brain’s resident immune 
+cell population.
+2.Leukocyte recruitment to the brain: the 
+barrier function of the blood brain 
+barrier, and the mechanisms of 
+immune cell recruitment to the brain.
+3. The brain immune response during an 
+infection.Leukocytes recruited to the CNS must first 
+pass through either the blood-CSF barrier 
+or the Blood Brain Barrier (BBB)
+What is the Blood Brain Barrier?
+•Structural and functional barrier which 
+impedes and regulates the influx of most 
+compounds from blood to brain, and 
+minimizes lymphocyte migration through 
+the brain. 
+•Formed by brain microvascular endothelial 
+cells (BMEC), astrocyte end feet and 
+pericytes.
+•Essential for normal function of CNS, 
+responsible for some metabolic activities 
+(such as the metabolism of L-dopa to 
+regulate its concentration in the brain.)Structure of Blood Brain 
+Barrier
+Source: Int J Parasitol. 2006 May 1;36:541-546The BBB is formed by the vascular 
+endothelium within the CNS 
+parenchyma.  The endothelial 
+cells are surrounded by a basal 
+membrane, pericytes, and astrocytic 
+end feet, with microglia also in close 
+attendance.
+As seen earlier, microglia can secrete 
+inflammatory cytokines such as IL-1, 6 
+and TNF that act to increase BBB 
+permeability, thus promoting 
+recruitment.Lymphocytes recruited to the 
+CNS must first pass through the 
+Blood Brain Barrier
+•Under normal physiological conditions, activated 
+lymphocytes enter the CNS to undertake 
+immune-surveillance.
+•However, during bacterial or viral infection, or 
+inflammatory conditions, large numbers of 
+circulating lymphocytes cross the BBB and gain 
+access to the CNS.Mechanisms of activated T cell 
+entry to the CNS
+•The initiating event here must be T cell 
+activation in a draining lymph node.
+•Following activation, the T cell down-regulates 
+those molecules that initially directed it to the 
+lymph node (remember CCR7?  CD62L?),
+•and upregulates the adhesion molecules and 
+chemokine receptors that are required to 
+direct the activated cell to infected tissue.Recall the 4 main steps of leukocyte trans-endothelial migration: 
+selectin-mediated low affinity contact, chemokine signaling, 
+expression of high affinity integrins, firm adhesion and extravasation.
+Molecules to remember:
+•E, P selectin, selectin ligands
+mediate weak adhesion, 
+induces rolling.
+•Chemokines induce high affinity
+LFA-1, VLA-4 on lymphocytes 
+which interact with ICAM-1, 
+VCAM-1, mediating firm adhesion.
+•Lymphocyte follows chemokine 
+gradient to infection. The plan:
+1.What is the brain’s resident immune 
+cell population.
+2.Leukocyte recruitment to the brain: the 
+barrier function of the blood brain 
+barrier, and the mechanisms of 
+immune cell recruitment to the brain.
+3. The brain immune response during an 
+infection.What is the result of these 
+mechanisms during the response to 
+an infection?   
+•The response to invading viruses is reflected by an increase in 
+lymphocytes, mostly T cells, and monocytes in the CSF.
+–In general, the CSF remains clear during viral infection.  This 
+condition is termed 'aseptic' meningitis.
+• The response to pyogenic bacteria shows a more spectacular 
+and rapid increase in polymorphonuclear leukocytes so that 
+the CSF becomes visibly turbid. This condition is termed 
+'septic' meningitis. Depending upon the infection, the immune response 
+itself can be a mediator of neuronal injury.   
+•Viruses induce perivascular infiltration of lymphocytes and monocytes, sometimes, 
+as 
+in the case of polio, with 
+direct damage to infected 
+cells.
+–Infiltrating B cells 
+produce antibody to the
+invading microorganism, 
+and T cells react with 
+microbial antigens to 
+release cytokines that 
+attract and activate other
+ T cells and macrophages. 
+Mechanisms of neuronal damage during
+a CNS viral infection.
+Immunology 129, 154-169.In all cases, a degree of inflammation and
+edema that would be trivial in striated muscle,
+skin or liver may be life-threatening when it
+occurs in the vulnerable 'closed box' 
+containing
+the brain and spinal cord.Immunology 129, 154-169.Specific immune responses to microorganisms: an overview
+Importance of antimicrobial defenses for 
+Infectious agents
+Bacteria Intracellular 
+BacteriaViruses Fungi Parasites
+Complement + - - - -
+Interferon /- - ++++ - -
+Neutrophils ++++ - - + +
+Macrophages ++ +++ ++ ++ +
+NK cells - - +++ - -
+CD4 TH1 - ++ +++ + +
+CD8 CTL - ++ ++++ - -
+Antibody ++ + + + ++ (IgE)Antibacterial responses. First, innate antigen-nonspecific responses attract and promote 
+polymorphonuclear neutrophil (PMN) and macrophage (M) responses. Dendritic cells (DC) and 
+antigen reach the lymph node to activate early immune responses (note Th1 vs Th2 
+regulation)  Later, memory cells are developed. The time course of events is indicated at the 
+top of the figure.Antiviral responses. The response to a virus (e.g., influenza virus) initiates with 
+interferon production and action and NK cells. Activation of antigen-specific 
+immunity resembles the antibacterial response, except that CD8 cytotoxic T 
+lymphocytes (CTLs) are important antiviral responses. The time course of 
+events is indicated at the top of the figure.
+•IgM is produced day d. 3
+of prim. Infection.
+•IgG and IgA are found 
+2-3 days after IgM.
+•Activated CD8 T cells 
+move right  to the site of 
+infection and kill virally
+infected cells.
+•Protection from reinfection
+provided by circulating Ab..
+And the rapid response of 
+memory B and T cells. Learning Objectives
+1.Appraise the roll of microglial cells in the initiation of the 
+immune response in the brain.
+2.Describe the mechanisms by which microglial cells contribute to 
+the immune response.
+3.Appraise the significance of the repertoire of receptors and 
+soluble mediators expressed/produced by the microglial cells
+4.Appraise the roll of the blood brain barrier in the control of 
+inflammation in the brain.
+5.Describe the molecular interactions involved in leukocyte 
+recruitment to the CNS. 
+6.Compare and contrast the immunological mechanisms of the 
+antibacterial versus antiviral immune response.
+7.List the principal mediators of immunity mounted against 
+bacteria (extra- and intracellular), viruses, fungi and parasites.
