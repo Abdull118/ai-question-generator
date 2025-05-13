@@ -208,3 +208,45 @@ body{
       transform: scale(1.1);
     }
   }
+@media (max-width: 639px) {
+  .modal-container {
+    max-width: 100%;
+    padding: 1rem;
+    height: 100vh;
+    scroll-behavior: smooth;
+    overflow: scroll;
+  }
+
+  .modal-title {
+    font-size: 1.5rem;
+  }
+
+  .message-text {
+    font-size: 1rem;
+  }
+
+  .avatar-wrapper {
+    width: 6rem;
+    height: 6rem;
+  }
+
+  .modal-overlay{
+    padding: 0 !important;
+  }
+}
+
+/* Tablets: width between 640px and 1023px */
+@media (min-width: 640px) and (max-width: 1023px) {
+  .modal-container {
+    max-width: 80%;
+  }
+
+  .modal-title {
+    font-size: 1.75rem;
+  }
+
+  .avatar-wrapper {
+    width: 8rem;
+    height: 8rem;
+  }
+}
