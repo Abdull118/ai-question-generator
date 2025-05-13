@@ -3,6 +3,9 @@
 import React, { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import styles from "./page.module.css"; // Assuming you create this CSS module
+import CongratulationsModal from './components/CongratulationsModal';
+import './globals.css';
+
 
 const Home = () => {
   const [showFallSemesterOptions, setShowFallSemesterOptions] = useState(false);
@@ -107,21 +110,32 @@ const Home = () => {
     }
   };
 
-  useEffect(() => {
-    const hasSeenModal = localStorage.getItem("hasSeenUpdateModal");
-    if (!hasSeenModal) {
-      setShowModal(true);
-    }
-  }, []);
+  // useEffect(() => {
+  //   const hasSeenModal = localStorage.getItem("hasSeenUpdateModal");
+  //   if (!hasSeenModal) {
+  //     setShowModal(true);
+  //   }
+  // }, []);
 
-  const closeModal = () => {
-    setShowModal(false);
-    localStorage.setItem("hasSeenUpdateModal", "true");
-  };
+  // const closeModal = () => {
+  //   setShowModal(false);
+  //   localStorage.setItem("hasSeenUpdateModal", "true");
+  // };
+
+  const [showMedSchoolCongrats, setShowMedSchoolCongrats] = useState(false);
+
+  // Auto-show the modal when component mounts
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setShowMedSchoolCongrats(true);
+    }, 1000);
+    
+    return () => clearTimeout(timer);
+  }, []);
 
   return (
     <>
-    {showModal && (
+    {/* {showModal && (
         <div className={styles.modalOverlay}>
           <div className={styles.modal}>
             <div className={styles.modalHeader}>
@@ -141,7 +155,10 @@ const Home = () => {
             </div>
           </div>
         </div>
-      )}
+      )} */}
+
+    
+
       <div className={styles.title}>Exam Questions App</div>
 
       <div className={styles.container}>
@@ -366,6 +383,16 @@ const Home = () => {
 
             </div>
         )}
+
+    {!showMedSchoolCongrats && (
+        <button
+        onClick={() => setShowMedSchoolCongrats(true)}
+        className="show-modal-button"
+      >
+        Show Message
+      </button>
+      )}
+      <CongratulationsModal isOpen={showMedSchoolCongrats} onClose={() => setShowMedSchoolCongrats(false)} />
       </div>
     </>
   );

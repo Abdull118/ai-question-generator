@@ -1,4 +1,6 @@
 // layout.js or _app.js or RootLayout.js
+// app/layout.tsx  (first file that runs on every page)
+import './globals.css';
 
 export const metadata = {
   title: "Violet's App",

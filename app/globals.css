@@ -5,3 +5,206 @@ body{
     background-position: center center; /* Centers the image */
     background-attachment: fixed; 
   }
+
+  :root {
+    --primary-color: #3b82f6;
+    --primary-hover: #2563eb;
+    --text-primary: #1e40af;
+    --text-secondary: #4b5563;
+    --background: #f3f4f6;
+    --modal-background: #ffffff;
+  }
+  
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background-color: var(--background);
+  }
+  
+  .main-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+  }
+  
+  .modal-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 50;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    transition: opacity 0.3s;
+  }
+  
+  .modal-container {
+    position: relative;
+    max-width: 28rem;
+    width: 100%;
+    margin: 0 1rem;
+    border-radius: 1rem;
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+    transform: scale(1);
+    transition: transform 0.5s;
+  }
+  
+  .modal-content {
+    background: linear-gradient(135deg, #ebf5ff 0%, var(--modal-background) 100%);
+    border-radius: 1rem;
+    overflow: hidden;
+  }
+  
+  .modal-inner {
+    padding: 2.5rem 2rem 2rem;
+    text-align: center;
+  }
+  
+  .close-button {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: none;
+    border: none;
+    color: var(--text-secondary);
+    cursor: pointer;
+    padding: 0.5rem;
+    transition: color 0.2s;
+  }
+  
+  .close-button:hover {
+    color: #1f2937;
+  }
+  
+  .award-icon {
+    display: inline-block;
+    margin-bottom: 1.5rem;
+    animation: bounce 2s infinite;
+    color: var(--primary-color);
+  }
+  
+  .modal-title {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 1rem;
+    line-height: 1.2;
+  }
+  
+  .avatar-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+  
+  }
+  
+  .avatar-wrapper {
+    position: relative;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 4px solid #93c5fd;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+  }
+  
+  .avatar-wrapper:hover {
+    transform: scale(1.05);
+  }
+
+  .avatar-image{
+    object-fit: contain;
+    padding: 0 !important;
+    background-color: transparent !important;
+    
+  }
+  
+  .message-text {
+    font-size: 1.125rem;
+    color: var(--text-secondary);
+    margin-bottom: 1.5rem;
+  }
+  
+  .highlight {
+    color: var(--primary-color);
+    font-weight: 600;
+  }
+  
+  .heart-message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ec4899;
+    margin-bottom: 1.5rem;
+  }
+  
+  .heart-icon {
+    margin-right: 0.5rem;
+    animation: pulse 2s infinite;
+  }
+  
+  .close-message-button {
+    background-color: var(--primary-color);
+    color: white;
+    font-weight: 600;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .close-message-button:hover {
+    background-color: var(--primary-hover);
+  }
+  
+  .show-modal-button {
+    margin-top: 1rem;
+    background-color: var(--primary-color);
+    color: white;
+    font-weight: 600;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .show-modal-button:hover {
+    background-color: var(--primary-hover);
+  }
+  
+  .confetti-canvas {
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 40;
+    opacity: 0.7;
+  }
+  
+  @keyframes bounce {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+  
+  @keyframes pulse {
+    0%, 100% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+  }
